@@ -1,0 +1,24 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    Sodalis_ligni_dw23_GCF_016865525.2
+# contigs (>= 0 bp)         1                                 
+# contigs (>= 1000 bp)      1                                 
+# contigs (>= 5000 bp)      1                                 
+# contigs (>= 10000 bp)     1                                 
+# contigs (>= 25000 bp)     1                                 
+# contigs (>= 50000 bp)     1                                 
+Total length (>= 0 bp)      6443694                           
+Total length (>= 1000 bp)   6443694                           
+Total length (>= 5000 bp)   6443694                           
+Total length (>= 10000 bp)  6443694                           
+Total length (>= 25000 bp)  6443694                           
+Total length (>= 50000 bp)  6443694                           
+# contigs                   1                                 
+Largest contig              6443694                           
+Total length                6443694                           
+GC (%)                      54.96                             
+N50                         6443694                           
+N75                         6443694                           
+L50                         1                                 
+L75                         1                                 
+# N's per 100 kbp           0.05                              

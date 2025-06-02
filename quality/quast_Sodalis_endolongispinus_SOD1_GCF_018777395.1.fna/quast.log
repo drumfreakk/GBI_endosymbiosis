@@ -1,0 +1,62 @@
+/science/projects/courses/B-B3BCG20/B-B3BCG20/bin/quast -o quast_Sodalis_endolongispinus_SOD1_GCF_018777395.1.fna Sodalis_endolongispinus_SOD1_GCF_018777395.1.fna
+
+Version: 5.0.0
+
+System information:
+  OS: Linux-3.10.0-1160.119.1.el7.x86_64-x86_64-with-redhat-7.9-Nitrogen (linux_64)
+  Python version: 2.7.15
+  CPUs number: 64
+
+Started: 2025-06-02 11:25:23
+
+Logging to /science-nfs-sys/vsm01/users/1185683/Project/seqkit/quast_Sodalis_endolongispinus_SOD1_GCF_018777395.1.fna/quast.log
+NOTICE: Maximum number of threads is set to 16 (use --threads option to set it manually)
+
+CWD: /science-nfs-sys/vsm01/users/1185683/Project/seqkit
+Main parameters: 
+  MODE: default, threads: 16, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  Sodalis_endolongispinus_SOD1_GCF_018777395.1.fna ==> Sodalis_endolongispinus_SOD1_GCF_018777395.1
+
+2025-06-02 11:25:25
+Running Basic statistics processor...
+  Contig files: 
+    Sodalis_endolongispinus_SOD1_GCF_018777395.1
+  Calculating N50 and L50...
+    Sodalis_endolongispinus_SOD1_GCF_018777395.1, N50 = 2691569, L50 = 1, Total length = 3728128, GC % = 56.43, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /science-nfs-sys/vsm01/users/1185683/Project/seqkit/quast_Sodalis_endolongispinus_SOD1_GCF_018777395.1.fna/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /science-nfs-sys/vsm01/users/1185683/Project/seqkit/quast_Sodalis_endolongispinus_SOD1_GCF_018777395.1.fna/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /science-nfs-sys/vsm01/users/1185683/Project/seqkit/quast_Sodalis_endolongispinus_SOD1_GCF_018777395.1.fna/basic_stats/GC_content_plot.pdf
+  Drawing Sodalis_endolongispinus_SOD1_GCF_018777395.1 GC content plot...
+    saved to /science-nfs-sys/vsm01/users/1185683/Project/seqkit/quast_Sodalis_endolongispinus_SOD1_GCF_018777395.1.fna/basic_stats/Sodalis_endolongispinus_SOD1_GCF_018777395.1_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2025-06-02 11:25:26
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2025-06-02 11:25:27
+RESULTS:
+  Text versions of total report are saved to /science-nfs-sys/vsm01/users/1185683/Project/seqkit/quast_Sodalis_endolongispinus_SOD1_GCF_018777395.1.fna/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /science-nfs-sys/vsm01/users/1185683/Project/seqkit/quast_Sodalis_endolongispinus_SOD1_GCF_018777395.1.fna/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /science-nfs-sys/vsm01/users/1185683/Project/seqkit/quast_Sodalis_endolongispinus_SOD1_GCF_018777395.1.fna/report.html
+  PDF version (tables and plots) is saved to /science-nfs-sys/vsm01/users/1185683/Project/seqkit/quast_Sodalis_endolongispinus_SOD1_GCF_018777395.1.fna/report.pdf
+  Icarus (contig browser) is saved to /science-nfs-sys/vsm01/users/1185683/Project/seqkit/quast_Sodalis_endolongispinus_SOD1_GCF_018777395.1.fna/icarus.html
+  Log is saved to /science-nfs-sys/vsm01/users/1185683/Project/seqkit/quast_Sodalis_endolongispinus_SOD1_GCF_018777395.1.fna/quast.log
+
+Finished: 2025-06-02 11:25:27
+Elapsed time: 0:00:03.841513
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

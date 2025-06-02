@@ -1,0 +1,22 @@
+Assembly	Sodalis_sp_TME1_GCA_001879235.1
+# contigs (>= 0 bp)	679
+# contigs (>= 1000 bp)	602
+# contigs (>= 5000 bp)	276
+# contigs (>= 10000 bp)	87
+# contigs (>= 25000 bp)	1
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	3419870
+Total length (>= 1000 bp)	3372465
+Total length (>= 5000 bp)	2498448
+Total length (>= 10000 bp)	1179799
+Total length (>= 25000 bp)	27001
+Total length (>= 50000 bp)	0
+# contigs	654
+Largest contig	27001
+Total length	3411066
+GC (%)	56.98
+N50	7713
+N75	4532
+L50	148
+L75	289
+# N's per 100 kbp	1163.16

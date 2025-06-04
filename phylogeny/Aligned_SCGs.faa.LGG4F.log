@@ -1,0 +1,113 @@
+IQ-TREE multicore version 2.3.6 for Linux x86 64-bit built Aug  4 2024
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    science-bs35 (AVX2, FMA3, 251 GB RAM)
+Command: iqtree -s Aligned_SCGs.faa -m LG+G4+F --prefix /nethome/7620551/GenomeBioinformatics/GBI_endosymbiosis/phylogeny/Aligned_SCGs.faa.LGG4F
+Seed:    170555 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Jun  4 09:45:54 2025
+Kernel:  AVX+FMA - 1 threads (64 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 64 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file Aligned_SCGs.faa ... Fasta format detected
+Reading fasta file: done in 0.0181079 secs using 76.83% CPU
+Alignment most likely contains protein sequences
+WARNING: 855 sites contain only gaps or ambiguous characters.
+Alignment has 17 sequences with 38047 columns, 19123 distinct patterns
+8540 parsimony-informative, 10379 singleton sites, 19127 constant sites
+                                                   Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.00168775 secs using 99.84% CPU
+   1  Dickeya_dadantii_XJ12_GCF_030168535.1                7.71%    failed      0.00%
+   2  Doolittlea_endobia_DEMHIR_GCF_900039485.1           43.53%    failed      0.00%
+   3  Gullanella_endobia_GEFVIR_GCF_900048035.1           43.35%    failed      0.00%
+   4  Mikella_endobia_mEPMAR_GCF_900048045.1              63.48%    failed      0.00%
+   5  Moranella_endobia_GCF_000364725.1                   47.40%    failed      0.00%
+   6  Pectobacterium_cacticida_CFBP3628_GCF_036885195.1    4.57%    failed      0.00%
+   7  Sodalis_endolongispinus_SOD1_GCF_018777395.1        18.61%    failed      0.00%
+   8  Sodalis_glossinidius_morsitans_GCF_000010085.1       7.10%    failed      0.00%
+   9  Sodalis_ligni_dw23_GCF_016865525.2                  11.62%    failed      0.00%
+  10  Sodalis_pierantonius_SOPE_GCF_000517405.1           15.12%    failed      0.00%
+  11  Sodalis_praecaptivus_HS1_GCF_000517425.1             6.50%    failed      0.00%
+  12  Sodalis_sp_CWE_GCF_019646055.1                      36.06%    failed      0.00%
+  13  Sodalis_sp_EtF2_GCA_036327475.1                     33.35%    failed      2.73%
+  14  Sodalis_sp_HBA_GCF_900161835.1                      42.50%    failed      0.00%
+  15  Sodalis_sp_PSPU_GCA_000647915.1                     24.06%    failed      0.00%
+  16  Sodalis_sp_SPI-1_GCF_001602625.1                    43.06%    passed     10.84%
+  17  Sodalis_sp_TME1_GCA_001879235.1                     27.47%    failed      0.00%
+WARNING: 1 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                               27.97%  16 sequences failed composition chi2 test (p-value<5%; df=19)
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.103 seconds
+
+NOTE: 201 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -343662.423
+2. Current log-likelihood: -334376.324
+3. Current log-likelihood: -334325.063
+Optimal log-likelihood: -334324.994
+Gamma shape alpha: 0.568
+Parameters optimization took 3 rounds (14.004 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0656488 secs using 100% CPU
+Computing ML distances took 0.069285 sec (of wall-clock time) 0.069275 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000111941 secs using 97.37% CPU
+Computing RapidNJ tree took 0.000539 sec (of wall-clock time) 0.000139 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -334294.581
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 9.353 second
+Computing log-likelihood of 97 initial trees ... 98.201 seconds
+Current best score: -334294.581
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -334110.455
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -333842.892
+Iteration 10 / LogL: -334182.901 / Time: 0h:5m:25s
+Iteration 20 / LogL: -333843.345 / Time: 0h:8m:49s
+Finish initializing candidate tree set (4)
+Current best tree score: -333842.892 / CPU time: 508.495
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -333846.159 / Time: 0h:11m:49s (0h:29m:20s left)
+Iteration 40 / LogL: -333845.445 / Time: 0h:15m:29s (0h:24m:38s left)
+Iteration 50 / LogL: -334171.112 / Time: 0h:18m:54s (0h:20m:3s left)
+Iteration 60 / LogL: -334162.296 / Time: 0h:21m:51s (0h:15m:33s left)
+Iteration 70 / LogL: -334110.639 / Time: 0h:25m:36s (0h:11m:52s left)
+Iteration 80 / LogL: -334110.614 / Time: 0h:28m:47s (0h:8m:0s left)
+Iteration 90 / LogL: -333844.350 / Time: 0h:32m:1s (0h:4m:19s left)
+Iteration 100 / LogL: -333843.269 / Time: 0h:34m:45s (0h:0m:42s left)
+TREE SEARCH COMPLETED AFTER 103 ITERATIONS / Time: 0h:35m:39s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -333842.892
+Optimal log-likelihood: -333842.892
+Gamma shape alpha: 0.567
+Parameters optimization took 1 rounds (2.692 sec)
+BEST SCORE FOUND : -333842.892
+Total tree length: 2.556
+
+Total number of iterations: 103
+CPU time used for tree search: 2116.781 sec (0h:35m:16s)
+Wall-clock time used for tree search: 2119.153 sec (0h:35m:19s)
+Total CPU time used: 2139.989 sec (0h:35m:39s)
+Total wall-clock time used: 2142.497 sec (0h:35m:42s)
+
+Analysis results written to: 
+  IQ-TREE report:                /nethome/7620551/GenomeBioinformatics/GBI_endosymbiosis/phylogeny/Aligned_SCGs.faa.LGG4F.iqtree
+  Maximum-likelihood tree:       /nethome/7620551/GenomeBioinformatics/GBI_endosymbiosis/phylogeny/Aligned_SCGs.faa.LGG4F.treefile
+  Likelihood distances:          /nethome/7620551/GenomeBioinformatics/GBI_endosymbiosis/phylogeny/Aligned_SCGs.faa.LGG4F.mldist
+  Screen log file:               /nethome/7620551/GenomeBioinformatics/GBI_endosymbiosis/phylogeny/Aligned_SCGs.faa.LGG4F.log
+
+Date and Time: Wed Jun  4 10:21:36 2025

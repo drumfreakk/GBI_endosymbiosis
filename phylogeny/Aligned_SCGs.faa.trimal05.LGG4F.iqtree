@@ -1,0 +1,140 @@
+IQ-TREE 2.3.6 built Aug  4 2024
+
+Input file name: Aligned_SCGs.faa.trimal05
+Type of analysis: tree reconstruction
+Random seed number: 451617
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 17 sequences with 30635 amino-acid sites
+Number of constant sites: 14315 (= 46.7276% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 14315 (= 46.7276% of all sites)
+Number of parsimony informative sites: 7459
+Number of distinct site patterns: 16214
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+F+G4
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0954
+  pi(R) = 0.0705
+  pi(N) = 0.0365
+  pi(D) = 0.0518
+  pi(C) = 0.0093
+  pi(Q) = 0.0434
+  pi(E) = 0.0602
+  pi(G) = 0.0722
+  pi(H) = 0.0224
+  pi(I) = 0.0658
+  pi(L) = 0.1021
+  pi(K) = 0.0564
+  pi(M) = 0.0269
+  pi(F) = 0.0356
+  pi(P) = 0.0378
+  pi(S) = 0.0521
+  pi(T) = 0.0502
+  pi(W) = 0.0095
+  pi(Y) = 0.0249
+  pi(V) = 0.0771
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 0.5808
+
+ Category  Relative_rate  Proportion
+  1         0.0492         0.2500
+  2         0.3015         0.2500
+  3         0.8712         0.2500
+  4         2.7781         0.2500
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -289195.0081 (s.e. 1329.3301)
+Unconstrained log-likelihood (without tree): -265311.0569
+Number of free parameters (#branches + #model parameters): 51
+Akaike information criterion (AIC) score: 578492.0161
+Corrected Akaike information criterion (AICc) score: 578492.1896
+Bayesian information criterion (BIC) score: 578916.8410
+
+Total tree length (sum of branch lengths): 2.4494
+Sum of internal branch lengths: 0.3709 (15.1421% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Dickeya_dadantii_XJ12_GCF_030168535.1' is drawn at root
+
++-----Dickeya_dadantii_XJ12_GCF_030168535.1
+|
+|                     +----------Doolittlea_endobia_DEMHIR_GCF_900039485.1
+|                  +--|
+|                  |  |   +----------------Gullanella_endobia_GEFVIR_GCF_900048035.1
+|                  |  +---|
+|                  |      |   +---------------------------Mikella_endobia_mEPMAR_GCF_900048045.1
+|                  |      +---|
+|                  |          +--------------------------------Sodalis_sp_CWE_GCF_019646055.1
+|               +--|
+|               |  |  +--Sodalis_glossinidius_morsitans_GCF_000010085.1
+|               |  +--|
+|               |     +--Sodalis_sp_PSPU_GCA_000647915.1
+|            +--|
+|            |  +--Sodalis_endolongispinus_SOD1_GCF_018777395.1
+|     +------|
+|     |      |     +-------------------Moranella_endobia_GCF_000364725.1
+|     |      |  +--|
+|     |      |  |  +----------------Sodalis_sp_HBA_GCF_900161835.1
+|     |      +--|
+|     |         |        +--Sodalis_pierantonius_SOPE_GCF_000517405.1
+|     |         |     +--|
+|     |         |     |  |  +--Sodalis_praecaptivus_HS1_GCF_000517425.1
+|     |         |     |  +--|
+|     |         |     |     +----Sodalis_sp_EtF2_GCA_036327475.1
+|     |         |  +--|
+|     |         |  |  +--Sodalis_sp_TME1_GCA_001879235.1
+|     |         +--|
+|     |            +----Sodalis_sp_SPI-1_GCF_001602625.1
++-----|
+|     +-------Sodalis_ligni_dw23_GCF_016865525.2
+|
++-----Pectobacterium_cacticida_CFBP3628_GCF_036885195.1
+
+Tree in newick format:
+
+(Dickeya_dadantii_XJ12_GCF_030168535.1:0.0834707917,(((((Doolittlea_endobia_DEMHIR_GCF_900039485.1:0.1388171952,(Gullanella_endobia_GEFVIR_GCF_900048035.1:0.2096346846,(Mikella_endobia_mEPMAR_GCF_900048045.1:0.3515177561,Sodalis_sp_CWE_GCF_019646055.1:0.4097475204):0.0519040716):0.0535994340):0.0352401494,(Sodalis_glossinidius_morsitans_GCF_000010085.1:0.0147597893,Sodalis_sp_PSPU_GCA_000647915.1:0.0396268520):0.0015219612):0.0039062159,Sodalis_endolongispinus_SOD1_GCF_018777395.1:0.0238403711):0.0113135369,((Moranella_endobia_GCF_000364725.1:0.2470099537,Sodalis_sp_HBA_GCF_900161835.1:0.2095792189):0.0232124574,(((Sodalis_pierantonius_SOPE_GCF_000517405.1:0.0121585402,(Sodalis_praecaptivus_HS1_GCF_000517425.1:0.0027841674,Sodalis_sp_EtF2_GCA_036327475.1:0.0721585545):0.0008724328):0.0003063575,Sodalis_sp_TME1_GCA_001879235.1:0.0070694384):0.0054955948,Sodalis_sp_SPI-1_GCF_001602625.1:0.0725119831):0.0043575698):0.0076257333):0.0876408241,Sodalis_ligni_dw23_GCF_016865525.2:0.0984492621):0.0838969657,Pectobacterium_cacticida_CFBP3628_GCF_036885195.1:0.0853886057);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t Aligned_SCGs.faa.trimal05.LGG4F.treefile -m "LG+F+G4{0.580838}" --length 30635
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s Aligned_SCGs.faa.trimal05 --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s Aligned_SCGs.faa.trimal05 --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Wed Jun  4 10:28:41 2025
+Total CPU time used: 6518.88 seconds (1h:48m:38s)
+Total wall-clock time used: 494.437 seconds (0h:8m:14s)
+

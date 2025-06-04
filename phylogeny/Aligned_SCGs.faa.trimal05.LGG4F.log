@@ -1,0 +1,148 @@
+IQ-TREE multicore version 2.3.6 for Linux x86 64-bit built Aug  4 2024
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    science-bs35 (AVX2, FMA3, 251 GB RAM)
+Command: iqtree -s Aligned_SCGs.faa.trimal05 -m LG+G4+F -nt AUTO -pre Aligned_SCGs.faa.trimal05.LGG4F
+Seed:    451617 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Jun  4 10:20:26 2025
+Kernel:  AVX+FMA - auto-detect threads (64 CPU cores detected)
+
+Reading alignment file Aligned_SCGs.faa.trimal05 ... Fasta format detected
+Reading fasta file: done in 0.0166607 secs using 76.89% CPU
+Alignment most likely contains protein sequences
+WARNING: 855 sites contain only gaps or ambiguous characters.
+Alignment has 17 sequences with 30635 columns, 16214 distinct patterns
+7459 parsimony-informative, 8861 singleton sites, 14315 constant sites
+                                                   Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.00575953 secs using 6094% CPU
+   1  Dickeya_dadantii_XJ12_GCF_030168535.1                8.85%    failed      0.00%
+   2  Doolittlea_endobia_DEMHIR_GCF_900039485.1           30.15%    failed      0.00%
+   3  Gullanella_endobia_GEFVIR_GCF_900048035.1           30.56%    failed      0.00%
+   4  Mikella_endobia_mEPMAR_GCF_900048045.1              54.84%    failed      0.00%
+   5  Moranella_endobia_GCF_000364725.1                   34.89%    failed      0.00%
+   6  Pectobacterium_cacticida_CFBP3628_GCF_036885195.1    4.94%    failed      0.00%
+   7  Sodalis_endolongispinus_SOD1_GCF_018777395.1         9.21%    failed      0.00%
+   8  Sodalis_glossinidius_morsitans_GCF_000010085.1       3.24%    failed      0.00%
+   9  Sodalis_ligni_dw23_GCF_016865525.2                   9.05%    failed      0.00%
+  10  Sodalis_pierantonius_SOPE_GCF_000517405.1            8.45%    failed      0.00%
+  11  Sodalis_praecaptivus_HS1_GCF_000517425.1             7.27%    failed      0.00%
+  12  Sodalis_sp_CWE_GCF_019646055.1                      21.11%    failed      0.00%
+  13  Sodalis_sp_EtF2_GCA_036327475.1                     17.69%    failed      0.08%
+  14  Sodalis_sp_HBA_GCF_900161835.1                      29.98%    failed      0.00%
+  15  Sodalis_sp_PSPU_GCA_000647915.1                     13.53%    failed      0.00%
+  16  Sodalis_sp_SPI-1_GCF_001602625.1                    30.78%    passed     10.58%
+  17  Sodalis_sp_TME1_GCA_001879235.1                     20.86%    failed      0.00%
+WARNING: 1 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                               19.73%  16 sequences failed composition chi2 test (p-value<5%; df=19)
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.133 seconds
+
+NOTE: 170 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 64 CPU cores
+Increase to 10 rounds for branch lengths
+12 trees examined
+Threads: 1 / Time: 69.211 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -305124
+Threads: 2 / Time: 40.173 sec / Speedup: 1.723 / Efficiency: 86% / LogL: -305124
+Threads: 3 / Time: 28.993 sec / Speedup: 2.387 / Efficiency: 80% / LogL: -305124
+Threads: 4 / Time: 22.650 sec / Speedup: 3.056 / Efficiency: 76% / LogL: -305124
+Threads: 5 / Time: 18.733 sec / Speedup: 3.695 / Efficiency: 74% / LogL: -305124
+Threads: 6 / Time: 15.704 sec / Speedup: 4.407 / Efficiency: 73% / LogL: -305124
+Threads: 7 / Time: 13.787 sec / Speedup: 5.020 / Efficiency: 72% / LogL: -305124
+Threads: 8 / Time: 12.222 sec / Speedup: 5.663 / Efficiency: 71% / LogL: -305124
+Threads: 9 / Time: 11.111 sec / Speedup: 6.229 / Efficiency: 69% / LogL: -305124
+Threads: 10 / Time: 9.837 sec / Speedup: 7.036 / Efficiency: 70% / LogL: -305124
+Threads: 11 / Time: 9.329 sec / Speedup: 7.419 / Efficiency: 67% / LogL: -305124
+Threads: 12 / Time: 8.600 sec / Speedup: 8.048 / Efficiency: 67% / LogL: -305124
+Threads: 13 / Time: 7.770 sec / Speedup: 8.908 / Efficiency: 69% / LogL: -305124
+Threads: 14 / Time: 7.255 sec / Speedup: 9.540 / Efficiency: 68% / LogL: -305124
+Threads: 15 / Time: 6.939 sec / Speedup: 9.974 / Efficiency: 66% / LogL: -305124
+Threads: 16 / Time: 6.346 sec / Speedup: 10.906 / Efficiency: 68% / LogL: -305124
+Threads: 17 / Time: 6.205 sec / Speedup: 11.155 / Efficiency: 66% / LogL: -305124
+Threads: 18 / Time: 5.982 sec / Speedup: 11.571 / Efficiency: 64% / LogL: -305124
+Threads: 19 / Time: 5.587 sec / Speedup: 12.388 / Efficiency: 65% / LogL: -305124
+Threads: 20 / Time: 5.478 sec / Speedup: 12.635 / Efficiency: 63% / LogL: -305124
+Threads: 21 / Time: 5.415 sec / Speedup: 12.781 / Efficiency: 61% / LogL: -305124
+Threads: 22 / Time: 5.175 sec / Speedup: 13.375 / Efficiency: 61% / LogL: -305124
+Threads: 23 / Time: 5.065 sec / Speedup: 13.665 / Efficiency: 59% / LogL: -305124
+Threads: 24 / Time: 4.905 sec / Speedup: 14.109 / Efficiency: 59% / LogL: -305124
+Threads: 25 / Time: 4.798 sec / Speedup: 14.426 / Efficiency: 58% / LogL: -305124
+Threads: 26 / Time: 4.662 sec / Speedup: 14.846 / Efficiency: 57% / LogL: -305124
+Threads: 27 / Time: 4.371 sec / Speedup: 15.833 / Efficiency: 59% / LogL: -305124
+Threads: 28 / Time: 4.405 sec / Speedup: 15.713 / Efficiency: 56% / LogL: -305124
+Threads: 29 / Time: 4.199 sec / Speedup: 16.485 / Efficiency: 57% / LogL: -305124
+Threads: 30 / Time: 4.438 sec / Speedup: 15.594 / Efficiency: 52% / LogL: -305124
+Threads: 31 / Time: 4.418 sec / Speedup: 15.665 / Efficiency: 51% / LogL: -305124
+Threads: 32 / Time: 4.267 sec / Speedup: 16.220 / Efficiency: 51% / LogL: -305124
+Threads: 33 / Time: 4.460 sec / Speedup: 15.518 / Efficiency: 47% / LogL: -305124
+BEST NUMBER OF THREADS: 27
+
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -296469.973
+2. Current log-likelihood: -289728.010
+3. Current log-likelihood: -289687.744
+Optimal log-likelihood: -289687.703
+Gamma shape alpha: 0.582
+Parameters optimization took 3 rounds (0.671 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0112274 secs using 1132% CPU
+Computing ML distances took 0.012221 sec (of wall-clock time) 0.152661 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.00359415 secs using 1041% CPU
+Computing RapidNJ tree took 0.057458 sec (of wall-clock time) 0.486946 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -289650.594
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 13.280 second
+Computing log-likelihood of 98 initial trees ... 6.151 seconds
+Current best score: -289650.594
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -289463.505
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -289195.008
+Iteration 10 / LogL: -289196.122 / Time: 0h:6m:43s
+Iteration 20 / LogL: -289196.458 / Time: 0h:6m:56s
+Finish initializing candidate tree set (3)
+Current best tree score: -289195.008 / CPU time: 42.206
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -289195.095 / Time: 0h:7m:4s (0h:17m:33s left)
+Iteration 40 / LogL: -289195.645 / Time: 0h:7m:14s (0h:11m:30s left)
+Iteration 50 / LogL: -289200.226 / Time: 0h:7m:26s (0h:7m:53s left)
+Iteration 60 / LogL: -289540.299 / Time: 0h:7m:35s (0h:5m:23s left)
+Iteration 70 / LogL: -289565.384 / Time: 0h:7m:45s (0h:3m:35s left)
+Iteration 80 / LogL: -289195.681 / Time: 0h:7m:55s (0h:2m:12s left)
+Iteration 90 / LogL: -289463.598 / Time: 0h:8m:4s (0h:1m:5s left)
+Iteration 100 / LogL: -289448.466 / Time: 0h:8m:12s (0h:0m:9s left)
+TREE SEARCH COMPLETED AFTER 103 ITERATIONS / Time: 0h:8m:14s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -289195.008
+Optimal log-likelihood: -289195.008
+Gamma shape alpha: 0.581
+Parameters optimization took 1 rounds (0.133 sec)
+BEST SCORE FOUND : -289195.008
+Total tree length: 2.449
+
+Total number of iterations: 103
+CPU time used for tree search: 2928.015 sec (0h:48m:48s)
+Wall-clock time used for tree search: 120.380 sec (0h:2m:0s)
+Total CPU time used: 6518.877 sec (1h:48m:38s)
+Total wall-clock time used: 494.426 sec (0h:8m:14s)
+
+Analysis results written to: 
+  IQ-TREE report:                Aligned_SCGs.faa.trimal05.LGG4F.iqtree
+  Maximum-likelihood tree:       Aligned_SCGs.faa.trimal05.LGG4F.treefile
+  Likelihood distances:          Aligned_SCGs.faa.trimal05.LGG4F.mldist
+  Screen log file:               Aligned_SCGs.faa.trimal05.LGG4F.log
+
+Date and Time: Wed Jun  4 10:28:41 2025

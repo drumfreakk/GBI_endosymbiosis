@@ -1,0 +1,4 @@
+
+for f in ../prokka/prokka_*; do \
+grep --color=never -e "COG" $f/`basename ${f/prokka_/}`.gff | cut -f9 > attrs/`basename ${f/prokka_/}`; 
+done

@@ -1,0 +1,11 @@
+target	value	error	units	is_novel	warning
+oxygen	not tolerant	0.9792630594499174	probability	False	None
+ph_max	None	None	pH	None	genome missing features
+ph_min	None	None	pH	None	genome missing features
+ph_optimum	None	None	pH	None	genome missing features
+salinity_max	None	None	% w/v NaCl	None	genome missing features
+salinity_min	None	None	% w/v NaCl	None	genome missing features
+salinity_optimum	None	None	% w/v NaCl	None	genome missing features
+temperature_max	None	None	C	None	genome missing features
+temperature_min	None	None	C	None	genome missing features
+temperature_optimum	None	None	C	None	genome missing features

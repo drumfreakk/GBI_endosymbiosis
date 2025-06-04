@@ -2,3 +2,6 @@
 for f in ../prokka/prokka_*; do \
 grep --color=never -e "COG" $f/`basename ${f/prokka_/}`.gff | cut -f9 > attrs/`basename ${f/prokka_/}`; 
 done
+
+find . -type f | perl -pe 'print $_; s/_\d{9}_\d//' | xargs -d "\n" -n2 mv
+find . -type f | perl -pe 'print $_; s/_GC.//' | xargs -d "\n" -n2 mv

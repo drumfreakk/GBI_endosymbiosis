@@ -1,0 +1,4027 @@
+>Feature NZ_LN999832.1
+1	1800	CDS
+			EC_number	3.6.5.-
+			db_xref	COG:COG0481
+			gene	lepA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60785
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00001
+			product	Elongation factor 4
+1816	2805	CDS
+			EC_number	3.4.21.89
+			db_xref	COG:COG0681
+			gene	lepB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00803
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00002
+			product	Signal peptidase I
+3002	3682	CDS
+			EC_number	3.1.26.3
+			db_xref	COG:COG0571
+			gene	rnc
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Y0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00003
+			product	Ribonuclease 3
+3689	4594	CDS
+			db_xref	COG:COG1159
+			gene	era
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06616
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00004
+			product	GTPase Era
+4594	5295	CDS
+			db_xref	COG:COG1381
+			gene	recO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7H3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00005
+			product	DNA repair protein RecO
+5419	6150	CDS
+			EC_number	2.6.99.2
+			db_xref	COG:COG0854
+			gene	pdxJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A794
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00006
+			product	Pyridoxine 5'-phosphate synthase
+6150	6530	CDS
+			EC_number	2.7.8.7
+			db_xref	COG:COG0736
+			gene	acpS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24224
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00007
+			product	Holo-[acyl-carrier-protein] synthase
+7070	7570	CDS
+			EC_number	3.5.4.33
+			db_xref	COG:COG0590
+			gene	tadA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68398
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00008
+			product	tRNA-specific adenosine deaminase
+10980	12218	CDS
+			EC_number	2.1.2.1
+			db_xref	COG:COG0112
+			gene	glyA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A825
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00009
+			product	Serine hydroxymethyltransferase
+13902	13102	CDS
+			EC_number	3.1.3.25
+			db_xref	COG:COG0483
+			gene	suhB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADG4
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00010
+			product	Inositol-1-monophosphatase
+14671	15831	CDS
+			EC_number	2.8.1.7
+			db_xref	COG:COG1104
+			gene	iscS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6B7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00011
+			product	Cysteine desulfurase IscS
+16018	15821	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00012
+			product	hypothetical protein
+16109	17386	CDS
+			EC_number	3.4.11.23
+			db_xref	COG:COG0260
+			gene	pepB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37095
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00013
+			product	Peptidase B
+20124	20720	CDS
+			gene	rodZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02017
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00014
+			product	Cytoskeleton protein RodZ
+21840	23114	CDS
+			EC_number	6.1.1.21
+			db_xref	COG:COG0124
+			gene	hisS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O52765
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00015
+			product	Histidine--tRNA ligase
+23158	23667	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P43989
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00016
+			note	UPF0070 protein HI_0370
+			product	hypothetical protein
+23915	24859	CDS
+			db_xref	COG:COG1520
+			gene	bamB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77774
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00017
+			product	Outer membrane protein assembly factor BamB
+24959	26338	CDS
+			db_xref	COG:COG1160
+			gene	der
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9XCI8
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00018
+			product	GTPase Der
+28195	28268	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00019
+			product	tRNA-Arg(ccg)
+28332	28407	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00020
+			product	tRNA-His(gtg)
+28419	28503	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00021
+			product	tRNA-Leu(cag)
+28583	28658	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00022
+			product	tRNA-Pro(tgg)
+30821	30690	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00023
+			product	hypothetical protein
+33463	33314	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00024
+			product	hypothetical protein
+33908	36076	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0210
+			gene	uvrD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03018
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00025
+			product	DNA helicase II
+38929	40035	CDS
+			EC_number	1.2.1.11
+			db_xref	COG:COG0136
+			gene	asd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9Q9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00026
+			product	Aspartate-semialdehyde dehydrogenase
+40919	40344	CDS
+			db_xref	COG:COG0316
+			gene	nfuA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63020
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00027
+			product	Fe/S biogenesis protein NfuA
+42600	42352	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00028
+			product	hypothetical protein
+42825	42607	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00029
+			product	hypothetical protein
+44587	43475	CDS
+			db_xref	COG:COG5009
+			gene	mrcA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02918
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00030
+			product	Penicillin-binding protein 1A
+44708	44562	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00031
+			product	hypothetical protein
+46027	46587	CDS
+			EC_number	2.7.1.71
+			db_xref	COG:COG0703
+			gene	aroK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6D7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00032
+			product	Shikimate kinase 1
+48307	48444	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00033
+			product	hypothetical protein
+48675	49331	CDS
+			EC_number	5.1.3.1
+			db_xref	COG:COG0036
+			gene	rpe
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG07
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00034
+			product	Ribulose-phosphate 3-epimerase
+49764	50798	CDS
+			EC_number	6.1.1.2
+			db_xref	COG:COG0180
+			gene	trpS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00954
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00035
+			product	Tryptophan--tRNA ligase
+53253	54041	CDS
+			EC_number	5.2.1.8
+			db_xref	COG:COG0545
+			gene	fkpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45523
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00036
+			product	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA
+55037	55429	CDS
+			EC_number	2.8.1.-
+			db_xref	COG:COG1553
+			gene	tusD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45532
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00037
+			product	Sulfurtransferase TusD
+55437	55796	CDS
+			db_xref	COG:COG2923
+			gene	tusC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45531
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00038
+			product	Protein TusC
+55814	56101	CDS
+			db_xref	COG:COG2168
+			gene	tusB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45530
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00039
+			product	Protein TusB
+56232	56606	CDS
+			db_xref	COG:COG0048
+			gene	rpsL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7S3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00040
+			product	30S ribosomal protein S12
+56703	57173	CDS
+			db_xref	COG:COG0049
+			gene	rpsG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02359
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00041
+			product	30S ribosomal protein S7
+57271	59376	CDS
+			db_xref	COG:COG0480
+			gene	fusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6M8
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00042
+			product	Elongation factor G
+59447	60631	CDS
+			db_xref	COG:COG0050
+			gene	tufB_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0CE48
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00043
+			product	Elongation factor Tu 2
+60817	61200	CDS
+			db_xref	COG:COG0690
+			gene	secE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG96
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00044
+			product	Protein translocase subunit SecE
+61202	61747	CDS
+			db_xref	COG:COG0250
+			gene	nusG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFG0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00045
+			product	Transcription termination/antitermination protein NusG
+61890	62318	CDS
+			db_xref	COG:COG0080
+			gene	rplK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7J7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00046
+			product	50S ribosomal protein L11
+62329	63033	CDS
+			db_xref	COG:COG0081
+			gene	rplA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7L0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00047
+			product	50S ribosomal protein L1
+63347	63844	CDS
+			db_xref	COG:COG0244
+			gene	rplJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7J3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00048
+			product	50S ribosomal protein L10
+63917	64285	CDS
+			db_xref	COG:COG0222
+			gene	rplL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7K2
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00049
+			product	50S ribosomal protein L7/L12
+64618	68640	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG0085
+			gene	rpoB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8V2
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00050
+			product	DNA-directed RNA polymerase subunit beta
+68753	72958	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG0086
+			gene	rpoC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8T7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00051
+			product	DNA-directed RNA polymerase subunit beta'
+73554	73351	CDS
+			EC_number	4.1.99.19
+			db_xref	COG:COG1060
+			gene	thiH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9S498
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00052
+			product	2-iminoacetate synthase
+73919	73728	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00053
+			product	hypothetical protein
+74497	74267	CDS
+			EC_number	2.8.1.10
+			gene	thiG
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00443
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00054
+			product	Thiazole synthase
+76599	75943	CDS
+			EC_number	2.5.1.3
+			db_xref	COG:COG0352
+			gene	thiE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30137
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00055
+			product	Thiamine-phosphate synthase
+78527	76596	CDS
+			EC_number	4.1.99.17
+			db_xref	COG:COG0422
+			gene	thiC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30136
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00056
+			product	Phosphomethylpyrimidine synthase
+81265	81537	CDS
+			gene	hupA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:E0J6W8
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00057
+			product	DNA-binding protein HU-alpha
+86078	86932	CDS
+			EC_number	2.5.1.145
+			db_xref	COG:COG0682
+			gene	lgt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60955
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00058
+			product	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+90200	90619	CDS
+			EC_number	3.1.11.5
+			db_xref	COG:COG0507
+			gene	recD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04993
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00059
+			product	RecBCD enzyme subunit RecD
+93777	93701	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00060
+			product	tRNA-Met(cat)
+97361	96519	CDS
+			EC_number	1.7.1.13
+			db_xref	COG:COG0780
+			gene	queF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q46920
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00061
+			product	NADPH-dependent 7-cyano-7-deazaguanine reductase
+98115	97984	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00062
+			product	hypothetical protein
+102340	101546	CDS
+			EC_number	3.4.11.18
+			db_xref	COG:COG0024
+			gene	map
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1X6
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00063
+			product	Methionine aminopeptidase
+102666	103391	CDS
+			db_xref	COG:COG0052
+			gene	rpsB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7V0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00064
+			product	30S ribosomal protein S2
+103501	104325	CDS
+			db_xref	COG:COG0264
+			gene	tsf
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6P1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00065
+			product	Elongation factor Ts
+104452	105222	CDS
+			EC_number	2.7.4.22
+			db_xref	COG:COG0528
+			gene	pyrH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65933
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00066
+			product	Uridylate kinase
+105293	105850	CDS
+			db_xref	COG:COG0233
+			gene	frr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A805
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00067
+			product	Ribosome-recycling factor
+106179	106334	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00068
+			product	hypothetical protein
+107170	107931	CDS
+			EC_number	2.5.1.31
+			db_xref	COG:COG0020
+			gene	ispU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60472
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00069
+			product	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+108040	108801	CDS
+			EC_number	2.7.7.41
+			db_xref	COG:COG0575
+			gene	cdsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABG1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00070
+			product	Phosphatidate cytidylyltransferase
+110126	112555	CDS
+			db_xref	COG:COG4775
+			gene	bamA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:D5CHY0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00071
+			product	Outer membrane protein assembly factor BamA
+112701	113198	CDS
+			db_xref	COG:COG2825
+			gene	skp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31519
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00072
+			product	Chaperone protein Skp
+113202	114224	CDS
+			EC_number	2.3.1.191
+			db_xref	COG:COG1044
+			gene	lpxD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1X4
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00073
+			product	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+114369	114824	CDS
+			EC_number	4.2.1.59
+			gene	fabZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q1CAM3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00074
+			product	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+114802	115617	CDS
+			EC_number	2.3.1.129
+			db_xref	COG:COG1043
+			gene	lpxA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A722
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00075
+			product	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+115620	116768	CDS
+			EC_number	2.4.1.182
+			db_xref	COG:COG0763
+			gene	lpxB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10441
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00076
+			product	Lipid-A-disaccharide synthase
+117190	120672	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0587
+			gene	dnaE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10443
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00077
+			product	DNA polymerase III subunit alpha
+120691	121644	CDS
+			EC_number	2.1.3.15
+			db_xref	COG:COG0825
+			gene	accA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABD5
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00078
+			product	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+122845	122958	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00079
+			product	hypothetical protein
+123062	124594	CDS
+			EC_number	6.3.4.19
+			gene	tilS
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01161
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00080
+			product	tRNA(Ile)-lysidine synthase
+126759	126616	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00081
+			product	hypothetical protein
+129046	127322	CDS
+			EC_number	6.1.1.15
+			db_xref	COG:COG0442
+			gene	proS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16659
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00082
+			product	Proline--tRNA ligase
+132081	132157	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00083
+			product	tRNA-Asp(gtc)
+133641	132868	CDS
+			EC_number	3.1.2.6
+			db_xref	COG:COG0491
+			gene	gloB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZRM2
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00084
+			product	Hydroxyacylglutathione hydrolase
+134713	134246	CDS
+			EC_number	3.1.26.4
+			db_xref	COG:COG0328
+			gene	rnhA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Y4
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00085
+			product	Ribonuclease HI
+134770	135519	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0847
+			gene	dnaQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03007
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00086
+			product	DNA polymerase III subunit epsilon
+139154	139229	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00087
+			product	tRNA-Thr(cgt)
+144195	145259	CDS
+			EC_number	2.4.99.17
+			db_xref	COG:COG0809
+			gene	queA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7F9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00088
+			product	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+145463	146602	CDS
+			EC_number	2.4.2.29
+			db_xref	COG:COG0343
+			gene	tgt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A847
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00089
+			product	Queuine tRNA-ribosyltransferase
+146615	146947	CDS
+			db_xref	COG:COG1862
+			gene	yajC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADZ7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00090
+			product	Sec translocon accessory complex subunit YajC
+148389	148859	CDS
+			EC_number	2.5.1.78
+			db_xref	COG:COG0054
+			gene	ribE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P61714
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00091
+			product	6,7-dimethyl-8-ribityllumazine synthase
+148875	149300	CDS
+			db_xref	COG:COG0781
+			gene	nusB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A780
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00092
+			product	Transcription antitermination protein NusB
+149905	150396	CDS
+			EC_number	3.1.3.27
+			db_xref	COG:COG1267
+			gene	pgpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P18200
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00093
+			product	Phosphatidylglycerophosphatase A
+150785	150877	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00094
+			product	hypothetical protein
+153202	151334	CDS
+			EC_number	2.2.1.7
+			db_xref	COG:COG1154
+			gene	dxs
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77488
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00095
+			product	1-deoxy-D-xylulose-5-phosphate synthase
+156892	156981	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00096
+			product	hypothetical protein
+159347	159177	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00097
+			product	hypothetical protein
+160144	160713	CDS
+			EC_number	3.4.21.92
+			db_xref	COG:COG0740
+			gene	clpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6G7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00098
+			product	ATP-dependent Clp protease proteolytic subunit
+160860	162137	CDS
+			db_xref	COG:COG1219
+			gene	clpX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6H1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00099
+			product	ATP-dependent Clp protease ATP-binding subunit ClpX
+162348	164708	CDS
+			EC_number	3.4.21.53
+			db_xref	COG:COG0466
+			gene	lon
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P46067
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00100
+			product	Lon protease
+165116	166987	CDS
+			EC_number	5.2.1.8
+			db_xref	COG:COG0760
+			gene	ppiD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADY1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00101
+			product	Peptidyl-prolyl cis-trans isomerase D
+168200	167505	CDS
+			EC_number	6.3.4.20
+			db_xref	COG:COG0603
+			gene	queC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77756
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00102
+			product	7-cyano-7-deazaguanine synthase
+170717	172819	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00103
+			product	hypothetical protein
+172879	173208	CDS
+			db_xref	COG:COG0718
+			gene	ybaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8B5
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00104
+			product	Nucleoid-associated protein YbaB
+173208	173813	CDS
+			db_xref	COG:COG0353
+			gene	recR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9I3H9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00105
+			product	Recombination protein RecR
+174316	174963	CDS
+			EC_number	2.7.4.3
+			db_xref	COG:COG0563
+			gene	adk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69441
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00106
+			product	Adenylate kinase
+175310	176395	CDS
+			EC_number	4.99.1.1
+			db_xref	COG:COG0276
+			gene	hemH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23871
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00107
+			product	Ferrochelatase
+177430	176711	CDS
+			EC_number	3.6.1.54
+			db_xref	COG:COG2908
+			gene	lpxH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P43341
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00108
+			product	UDP-2,3-diacylglucosamine hydrolase
+178184	179560	CDS
+			EC_number	6.1.1.16
+			db_xref	COG:COG0215
+			gene	cysS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21888
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00109
+			product	Cysteine--tRNA ligase
+180713	179850	CDS
+			db_xref	COG:COG0190
+			gene	folD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24186
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00110
+			product	Bifunctional protein FolD protein
+180894	180970	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00111
+			product	tRNA-Arg(tct)
+182814	185600	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0258
+			gene	polA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00582
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00112
+			product	DNA polymerase I
+186622	185996	CDS
+			db_xref	COG:COG0218
+			gene	engB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6P7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00113
+			product	putative GTP-binding protein EngB
+190282	192087	CDS
+			db_xref	COG:COG1217
+			gene	typA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P32132
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00114
+			product	GTP-binding protein TypA/BipA
+193394	192288	CDS
+			db_xref	COG:COG0012
+			gene	ychF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABU2
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00115
+			product	Ribosome-binding ATPase YchF
+194100	193519	CDS
+			EC_number	3.1.1.29
+			db_xref	COG:COG0193
+			gene	pth
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7D1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00116
+			product	Peptidyl-tRNA hydrolase
+195241	194300	CDS
+			EC_number	2.7.6.1
+			db_xref	COG:COG0462
+			gene	prs
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A717
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00117
+			product	Ribose-phosphate pyrophosphokinase
+196455	195940	CDS
+			db_xref	COG:COG3017
+			gene	lolB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P61320
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00118
+			product	Outer-membrane lipoprotein LolB
+197923	199005	CDS
+			db_xref	COG:COG0216
+			gene	prfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7I0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00119
+			product	Peptide chain release factor RF1
+199005	199862	CDS
+			EC_number	2.1.1.297
+			db_xref	COG:COG2890
+			gene	prmC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACC1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00120
+			product	Release factor glutamine methyltransferase
+199993	200844	CDS
+			EC_number	2.5.1.55
+			db_xref	COG:COG2877
+			gene	kdsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A715
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00121
+			product	2-dehydro-3-deoxyphosphooctonate aldolase
+202287	202159	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00122
+			product	hypothetical protein
+205989	207911	CDS
+			EC_number	6.1.1.3
+			db_xref	COG:COG0441
+			gene	thrS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8M3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00123
+			product	Threonine--tRNA ligase
+207993	208454	CDS
+			db_xref	COG:COG0290
+			gene	infC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A707
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00124
+			product	Translation initiation factor IF-3
+208541	208738	CDS
+			db_xref	COG:COG0291
+			gene	rpmI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Q1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00125
+			product	50S ribosomal protein L35
+208792	209148	CDS
+			db_xref	COG:COG0292
+			gene	rplT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7L3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00126
+			product	50S ribosomal protein L20
+209302	209210	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00127
+			product	hypothetical protein
+209444	210448	CDS
+			EC_number	6.1.1.20
+			db_xref	COG:COG0016
+			gene	pheS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08312
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00128
+			product	Phenylalanine--tRNA ligase alpha subunit
+210464	212851	CDS
+			EC_number	6.1.1.20
+			db_xref	COG:COG0072
+			gene	pheT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07395
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00129
+			product	Phenylalanine--tRNA ligase beta subunit
+212856	213158	CDS
+			db_xref	COG:COG0776
+			gene	ihfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6X7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00130
+			product	Integration host factor subunit alpha
+213562	213386	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00131
+			product	hypothetical protein
+216320	216706	CDS
+			db_xref	COG:COG0316
+			gene	sufA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77667
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00132
+			product	Protein SufA
+216706	218217	CDS
+			db_xref	COG:COG0719
+			gene	sufB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77522
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00133
+			product	FeS cluster assembly protein SufB
+218280	219017	CDS
+			db_xref	COG:COG0396
+			gene	sufC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77499
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00134
+			product	putative ATP-dependent transporter SufC
+219001	220272	CDS
+			db_xref	COG:COG0719
+			gene	sufD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77689
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00135
+			product	FeS cluster assembly protein SufD
+220284	221507	CDS
+			EC_number	2.8.1.7
+			db_xref	COG:COG0520
+			gene	sufS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77444
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00136
+			product	Cysteine desulfurase
+221551	221967	CDS
+			db_xref	COG:COG2166
+			gene	sufE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZPQ1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00137
+			product	Cysteine desulfuration protein SufE
+223770	222358	CDS
+			EC_number	2.7.1.40
+			db_xref	COG:COG0469
+			gene	pykF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AD61
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00138
+			product	Pyruvate kinase I
+224112	224036	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00139
+			product	tRNA-Val(gac)
+226360	226695	CDS
+			db_xref	COG:COG0278
+			gene	grxD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC69
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00140
+			product	Glutaredoxin 4
+227546	226842	CDS
+			EC_number	3.1.13.-
+			db_xref	COG:COG0847
+			gene	rnt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30014
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00141
+			product	Ribonuclease T
+230987	232264	CDS
+			EC_number	6.1.1.1
+			db_xref	COG:COG0162
+			gene	tyrS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGJ9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00142
+			product	Tyrosine--tRNA ligase
+234735	234100	CDS
+			EC_number	4.2.99.18
+			db_xref	COG:COG0177
+			gene	nth
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AB83
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00143
+			product	Endonuclease III
+238824	238660	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00144
+			product	hypothetical protein
+240108	239260	CDS
+			db_xref	COG:COG3716
+			gene	manZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69805
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00145
+			product	PTS system mannose-specific EIID component
+240922	240116	CDS
+			db_xref	COG:COG3715
+			gene	manY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69801
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00146
+			product	PTS system mannose-specific EIIC component
+241970	241008	CDS
+			EC_number	2.7.1.191
+			db_xref	COG:COG2893
+			gene	manX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69797
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00147
+			product	PTS system mannose-specific EIIAB component
+242466	242347	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00148
+			product	hypothetical protein
+242560	244113	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEC0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00149
+			note	UPF0053 inner membrane protein YoaE
+			product	hypothetical protein
+245094	244987	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00150
+			product	hypothetical protein
+247425	247550	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00151
+			product	hypothetical protein
+247799	248500	CDS
+			db_xref	COG:COG1214
+			gene	tsaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7CQE0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00152
+			product	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+250169	249903	CDS
+			db_xref	COG:COG0851
+			gene	minE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A734
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00153
+			product	Cell division topological specificity factor
+250985	250173	CDS
+			db_xref	COG:COG2894
+			gene	minD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEZ3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00154
+			product	Septum site-determining protein MinD
+251686	251000	CDS
+			db_xref	COG:COG0850
+			gene	minC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65359
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00155
+			product	Septum site-determining protein MinC
+253177	252662	CDS
+			db_xref	COG:COG1495
+			gene	dsbB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6M2
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00156
+			product	Disulfide bond formation protein B
+255699	253963	CDS
+			db_xref	COG:COG3263
+			gene	cvrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P76007
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00157
+			product	K(+)/H(+) antiporter NhaP2
+257698	256694	CDS
+			EC_number	1.2.1.12
+			db_xref	COG:COG0057
+			gene	gapA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9B2
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00158
+			product	Glyceraldehyde-3-phosphate dehydrogenase A
+258987	258181	CDS
+			EC_number	3.1.11.2
+			db_xref	COG:COG0708
+			gene	xthA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09030
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00159
+			product	Exodeoxyribonuclease III
+261701	261294	CDS
+			gene	hns
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0DOA5
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00160
+			product	DNA-binding protein H-NS
+264614	263154	CDS
+			EC_number	2.7.8.-
+			db_xref	COG:COG1502
+			gene	clsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6H8
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00161
+			product	Cardiolipin synthase A
+265615	266367	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21365
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00162
+			note	UPF0259 membrane protein YciC
+			product	hypothetical protein
+267977	267171	CDS
+			EC_number	4.2.1.20
+			db_xref	COG:COG0159
+			gene	trpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A877
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00163
+			product	Tryptophan synthase alpha chain
+269167	267977	CDS
+			EC_number	4.2.1.20
+			db_xref	COG:COG0133
+			gene	trpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A2K1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00164
+			product	Tryptophan synthase beta chain
+270565	269201	CDS
+			db_xref	COG:COG0134
+			gene	trpC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00909
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00165
+			product	Tryptophan biosynthesis protein TrpCF
+271580	270573	CDS
+			db_xref	COG:COG0512
+			gene	trpGD_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00904
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00166
+			product	Bifunctional protein TrpGD
+272173	271595	CDS
+			db_xref	COG:COG0512
+			gene	trpGD_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00905
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00167
+			product	Bifunctional protein TrpGD
+273735	272173	CDS
+			EC_number	4.1.3.27
+			db_xref	COG:COG0147
+			gene	trpE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00898
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00168
+			product	Anthranilate synthase component 1
+274590	275459	CDS
+			EC_number	5.4.99.22
+			db_xref	COG:COG1187
+			gene	rluB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37765
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00169
+			product	Ribosomal large subunit pseudouridine synthase B
+276286	277347	CDS
+			EC_number	3.4.21.-
+			db_xref	COG:COG0616
+			gene	sohB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG14
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00170
+			product	putative protease SohB
+278099	280711	CDS
+			EC_number	5.6.2.1
+			db_xref	COG:COG0550
+			gene	topA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06612
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00171
+			product	DNA topoisomerase 1
+280722	280817	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00172
+			product	hypothetical protein
+283400	282600	CDS
+			EC_number	1.3.1.9
+			db_xref	COG:COG0623
+			gene	fabI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16657
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00173
+			product	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+289813	286292	CDS
+			EC_number	1.2.7.-
+			db_xref	COG:COG0674
+			gene	nifJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q06879
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00174
+			product	Pyruvate-flavodoxin oxidoreductase
+293686	291617	CDS
+			EC_number	3.4.21.83
+			db_xref	COG:COG1770
+			gene	ptrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24555
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00175
+			product	Protease 2
+295626	294154	CDS
+			EC_number	1.1.1.49
+			db_xref	COG:COG0364
+			gene	zwf
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC53
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00176
+			product	Glucose-6-phosphate 1-dehydrogenase
+296779	295817	CDS
+			EC_number	2.3.1.243
+			db_xref	COG:COG1560
+			gene	lpxM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24205
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00177
+			product	Lipid A biosynthesis myristoyltransferase
+298180	296846	CDS
+			EC_number	3.4.24.-
+			db_xref	COG:COG0739
+			gene	mepM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFS9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00178
+			product	Murein DD-endopeptidase MepM
+299170	298193	CDS
+			db_xref	COG:COG4531
+			gene	znuA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39172
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00179
+			product	High-affinity zinc uptake system protein ZnuA
+299243	300004	CDS
+			EC_number	7.2.2.-
+			db_xref	COG:COG1121
+			gene	znuC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9X1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00180
+			product	Zinc import ATP-binding protein ZnuC
+299997	300782	CDS
+			db_xref	COG:COG1108
+			gene	znuB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39832
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00181
+			product	High-affinity zinc uptake system membrane protein ZnuB
+301882	300866	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG2255
+			gene	ruvB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A812
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00182
+			product	Holliday junction ATP-dependent DNA helicase RuvB
+302535	301891	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0632
+			gene	ruvA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A809
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00183
+			product	Holliday junction ATP-dependent DNA helicase RuvA
+303138	302617	CDS
+			EC_number	3.1.22.4
+			db_xref	COG:COG0817
+			gene	ruvC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A814
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00184
+			product	Crossover junction endodeoxyribonuclease RuvC
+303924	303178	CDS
+			db_xref	COG:COG0217
+			gene	yebC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8A0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00185
+			product	putative transcriptional regulatory protein YebC
+306166	304382	CDS
+			EC_number	6.1.1.12
+			db_xref	COG:COG0173
+			gene	aspS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21889
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00186
+			product	Aspartate--tRNA ligase
+307805	308542	CDS
+			EC_number	2.1.3.-
+			db_xref	COG:COG0500
+			gene	cmoA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P76290
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00187
+			product	Carboxy-S-adenosyl-L-methionine synthase
+308545	309516	CDS
+			EC_number	2.5.1.-
+			db_xref	COG:COG0500
+			gene	cmoB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P76291
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00188
+			product	tRNA U34 carboxymethyltransferase
+309745	309629	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00189
+			product	hypothetical protein
+309931	311661	CDS
+			EC_number	6.1.1.19
+			db_xref	COG:COG0018
+			gene	argS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P11875
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00190
+			product	Arginine--tRNA ligase
+313312	311816	CDS
+			db_xref	COG:COG0728
+			gene	murJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37169
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00191
+			product	putative lipid II flippase MurJ
+314414	314502	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00192
+			product	tRNA-Ser(gga)
+319215	318247	CDS
+			EC_number	5.3.1.13
+			db_xref	COG:COG0517
+			gene	gutQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17115
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00193
+			product	Arabinose 5-phosphate isomerase GutQ
+320548	320447	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00194
+			product	hypothetical protein
+320555	320728	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00195
+			product	hypothetical protein
+322738	322628	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00196
+			product	hypothetical protein
+322895	322791	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00197
+			product	hypothetical protein
+324386	322980	CDS
+			EC_number	1.1.1.44
+			db_xref	COG:COG0362
+			gene	gnd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00350
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00198
+			product	6-phosphogluconate dehydrogenase, decarboxylating
+328423	326750	CDS
+			EC_number	6.1.1.10
+			db_xref	COG:COG0073
+			gene	metG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00959
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00199
+			product	Methionine--tRNA ligase
+328872	329048	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00200
+			product	hypothetical protein
+332914	333201	CDS
+			db_xref	COG:COG1825
+			gene	rplY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68919
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00201
+			product	50S ribosomal protein L25
+334110	334185	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00202
+			product	tRNA-Pro(ggg)
+335747	334629	CDS
+			db_xref	COG:COG3203
+			gene	ompC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A264
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00203
+			product	Outer membrane porin C
+339622	337031	CDS
+			EC_number	5.6.2.2
+			db_xref	COG:COG0188
+			gene	gyrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37411
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00204
+			product	DNA gyrase subunit A
+343120	342992	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00205
+			product	hypothetical protein
+346389	347591	CDS
+			EC_number	2.7.2.1
+			db_xref	COG:COG0282
+			gene	ackA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63411
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00206
+			product	Acetate kinase
+347680	349785	CDS
+			EC_number	2.3.1.8
+			db_xref	COG:COG0280
+			gene	pta
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZND6
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00207
+			product	Phosphate acetyltransferase
+353587	352331	CDS
+			EC_number	6.3.2.12
+			db_xref	COG:COG0285
+			gene	folC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08192
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00208
+			product	Dihydrofolate synthase/folylpolyglutamate synthase
+354610	353744	CDS
+			EC_number	2.1.3.15
+			db_xref	COG:COG0777
+			gene	accD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9Q5
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00209
+			product	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+356108	355323	CDS
+			EC_number	5.4.99.12
+			db_xref	COG:COG0101
+			gene	truA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07649
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00210
+			product	tRNA pseudouridine synthase A
+357552	356419	CDS
+			EC_number	1.1.1.290
+			db_xref	COG:COG0111
+			gene	pdxB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60802
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00211
+			product	Erythronate-4-phosphate dehydrogenase
+359857	358658	CDS
+			EC_number	2.3.1.41
+			db_xref	COG:COG0304
+			gene	fabB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A953
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00212
+			product	3-oxoacyl-[acyl-carrier-protein] synthase 1
+361551	360613	CDS
+			EC_number	2.1.1.298
+			db_xref	COG:COG2890
+			gene	prmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39199
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00213
+			product	50S ribosomal protein L3 glutamine methyltransferase
+362249	361773	CDS
+			EC_number	3.1.3.-
+			db_xref	COG:COG2062
+			gene	sixA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P76502
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00214
+			product	Phosphohistidine phosphatase SixA
+365106	365178	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00215
+			product	tRNA-Arg(cct)
+366041	365967	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00216
+			product	tRNA-Ala(ggc)
+367575	366148	CDS
+			EC_number	6.1.1.17
+			db_xref	COG:COG0008
+			gene	gltX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04805
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00217
+			product	Glutamate--tRNA ligase
+367815	367889	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00218
+			product	tRNA-Val(tac)
+367909	367983	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00219
+			product	tRNA-Lys(ttt)
+368612	369967	CDS
+			EC_number	2.7.8.8
+			db_xref	COG:COG1502
+			gene	pssA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23830
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00220
+			product	CDP-diacylglycerol--serine O-phosphatidyltransferase
+372712	370136	CDS
+			db_xref	COG:COG0542
+			gene	clpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63284
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00221
+			product	Chaperone protein ClpB
+374395	373415	CDS
+			EC_number	5.4.99.23
+			db_xref	COG:COG0564
+			gene	rluD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P33643
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00222
+			product	Ribosomal large subunit pseudouridine synthase D
+374479	375222	CDS
+			db_xref	COG:COG4105
+			gene	bamD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC02
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00223
+			product	Outer membrane protein assembly factor BamD
+376544	376188	CDS
+			db_xref	COG:COG0335
+			gene	rplS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7K6
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00224
+			product	50S ribosomal protein L19
+377364	376609	CDS
+			EC_number	2.1.1.228
+			db_xref	COG:COG0336
+			gene	trmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A873
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00225
+			product	tRNA (guanine-N(1)-)-methyltransferase
+377953	377405	CDS
+			db_xref	COG:COG0806
+			gene	rimM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7X6
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00226
+			product	Ribosome maturation factor RimM
+378220	377972	CDS
+			db_xref	COG:COG0228
+			gene	rpsP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7T3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00227
+			product	30S ribosomal protein S16
+379692	378325	CDS
+			db_xref	COG:COG0541
+			gene	ffh
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGD7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00228
+			product	Signal recognition particle protein
+381303	381227	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00229
+			product	tRNA-Arg(acg)
+381403	381311	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00230
+			product	tRNA-Ser(gct)
+384486	381853	CDS
+			EC_number	6.1.1.7
+			db_xref	COG:COG0013
+			gene	alaS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00957
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00231
+			product	Alanine--tRNA ligase
+385092	384640	CDS
+			gene	recX
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01114
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00232
+			product	Regulatory protein RecX
+386226	385159	CDS
+			db_xref	COG:COG0468
+			gene	recA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65977
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00233
+			product	Protein RecA
+389190	389288	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00234
+			product	hypothetical protein
+389798	392377	CDS
+			db_xref	COG:COG0249
+			gene	mutS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1Y0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00235
+			product	DNA mismatch repair protein MutS
+394442	393387	CDS
+			db_xref	COG:COG0739
+			gene	nlpD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADA3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00236
+			product	Murein hydrolase activator NlpD
+396395	396093	CDS
+			gene	ftsB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00599
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00237
+			product	Cell division protein FtsB
+398340	398498	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00238
+			product	hypothetical protein
+398546	398908	CDS
+			EC_number	4.1.2.50
+			db_xref	COG:COG0720
+			gene	queD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65870
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00239
+			product	6-carboxy-5,6,7,8-tetrahydropterin synthase
+399749	399075	CDS
+			EC_number	4.3.99.3
+			gene	queE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3KB22
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00240
+			product	7-carboxy-7-deazaguanine synthase
+401155	399854	CDS
+			EC_number	4.2.1.11
+			db_xref	COG:COG0148
+			gene	eno
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6P9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00241
+			product	Enolase
+402873	401215	CDS
+			EC_number	6.3.4.2
+			db_xref	COG:COG0504
+			gene	pyrG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7E5
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00242
+			product	CTP synthase
+403230	403319	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00243
+			product	hypothetical protein
+403316	403426	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00244
+			product	hypothetical protein
+403950	403606	CDS
+			db_xref	COG:COG0316
+			gene	erpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACC3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00245
+			product	Iron-sulfur cluster insertion protein ErpA
+405833	406396	CDS
+			EC_number	1.11.1.15
+			db_xref	COG:COG0450
+			gene	ahpC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AE08
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00246
+			product	Alkyl hydroperoxide reductase C
+406938	407132	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00247
+			product	hypothetical protein
+408807	408882	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00248
+			product	tRNA-Asn(gtt)
+410088	409993	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00249
+			product	hypothetical protein
+411326	410487	CDS
+			db_xref	COG:COG1076
+			gene	djlA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31680
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00250
+			product	Co-chaperone protein DjlA
+411486	413858	CDS
+			db_xref	COG:COG1452
+			gene	lptD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZIK3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00251
+			product	LPS-assembly protein LptD
+414039	415205	CDS
+			EC_number	5.2.1.8
+			db_xref	COG:COG0760
+			gene	surA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABZ6
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00252
+			product	Chaperone SurA
+415195	416187	CDS
+			EC_number	1.1.1.262
+			db_xref	COG:COG1995
+			gene	pdxA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P58719
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00253
+			product	4-hydroxythreonine-4-phosphate dehydrogenase
+416180	416998	CDS
+			EC_number	2.1.1.182
+			db_xref	COG:COG0030
+			gene	rsmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06992
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00254
+			product	Ribosomal RNA small subunit methyltransferase A
+417210	418058	CDS
+			EC_number	3.6.1.41
+			db_xref	COG:COG0639
+			gene	apaH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q83SQ2
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00255
+			product	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+421625	418404	CDS
+			EC_number	6.3.5.5
+			db_xref	COG:COG0458
+			gene	carB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00968
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00256
+			product	Carbamoyl-phosphate synthase large chain
+422805	421627	CDS
+			EC_number	6.3.5.5
+			db_xref	COG:COG0505
+			gene	carA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6F1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00257
+			product	Carbamoyl-phosphate synthase small chain
+424043	423222	CDS
+			EC_number	1.17.1.8
+			db_xref	COG:COG0289
+			gene	dapB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04036
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00258
+			product	4-hydroxy-tetrahydrodipicolinate reductase
+426011	425499	CDS
+			EC_number	3.4.23.36
+			db_xref	COG:COG0597
+			gene	lspA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00804
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00259
+			product	Lipoprotein signal peptidase
+428827	426011	CDS
+			EC_number	6.1.1.5
+			db_xref	COG:COG0060
+			gene	ileS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00956
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00260
+			product	Isoleucine--tRNA ligase
+429975	430238	CDS
+			db_xref	COG:COG0268
+			gene	rpsT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7U7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00261
+			product	30S ribosomal protein S20
+431249	433162	CDS
+			db_xref	COG:COG0443
+			gene	dnaK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6Y8
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00262
+			product	Chaperone protein DnaK
+433275	434417	CDS
+			db_xref	COG:COG0484
+			gene	dnaJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08622
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00263
+			product	Chaperone protein DnaJ
+437932	437516	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG3050
+			gene	holD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28632
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00264
+			product	DNA polymerase III subunit psi
+438375	438464	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00265
+			product	hypothetical protein
+440451	438628	CDS
+			EC_number	3.6.4.13
+			db_xref	COG:COG0513
+			gene	deaD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9P6
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00266
+			product	ATP-dependent RNA helicase DeaD
+443462	441372	CDS
+			EC_number	2.7.7.8
+			db_xref	COG:COG1185
+			gene	pnp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P05055
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00267
+			product	Polyribonucleotide nucleotidyltransferase
+444055	443720	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00268
+			product	hypothetical protein
+445077	444109	CDS
+			EC_number	5.4.99.25
+			db_xref	COG:COG0130
+			gene	truB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60340
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00269
+			product	tRNA pseudouridine synthase B
+445478	445122	CDS
+			db_xref	COG:COG0858
+			gene	rbfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7G2
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00270
+			product	30S ribosome-binding factor
+448202	445542	CDS
+			db_xref	COG:COG0532
+			gene	infB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A705
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00271
+			product	Translation initiation factor IF-2
+449727	448228	CDS
+			db_xref	COG:COG0195
+			gene	nusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFF6
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00272
+			product	Transcription termination/antitermination protein NusA
+450442	450357	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00273
+			product	tRNA-Leu(gag)
+450843	450511	CDS
+			db_xref	COG:COG1314
+			gene	secG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG99
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00274
+			product	Protein-export membrane protein SecG
+452869	452075	CDS
+			EC_number	2.5.1.15
+			db_xref	COG:COG0294
+			gene	folP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC13
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00275
+			product	Dihydropteroate synthase
+454939	453128	CDS
+			EC_number	3.4.24.-
+			db_xref	COG:COG0465
+			gene	ftsH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AAI3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00276
+			product	ATP-dependent zinc metalloprotease FtsH
+455624	454995	CDS
+			EC_number	2.1.1.166
+			db_xref	COG:COG0293
+			gene	rlmE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C0R7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00277
+			product	Ribosomal RNA large subunit methyltransferase E
+456679	456119	CDS
+			db_xref	COG:COG0782
+			gene	greA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6W5
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00278
+			product	Transcription elongation factor GreA
+459025	457961	CDS
+			EC_number	3.6.5.-
+			db_xref	COG:COG0536
+			gene	obg
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZLS5
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00279
+			product	GTPase Obg
+459505	459248	CDS
+			db_xref	COG:COG0211
+			gene	rpmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7L8
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00280
+			product	50S ribosomal protein L27
+459859	459521	CDS
+			db_xref	COG:COG0261
+			gene	rplU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG48
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00281
+			product	50S ribosomal protein L21
+460371	460514	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00282
+			product	hypothetical protein
+462557	461187	CDS
+			EC_number	6.3.2.45
+			db_xref	COG:COG0773
+			gene	mpl
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37773
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00283
+			product	UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase
+463373	463897	CDS
+			EC_number	3.6.1.1
+			db_xref	COG:COG0221
+			gene	ppa
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7A9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00284
+			product	Inorganic pyrophosphatase
+466059	465607	CDS
+			db_xref	COG:COG0359
+			gene	rplI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7R1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00285
+			product	50S ribosomal protein L9
+466325	466098	CDS
+			db_xref	COG:COG0238
+			gene	rpsR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7T7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00286
+			product	30S ribosomal protein S18
+466647	466330	CDS
+			db_xref	COG:COG2965
+			gene	priB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07013
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00287
+			product	Primosomal replication protein N
+467049	466654	CDS
+			db_xref	COG:COG0360
+			gene	rpsF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02358
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00288
+			product	30S ribosomal protein S6
+468870	468133	CDS
+			EC_number	2.1.1.185
+			db_xref	COG:COG0566
+			gene	rlmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63177
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00289
+			product	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+471501	469255	CDS
+			EC_number	3.1.13.1
+			db_xref	COG:COG0557
+			gene	rnr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21499
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00290
+			product	Ribonuclease R
+472584	472483	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00291
+			product	hypothetical protein
+474036	473038	CDS
+			db_xref	COG:COG0330
+			gene	hflC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABC3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00292
+			product	Modulator of FtsH protease HflC
+475251	474040	CDS
+			db_xref	COG:COG0330
+			gene	hflK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABC7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00293
+			product	Modulator of FtsH protease HflK
+475634	475476	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00294
+			product	hypothetical protein
+476169	475906	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00295
+			product	hypothetical protein
+476680	476375	CDS
+			db_xref	COG:COG1923
+			gene	hfq
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6X3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00296
+			product	RNA-binding protein Hfq
+477728	476787	CDS
+			EC_number	2.5.1.75
+			db_xref	COG:COG0324
+			gene	miaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16384
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00297
+			product	tRNA dimethylallyltransferase
+481455	479755	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00298
+			product	hypothetical protein
+481976	481512	CDS
+			db_xref	COG:COG0802
+			gene	tsaE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AF67
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00299
+			product	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+484809	484654	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00300
+			product	hypothetical protein
+485925	485851	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00301
+			product	tRNA-Gly(gcc)
+486610	486065	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG1949
+			gene	orn
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A784
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00302
+			product	Oligoribonuclease
+487490	488377	CDS
+			EC_number	4.1.1.65
+			db_xref	COG:COG0688
+			gene	psd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8K1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00303
+			product	Phosphatidylserine decarboxylase proenzyme
+490652	489675	CDS
+			EC_number	6.3.1.-
+			db_xref	COG:COG2269
+			gene	epmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9ZJ12
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00304
+			product	Elongation factor P--(R)-beta-lysine ligase
+491701	491135	CDS
+			db_xref	COG:COG0231
+			gene	efp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64036
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00305
+			product	Elongation factor P
+491734	492759	CDS
+			EC_number	5.4.3.-
+			db_xref	COG:COG1509
+			gene	epmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39280
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00306
+			product	L-lysine 2,3-aminomutase
+494592	492952	CDS
+			db_xref	COG:COG0459
+			gene	groL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2NW94
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00307
+			product	60 kDa chaperonin
+494931	494638	CDS
+			db_xref	COG:COG0234
+			gene	groS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6F9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00308
+			product	10 kDa chaperonin
+497291	497365	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00309
+			product	tRNA-Phe(gaa)
+497864	497791	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00310
+			product	tRNA-Lys(ctt)
+498835	498748	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00311
+			product	tRNA-Ser(tga)
+499657	499983	CDS
+			EC_number	2.8.1.-
+			db_xref	COG:COG2920
+			gene	tusE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AB18
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00312
+			product	Sulfurtransferase TusE
+499974	500123	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00313
+			product	hypothetical protein
+505388	504900	CDS
+			db_xref	COG:COG2891
+			gene	mreD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABH4
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00314
+			product	Rod shape-determining protein MreD
+506415	505366	CDS
+			db_xref	COG:COG1792
+			gene	mreC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16926
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00315
+			product	Cell shape-determining protein MreC
+507506	506463	CDS
+			db_xref	COG:COG1077
+			gene	mreB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9X4
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00316
+			product	Cell shape-determining protein MreB
+508399	508214	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00317
+			product	hypothetical protein
+509904	510356	CDS
+			EC_number	4.2.1.10
+			db_xref	COG:COG0757
+			gene	aroQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZAX1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00318
+			product	3-dehydroquinate dehydratase
+510377	510823	CDS
+			db_xref	COG:COG0511
+			gene	accB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABD8
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00319
+			product	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+510835	512175	CDS
+			EC_number	6.3.4.14
+			db_xref	COG:COG0439
+			gene	accC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24182
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00320
+			product	Biotin carboxylase
+512373	512465	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00321
+			product	hypothetical protein
+513183	513479	CDS
+			db_xref	COG:COG2901
+			gene	fis
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6R3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00322
+			product	DNA-binding protein Fis
+513801	513691	rRNA
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00323
+			product	5S ribosomal RNA
+			score	6.4e-14
+513986	513914	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00324
+			product	tRNA-Glu(ttc)
+516271	518160	CDS
+			db_xref	COG:COG0445
+			gene	mnmG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6U3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00325
+			product	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+518339	518548	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00326
+			product	hypothetical protein
+522015	520648	CDS
+			EC_number	3.6.-.-
+			db_xref	COG:COG0486
+			gene	mnmE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25522
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00327
+			product	tRNA modification GTPase MnmE
+523754	522114	CDS
+			gene	yidC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q1R4M9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00328
+			product	Membrane protein insertase YidC
+524015	523773	CDS
+			db_xref	COG:COG0759
+			gene	yidD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8C8
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00329
+			product	Putative membrane protein insertion efficiency factor
+524353	523982	CDS
+			EC_number	3.1.26.5
+			db_xref	COG:COG0594
+			gene	rnpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Y8
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00330
+			product	Ribonuclease P protein component
+525799	526899	CDS
+			db_xref	COG:COG0592
+			gene	dnaN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A988
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00331
+			product	Beta sliding clamp
+526927	528021	CDS
+			db_xref	COG:COG1195
+			gene	recF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7H0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00332
+			product	DNA replication and repair protein RecF
+528038	530452	CDS
+			EC_number	5.6.2.2
+			db_xref	COG:COG0187
+			gene	gyrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AES6
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00333
+			product	DNA gyrase subunit B
+531747	531625	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00334
+			product	hypothetical protein
+534892	536466	CDS
+			db_xref	COG:COG0306
+			gene	pitA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFJ7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00335
+			product	Low-affinity inorganic phosphate transporter 1
+539716	540324	CDS
+			EC_number	1.15.1.1
+			db_xref	COG:COG0605
+			gene	sodA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00448
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00336
+			product	Superoxide dismutase [Mn]
+540749	540660	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00337
+			product	hypothetical protein
+543203	541134	CDS
+			EC_number	6.1.1.14
+			db_xref	COG:COG0751
+			gene	glyS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00961
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00338
+			product	Glycine--tRNA ligase beta subunit
+544126	543206	CDS
+			EC_number	6.1.1.14
+			db_xref	COG:COG0752
+			gene	glyQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00960
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00339
+			product	Glycine--tRNA ligase alpha subunit
+544603	545604	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00340
+			product	hypothetical protein
+546935	546480	CDS
+			db_xref	COG:COG0071
+			gene	ibpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C058
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00341
+			product	Small heat shock protein IbpB
+547454	547041	CDS
+			db_xref	COG:COG0071
+			gene	ibpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C054
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00342
+			product	Small heat shock protein IbpA
+549716	549988	CDS
+			db_xref	COG:COG0425
+			gene	tusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A890
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00343
+			product	Sulfur carrier protein TusA
+550648	550968	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00344
+			product	hypothetical protein
+551200	551099	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00345
+			product	hypothetical protein
+551944	551315	CDS
+			EC_number	2.1.1.171
+			db_xref	COG:COG0742
+			gene	rsmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADX9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00346
+			product	Ribosomal RNA small subunit methyltransferase D
+552610	553617	CDS
+			db_xref	COG:COG0552
+			gene	ftsY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10121
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00347
+			product	Signal recognition particle receptor FtsY
+556022	555177	CDS
+			db_xref	COG:COG0568
+			gene	rpoH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGB3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00348
+			product	RNA polymerase sigma factor RpoH
+556759	558285	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00349
+			product	hypothetical protein
+558748	558936	CDS
+			gene	ygfZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01175
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00350
+			product	tRNA-modifying protein YgfZ
+563167	562472	CDS
+			EC_number	5.3.1.6
+			db_xref	COG:COG0120
+			gene	rpiA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Z0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00351
+			product	Ribose-5-phosphate isomerase A
+564964	564143	CDS
+			db_xref	COG:COG0668
+			gene	mscS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C0S1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00352
+			product	Small-conductance mechanosensitive channel
+566344	565268	CDS
+			EC_number	4.1.2.13
+			db_xref	COG:COG0191
+			gene	fbaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AB71
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00353
+			product	Fructose-bisphosphate aldolase class 2
+567609	566437	CDS
+			EC_number	2.7.2.3
+			db_xref	COG:COG0126
+			gene	pgk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A799
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00354
+			product	Phosphoglycerate kinase
+569268	570530	CDS
+			EC_number	2.5.1.6
+			db_xref	COG:COG0192
+			gene	metK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A817
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00355
+			product	S-adenosylmethionine synthase
+570765	570625	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00356
+			product	hypothetical protein
+572531	572935	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0816
+			gene	yqgF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8I1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00357
+			product	Putative pre-16S rRNA nuclease
+575650	576204	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00358
+			product	hypothetical protein
+576742	577872	CDS
+			db_xref	COG:COG0635
+			gene	hemW
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P52062
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00359
+			product	Heme chaperone HemW
+579100	579195	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00360
+			product	hypothetical protein
+579238	580278	CDS
+			EC_number	3.2.2.31
+			db_xref	COG:COG1194
+			gene	mutY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17802
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00361
+			product	Adenine DNA glycosylase
+580332	580559	CDS
+			db_xref	COG:COG2924
+			gene	yggX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8P3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00362
+			product	putative Fe(2+)-trafficking protein
+580655	581728	CDS
+			EC_number	4.2.2.-
+			db_xref	COG:COG0741
+			gene	mltC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C066
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00363
+			product	Membrane-bound lytic murein transglycosylase C
+583052	584077	CDS
+			EC_number	1.3.1.98
+			db_xref	COG:COG0812
+			gene	murB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08373
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00364
+			product	UDP-N-acetylenolpyruvoylglucosamine reductase
+584074	585045	CDS
+			EC_number	6.3.4.15
+			db_xref	COG:COG0340
+			gene	birA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06709
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00365
+			product	Bifunctional ligase/repressor BirA
+587022	587096	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00366
+			product	tRNA-Thr(tgt)
+587103	587187	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00367
+			product	tRNA-Tyr(gta)
+587408	587482	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00368
+			product	tRNA-Gly(tcc)
+587487	587562	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00369
+			product	tRNA-Thr(ggt)
+587656	588867	CDS
+			db_xref	COG:COG0050
+			gene	tufB_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0CE48
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00370
+			product	Elongation factor Tu 2
+590106	590417	CDS
+			db_xref	COG:COG0051
+			gene	rpsJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7R5
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00371
+			product	30S ribosomal protein S10
+590450	591079	CDS
+			db_xref	COG:COG0087
+			gene	rplC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60438
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00372
+			product	50S ribosomal protein L3
+591096	591701	CDS
+			db_xref	COG:COG0088
+			gene	rplD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60726
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00373
+			product	50S ribosomal protein L4
+591698	592000	CDS
+			db_xref	COG:COG0089
+			gene	rplW
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADZ0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00374
+			product	50S ribosomal protein L23
+592019	592840	CDS
+			db_xref	COG:COG0090
+			gene	rplB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60422
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00375
+			product	50S ribosomal protein L2
+592857	593135	CDS
+			db_xref	COG:COG0185
+			gene	rpsS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7U3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00376
+			product	30S ribosomal protein S19
+593151	593483	CDS
+			db_xref	COG:COG0091
+			gene	rplV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P61175
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00377
+			product	50S ribosomal protein L22
+593503	594201	CDS
+			db_xref	COG:COG0092
+			gene	rpsC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7V3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00378
+			product	30S ribosomal protein S3
+594161	594625	CDS
+			db_xref	COG:COG0197
+			gene	rplP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADY7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00379
+			product	50S ribosomal protein L16
+594625	594828	CDS
+			db_xref	COG:COG0255
+			gene	rpmC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9HWE3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00380
+			product	50S ribosomal protein L29
+594821	595075	CDS
+			db_xref	COG:COG0186
+			gene	rpsQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG63
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00381
+			product	30S ribosomal protein S17
+595253	595624	CDS
+			db_xref	COG:COG0093
+			gene	rplN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADY3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00382
+			product	50S ribosomal protein L14
+595635	595946	CDS
+			db_xref	COG:COG0198
+			gene	rplX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60624
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00383
+			product	50S ribosomal protein L24
+595961	596500	CDS
+			db_xref	COG:COG0094
+			gene	rplE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62399
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00384
+			product	50S ribosomal protein L5
+596517	596822	CDS
+			db_xref	COG:COG0199
+			gene	rpsN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG59
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00385
+			product	30S ribosomal protein S14
+596851	597237	CDS
+			db_xref	COG:COG0096
+			gene	rpsH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7W7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00386
+			product	30S ribosomal protein S8
+597251	597784	CDS
+			db_xref	COG:COG0097
+			gene	rplF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG55
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00387
+			product	50S ribosomal protein L6
+597793	598146	CDS
+			db_xref	COG:COG0256
+			gene	rplR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C018
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00388
+			product	50S ribosomal protein L18
+598161	598661	CDS
+			db_xref	COG:COG0098
+			gene	rpsE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7W4
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00389
+			product	30S ribosomal protein S5
+598672	598848	CDS
+			db_xref	COG:COG1841
+			gene	rpmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG51
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00390
+			product	50S ribosomal protein L30
+598852	599289	CDS
+			db_xref	COG:COG0200
+			gene	rplO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02413
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00391
+			product	50S ribosomal protein L15
+599293	600618	CDS
+			db_xref	COG:COG0201
+			gene	secY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGA2
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00392
+			product	Protein translocase subunit SecY
+600660	600776	CDS
+			db_xref	COG:COG0257
+			gene	rpmJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Q6
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00393
+			product	50S ribosomal protein L36
+600923	601279	CDS
+			db_xref	COG:COG0099
+			gene	rpsM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7S9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00394
+			product	30S ribosomal protein S13
+601298	601687	CDS
+			db_xref	COG:COG0100
+			gene	rpsK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7R9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00395
+			product	30S ribosomal protein S11
+601721	602341	CDS
+			db_xref	COG:COG0522
+			gene	rpsD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7V8
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00396
+			product	30S ribosomal protein S4
+602368	603357	CDS
+			EC_number	2.7.7.6
+			gene	rpoA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q664U6
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00397
+			product	DNA-directed RNA polymerase subunit alpha
+603407	603802	CDS
+			db_xref	COG:COG0203
+			gene	rplQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG44
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00398
+			product	50S ribosomal protein L17
+604404	604300	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00399
+			product	hypothetical protein
+605689	604886	CDS
+			EC_number	2.7.1.49
+			db_xref	COG:COG0351
+			gene	thiD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P76422
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00400
+			product	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+605792	605700	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00401
+			product	hypothetical protein
+607670	607578	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00402
+			product	hypothetical protein
+609588	609025	CDS
+			EC_number	2.3.1.57
+			db_xref	COG:COG1670
+			gene	speG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A951
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00403
+			product	Spermidine N(1)-acetyltransferase
+610060	609863	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00404
+			product	hypothetical protein
+610111	610203	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00405
+			product	hypothetical protein
+612165	613172	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00406
+			product	hypothetical protein
+614546	614073	CDS
+			gene	smg
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00598
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00407
+			product	Protein Smg
+615098	615592	CDS
+			EC_number	3.5.1.88
+			db_xref	COG:COG0242
+			gene	def
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6K3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00408
+			product	Peptide deformylase
+615632	616582	CDS
+			EC_number	2.1.2.9
+			db_xref	COG:COG0223
+			gene	fmt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZJ80
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00409
+			product	Methionyl-tRNA formyltransferase
+620231	618147	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG1200
+			gene	recG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24230
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00410
+			product	ATP-dependent DNA helicase RecG
+622368	622150	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG1758
+			gene	rpoZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A800
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00411
+			product	DNA-directed RNA polymerase subunit omega
+622877	622545	CDS
+			EC_number	2.7.4.8
+			db_xref	COG:COG0194
+			gene	gmk_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60546
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00412
+			product	Guanylate kinase
+623050	622874	CDS
+			EC_number	2.7.4.8
+			db_xref	COG:COG0194
+			gene	gmk_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60546
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00413
+			product	Guanylate kinase
+623877	623452	CDS
+			db_xref	COG:COG1846
+			gene	mhqR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31672
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00414
+			product	HTH-type transcriptional regulator MhqR
+626363	625488	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23839
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00415
+			note	UPF0701 protein YicC
+			product	hypothetical protein
+626476	627195	CDS
+			EC_number	2.7.7.56
+			gene	rph
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0CG18
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00416
+			product	Ribonuclease PH
+627906	628163	CDS
+			db_xref	COG:COG0227
+			gene	rpmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7M2
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00417
+			product	50S ribosomal protein L28
+630447	629182	CDS
+			EC_number	2.4.99.12
+			db_xref	COG:COG1519
+			gene	waaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC75
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00418
+			product	3-deoxy-D-manno-octulosonic acid transferase
+635367	635116	CDS
+			EC_number	5.1.3.20
+			db_xref	COG:COG0451
+			gene	hldD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67910
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00419
+			product	ADP-L-glycero-D-manno-heptose-6-epimerase
+637379	637834	CDS
+			db_xref	COG:COG0607
+			gene	yibN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG27
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00420
+			product	putative protein YibN
+637999	638184	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00421
+			product	hypothetical protein
+639030	638854	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00422
+			product	hypothetical protein
+640271	641233	CDS
+			EC_number	2.7.1.11
+			db_xref	COG:COG0205
+			gene	pfkA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A796
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00423
+			product	ATP-dependent 6-phosphofructokinase isozyme 1
+642474	641701	CDS
+			EC_number	5.3.1.1
+			db_xref	COG:COG0149
+			gene	tpiA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A858
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00424
+			product	Triosephosphate isomerase
+645851	644520	CDS
+			db_xref	COG:COG1220
+			gene	hslU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6H5
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00425
+			product	ATP-dependent protease ATPase subunit HslU
+646392	645844	CDS
+			EC_number	3.4.25.2
+			db_xref	COG:COG5405
+			gene	hslV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7B8
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00426
+			product	ATP-dependent protease subunit HslV
+646677	646501	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00427
+			product	hypothetical protein
+649616	647421	CDS
+			EC_number	3.6.4.-
+			db_xref	COG:COG1198
+			gene	priA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17888
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00428
+			product	Primosomal protein N'
+649740	649639	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00429
+			product	hypothetical protein
+649804	650025	CDS
+			db_xref	COG:COG0254
+			gene	rpmE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7M9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00430
+			product	50S ribosomal protein L31
+652683	652525	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00431
+			product	hypothetical protein
+652858	652715	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00432
+			product	hypothetical protein
+653890	653771	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00433
+			product	hypothetical protein
+654789	654920	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00434
+			product	hypothetical protein
+658387	659924	rRNA
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00435
+			product	16S ribosomal RNA
+			score	0
+659997	660071	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00436
+			product	tRNA-Ile(gat)
+660264	660339	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00437
+			product	tRNA-Ala(tgc)
+660661	663564	rRNA
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00438
+			product	23S ribosomal RNA
+			score	0
+663735	663812	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00439
+			product	tRNA-Trp(cca)
+666277	664283	CDS
+			EC_number	2.2.1.1
+			db_xref	COG:COG0021
+			gene	tktA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27302
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00440
+			product	Transketolase 1
+669220	667508	CDS
+			EC_number	2.7.3.9
+			db_xref	COG:COG1080
+			gene	ptsI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A249
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00441
+			product	Phosphoenolpyruvate-protein phosphotransferase
+669527	669270	CDS
+			db_xref	COG:COG1925
+			gene	ptsH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA07
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00442
+			product	Phosphocarrier protein HPr
+671278	673338	CDS
+			EC_number	6.5.1.2
+			db_xref	COG:COG0272
+			gene	ligA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P15042
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00443
+			product	DNA ligase
+675201	674182	CDS
+			EC_number	2.1.3.3
+			db_xref	COG:COG0078
+			gene	argI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04391
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00444
+			product	Ornithine carbamoyltransferase subunit I
+679192	676337	CDS
+			EC_number	6.1.1.9
+			db_xref	COG:COG0525
+			gene	valS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07118
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00445
+			product	Valine--tRNA ligase
+679656	679201	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG2927
+			gene	holC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28905
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00446
+			product	DNA polymerase III subunit chi
+681445	682542	CDS
+			db_xref	COG:COG0795
+			gene	lptF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AF98
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00447
+			product	Lipopolysaccharide export system permease protein LptF
+682542	683615	CDS
+			db_xref	COG:COG0795
+			gene	lptG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADC6
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00448
+			product	Lipopolysaccharide export system permease protein LptG
+684415	684498	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00449
+			product	tRNA-Leu(caa)
+687159	686671	CDS
+			db_xref	COG:COG1762
+			gene	ptsN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69829
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00450
+			product	Nitrogen regulatory protein
+689047	688328	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1137
+			gene	lptB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9V1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00451
+			product	Lipopolysaccharide export system ATP-binding protein LptB
+689626	689069	CDS
+			db_xref	COG:COG1934
+			gene	lptA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADV1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00452
+			product	Lipopolysaccharide export system protein LptA
+690173	689607	CDS
+			db_xref	COG:COG3117
+			gene	lptC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADV9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00453
+			product	Lipopolysaccharide export system protein LptC
+694715	694912	CDS
+			db_xref	COG:COG2854
+			gene	mlaC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADV7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00454
+			product	Intermembrane phospholipid transport system binding protein MlaC
+695614	695880	CDS
+			db_xref	COG:COG5007
+			gene	ibaG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9W6
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00455
+			product	Acid stress protein IbaG
+696839	697102	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00456
+			product	hypothetical protein
+698859	697483	CDS
+			EC_number	3.4.21.107
+			db_xref	COG:COG0265
+			gene	degQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39099
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00457
+			product	Periplasmic pH-dependent serine endoprotease DegQ
+700697	701125	CDS
+			db_xref	COG:COG0102
+			gene	rplM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA10
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00458
+			product	50S ribosomal protein L13
+701152	701544	CDS
+			db_xref	COG:COG0103
+			gene	rpsI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7X3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00459
+			product	30S ribosomal protein S9
+704883	704311	CDS
+			db_xref	COG:COG2823
+			gene	osmY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFH8
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00460
+			product	Osmotically-inducible protein Y
+705661	705434	CDS
+			db_xref	COG:COG3107
+			gene	lpoA_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45464
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00461
+			product	Penicillin-binding protein activator LpoA
+706425	706291	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00462
+			product	hypothetical protein
+706589	706419	CDS
+			db_xref	COG:COG3107
+			gene	lpoA_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45464
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00463
+			product	Penicillin-binding protein activator LpoA
+707308	708192	CDS
+			EC_number	2.1.1.198
+			db_xref	COG:COG0313
+			gene	rsmI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67087
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00464
+			product	Ribosomal RNA small subunit methyltransferase I
+708922	708692	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00465
+			product	hypothetical protein
+709413	709529	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00466
+			product	hypothetical protein
+710489	709821	CDS
+			db_xref	COG:COG0586
+			gene	yqjA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA63
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00467
+			product	Inner membrane protein YqjA
+710877	711005	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00468
+			product	hypothetical protein
+712587	712513	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00469
+			product	tRNA-Met(cat)
+715038	713197	CDS
+			db_xref	COG:COG0568
+			gene	rpoD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00579
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00470
+			product	RNA polymerase sigma factor RpoD
+716935	715187	CDS
+			EC_number	2.7.7.-
+			db_xref	COG:COG0358
+			gene	dnaG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABS5
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00471
+			product	DNA primase
+717280	717065	CDS
+			db_xref	COG:COG0828
+			gene	rpsU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68679
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00472
+			product	30S ribosomal protein S21
+717721	718761	CDS
+			EC_number	2.3.1.234
+			db_xref	COG:COG0533
+			gene	tsaD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P40731
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00473
+			product	tRNA N6-adenosine threonylcarbamoyltransferase
+719487	719846	CDS
+			EC_number	4.1.2.25
+			db_xref	COG:COG1539
+			gene	folB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC16
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00474
+			product	Dihydroneopterin aldolase
+719983	720804	CDS
+			EC_number	3.6.1.27
+			db_xref	COG:COG1968
+			gene	uppP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60932
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00475
+			product	Undecaprenyl-diphosphatase
+722256	721033	CDS
+			db_xref	COG:COG0617
+			gene	cca
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06961
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00476
+			product	Multifunctional CCA protein
+723852	723956	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00477
+			product	hypothetical protein
+725144	725293	CDS
+			db_xref	COG:COG2870
+			gene	hldE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P76658
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00478
+			product	Bifunctional protein HldE
+727550	727684	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00479
+			product	hypothetical protein
+729375	730109	CDS
+			EC_number	2.3.1.51
+			db_xref	COG:COG0204
+			gene	plsC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P26647
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00480
+			product	1-acyl-sn-glycerol-3-phosphate acyltransferase
+732369	731377	CDS
+			EC_number	3.1.1.31
+			db_xref	COG:COG2706
+			gene	pgl
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A6T6J6
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00481
+			product	6-phosphogluconolactonase
+734233	735015	CDS
+			EC_number	5.4.2.11
+			db_xref	COG:COG0588
+			gene	gpmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62707
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00482
+			product	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+735621	736376	CDS
+			db_xref	COG:COG0670
+			gene	ybhL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AAC4
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00483
+			product	Inner membrane protein YbhL
+738212	737454	CDS
+			EC_number	2.7.7.38
+			db_xref	COG:COG1212
+			gene	kdsB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04951
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00484
+			product	3-deoxy-manno-octulosonate cytidylyltransferase
+739630	738608	CDS
+			EC_number	2.7.1.130
+			db_xref	COG:COG1663
+			gene	lpxK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27300
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00485
+			product	Tetraacyldisaccharide 4'-kinase
+741375	739627	CDS
+			EC_number	7.5.2.6
+			db_xref	COG:COG1132
+			gene	msbA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63359
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00486
+			product	Lipid A export ATP-binding/permease protein MsbA
+743215	742931	CDS
+			db_xref	COG:COG0776
+			gene	ihfB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6Y1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00487
+			product	Integration host factor subunit beta
+744957	743281	CDS
+			db_xref	COG:COG0539
+			gene	rpsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG67
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00488
+			product	30S ribosomal protein S1
+745756	745073	CDS
+			EC_number	2.7.4.25
+			gene	cmk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:B1JRD8
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00489
+			product	Cytidylate kinase
+746149	746021	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00490
+			product	hypothetical protein
+747970	746885	CDS
+			EC_number	2.6.1.52
+			db_xref	COG:COG1932
+			gene	serC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P55900
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00491
+			product	Phosphoserine aminotransferase
+752308	751016	CDS
+			EC_number	6.1.1.11
+			db_xref	COG:COG0172
+			gene	serS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8L1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00492
+			product	Serine--tRNA ligase
+753512	752895	CDS
+			db_xref	COG:COG2834
+			gene	lolA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZGC6
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00493
+			product	Outer-membrane lipoprotein carrier protein
+754671	754516	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00494
+			product	hypothetical protein
+757233	758195	CDS
+			EC_number	1.8.1.9
+			db_xref	COG:COG0492
+			gene	trxB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9P4
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00495
+			product	Thioredoxin reductase
+758535	760271	CDS
+			db_xref	COG:COG4988
+			gene	cydD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29018
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00496
+			product	ATP-binding/permease protein CydD
+760300	762042	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1132
+			gene	yheH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O07549
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00497
+			product	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+762642	762860	CDS
+			db_xref	COG:COG0361
+			gene	infA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69222
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00498
+			product	Translation initiation factor IF-1
+764940	763540	CDS
+			EC_number	6.1.1.22
+			db_xref	COG:COG0017
+			gene	asnS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8M0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00499
+			product	Asparagine--tRNA ligase
+765890	766063	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00500
+			product	hypothetical protein
+766071	766175	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00501
+			product	hypothetical protein
+770274	769756	CDS
+			EC_number	4.2.1.59
+			db_xref	COG:COG0764
+			gene	fabA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6Q3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00502
+			product	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+773590	775242	CDS
+			EC_number	5.3.1.9
+			db_xref	COG:COG0166
+			gene	pgi
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6T1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00503
+			product	Glucose-6-phosphate isomerase
+775646	775467	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00504
+			product	hypothetical protein
+778264	775802	CDS
+			EC_number	2.3.1.15
+			db_xref	COG:COG2937
+			gene	plsB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7A7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00505
+			product	Glycerol-3-phosphate acyltransferase
+778914	779039	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00506
+			product	hypothetical protein
+781519	782550	CDS
+			EC_number	1.3.1.-
+			db_xref	COG:COG0042
+			gene	dusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P32695
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00507
+			product	tRNA-dihydrouridine(20/20a) synthase
+784561	785967	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0305
+			gene	dnaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACB0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00508
+			product	Replicative DNA helicase
+787305	787835	CDS
+			gene	ssb
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25762
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00509
+			product	Single-stranded DNA-binding protein
+788086	787994	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00510
+			product	hypothetical protein
+789983	789435	CDS
+			EC_number	1.3.5.3
+			db_xref	COG:COG4635
+			gene	hemG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACB4
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00511
+			product	Protoporphyrinogen IX dehydrogenase [menaquinone]
+791695	791000	CDS
+			EC_number	1.5.1.41
+			db_xref	COG:COG0543
+			gene	fre
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9L6L9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00512
+			product	NAD(P)H-flavin reductase
+797177	798943	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0608
+			gene	recJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21893
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00513
+			product	Single-stranded-DNA-specific exonuclease RecJ
+799055	800152	CDS
+			db_xref	COG:COG1186
+			gene	prfB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07012
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00514
+			product	Peptide chain release factor RF2
+800162	801688	CDS
+			EC_number	6.1.1.6
+			db_xref	COG:COG1190
+			gene	lysS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8N3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00515
+			product	Lysine--tRNA ligase
+804313	803054	CDS
+			EC_number	3.6.4.-
+			db_xref	COG:COG1158
+			gene	rho
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG30
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00516
+			product	Transcription termination factor Rho
+805033	804707	CDS
+			db_xref	COG:COG0526
+			gene	trxA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA28
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00517
+			product	Thioredoxin 1
+807053	806817	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADN2
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00518
+			note	UPF0438 protein YifE
+			product	hypothetical protein
+810574	810440	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00519
+			product	hypothetical protein
+814511	813588	CDS
+			EC_number	2.3.1.241
+			db_xref	COG:COG1560
+			gene	lpxL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACV0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00520
+			product	Lipid A biosynthesis lauroyltransferase
+815749	816729	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24188
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00521
+			note	UPF0176 protein YceA
+			product	hypothetical protein
+820356	817222	CDS
+			EC_number	3.1.26.12
+			gene	rne
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00970
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00522
+			product	Ribonuclease E
+820913	821869	CDS
+			EC_number	5.4.99.24
+			db_xref	COG:COG0564
+			gene	rluC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA39
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00523
+			product	Ribosomal large subunit pseudouridine synthase C
+822957	823127	CDS
+			db_xref	COG:COG0333
+			gene	rpmF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7N4
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00524
+			product	50S ribosomal protein L32
+823959	824912	CDS
+			EC_number	2.3.1.180
+			db_xref	COG:COG0332
+			gene	fabH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6R0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00525
+			product	3-oxoacyl-[acyl-carrier-protein] synthase 3
+824929	825858	CDS
+			EC_number	2.3.1.39
+			db_xref	COG:COG0331
+			gene	fabD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O85140
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00526
+			product	Malonyl CoA-acyl carrier protein transacylase
+825873	826607	CDS
+			EC_number	1.1.1.100
+			gene	fabG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEK2
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00527
+			product	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+826760	826993	CDS
+			gene	acpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q0T5U2
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00528
+			product	Acyl carrier protein
+827645	828667	CDS
+			EC_number	4.2.2.-
+			db_xref	COG:COG1559
+			gene	mltG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28306
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00529
+			product	Endolytic murein transglycosylase
+828778	828683	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00530
+			product	hypothetical protein
+829213	830211	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0470
+			gene	holB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28631
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00531
+			product	DNA polymerase III subunit delta'
+830228	831004	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0084
+			gene	ycfH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFQ7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00532
+			product	putative metal-dependent hydrolase YcfH
+832600	832947	CDS
+			EC_number	3.9.1.-
+			db_xref	COG:COG0537
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P44956
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00533
+			product	Purine nucleoside phosphoramidase
+835051	836163	CDS
+			EC_number	2.8.1.13
+			db_xref	COG:COG0482
+			gene	mnmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25745
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00534
+			product	tRNA-specific 2-thiouridylase MnmA
+836391	836266	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00535
+			product	hypothetical protein
+838728	837493	CDS
+			db_xref	COG:COG4591
+			gene	lolE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75958
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00536
+			product	Lipoprotein-releasing system transmembrane protein LolE
+839432	838728	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1136
+			gene	lolD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75957
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00537
+			product	Lipoprotein-releasing system ATP-binding protein LolD
+840627	839425	CDS
+			db_xref	COG:COG4591
+			gene	lolC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADC3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00538
+			product	Lipoprotein-releasing system transmembrane protein LolC
+840836	844285	CDS
+			EC_number	3.6.4.-
+			db_xref	COG:COG1197
+			gene	mfd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30958
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00539
+			product	Transcription-repair-coupling factor
+844653	844525	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00540
+			product	hypothetical protein
+844777	844673	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00541
+			product	hypothetical protein
+846701	845373	CDS
+			EC_number	1.6.99.3
+			db_xref	COG:COG1252
+			gene	ndh
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00393
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00542
+			product	NADH dehydrogenase
+848213	848380	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00543
+			product	hypothetical protein
+848688	849143	CDS
+			db_xref	COG:COG1734
+			gene	dksA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABS1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00544
+			product	RNA polymerase-binding transcription factor DksA
+849863	851179	CDS
+			EC_number	2.7.7.19
+			db_xref	COG:COG0617
+			gene	pcnB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABF1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00545
+			product	Poly(A) polymerase I
+851179	851697	CDS
+			EC_number	2.7.6.3
+			db_xref	COG:COG0801
+			gene	folK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P26281
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00546
+			product	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+851949	852737	CDS
+			EC_number	2.1.2.11
+			db_xref	COG:COG0413
+			gene	panB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31057
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00547
+			product	3-methyl-2-oxobutanoate hydroxymethyltransferase
+856410	854983	CDS
+			EC_number	1.8.1.4
+			db_xref	COG:COG1249
+			gene	lpdA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9P0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00548
+			product	Dihydrolipoyl dehydrogenase
+858059	856611	CDS
+			EC_number	2.3.1.12
+			db_xref	COG:COG0508
+			gene	aceF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06959
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00549
+			product	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+860747	858075	CDS
+			EC_number	1.2.4.1
+			db_xref	COG:COG2609
+			gene	aceE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFG8
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00550
+			product	Pyruvate dehydrogenase E1 component
+861426	861292	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00551
+			product	hypothetical protein
+861527	861426	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00552
+			product	hypothetical protein
+864802	862088	CDS
+			db_xref	COG:COG0653
+			gene	secA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10408
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00553
+			product	Protein translocase subunit SecA
+865132	865461	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00554
+			product	hypothetical protein
+866673	865729	CDS
+			EC_number	3.5.1.108
+			db_xref	COG:COG0774
+			gene	lpxC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A725
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00555
+			product	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+867920	866757	CDS
+			db_xref	COG:COG0206
+			gene	ftsZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9A6
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00556
+			product	Cell division protein FtsZ
+869263	867992	CDS
+			db_xref	COG:COG0849
+			gene	ftsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABH0
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00557
+			product	Cell division protein FtsA
+870063	869287	CDS
+			db_xref	COG:COG1589
+			gene	ftsQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06136
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00558
+			product	Cell division protein FtsQ
+872624	871557	CDS
+			EC_number	2.4.1.227
+			db_xref	COG:COG0707
+			gene	murG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17443
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00559
+			product	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+873814	872621	CDS
+			EC_number	2.4.1.129
+			db_xref	COG:COG0772
+			gene	ftsW
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABG4
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00560
+			product	putative peptidoglycan glycosyltransferase FtsW
+874825	874640	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00561
+			product	hypothetical protein
+875841	874822	CDS
+			EC_number	2.7.8.13
+			db_xref	COG:COG0472
+			gene	mraY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6W3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00562
+			product	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+877268	875901	CDS
+			EC_number	6.3.2.10
+			db_xref	COG:COG0770
+			gene	murF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P11880
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00563
+			product	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+878752	877265	CDS
+			EC_number	6.3.2.13
+			db_xref	COG:COG0769
+			gene	murE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P22188
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00564
+			product	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+880509	878752	CDS
+			EC_number	3.4.16.4
+			db_xref	COG:COG0768
+			gene	ftsI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AD68
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00565
+			product	Peptidoglycan D,D-transpeptidase FtsI
+880852	880532	CDS
+			db_xref	COG:COG3116
+			gene	ftsL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEN4
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00566
+			product	Cell division protein FtsL
+881796	880849	CDS
+			EC_number	2.1.1.199
+			db_xref	COG:COG0275
+			gene	rsmH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60390
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00567
+			product	Ribosomal RNA small subunit methyltransferase H
+886848	887057	CDS
+			gene	cspE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:E0J1Q3
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00568
+			product	Cold shock-like protein CspE
+888247	887300	CDS
+			EC_number	2.8.1.8
+			db_xref	COG:COG0320
+			gene	lipA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60716
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00569
+			product	Lipoyl synthase
+889107	888442	CDS
+			EC_number	2.3.1.181
+			db_xref	COG:COG0321
+			gene	lipB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60720
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00570
+			product	Octanoyltransferase
+889385	889122	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8J4
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00571
+			note	UPF0250 protein YbeD
+			product	hypothetical protein
+892697	891576	CDS
+			EC_number	2.4.1.129
+			db_xref	COG:COG0772
+			gene	mrdB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABG7
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00572
+			product	Peptidoglycan glycosyltransferase MrdB
+894609	892717	CDS
+			EC_number	3.4.16.4
+			db_xref	COG:COG0768
+			gene	mrdA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AD65
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00573
+			product	Peptidoglycan D,D-transpeptidase MrdA
+894892	895038	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00574
+			product	hypothetical protein
+896818	895784	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG1466
+			gene	holA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28630
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00575
+			product	DNA polymerase III subunit delta
+897360	896815	CDS
+			db_xref	COG:COG2980
+			gene	lptE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADC1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00576
+			product	LPS-assembly lipoprotein LptE
+899996	897414	CDS
+			EC_number	6.1.1.4
+			db_xref	COG:COG0495
+			gene	leuS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07813
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00577
+			product	Leucine--tRNA ligase
+903902	902358	CDS
+			EC_number	2.3.1.269
+			db_xref	COG:COG0815
+			gene	lnt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23930
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00578
+			product	Apolipoprotein N-acyltransferase
+905010	904546	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0319
+			gene	ybeY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A898
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00579
+			product	Endoribonuclease YbeY
+906053	905928	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00580
+			product	hypothetical protein
+907281	907409	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00581
+			product	hypothetical protein
+907995	907923	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00582
+			product	tRNA-Gln(ctg)
+908082	908007	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00583
+			product	tRNA-Met(cat)
+908199	908128	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00584
+			product	tRNA-Gln(ttg)
+908303	908221	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00585
+			product	tRNA-Leu(tag)
+910350	912005	CDS
+			EC_number	6.1.1.18
+			db_xref	COG:COG0008
+			gene	glnS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00962
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00586
+			product	Glutamine--tRNA ligase
+912765	912250	CDS
+			db_xref	COG:COG0716
+			gene	fldA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZQX1
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00587
+			product	Flavodoxin 1
+913451	913314	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00588
+			product	hypothetical protein
+913663	913797	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00589
+			product	hypothetical protein
+914337	914489	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00590
+			product	hypothetical protein
+917305	918471	CDS
+			EC_number	6.2.1.5
+			db_xref	COG:COG0045
+			gene	sucC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A836
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00591
+			product	Succinate--CoA ligase [ADP-forming] subunit beta
+918471	919343	CDS
+			EC_number	6.2.1.5
+			db_xref	COG:COG0074
+			gene	sucD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGE9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00592
+			product	Succinate--CoA ligase [ADP-forming] subunit alpha
+920026	921591	CDS
+			EC_number	7.1.1.7
+			db_xref	COG:COG1271
+			gene	cydA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABJ9
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00593
+			product	Cytochrome bd-I ubiquinol oxidase subunit 1
+921616	922755	CDS
+			EC_number	7.1.1.7
+			db_xref	COG:COG1294
+			gene	cydB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABK2
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00594
+			product	Cytochrome bd-I ubiquinol oxidase subunit 2
+922774	922887	CDS
+			EC_number	7.1.1.7
+			db_xref	COG:COG4890
+			gene	cydX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P56100
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00595
+			product	Cytochrome bd-I ubiquinol oxidase subunit X
+926867	927385	CDS
+			db_xref	COG:COG2885
+			gene	pal
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A912
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00596
+			product	Peptidoglycan-associated lipoprotein
+928416	928309	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00597
+			product	hypothetical protein
+928952	929500	CDS
+			EC_number	2.7.8.5
+			db_xref	COG:COG0558
+			gene	pgsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABF8
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00598
+			product	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+930021	930094	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00599
+			product	tRNA-Cys(gca)
+930110	930194	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00600
+			product	tRNA-Leu(taa)
+930944	930562	tmRNA
+			gene	ssrA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00601
+			product	transfer-messenger RNA, SsrA
+931471	930989	CDS
+			db_xref	COG:COG0691
+			gene	smpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A832
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00602
+			product	SsrA-binding protein
+932217	932369	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00603
+			product	hypothetical protein
+933127	933756	CDS
+			db_xref	COG:COG0576
+			gene	grpE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09372
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00604
+			product	Protein GrpE
+934674	933991	CDS
+			EC_number	3.2.2.27
+			db_xref	COG:COG0692
+			gene	ung
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P12295
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00605
+			product	Uracil-DNA glycosylase
+935102	934953	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Gullanella_endobia_GEFVIR_GCF_900048035_1_00606
+			product	hypothetical protein

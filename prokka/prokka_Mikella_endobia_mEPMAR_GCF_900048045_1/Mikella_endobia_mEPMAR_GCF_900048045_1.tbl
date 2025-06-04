@@ -1,0 +1,2244 @@
+>Feature NZ_LN999831.1
+1	1806	CDS
+			EC_number	3.6.5.-
+			db_xref	COG:COG0481
+			gene	lepA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60785
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00001
+			product	Elongation factor 4
+2374	2484	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00002
+			product	hypothetical protein
+2813	3493	CDS
+			EC_number	3.1.26.3
+			db_xref	COG:COG0571
+			gene	rnc
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Y0
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00003
+			product	Ribonuclease 3
+3490	4374	CDS
+			db_xref	COG:COG1159
+			gene	era
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06616
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00004
+			product	GTPase Era
+4691	5071	CDS
+			EC_number	2.7.8.7
+			db_xref	COG:COG0736
+			gene	acpS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24224
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00005
+			product	Holo-[acyl-carrier-protein] synthase
+7857	5659	CDS
+			EC_number	3.6.4.-
+			db_xref	COG:COG1198
+			gene	priA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17888
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00006
+			product	Primosomal protein N'
+8015	8230	CDS
+			db_xref	COG:COG0254
+			gene	rpmE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7M9
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00007
+			product	50S ribosomal protein L31
+8767	8682	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00008
+			product	tRNA-Ser(tga)
+9430	9756	CDS
+			EC_number	2.8.1.-
+			db_xref	COG:COG2920
+			gene	tusE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AB18
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00009
+			product	Sulfurtransferase TusE
+9865	9792	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00010
+			product	tRNA-Pro(ggg)
+10255	9983	CDS
+			db_xref	COG:COG1825
+			gene	rplY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68919
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00011
+			product	50S ribosomal protein L25
+10712	11125	CDS
+			db_xref	COG:COG0071
+			gene	ibpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C054
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00012
+			product	Small heat shock protein IbpA
+11179	11637	CDS
+			db_xref	COG:COG0071
+			gene	ibpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C058
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00013
+			product	Small heat shock protein IbpB
+11769	12674	CDS
+			EC_number	6.1.1.14
+			db_xref	COG:COG0752
+			gene	glyQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00960
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00014
+			product	Glycine--tRNA ligase alpha subunit
+12690	14765	CDS
+			EC_number	6.1.1.14
+			db_xref	COG:COG0751
+			gene	glyS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00961
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00015
+			product	Glycine--tRNA ligase beta subunit
+14836	17397	CDS
+			db_xref	COG:COG0249
+			gene	mutS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1Y0
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00016
+			product	DNA mismatch repair protein MutS
+19881	17545	CDS
+			EC_number	3.4.21.53
+			db_xref	COG:COG0466
+			gene	lon
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P46067
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00017
+			product	Lon protease
+21316	20045	CDS
+			db_xref	COG:COG1219
+			gene	clpX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6H1
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00018
+			product	ATP-dependent Clp protease ATP-binding subunit ClpX
+22006	21422	CDS
+			EC_number	3.4.21.92
+			db_xref	COG:COG0740
+			gene	clpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6G7
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00019
+			product	ATP-dependent Clp protease proteolytic subunit
+24257	24182	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00020
+			product	tRNA-Thr(cgt)
+24560	26470	CDS
+			db_xref	COG:COG0443
+			gene	dnaK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6Y8
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00021
+			product	Chaperone protein DnaK
+26599	27732	CDS
+			db_xref	COG:COG0484
+			gene	dnaJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08622
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00022
+			product	Chaperone protein DnaJ
+28125	27832	CDS
+			db_xref	COG:COG0268
+			gene	rpsT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7U7
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00023
+			product	30S ribosomal protein S20
+28550	31375	CDS
+			EC_number	6.1.1.5
+			db_xref	COG:COG0060
+			gene	ileS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00956
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00024
+			product	Isoleucine--tRNA ligase
+32482	33594	CDS
+			db_xref	COG:COG0468
+			gene	recA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65977
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00025
+			product	Protein RecA
+33749	36382	CDS
+			EC_number	6.1.1.7
+			db_xref	COG:COG0013
+			gene	alaS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00957
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00026
+			product	Alanine--tRNA ligase
+36392	36568	CDS
+			gene	csrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O85735
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00027
+			product	Translational regulator CsrA
+36718	36808	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00028
+			product	tRNA-Ser(gct)
+36835	36911	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00029
+			product	tRNA-Arg(acg)
+37049	37264	CDS
+			gene	ydgT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7CQK5
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00030
+			product	Transcription modulator YdgT
+38555	37281	CDS
+			EC_number	6.1.1.1
+			db_xref	COG:COG0162
+			gene	tyrS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGJ9
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00031
+			product	Tyrosine--tRNA ligase
+39077	39733	CDS
+			EC_number	3.1.13.-
+			db_xref	COG:COG0847
+			gene	rnt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30014
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00032
+			product	Ribonuclease T
+40599	40333	CDS
+			db_xref	COG:COG5007
+			gene	ibaG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9W6
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00033
+			product	Acid stress protein IbaG
+41088	41717	CDS
+			EC_number	2.5.1.9
+			db_xref	COG:COG0307
+			gene	ribC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFU8
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00034
+			product	Riboflavin synthase
+41831	42163	CDS
+			db_xref	COG:COG0278
+			gene	grxD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC69
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00035
+			product	Glutaredoxin 4
+42335	42411	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00036
+			product	tRNA-Pro(cgg)
+42884	43345	CDS
+			db_xref	COG:COG0782
+			gene	greA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6W5
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00037
+			product	Transcription elongation factor GreA
+43496	44125	CDS
+			EC_number	2.1.1.166
+			db_xref	COG:COG0293
+			gene	rlmE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C0R7
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00038
+			product	Ribosomal RNA large subunit methyltransferase E
+44175	46064	CDS
+			EC_number	3.4.24.-
+			db_xref	COG:COG0465
+			gene	ftsH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AAI3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00039
+			product	ATP-dependent zinc metalloprotease FtsH
+46793	47212	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00040
+			product	hypothetical protein
+47222	47304	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00041
+			product	tRNA-Leu(gag)
+47489	47812	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00042
+			product	hypothetical protein
+47827	49311	CDS
+			db_xref	COG:COG0195
+			gene	nusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFF6
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00043
+			product	Transcription termination/antitermination protein NusA
+49334	52009	CDS
+			db_xref	COG:COG0532
+			gene	infB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A705
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00044
+			product	Translation initiation factor IF-2
+52002	52463	CDS
+			db_xref	COG:COG0858
+			gene	rbfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7G2
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00045
+			product	30S ribosome-binding factor
+52460	53395	CDS
+			EC_number	5.4.99.25
+			db_xref	COG:COG0130
+			gene	truB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60340
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00046
+			product	tRNA pseudouridine synthase B
+53498	53767	CDS
+			db_xref	COG:COG0184
+			gene	rpsO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADZ4
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00047
+			product	30S ribosomal protein S15
+53972	55990	CDS
+			EC_number	2.7.7.8
+			db_xref	COG:COG1185
+			gene	pnp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P05055
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00048
+			product	Polyribonucleotide nucleotidyltransferase
+56082	57500	CDS
+			EC_number	3.6.4.13
+			db_xref	COG:COG0513
+			gene	deaD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9P6
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00049
+			product	ATP-dependent RNA helicase DeaD
+58072	59457	CDS
+			EC_number	3.6.4.-
+			db_xref	COG:COG1066
+			gene	radA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24554
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00050
+			product	DNA repair protein RadA
+59570	59498	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00051
+			product	tRNA-Lys(ctt)
+60980	59622	CDS
+			EC_number	3.6.-.-
+			db_xref	COG:COG0486
+			gene	mnmE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25522
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00052
+			product	tRNA modification GTPase MnmE
+61924	61574	CDS
+			EC_number	3.1.26.5
+			db_xref	COG:COG0594
+			gene	rnpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Y8
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00053
+			product	Ribonuclease P protein component
+62084	61941	CDS
+			db_xref	COG:COG0230
+			gene	rpmH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9RSH2
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00054
+			product	50S ribosomal protein L34
+62449	63579	CDS
+			db_xref	COG:COG0592
+			gene	dnaN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A988
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00055
+			product	Beta sliding clamp
+64887	63931	CDS
+			EC_number	2.1.2.9
+			db_xref	COG:COG0223
+			gene	fmt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23882
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00056
+			product	Methionyl-tRNA formyltransferase
+65429	64986	CDS
+			EC_number	3.5.1.88
+			db_xref	COG:COG0242
+			gene	def
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6K3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00057
+			product	Peptide deformylase
+65632	65706	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00058
+			product	tRNA-Glu(ttc)
+66338	65769	CDS
+			db_xref	COG:COG0231
+			gene	efp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64036
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00059
+			product	Elongation factor P
+68271	66634	CDS
+			db_xref	COG:COG0459
+			gene	groL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2NW94
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00060
+			product	60 kDa chaperonin
+68678	68325	CDS
+			db_xref	COG:COG0234
+			gene	groS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6F9
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00061
+			product	10 kDa chaperonin
+69785	71629	CDS
+			db_xref	COG:COG0323
+			gene	mutL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23367
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00062
+			product	DNA mismatch repair protein MutL
+71622	72551	CDS
+			EC_number	2.5.1.75
+			db_xref	COG:COG0324
+			gene	miaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16384
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00063
+			product	tRNA dimethylallyltransferase
+72630	72923	CDS
+			db_xref	COG:COG1923
+			gene	hfq
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6X3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00064
+			product	RNA-binding protein Hfq
+74928	75668	CDS
+			EC_number	2.1.1.185
+			db_xref	COG:COG0566
+			gene	rlmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63177
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00065
+			product	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+76070	77173	CDS
+			EC_number	2.8.1.13
+			db_xref	COG:COG0482
+			gene	mnmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25745
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00066
+			product	tRNA-specific 2-thiouridylase MnmA
+77304	79355	CDS
+			EC_number	3.6.4.-
+			db_xref	COG:COG1197
+			gene	mfd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30958
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00067
+			product	Transcription-repair-coupling factor
+80422	79595	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0084
+			gene	ycfH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFQ7
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00068
+			product	putative metal-dependent hydrolase YcfH
+81453	80452	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0470
+			gene	holB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28631
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00069
+			product	DNA polymerase III subunit delta'
+83437	81533	CDS
+			db_xref	COG:COG0445
+			gene	mnmG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6U3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00070
+			product	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+84646	83669	CDS
+			EC_number	5.4.99.24
+			db_xref	COG:COG0564
+			gene	rluC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA39
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00071
+			product	Ribosomal large subunit pseudouridine synthase C
+84964	87063	CDS
+			EC_number	3.1.26.12
+			gene	rne
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00970
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00072
+			product	Ribonuclease E
+87075	87209	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00073
+			product	hypothetical protein
+87493	88392	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0258
+			gene	polA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00582
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00074
+			product	DNA polymerase I
+89185	88571	CDS
+			db_xref	COG:COG0218
+			gene	engB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6P7
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00075
+			product	putative GTP-binding protein EngB
+89487	91295	CDS
+			db_xref	COG:COG1217
+			gene	typA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P32132
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00076
+			product	GTP-binding protein TypA/BipA
+91773	91408	CDS
+			db_xref	COG:COG0203
+			gene	rplQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG44
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00077
+			product	50S ribosomal protein L17
+92800	91814	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG0202
+			gene	rpoA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Z4
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00078
+			product	DNA-directed RNA polymerase subunit alpha
+93446	92826	CDS
+			db_xref	COG:COG0522
+			gene	rpsD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7V8
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00079
+			product	30S ribosomal protein S4
+93862	93479	CDS
+			db_xref	COG:COG0100
+			gene	rpsK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7R9
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00080
+			product	30S ribosomal protein S11
+94246	93893	CDS
+			db_xref	COG:COG0099
+			gene	rpsM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7S9
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00081
+			product	30S ribosomal protein S13
+95849	94542	CDS
+			db_xref	COG:COG0201
+			gene	secY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGA2
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00082
+			product	Protein translocase subunit SecY
+96311	95859	CDS
+			db_xref	COG:COG0200
+			gene	rplO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02413
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00083
+			product	50S ribosomal protein L15
+96497	96318	CDS
+			db_xref	COG:COG1841
+			gene	rpmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG51
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00084
+			product	50S ribosomal protein L30
+97007	96507	CDS
+			db_xref	COG:COG0098
+			gene	rpsE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7W4
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00085
+			product	30S ribosomal protein S5
+97390	97022	CDS
+			db_xref	COG:COG0256
+			gene	rplR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C018
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00086
+			product	50S ribosomal protein L18
+97945	97409	CDS
+			db_xref	COG:COG0097
+			gene	rplF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG55
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00087
+			product	50S ribosomal protein L6
+98351	97959	CDS
+			db_xref	COG:COG0096
+			gene	rpsH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7W7
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00088
+			product	30S ribosomal protein S8
+98694	98389	CDS
+			db_xref	COG:COG0199
+			gene	rpsN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG59
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00089
+			product	30S ribosomal protein S14
+99242	98694	CDS
+			db_xref	COG:COG0094
+			gene	rplE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62399
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00090
+			product	50S ribosomal protein L5
+99574	99257	CDS
+			db_xref	COG:COG0198
+			gene	rplX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60624
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00091
+			product	50S ribosomal protein L24
+99993	99622	CDS
+			db_xref	COG:COG0093
+			gene	rplN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADY3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00092
+			product	50S ribosomal protein L14
+100357	100106	CDS
+			db_xref	COG:COG0186
+			gene	rpsQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG63
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00093
+			product	30S ribosomal protein S17
+100551	100357	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00094
+			product	hypothetical protein
+100967	100548	CDS
+			db_xref	COG:COG0197
+			gene	rplP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADY7
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00095
+			product	50S ribosomal protein L16
+101731	100967	CDS
+			db_xref	COG:COG0092
+			gene	rpsC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7V3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00096
+			product	30S ribosomal protein S3
+102092	101760	CDS
+			db_xref	COG:COG0091
+			gene	rplV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P61175
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00097
+			product	50S ribosomal protein L22
+102387	102109	CDS
+			db_xref	COG:COG0185
+			gene	rpsS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7U3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00098
+			product	30S ribosomal protein S19
+103222	102404	CDS
+			db_xref	COG:COG0090
+			gene	rplB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60422
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00099
+			product	50S ribosomal protein L2
+103555	103247	CDS
+			db_xref	COG:COG0089
+			gene	rplW
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C2N0
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00100
+			product	50S ribosomal protein L23
+104160	103552	CDS
+			db_xref	COG:COG0088
+			gene	rplD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60726
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00101
+			product	50S ribosomal protein L4
+104806	104177	CDS
+			db_xref	COG:COG0087
+			gene	rplC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60438
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00102
+			product	50S ribosomal protein L3
+105149	104838	CDS
+			db_xref	COG:COG0051
+			gene	rpsJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7R5
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00103
+			product	30S ribosomal protein S10
+106592	105405	CDS
+			db_xref	COG:COG0050
+			gene	tufB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0CE48
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00104
+			product	Elongation factor Tu 2
+106764	106692	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00105
+			product	tRNA-Thr(ggt)
+106844	106770	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00106
+			product	tRNA-Gly(tcc)
+106991	106907	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00107
+			product	tRNA-Tyr(gta)
+107073	106999	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00108
+			product	tRNA-Thr(tgt)
+111808	107591	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG0086
+			gene	rpoC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8T7
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00109
+			product	DNA-directed RNA polymerase subunit beta'
+115941	111913	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG0085
+			gene	rpoB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8V2
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00110
+			product	DNA-directed RNA polymerase subunit beta
+116422	116048	CDS
+			db_xref	COG:COG0222
+			gene	rplL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7K2
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00111
+			product	50S ribosomal protein L7/L12
+117007	116510	CDS
+			db_xref	COG:COG0244
+			gene	rplJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7J3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00112
+			product	50S ribosomal protein L10
+117787	117089	CDS
+			db_xref	COG:COG0081
+			gene	rplA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7L0
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00113
+			product	50S ribosomal protein L1
+118222	117794	CDS
+			db_xref	COG:COG0080
+			gene	rplK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7J7
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00114
+			product	50S ribosomal protein L11
+118838	118293	CDS
+			db_xref	COG:COG0250
+			gene	nusG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFG0
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00115
+			product	Transcription termination/antitermination protein NusG
+119043	118846	CDS
+			db_xref	COG:COG0690
+			gene	secE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG96
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00116
+			product	Protein translocase subunit SecE
+120213	119917	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00117
+			product	hypothetical protein
+122468	120366	CDS
+			db_xref	COG:COG0480
+			gene	fusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6M8
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00118
+			product	Elongation factor G
+123032	122559	CDS
+			db_xref	COG:COG0049
+			gene	rpsG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02359
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00119
+			product	30S ribosomal protein S7
+123466	123092	CDS
+			db_xref	COG:COG0048
+			gene	rpsL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7S3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00120
+			product	30S ribosomal protein S12
+123838	123551	CDS
+			db_xref	COG:COG2168
+			gene	tusB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45530
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00121
+			product	Protein TusB
+124230	123865	CDS
+			db_xref	COG:COG2923
+			gene	tusC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45531
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00122
+			product	Protein TusC
+124638	124237	CDS
+			EC_number	2.8.1.-
+			db_xref	COG:COG1553
+			gene	tusD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45532
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00123
+			product	Sulfurtransferase TusD
+124883	125137	CDS
+			db_xref	COG:COG0425
+			gene	tusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A890
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00124
+			product	Sulfur carrier protein TusA
+125257	125574	CDS
+			db_xref	COG:COG0261
+			gene	rplU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG48
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00125
+			product	50S ribosomal protein L21
+125607	125861	CDS
+			db_xref	COG:COG0211
+			gene	rpmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7L8
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00126
+			product	50S ribosomal protein L27
+125932	126951	CDS
+			EC_number	3.6.5.-
+			db_xref	COG:COG0536
+			gene	obgE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42641
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00127
+			product	GTPase ObgE/CgtA
+127296	127087	CDS
+			gene	cspC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:E0J500
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00128
+			product	Cold shock-like protein CspC
+127690	128475	CDS
+			EC_number	1.3.1.9
+			db_xref	COG:COG0623
+			gene	fabI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16657
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00129
+			product	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+129516	128767	CDS
+			EC_number	5.4.99.22
+			db_xref	COG:COG1187
+			gene	rluB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37765
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00130
+			product	Ribosomal large subunit pseudouridine synthase B
+129539	131209	CDS
+			EC_number	4.1.3.27
+			db_xref	COG:COG0147
+			gene	trpE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00898
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00131
+			product	Anthranilate synthase component 1
+131209	131790	CDS
+			db_xref	COG:COG0512
+			gene	trpGD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00905
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00132
+			product	Bifunctional protein TrpGD
+131921	133285	CDS
+			db_xref	COG:COG0134
+			gene	trpC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00909
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00133
+			product	Tryptophan biosynthesis protein TrpCF
+133335	134525	CDS
+			EC_number	4.2.1.20
+			db_xref	COG:COG0133
+			gene	trpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A879
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00134
+			product	Tryptophan synthase beta chain
+134525	135331	CDS
+			EC_number	4.2.1.20
+			db_xref	COG:COG0159
+			gene	trpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00929
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00135
+			product	Tryptophan synthase alpha chain
+135740	137209	CDS
+			EC_number	2.7.8.-
+			db_xref	COG:COG1502
+			gene	clsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6H8
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00136
+			product	Cardiolipin synthase A
+137415	137834	CDS
+			gene	hns
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0DOA5
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00137
+			product	DNA-binding protein H-NS
+137995	138798	CDS
+			EC_number	3.1.11.2
+			db_xref	COG:COG0708
+			gene	xthA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09030
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00138
+			product	Exodeoxyribonuclease III
+138885	139415	CDS
+			db_xref	COG:COG1495
+			gene	dsbB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6M2
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00139
+			product	Disulfide bond formation protein B
+140200	139511	CDS
+			db_xref	COG:COG1214
+			gene	tsaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7CQE0
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00140
+			product	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+141791	140568	CDS
+			EC_number	2.7.7.19
+			db_xref	COG:COG0617
+			gene	pcnB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABF1
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00141
+			product	Poly(A) polymerase I
+142426	141974	CDS
+			db_xref	COG:COG1734
+			gene	dksA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABS1
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00142
+			product	RNA polymerase-binding transcription factor DksA
+142835	143179	CDS
+			db_xref	COG:COG0316
+			gene	erpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACC3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00143
+			product	Iron-sulfur cluster insertion protein ErpA
+143281	144522	CDS
+			db_xref	COG:COG0617
+			gene	cca
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06961
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00144
+			product	Multifunctional CCA protein
+145867	144851	CDS
+			EC_number	2.3.1.234
+			db_xref	COG:COG0533
+			gene	tsaD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P40731
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00145
+			product	tRNA N6-adenosine threonylcarbamoyltransferase
+146136	146351	CDS
+			db_xref	COG:COG0828
+			gene	rpsU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68679
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00146
+			product	30S ribosomal protein S21
+146451	148208	CDS
+			EC_number	2.7.7.-
+			db_xref	COG:COG0358
+			gene	dnaG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABS5
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00147
+			product	DNA primase
+148343	150187	CDS
+			db_xref	COG:COG0568
+			gene	rpoD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00579
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00148
+			product	RNA polymerase sigma factor RpoD
+150333	150405	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00149
+			product	tRNA-Met(cat)
+151782	150571	CDS
+			EC_number	2.3.1.41
+			db_xref	COG:COG0304
+			gene	fabB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A953
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00150
+			product	3-oxoacyl-[acyl-carrier-protein] synthase 1
+152959	152045	CDS
+			EC_number	2.1.1.298
+			db_xref	COG:COG2890
+			gene	prmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39199
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00151
+			product	50S ribosomal protein L3 glutamine methyltransferase
+153756	153160	CDS
+			db_xref	COG:COG0576
+			gene	grpE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09372
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00152
+			product	Protein GrpE
+153969	154448	CDS
+			db_xref	COG:COG0691
+			gene	smpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A832
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00153
+			product	SsrA-binding protein
+154461	154839	tmRNA
+			gene	ssrA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00154
+			product	transfer-messenger RNA, SsrA
+155348	154860	CDS
+			EC_number	3.5.4.33
+			db_xref	COG:COG0590
+			gene	tadA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68398
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00155
+			product	tRNA-specific adenosine deaminase
+156039	155401	CDS
+			db_xref	COG:COG3264
+			gene	mscK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77338
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00156
+			product	Mechanosensitive channel MscK
+156938	156705	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00157
+			product	hypothetical protein
+157114	157188	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00158
+			product	tRNA-Phe(gaa)
+158306	157302	CDS
+			EC_number	6.1.1.2
+			db_xref	COG:COG0180
+			gene	trpS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00954
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00159
+			product	Tryptophan--tRNA ligase
+158903	158382	CDS
+			EC_number	2.7.1.71
+			db_xref	COG:COG0703
+			gene	aroK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6D7
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00160
+			product	Shikimate kinase 1
+159193	160362	CDS
+			EC_number	6.2.1.5
+			db_xref	COG:COG0045
+			gene	sucC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A836
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00161
+			product	Succinate--CoA ligase [ADP-forming] subunit beta
+160362	161231	CDS
+			EC_number	6.2.1.5
+			db_xref	COG:COG0074
+			gene	sucD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGE9
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00162
+			product	Succinate--CoA ligase [ADP-forming] subunit alpha
+161408	162958	CDS
+			EC_number	7.1.1.7
+			db_xref	COG:COG1271
+			gene	cydA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABJ9
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00163
+			product	Cytochrome bd-I ubiquinol oxidase subunit 1
+162971	164083	CDS
+			EC_number	7.1.1.7
+			db_xref	COG:COG1294
+			gene	cydB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABK2
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00164
+			product	Cytochrome bd-I ubiquinol oxidase subunit 2
+164495	164421	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00165
+			product	tRNA-Asp(gtc)
+165380	164643	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0847
+			gene	dnaQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03007
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00166
+			product	DNA polymerase III subunit epsilon
+165434	165937	CDS
+			EC_number	3.1.26.4
+			db_xref	COG:COG0328
+			gene	rnhA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Y4
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00167
+			product	Ribonuclease HI
+166204	166132	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00168
+			product	tRNA-Lys(ttt)
+166292	166220	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00169
+			product	tRNA-Val(tac)
+166426	167835	CDS
+			EC_number	6.1.1.17
+			db_xref	COG:COG0008
+			gene	gltX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04805
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00170
+			product	Glutamate--tRNA ligase
+167848	167922	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00171
+			product	tRNA-Ala(ggc)
+167965	168939	CDS
+			EC_number	5.4.99.23
+			db_xref	COG:COG0564
+			gene	rluD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P33643
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00172
+			product	Ribosomal large subunit pseudouridine synthase D
+169025	171604	CDS
+			db_xref	COG:COG0542
+			gene	clpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63284
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00173
+			product	Chaperone protein ClpB
+171935	173482	rRNA
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00174
+			product	16S ribosomal RNA
+			score	0
+173549	173625	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00175
+			product	tRNA-Ile(gat)
+173641	173715	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00176
+			product	tRNA-Ala(tgc)
+173762	176648	rRNA
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00177
+			product	23S ribosomal RNA
+			score	0
+176699	176809	rRNA
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00178
+			product	5S ribosomal RNA
+			score	4.6e-12
+178238	176838	CDS
+			EC_number	6.1.1.22
+			db_xref	COG:COG0017
+			gene	asnS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8M0
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00179
+			product	Asparagine--tRNA ligase
+178518	178604	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00180
+			product	tRNA-Ser(cga)
+178762	179739	CDS
+			db_xref	COG:COG0354
+			gene	ygfZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADE8
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00181
+			product	tRNA-modifying protein YgfZ
+182353	179858	CDS
+			db_xref	COG:COG0653
+			gene	secA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10408
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00182
+			product	Protein translocase subunit SecA
+182746	183258	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00183
+			product	hypothetical protein
+184581	183640	CDS
+			EC_number	2.1.1.199
+			db_xref	COG:COG0275
+			gene	rsmH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60390
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00184
+			product	Ribosomal RNA small subunit methyltransferase H
+185093	186178	CDS
+			EC_number	1.1.1.85
+			db_xref	COG:COG0473
+			gene	leuB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37412
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00185
+			product	3-isopropylmalate dehydrogenase
+186192	187592	CDS
+			EC_number	4.2.1.33
+			db_xref	COG:COG0065
+			gene	leuC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6A6
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00186
+			product	3-isopropylmalate dehydratase large subunit
+187616	188218	CDS
+			EC_number	4.2.1.33
+			db_xref	COG:COG0066
+			gene	leuD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30126
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00187
+			product	3-isopropylmalate dehydratase small subunit
+188622	189419	CDS
+			EC_number	2.1.1.182
+			db_xref	COG:COG0030
+			gene	rsmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06992
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00188
+			product	Ribosomal RNA small subunit methyltransferase A
+192676	189449	CDS
+			EC_number	6.3.5.5
+			db_xref	COG:COG0458
+			gene	carB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00968
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00189
+			product	Carbamoyl-phosphate synthase large chain
+193880	192678	CDS
+			EC_number	6.3.5.5
+			db_xref	COG:COG0505
+			gene	carA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6F1
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00190
+			product	Carbamoyl-phosphate synthase small chain
+194785	193943	CDS
+			EC_number	1.17.1.8
+			db_xref	COG:COG0289
+			gene	dapB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04036
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00191
+			product	4-hydroxy-tetrahydrodipicolinate reductase
+195946	195107	CDS
+			EC_number	2.1.1.297
+			db_xref	COG:COG2890
+			gene	prmC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACC1
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00192
+			product	Release factor glutamine methyltransferase
+197028	195943	CDS
+			db_xref	COG:COG0216
+			gene	prfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7I0
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00193
+			product	Peptide chain release factor RF1
+197682	198632	CDS
+			EC_number	2.7.6.1
+			db_xref	COG:COG0462
+			gene	prs
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A717
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00194
+			product	Ribose-phosphate pyrophosphokinase
+198733	199299	CDS
+			EC_number	3.1.1.29
+			db_xref	COG:COG0193
+			gene	pth
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7D1
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00195
+			product	Peptidyl-tRNA hydrolase
+199309	200400	CDS
+			db_xref	COG:COG0012
+			gene	ychF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABU2
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00196
+			product	Ribosome-binding ATPase YchF
+200533	200606	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00197
+			product	tRNA-Asn(gtt)
+200649	200721	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00198
+			product	tRNA-Arg(cct)
+202832	201102	CDS
+			EC_number	6.1.1.19
+			db_xref	COG:COG0018
+			gene	argS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A6TB43
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00199
+			product	Arginine--tRNA ligase
+203161	204864	CDS
+			EC_number	6.1.1.12
+			db_xref	COG:COG0173
+			gene	aspS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21889
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00200
+			product	Aspartate--tRNA ligase
+205182	205673	CDS
+			EC_number	3.1.22.4
+			db_xref	COG:COG0817
+			gene	ruvC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A814
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00201
+			product	Crossover junction endodeoxyribonuclease RuvC
+205783	206400	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0632
+			gene	ruvA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A809
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00202
+			product	Holliday junction ATP-dependent DNA helicase RuvA
+206413	207432	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG2255
+			gene	ruvB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A812
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00203
+			product	Holliday junction ATP-dependent DNA helicase RuvB
+208163	208345	CDS
+			db_xref	COG:COG0227
+			gene	rpmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7M2
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00204
+			product	50S ribosomal protein L28
+208349	208516	CDS
+			db_xref	COG:COG0267
+			gene	rpmG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7N9
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00205
+			product	50S ribosomal protein L33
+208572	209381	CDS
+			EC_number	3.2.2.23
+			db_xref	COG:COG0266
+			gene	mutM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P05523
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00206
+			product	Formamidopyrimidine-DNA glycosylase
+210254	209538	CDS
+			EC_number	3.1.21.-
+			db_xref	COG:COG2356
+			gene	nucM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37994
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00207
+			product	Nuclease NucM
+212085	211483	CDS
+			EC_number	1.11.1.15
+			db_xref	COG:COG0450
+			gene	ahpC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21762
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00208
+			product	Alkyl hydroperoxide reductase C
+213235	214359	CDS
+			EC_number	2.4.2.29
+			db_xref	COG:COG0343
+			gene	tgt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A847
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00209
+			product	Queuine tRNA-ribosyltransferase
+214713	215186	CDS
+			EC_number	2.5.1.78
+			db_xref	COG:COG0054
+			gene	ribH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66038
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00210
+			product	6,7-dimethyl-8-ribityllumazine synthase
+215199	215621	CDS
+			db_xref	COG:COG0781
+			gene	nusB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A780
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00211
+			product	Transcription antitermination protein NusB
+215743	217221	CDS
+			EC_number	2.8.1.4
+			db_xref	COG:COG0301
+			gene	thiI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8XE74
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00212
+			product	tRNA sulfurtransferase
+217831	218334	CDS
+			EC_number	4.2.1.10
+			db_xref	COG:COG0757
+			gene	aroQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZAX1
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00213
+			product	3-dehydroquinate dehydratase
+219005	219106	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00214
+			product	hypothetical protein
+219175	219471	CDS
+			db_xref	COG:COG2901
+			gene	fis
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6R3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00215
+			product	DNA-binding protein Fis
+219727	220116	CDS
+			db_xref	COG:COG0360
+			gene	rpsF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02358
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00216
+			product	30S ribosomal protein S6
+220396	220638	CDS
+			db_xref	COG:COG0238
+			gene	rpsR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7T7
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00217
+			product	30S ribosomal protein S18
+220683	221138	CDS
+			db_xref	COG:COG0359
+			gene	rplI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7R1
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00218
+			product	50S ribosomal protein L9
+221248	221172	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00219
+			product	tRNA-Pro(tgg)
+221348	221261	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00220
+			product	tRNA-Leu(cag)
+221439	221366	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00221
+			product	tRNA-His(gtg)
+221546	221470	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00222
+			product	tRNA-Arg(ccg)
+222977	221718	CDS
+			EC_number	3.6.4.-
+			db_xref	COG:COG1158
+			gene	rho
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG30
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00223
+			product	Transcription termination factor Rho
+223630	223292	CDS
+			db_xref	COG:COG0526
+			gene	trxA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA28
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00224
+			product	Thioredoxin 1
+224632	225195	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8W5
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00225
+			note	UPF0301 protein YqgE
+			product	hypothetical protein
+225195	225617	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0816
+			gene	yqgF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8I1
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00226
+			product	Putative pre-16S rRNA nuclease
+225771	226280	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00227
+			product	hypothetical protein
+226447	227568	CDS
+			db_xref	COG:COG0635
+			gene	hemW
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P52062
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00228
+			product	Heme chaperone HemW
+228679	227864	CDS
+			EC_number	3.1.3.25
+			db_xref	COG:COG0483
+			gene	suhB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADG4
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00229
+			product	Inositol-1-monophosphatase
+228872	230068	CDS
+			EC_number	2.8.1.7
+			db_xref	COG:COG1104
+			gene	iscS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6B7
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00230
+			product	Cysteine desulfurase IscS
+230174	231316	CDS
+			EC_number	2.1.1.192
+			db_xref	COG:COG0820
+			gene	rlmN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P36979
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00231
+			product	Dual-specificity RNA methyltransferase RlmN
+232374	233663	CDS
+			EC_number	6.1.1.21
+			db_xref	COG:COG0124
+			gene	hisS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O52765
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00232
+			product	Histidine--tRNA ligase
+234424	234173	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00233
+			product	hypothetical protein
+234688	236121	CDS
+			db_xref	COG:COG1160
+			gene	der
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9XCI8
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00234
+			product	GTPase Der
+237607	236294	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0305
+			gene	dnaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACB0
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00235
+			product	Replicative DNA helicase
+238046	238585	CDS
+			gene	ssb
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25762
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00236
+			product	Single-stranded DNA-binding protein
+238707	238632	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00237
+			product	tRNA-Trp(cca)
+238948	240678	CDS
+			EC_number	6.1.1.15
+			db_xref	COG:COG0442
+			gene	proS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16659
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00238
+			product	Proline--tRNA ligase
+242107	240686	CDS
+			EC_number	6.3.4.19
+			db_xref	COG:COG0037
+			gene	tilS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P52097
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00239
+			product	tRNA(Ile)-lysidine synthase
+245926	242663	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0587
+			gene	dnaE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10443
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00240
+			product	DNA polymerase III subunit alpha
+246924	246433	CDS
+			EC_number	4.2.1.59
+			gene	fabZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q1CAM3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00241
+			product	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+249121	248564	CDS
+			db_xref	COG:COG0233
+			gene	frr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P44307
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00242
+			product	Ribosome-recycling factor
+250086	249226	CDS
+			db_xref	COG:COG0264
+			gene	tsf
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6P1
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00243
+			product	Elongation factor Ts
+250928	250218	CDS
+			db_xref	COG:COG0052
+			gene	rpsB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7V0
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00244
+			product	30S ribosomal protein S2
+251216	252010	CDS
+			EC_number	3.4.11.18
+			db_xref	COG:COG0024
+			gene	map
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1X6
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00245
+			product	Methionine aminopeptidase
+252116	252189	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00246
+			product	tRNA-Met(cat)
+252719	252393	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0210
+			gene	uvrD_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03018
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00247
+			product	DNA helicase II
+253193	252762	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0210
+			gene	uvrD_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03018
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00248
+			product	DNA helicase II
+253750	253295	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0210
+			gene	uvrD_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03018
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00249
+			product	DNA helicase II
+254115	253879	CDS
+			EC_number	3.6.4.12
+			gene	rep
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01920
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00250
+			product	ATP-dependent DNA helicase Rep
+255650	255060	CDS
+			EC_number	2.1.1.171
+			db_xref	COG:COG0742
+			gene	rsmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADX9
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00251
+			product	Ribosomal RNA small subunit methyltransferase D
+255965	256828	CDS
+			db_xref	COG:COG0568
+			gene	rpoH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGB3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00252
+			product	RNA polymerase sigma factor RpoH
+258146	256851	CDS
+			EC_number	6.1.1.11
+			db_xref	COG:COG0172
+			gene	serS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8L1
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00253
+			product	Serine--tRNA ligase
+259175	260143	CDS
+			EC_number	1.8.1.9
+			db_xref	COG:COG0492
+			gene	trxB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9P4
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00254
+			product	Thioredoxin reductase
+260242	262011	CDS
+			db_xref	COG:COG4988
+			gene	cydD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29018
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00255
+			product	ATP-binding/permease protein CydD
+262018	263760	CDS
+			EC_number	7.6.2.8
+			gene	btuD
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01005
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00256
+			product	Vitamin B12 import ATP-binding protein BtuD
+263852	264070	CDS
+			db_xref	COG:COG0361
+			gene	infA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69222
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00257
+			product	Translation initiation factor IF-1
+264198	264368	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00258
+			product	hypothetical protein
+266611	264938	CDS
+			db_xref	COG:COG0539
+			gene	rpsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG67
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00259
+			product	30S ribosomal protein S1
+267569	269227	CDS
+			EC_number	6.1.1.10
+			db_xref	COG:COG0073
+			gene	metG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00959
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00260
+			product	Methionine--tRNA ligase
+269391	269588	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00261
+			product	hypothetical protein
+269707	272127	CDS
+			EC_number	5.6.2.2
+			db_xref	COG:COG0187
+			gene	gyrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A2I3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00262
+			product	DNA gyrase subunit B
+272304	272379	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00263
+			product	tRNA-Val(gac)
+272752	274164	CDS
+			EC_number	2.7.1.40
+			db_xref	COG:COG0469
+			gene	pykF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AD61
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00264
+			product	Pyruvate kinase I
+274595	274152	CDS
+			db_xref	COG:COG2166
+			gene	sufE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9EXP1
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00265
+			product	Cysteine desulfuration protein SufE
+275829	274606	CDS
+			EC_number	2.8.1.7
+			db_xref	COG:COG0520
+			gene	sufS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77444
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00266
+			product	Cysteine desulfurase
+277112	275826	CDS
+			db_xref	COG:COG0719
+			gene	sufD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77689
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00267
+			product	FeS cluster assembly protein SufD
+277833	277093	CDS
+			db_xref	COG:COG0396
+			gene	sufC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77499
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00268
+			product	putative ATP-dependent transporter SufC
+279337	277877	CDS
+			db_xref	COG:COG0719
+			gene	sufB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77522
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00269
+			product	FeS cluster assembly protein SufB
+279763	279386	CDS
+			db_xref	COG:COG0316
+			gene	sufA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77667
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00270
+			product	Protein SufA
+280410	280285	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00271
+			product	hypothetical protein
+282823	280397	CDS
+			EC_number	6.1.1.20
+			db_xref	COG:COG0072
+			gene	pheT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07395
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00272
+			product	Phenylalanine--tRNA ligase beta subunit
+283829	282843	CDS
+			EC_number	6.1.1.20
+			db_xref	COG:COG0016
+			gene	pheS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08312
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00273
+			product	Phenylalanine--tRNA ligase alpha subunit
+284338	283988	CDS
+			db_xref	COG:COG0292
+			gene	rplT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7L3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00274
+			product	50S ribosomal protein L20
+284591	284400	CDS
+			db_xref	COG:COG0291
+			gene	rpmI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Q1
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00275
+			product	50S ribosomal protein L35
+285176	284655	CDS
+			db_xref	COG:COG0290
+			gene	infC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A707
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00276
+			product	Translation initiation factor IF-3
+287141	285219	CDS
+			EC_number	6.1.1.3
+			db_xref	COG:COG0441
+			gene	thrS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8M3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00277
+			product	Threonine--tRNA ligase
+288726	287227	CDS
+			EC_number	6.1.1.6
+			db_xref	COG:COG1190
+			gene	lysS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8N3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00278
+			product	Lysine--tRNA ligase
+289482	288736	CDS
+			db_xref	COG:COG1186
+			gene	prfB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07012
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00279
+			product	Peptide chain release factor RF2
+291570	291998	CDS
+			db_xref	COG:COG0102
+			gene	rplM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA10
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00280
+			product	50S ribosomal protein L13
+292014	292406	CDS
+			db_xref	COG:COG0103
+			gene	rpsI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7X3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00281
+			product	30S ribosomal protein S9
+292787	293662	CDS
+			EC_number	2.1.1.198
+			db_xref	COG:COG0313
+			gene	rsmI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67087
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00282
+			product	Ribosomal RNA small subunit methyltransferase I
+294266	295699	CDS
+			EC_number	3.1.11.1
+			db_xref	COG:COG2925
+			gene	sbcB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04995
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00283
+			product	Exodeoxyribonuclease I
+295795	295720	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00284
+			product	tRNA-Arg(tct)
+298012	296603	CDS
+			EC_number	6.1.1.16
+			db_xref	COG:COG0215
+			gene	cysS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21888
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00285
+			product	Cysteine--tRNA ligase
+300453	298747	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00286
+			product	hypothetical protein
+302102	302341	CDS
+			db_xref	COG:COG0228
+			gene	rpsP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7T3
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00287
+			product	30S ribosomal protein S16
+302357	302926	CDS
+			db_xref	COG:COG0806
+			gene	rimM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7X6
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00288
+			product	Ribosome maturation factor RimM
+302923	303693	CDS
+			EC_number	2.1.1.228
+			db_xref	COG:COG0336
+			gene	trmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A873
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00289
+			product	tRNA (guanine-N(1)-)-methyltransferase
+303802	304149	CDS
+			db_xref	COG:COG0335
+			gene	rplS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7K6
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00290
+			product	50S ribosomal protein L19
+304316	304633	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG2927
+			gene	holC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28905
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00291
+			product	DNA polymerase III subunit chi
+304769	307633	CDS
+			EC_number	6.1.1.9
+			db_xref	COG:COG0525
+			gene	valS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07118
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00292
+			product	Valine--tRNA ligase
+307931	308944	CDS
+			EC_number	2.1.3.3
+			db_xref	COG:COG0078
+			gene	argI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04391
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00293
+			product	Ornithine carbamoyltransferase subunit I
+309560	310666	CDS
+			EC_number	1.2.1.11
+			db_xref	COG:COG0136
+			gene	asd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1F8
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00294
+			product	Aspartate-semialdehyde dehydrogenase
+310924	310837	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00295
+			product	tRNA-Ser(gga)
+311074	311820	CDS
+			EC_number	1.18.1.2
+			db_xref	COG:COG1018
+			gene	fpr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28861
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00296
+			product	Flavodoxin/ferredoxin--NADP reductase
+312311	312226	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00297
+			product	tRNA-Leu(taa)
+312393	312320	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00298
+			product	tRNA-Cys(gca)
+312518	312444	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00299
+			product	tRNA-Gly(gcc)
+312773	312937	CDS
+			db_xref	COG:COG0333
+			gene	rpmF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7N4
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00300
+			product	50S ribosomal protein L32
+313999	314871	CDS
+			EC_number	2.3.1.39
+			db_xref	COG:COG0331
+			gene	fabD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O85140
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00301
+			product	Malonyl CoA-acyl carrier protein transacylase
+314923	315657	CDS
+			EC_number	1.1.1.100
+			gene	fabG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEK2
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00302
+			product	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+315830	316063	CDS
+			db_xref	COG:COG0236
+			gene	acpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P80923
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00303
+			product	Acyl carrier protein
+316330	318126	CDS
+			EC_number	6.5.1.2
+			db_xref	COG:COG0272
+			gene	ligA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P15042
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00304
+			product	DNA ligase
+319075	318425	CDS
+			db_xref	COG:COG3066
+			gene	mutH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06722
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00305
+			product	DNA mismatch repair protein MutH
+319319	319789	CDS
+			EC_number	3.6.1.-
+			db_xref	COG:COG0494
+			gene	rppH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A776
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00306
+			product	RNA pyrophosphohydrolase
+320108	323509	CDS
+			EC_number	3.1.11.5
+			db_xref	COG:COG1330
+			gene	recC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07648
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00307
+			product	RecBCD enzyme subunit RecC
+323722	327267	CDS
+			EC_number	3.1.11.5
+			db_xref	COG:COG1074
+			gene	recB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08394
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00308
+			product	RecBCD enzyme subunit RecB
+327290	329155	CDS
+			EC_number	3.1.11.5
+			db_xref	COG:COG0507
+			gene	recD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04993
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00309
+			product	RecBCD enzyme subunit RecD
+330084	329302	CDS
+			EC_number	5.4.99.12
+			db_xref	COG:COG0101
+			gene	truA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07649
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00310
+			product	tRNA pseudouridine synthase A
+330368	330449	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00311
+			product	tRNA-Leu(caa)
+330976	333498	CDS
+			EC_number	5.6.2.2
+			db_xref	COG:COG0188
+			gene	gyrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37411
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00312
+			product	DNA gyrase subunit A
+333688	333770	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00313
+			product	tRNA-Leu(tag)
+333786	333858	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00314
+			product	tRNA-Gln(ttg)
+333885	333961	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00315
+			product	tRNA-Met(cat)
+333964	334035	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00316
+			product	tRNA-Gln(ctg)
+334174	334653	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0319
+			gene	ybeY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P71335
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00317
+			product	Endoribonuclease YbeY
+335434	338016	CDS
+			EC_number	6.1.1.4
+			db_xref	COG:COG0495
+			gene	leuS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07813
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00318
+			product	Leucine--tRNA ligase
+338217	339209	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG1466
+			gene	holA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28630
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00319
+			product	DNA polymerase III subunit delta
+339358	339450	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00320
+			product	hypothetical protein
+339845	340462	CDS
+			EC_number	2.3.1.181
+			db_xref	COG:COG0321
+			gene	lipB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60720
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00321
+			product	Octanoyltransferase
+340546	341511	CDS
+			EC_number	2.8.1.8
+			db_xref	COG:COG0320
+			gene	lipA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60716
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00322
+			product	Lipoyl synthase
+342205	342756	CDS
+			db_xref	COG:COG0716
+			gene	fldA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O07026
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00323
+			product	Flavodoxin
+344486	342810	CDS
+			EC_number	6.1.1.18
+			db_xref	COG:COG0008
+			gene	glnS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00962
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00324
+			product	Glutamine--tRNA ligase
+345725	346333	CDS
+			db_xref	COG:COG0316
+			gene	nfuA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63020
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00325
+			product	Fe/S biogenesis protein NfuA
+347870	346437	CDS
+			EC_number	1.8.1.4
+			db_xref	COG:COG1249
+			gene	lpdA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9P0
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00326
+			product	Dihydrolipoyl dehydrogenase
+349778	347964	CDS
+			EC_number	2.3.1.12
+			db_xref	COG:COG0508
+			gene	aceF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06959
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00327
+			product	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+352464	349798	CDS
+			EC_number	1.2.4.1
+			db_xref	COG:COG2609
+			gene	aceE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFG8
+			locus_tag	Mikella_endobia_mEPMAR_GCF_900048045_1_00328
+			product	Pyruvate dehydrogenase E1 component

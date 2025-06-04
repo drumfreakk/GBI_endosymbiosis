@@ -1,0 +1,199 @@
+[11:02:42] This is prokka_ed 1.14.6
+[11:02:42] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[11:02:42] Homepage is https://github.com/tseemann/prokka
+[11:02:42] Local time is Wed Jun  4 11:02:42 2025
+[11:02:42] You are 4980980
+[11:02:42] Operating system is linux
+[11:02:42] You have BioPerl 1.007002
+[11:02:42] System has 64 cores.
+[11:02:42] Will use maximum of 2 cores.
+[11:02:42] Annotating as >>> Bacteria <<<
+[11:02:42] Creating new output folder: prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1
+[11:02:42] Running: mkdir -p prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1
+[11:02:42] Using filename prefix: Gullanella_endobia_GEFVIR_GCF_900048035_1.XXX
+[11:02:42] Setting HMMER_NCPU=1
+[11:02:42] Writing log to: prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.log
+[11:02:42] Command: /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/prokka_ed -o prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1 --prefix Gullanella_endobia_GEFVIR_GCF_900048035_1 --locustag Gullanella_endobia_GEFVIR_GCF_900048035_1 --kingdom Bacteria --metagenome --cpus 2 Gullanella_endobia_GEFVIR_GCF_900048035.1.fna
+[11:02:42] Appending to PATH: /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/bin
+[11:02:42] Looking for 'aragorn' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/aragorn
+[11:02:42] Determined aragorn version is 001002 from 'ARAGORN v1.2.41 Dean Laslett'
+[11:02:42] Looking for 'barrnap' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/barrnap
+[11:02:42] Determined barrnap version is 000009 from 'barrnap 0.9'
+[11:02:42] Looking for 'blastp' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/blastp
+[11:02:43] Determined blastp version is 002015 from 'blastp: 2.15.0+'
+[11:02:43] Looking for 'cmpress' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/cmpress
+[11:02:43] Determined cmpress version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[11:02:43] Looking for 'cmscan' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/cmscan
+[11:02:43] Determined cmscan version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[11:02:43] Looking for 'egrep' - found /usr/bin/egrep
+[11:02:43] Looking for 'find' - found /usr/bin/find
+[11:02:43] Looking for 'grep' - found /usr/bin/grep
+[11:02:43] Looking for 'hmmpress' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/hmmpress
+[11:02:43] Determined hmmpress version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[11:02:43] Looking for 'hmmscan' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/hmmscan
+[11:02:43] Determined hmmscan version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[11:02:43] Looking for 'java' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/java
+[11:02:43] Looking for 'makeblastdb' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/makeblastdb
+[11:02:43] Determined makeblastdb version is 002015 from 'makeblastdb: 2.15.0+'
+[11:02:43] Looking for 'minced' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/minced
+[11:02:43] Determined minced version is 004002 from 'minced 0.4.2'
+[11:02:43] Looking for 'parallel' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/parallel
+[11:02:43] Determined parallel version is 20240722 from 'GNU parallel 20240722'
+[11:02:43] Looking for 'prodigal' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/prodigal
+[11:02:43] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[11:02:43] Looking for 'prokka-genbank_to_fasta_db' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/prokka-genbank_to_fasta_db
+[11:02:43] Looking for 'sed' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/sed
+[11:02:43] Looking for 'signalp' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/signalp
+[11:02:43] Determined signalp version is 004001 from '4.1'
+[11:02:43] Looking for 'tbl2asn' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/tbl2asn
+[11:02:43] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[11:02:43] Using genetic code table 11.
+[11:02:43] Loading and checking input file: Gullanella_endobia_GEFVIR_GCF_900048035.1.fna
+[11:02:44] Wrote 1 contigs totalling 938041 bp.
+[11:02:44] Predicting tRNAs and tmRNAs
+[11:02:44] Running: aragorn -l -gc11  -w prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1\/Gullanella_endobia_GEFVIR_GCF_900048035_1\.fna
+[11:02:44] 1 tRNA-Arg [28195,28268] 35 (ccg)
+[11:02:44] 2 tRNA-His [28332,28407] 34 (gtg)
+[11:02:44] 3 tRNA-Leu [28419,28503] 35 (cag)
+[11:02:44] 4 tRNA-Pro [28583,28658] 36 (tgg)
+[11:02:44] 5 tRNA-Met c[93701,93777] 35 (cat)
+[11:02:44] 6 tRNA-Asp [132081,132157] 35 (gtc)
+[11:02:44] 7 tRNA-Thr [139154,139229] 35 (cgt)
+[11:02:44] 8 tRNA-Arg [180894,180970] 35 (tct)
+[11:02:44] 9 tRNA-Val c[224036,224112] 35 (gac)
+[11:02:44] 10 tRNA-Ser [314414,314502] 36 (gga)
+[11:02:44] 11 tRNA-Pro [334110,334185] 36 (ggg)
+[11:02:44] 12 tRNA-Arg [365106,365178] 34 (cct)
+[11:02:44] 13 tRNA-Ala c[365967,366041] 35 (ggc)
+[11:02:44] 14 tRNA-Val [367815,367889] 35 (tac)
+[11:02:44] 15 tRNA-Lys [367909,367983] 35 (ttt)
+[11:02:44] 16 tRNA-Arg c[381227,381303] 36 (acg)
+[11:02:44] 17 tRNA-Ser c[381311,381403] 35 (gct)
+[11:02:44] 18 tRNA-Asn [408807,408882] 34 (gtt)
+[11:02:44] 19 tRNA-Leu c[450357,450442] 36 (gag)
+[11:02:44] 20 tRNA-Gly c[485851,485925] 33 (gcc)
+[11:02:44] 21 tRNA-Phe [497291,497365] 35 (gaa)
+[11:02:44] 22 tRNA-Lys c[497791,497864] 34 (ctt)
+[11:02:44] 23 tRNA-Ser c[498748,498835] 36 (tga)
+[11:02:44] 24 tRNA-Glu c[513914,513986] 35 (ttc)
+[11:02:44] 25 tRNA-Thr [587022,587096] 35 (tgt)
+[11:02:44] 26 tRNA-Tyr [587103,587187] 35 (gta)
+[11:02:44] 27 tRNA-Gly [587408,587482] 34 (tcc)
+[11:02:44] 28 tRNA-Thr [587487,587562] 34 (ggt)
+[11:02:44] 29 tRNA-Ile [659997,660071] 35 (gat)
+[11:02:44] 30 tRNA-Ala [660264,660339] 34 (tgc)
+[11:02:44] 31 tRNA-Trp [663735,663812] 35 (cca)
+[11:02:44] 32 tRNA-Leu [684415,684498] 36 (caa)
+[11:02:44] 33 tRNA-Met c[712513,712587] 35 (cat)
+[11:02:44] 34 tRNA-Gln c[907923,907995] 33 (ctg)
+[11:02:44] 35 tRNA-Met c[908007,908082] 36 (cat)
+[11:02:44] 36 tRNA-Gln c[908128,908199] 33 (ttg)
+[11:02:44] 37 tRNA-Leu c[908221,908303] 35 (tag)
+[11:02:44] 38 tRNA-Cys [930021,930094] 33 (gca)
+[11:02:44] 39 tRNA-Leu [930110,930194] 36 (taa)
+[11:02:44] 40 tmRNA c[930562,930944] 91,135 ANNPQFESNAALAA*
+[11:02:44] Found 40 tRNAs
+[11:02:44] Predicting Ribosomal RNAs
+[11:02:44] Running Barrnap with 2 threads
+[11:02:45] 1 NZ_LN999832.1 513691 5S ribosomal RNA
+[11:02:45] 2 NZ_LN999832.1 658387 16S ribosomal RNA
+[11:02:45] 3 NZ_LN999832.1 660661 23S ribosomal RNA
+[11:02:45] Found 3 rRNAs
+[11:02:45] Skipping ncRNA search, enable with --rfam if desired.
+[11:02:45] Total of 42 tRNA + rRNA features
+[11:02:45] Searching for CRISPR repeats
+[11:02:46] Found 0 CRISPRs
+[11:02:46] Predicting coding sequences
+[11:02:46] Contigs total 938041 bp, so using meta mode
+[11:02:46] Running: prodigal -i prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1\/Gullanella_endobia_GEFVIR_GCF_900048035_1\.fna -c -m -g 11 -p meta -f sco -q
+[11:02:48] Excluding CDS which overlaps existing RNA (tRNA) at NZ_LN999832.1:28329..28514 on + strand
+[11:02:48] Excluding CDS which overlaps existing RNA (tRNA) at NZ_LN999832.1:314289..314507 on + strand
+[11:02:48] Excluding CDS which overlaps existing RNA (rRNA) at NZ_LN999832.1:660834..660956 on + strand
+[11:02:48] Excluding CDS which overlaps existing RNA (rRNA) at NZ_LN999832.1:663016..663249 on + strand
+[11:02:49] Excluding CDS which overlaps existing RNA (tRNA) at NZ_LN999832.1:929999..930202 on + strand
+[11:02:49] Found 563 CDS
+[11:02:49] Connecting features back to sequences
+[11:02:49] Not using genus-specific database. Try --usegenus to enable it.
+[11:02:49] Annotating CDS, please be patient.
+[11:02:49] Will use 2 CPUs for similarity searching.
+[11:02:49] There are still 563 unannotated CDS left (started with 563)
+[11:02:49] Will use blast to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/IS with 2 CPUs
+[11:02:49] Running: cat prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1\/Gullanella_endobia_GEFVIR_GCF_900048035_1\.IS\.tmp\.57440\.faa | parallel --gnu --plain -j 2 --block 39680 --recstart '>' --pipe blastp -query - -db /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1\/Gullanella_endobia_GEFVIR_GCF_900048035_1\.IS\.tmp\.57440\.blast 2> /dev/null
+[11:02:56] Deleting unwanted file: prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.IS.tmp.57440.faa
+[11:02:56] Deleting unwanted file: prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.IS.tmp.57440.blast
+[11:02:56] There are still 563 unannotated CDS left (started with 563)
+[11:02:56] Will use blast to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/AMR with 2 CPUs
+[11:02:56] Running: cat prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1\/Gullanella_endobia_GEFVIR_GCF_900048035_1\.AMR\.tmp\.57440\.faa | parallel --gnu --plain -j 2 --block 39680 --recstart '>' --pipe blastp -query - -db /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1\/Gullanella_endobia_GEFVIR_GCF_900048035_1\.AMR\.tmp\.57440\.blast 2> /dev/null
+[11:03:02] Deleting unwanted file: prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.AMR.tmp.57440.faa
+[11:03:02] Deleting unwanted file: prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.AMR.tmp.57440.blast
+[11:03:02] There are still 563 unannotated CDS left (started with 563)
+[11:03:02] Will use blast to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/sprot with 2 CPUs
+[11:03:02] Running: cat prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1\/Gullanella_endobia_GEFVIR_GCF_900048035_1\.sprot\.tmp\.57440\.faa | parallel --gnu --plain -j 2 --block 39680 --recstart '>' --pipe blastp -query - -db /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1\/Gullanella_endobia_GEFVIR_GCF_900048035_1\.sprot\.tmp\.57440\.blast 2> /dev/null
+[11:03:26] Modify product: UPF0053 inner membrane protein YoaE => hypothetical protein
+[11:03:26] Modify product: UPF0259 membrane protein YciC => hypothetical protein
+[11:03:26] Modify product: Probable protease SohB => putative protease SohB
+[11:03:26] Modify product: Probable transcriptional regulatory protein YebC => putative transcriptional regulatory protein YebC
+[11:03:26] Modify product: Probable lipid II flippase MurJ => putative lipid II flippase MurJ
+[11:03:26] Modify product: UPF0070 protein HI_0370 => hypothetical protein
+[11:03:26] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[11:03:26] Modify product: Probable GTP-binding protein EngB => putative GTP-binding protein EngB
+[11:03:26] Modify product: Probable ATP-dependent transporter SufC => putative ATP-dependent transporter SufC
+[11:03:26] Modify product: Probable Fe(2+)-trafficking protein => putative Fe(2+)-trafficking protein
+[11:03:26] Modify product: UPF0701 protein YicC => hypothetical protein
+[11:03:26] Modify product: Uncharacterized protein YibN => putative protein YibN
+[11:03:26] Modify product: Probable multidrug resistance ABC transporter ATP-binding/permease protein YheH => putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+[11:03:26] Modify product: UPF0438 protein YifE => hypothetical protein
+[11:03:26] Modify product: UPF0176 protein YceA => hypothetical protein
+[11:03:26] Modify product: Uncharacterized metal-dependent hydrolase YcfH => putative metal-dependent hydrolase YcfH
+[11:03:26] Modify product: Probable peptidoglycan glycosyltransferase FtsW => putative peptidoglycan glycosyltransferase FtsW
+[11:03:26] Modify product: UPF0250 protein YbeD => hypothetical protein
+[11:03:26] Cleaned 18 /product names
+[11:03:26] Deleting unwanted file: prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.sprot.tmp.57440.faa
+[11:03:26] Deleting unwanted file: prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.sprot.tmp.57440.blast
+[11:03:26] There are still 113 unannotated CDS left (started with 563)
+[11:03:26] Will use hmmer3 to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/hmm/HAMAP.hmm with 2 CPUs
+[11:03:26] Running: cat prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1\/Gullanella_endobia_GEFVIR_GCF_900048035_1\.HAMAP\.hmm\.tmp\.57440\.faa | parallel --gnu --plain -j 2 --block 2546 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/hmm/HAMAP.hmm /dev/stdin > prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1\/Gullanella_endobia_GEFVIR_GCF_900048035_1\.HAMAP\.hmm\.tmp\.57440\.hmmer3 2> /dev/null
+[11:03:33] Deleting unwanted file: prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.HAMAP.hmm.tmp.57440.faa
+[11:03:33] Deleting unwanted file: prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.HAMAP.hmm.tmp.57440.hmmer3
+[11:03:33] Labelling remaining 105 proteins as 'hypothetical protein'
+[11:03:33] Possible /pseudo 'Bifunctional protein TrpGD' at NZ_LN999832.1 position 271595
+[11:03:33] Possible /pseudo 'Guanylate kinase' at NZ_LN999832.1 position 622874
+[11:03:33] Found 446 unique /gene codes.
+[11:03:33] Fixed 2 duplicate /gene - tufB_1 tufB_2
+[11:03:33] Fixed 2 duplicate /gene - gmk_1 gmk_2
+[11:03:33] Fixed 2 duplicate /gene - lpoA_1 lpoA_2
+[11:03:33] Fixed 2 duplicate /gene - trpGD_1 trpGD_2
+[11:03:33] Fixed 4 colliding /gene names.
+[11:03:33] Adding /locus_tag identifiers
+[11:03:33] Assigned 606 locus_tags to CDS and RNA features.
+[11:03:33] Writing outputs to prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/
+[11:03:33] Generating annotation statistics file
+[11:03:33] Generating Genbank and Sequin files
+[11:03:33] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka_ed 1.14.6 from https://github.com/tseemann/prokka' -Z prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1\/Gullanella_endobia_GEFVIR_GCF_900048035_1\.err -i prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1\/Gullanella_endobia_GEFVIR_GCF_900048035_1\.fsa 2> /dev/null
+[11:03:35] Deleting unwanted file: prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/errorsummary.val
+[11:03:35] Deleting unwanted file: prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.dr
+[11:03:35] Deleting unwanted file: prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.fixedproducts
+[11:03:35] Deleting unwanted file: prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.ecn
+[11:03:35] Deleting unwanted file: prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.val
+[11:03:35] Repairing broken .GBK output that tbl2asn produces...
+[11:03:35] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1\/Gullanella_endobia_GEFVIR_GCF_900048035_1\.gbf > prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1\/Gullanella_endobia_GEFVIR_GCF_900048035_1\.gbk
+[11:03:35] Deleting unwanted file: prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.gbf
+[11:03:35] Output files:
+[11:03:35] prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.log
+[11:03:35] prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.fna
+[11:03:35] prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.gff
+[11:03:35] prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.faa
+[11:03:35] prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.ffn
+[11:03:35] prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.tbl
+[11:03:35] prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.fsa
+[11:03:35] prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.tsv
+[11:03:35] prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.txt
+[11:03:35] prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.sqn
+[11:03:35] prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.gbk
+[11:03:35] prokka_Gullanella_endobia_GEFVIR_GCF_900048035_1/Gullanella_endobia_GEFVIR_GCF_900048035_1.err
+[11:03:35] Annotation finished successfully.
+[11:03:35] Walltime used: 0.88 minutes
+[11:03:35] If you use this result please cite the Prokka paper:
+[11:03:35] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[11:03:35] Type 'prokka --citation' for more details.
+[11:03:35] Share and enjoy!

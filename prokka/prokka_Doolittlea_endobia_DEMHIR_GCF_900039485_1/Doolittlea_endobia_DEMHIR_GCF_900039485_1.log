@@ -1,0 +1,216 @@
+[11:02:01] This is prokka_ed 1.14.6
+[11:02:01] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[11:02:01] Homepage is https://github.com/tseemann/prokka
+[11:02:01] Local time is Wed Jun  4 11:02:01 2025
+[11:02:01] You are 4980980
+[11:02:01] Operating system is linux
+[11:02:01] You have BioPerl 1.007002
+[11:02:01] System has 64 cores.
+[11:02:01] Will use maximum of 2 cores.
+[11:02:01] Annotating as >>> Bacteria <<<
+[11:02:01] Creating new output folder: prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1
+[11:02:01] Running: mkdir -p prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1
+[11:02:01] Using filename prefix: Doolittlea_endobia_DEMHIR_GCF_900039485_1.XXX
+[11:02:01] Setting HMMER_NCPU=1
+[11:02:01] Writing log to: prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.log
+[11:02:01] Command: /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/prokka_ed -o prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1 --prefix Doolittlea_endobia_DEMHIR_GCF_900039485_1 --locustag Doolittlea_endobia_DEMHIR_GCF_900039485_1 --kingdom Bacteria --metagenome --cpus 2 Doolittlea_endobia_DEMHIR_GCF_900039485.1.fna
+[11:02:01] Appending to PATH: /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/bin
+[11:02:01] Looking for 'aragorn' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/aragorn
+[11:02:01] Determined aragorn version is 001002 from 'ARAGORN v1.2.41 Dean Laslett'
+[11:02:01] Looking for 'barrnap' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/barrnap
+[11:02:01] Determined barrnap version is 000009 from 'barrnap 0.9'
+[11:02:01] Looking for 'blastp' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/blastp
+[11:02:01] Determined blastp version is 002015 from 'blastp: 2.15.0+'
+[11:02:01] Looking for 'cmpress' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/cmpress
+[11:02:01] Determined cmpress version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[11:02:01] Looking for 'cmscan' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/cmscan
+[11:02:01] Determined cmscan version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[11:02:01] Looking for 'egrep' - found /usr/bin/egrep
+[11:02:01] Looking for 'find' - found /usr/bin/find
+[11:02:01] Looking for 'grep' - found /usr/bin/grep
+[11:02:01] Looking for 'hmmpress' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/hmmpress
+[11:02:01] Determined hmmpress version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[11:02:01] Looking for 'hmmscan' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/hmmscan
+[11:02:01] Determined hmmscan version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[11:02:01] Looking for 'java' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/java
+[11:02:01] Looking for 'makeblastdb' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/makeblastdb
+[11:02:02] Determined makeblastdb version is 002015 from 'makeblastdb: 2.15.0+'
+[11:02:02] Looking for 'minced' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/minced
+[11:02:02] Determined minced version is 004002 from 'minced 0.4.2'
+[11:02:02] Looking for 'parallel' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/parallel
+[11:02:02] Determined parallel version is 20240722 from 'GNU parallel 20240722'
+[11:02:02] Looking for 'prodigal' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/prodigal
+[11:02:02] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[11:02:02] Looking for 'prokka-genbank_to_fasta_db' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/prokka-genbank_to_fasta_db
+[11:02:02] Looking for 'sed' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/sed
+[11:02:02] Looking for 'signalp' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/signalp
+[11:02:02] Determined signalp version is 004001 from '4.1'
+[11:02:02] Looking for 'tbl2asn' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/tbl2asn
+[11:02:02] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[11:02:02] Using genetic code table 11.
+[11:02:02] Loading and checking input file: Doolittlea_endobia_DEMHIR_GCF_900039485.1.fna
+[11:02:03] Wrote 2 contigs totalling 846562 bp.
+[11:02:03] Predicting tRNAs and tmRNAs
+[11:02:03] Running: aragorn -l -gc11  -w prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1\/Doolittlea_endobia_DEMHIR_GCF_900039485_1\.fna
+[11:02:03] 1 tRNA-Ser [28187,28276] 35 (gga)
+[11:02:03] 2 tRNA-Asn c[59935,60010] 34 (gtt)
+[11:02:03] 3 tmRNA [117959,118338] 89,133 ANDSQFESNAALAA*
+[11:02:03] 4 tRNA-Val c[167591,167665] 35 (gac)
+[11:02:03] 5 tRNA-Arg c[213691,213767] 36 (acg)
+[11:02:03] 6 tRNA-Ser c[213778,213866] 35 (gct)
+[11:02:03] 7 tRNA-Pro c[251870,251946] 35 (ggg)
+[11:02:03] 8 tRNA-Pro c[295863,295936] 35 (cgg)
+[11:02:03] 9 tRNA-Leu c[331141,331225] 36 (caa)
+[11:02:03] 10 tRNA-Met c[331513,331586] 34 (cat)
+[11:02:03] 11 tRNA-Lys c[332082,332158] 35 (ttt)
+[11:02:03] 12 tRNA-Val c[332181,332253] 34 (tac)
+[11:02:03] 13 tRNA-Ala [333996,334070] 34 (ggc)
+[11:02:03] 14 tRNA-Ala [350455,350530] 34 (tgc)
+[11:02:03] 15 tRNA-Arg [363226,363302] 35 (ccg)
+[11:02:03] 16 tRNA-His [363332,363406] 34 (gtg)
+[11:02:03] 17 tRNA-Pro [363578,363654] 35 (tgg)
+[11:02:03] 18 tRNA-Leu c[402721,402807] 35 (cag)
+[11:02:03] 19 tRNA-Arg [418682,418755] 35 (cct)
+[11:02:03] 20 tRNA-Ser c[428831,428920] 35 (cga)
+[11:02:03] 21 tRNA-Thr c[455884,455959] 34 (ggt)
+[11:02:03] 22 tRNA-Gly c[455964,456038] 34 (tcc)
+[11:02:03] 23 tRNA-Tyr c[456207,456289] 35 (gta)
+[11:02:03] 24 tRNA-Thr c[456297,456370] 34 (tgt)
+[11:02:03] 25 tRNA-Met c[468813,468889] 35 (cat)
+[11:02:03] 26 tRNA-Gln c[469008,469079] 33 (ttg)
+[11:02:03] 27 tRNA-Leu c[469101,469183] 35 (tag)
+[11:02:03] 28 tRNA-Ile [482739,482815] 35 (gat)
+[11:02:03] 29 tRNA-Trp [483145,483220] 34 (cca)
+[11:02:03] 30 tRNA-Cys [507298,507371] 33 (gca)
+[11:02:03] 31 tRNA-Leu [507388,507470] 35 (taa)
+[11:02:03] 32 tRNA-Asp c[523024,523100] 35 (gtc)
+[11:02:03] 33 tRNA-Glu c[526718,526793] 35 (ttc)
+[11:02:03] 34 tRNA-Gly c[543357,543431] 33 (gcc)
+[11:02:03] 35 tRNA-Met c[561642,561718] 35 (cat)
+[11:02:03] 36 tRNA-Leu c[561769,561855] 35 (gag)
+[11:02:03] 37 tRNA-Met [584316,584389] 35 (cat)
+[11:02:03] 38 tRNA-Thr c[697295,697369] 35 (cgt)
+[11:02:03] 39 tRNA-Ser c[715835,715922] 35 (tga)
+[11:02:03] 40 tRNA-Arg c[727900,727974] 35 (tct)
+[11:02:03] 41 tRNA-Phe c[772579,772654] 35 (gaa)
+[11:02:03] 1 tRNA-Lys c[9354,9427] 34 (ctt)
+[11:02:03] Found 42 tRNAs
+[11:02:03] Predicting Ribosomal RNAs
+[11:02:03] Running Barrnap with 2 threads
+[11:02:04] 1 NZ_LN999833.1 481130 16S ribosomal RNA
+[11:02:04] 2 NZ_LN999833.1 523202 5S ribosomal RNA
+[11:02:04] 3 NZ_LN999833.1 523493 23S ribosomal RNA
+[11:02:04] Found 3 rRNAs
+[11:02:04] Skipping ncRNA search, enable with --rfam if desired.
+[11:02:04] Total of 44 tRNA + rRNA features
+[11:02:04] Searching for CRISPR repeats
+[11:02:05] Found 0 CRISPRs
+[11:02:05] Predicting coding sequences
+[11:02:05] Contigs total 846562 bp, so using meta mode
+[11:02:05] Running: prodigal -i prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1\/Doolittlea_endobia_DEMHIR_GCF_900039485_1\.fna -c -m -g 11 -p meta -f sco -q
+[11:02:12] Excluding CDS which overlaps existing RNA (tRNA) at NZ_LN999833.1:468981..469226 on + strand
+[11:02:12] Excluding CDS which overlaps existing RNA (rRNA) at NZ_LN999833.1:524102..524242 on - strand
+[11:02:13] Found 579 CDS
+[11:02:13] Connecting features back to sequences
+[11:02:13] Not using genus-specific database. Try --usegenus to enable it.
+[11:02:13] Annotating CDS, please be patient.
+[11:02:13] Will use 2 CPUs for similarity searching.
+[11:02:13] There are still 579 unannotated CDS left (started with 579)
+[11:02:13] Will use blast to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/IS with 2 CPUs
+[11:02:13] Running: cat prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1\/Doolittlea_endobia_DEMHIR_GCF_900039485_1\.IS\.tmp\.55381\.faa | parallel --gnu --plain -j 2 --block 43194 --recstart '>' --pipe blastp -query - -db /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1\/Doolittlea_endobia_DEMHIR_GCF_900039485_1\.IS\.tmp\.55381\.blast 2> /dev/null
+[11:02:20] Deleting unwanted file: prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.IS.tmp.55381.faa
+[11:02:20] Deleting unwanted file: prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.IS.tmp.55381.blast
+[11:02:21] There are still 579 unannotated CDS left (started with 579)
+[11:02:21] Will use blast to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/AMR with 2 CPUs
+[11:02:21] Running: cat prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1\/Doolittlea_endobia_DEMHIR_GCF_900039485_1\.AMR\.tmp\.55381\.faa | parallel --gnu --plain -j 2 --block 43194 --recstart '>' --pipe blastp -query - -db /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1\/Doolittlea_endobia_DEMHIR_GCF_900039485_1\.AMR\.tmp\.55381\.blast 2> /dev/null
+[11:02:27] Deleting unwanted file: prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.AMR.tmp.55381.faa
+[11:02:27] Deleting unwanted file: prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.AMR.tmp.55381.blast
+[11:02:27] There are still 579 unannotated CDS left (started with 579)
+[11:02:27] Will use blast to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/sprot with 2 CPUs
+[11:02:27] Running: cat prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1\/Doolittlea_endobia_DEMHIR_GCF_900039485_1\.sprot\.tmp\.55381\.faa | parallel --gnu --plain -j 2 --block 43194 --recstart '>' --pipe blastp -query - -db /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1\/Doolittlea_endobia_DEMHIR_GCF_900039485_1\.sprot\.tmp\.55381\.blast 2> /dev/null
+[11:02:53] Modify product: Uncharacterized protein PA3435 => putative protein
+[11:02:53] Modify product: Probable lipid II flippase MurJ => putative lipid II flippase MurJ
+[11:02:53] Modify product: UPF0438 protein YifE => hypothetical protein
+[11:02:53] Modify product: Probable multidrug resistance ABC transporter ATP-binding/permease protein YheH => putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+[11:02:54] Modify product: Probable GTP-binding protein EngB => putative GTP-binding protein EngB
+[11:02:54] Modify product: GTP cyclohydrolase 1 type 2 homolog => GTP cyclohydrolase 1 type 2 
+[11:02:54] Modify product: Probable transcriptional regulatory protein YebC => putative transcriptional regulatory protein YebC
+[11:02:54] Modify product: Probable peptidoglycan glycosyltransferase FtsW => putative peptidoglycan glycosyltransferase FtsW
+[11:02:54] Modify product: UPF0701 protein YicC => hypothetical protein
+[11:02:54] Modify product: Uncharacterized protein YibN => putative protein YibN
+[11:02:54] Modify product: Probable ATP-dependent transporter SufC => putative ATP-dependent transporter SufC
+[11:02:54] Modify product: Uncharacterized metal-dependent hydrolase YcfH => putative metal-dependent hydrolase YcfH
+[11:02:54] Modify product: UPF0434 protein YcaR => hypothetical protein
+[11:02:54] Modify product: UPF0250 protein YbeD => hypothetical protein
+[11:02:54] Modify product: UPF0053 inner membrane protein YoaE => hypothetical protein
+[11:02:54] Modify product: UPF0259 membrane protein YciC => hypothetical protein
+[11:02:54] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[11:02:54] Modify product: Probable L,D-transpeptidase YbiS => putative L,D-transpeptidase YbiS
+[11:02:54] Cleaned 18 /product names
+[11:02:54] Deleting unwanted file: prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.sprot.tmp.55381.faa
+[11:02:54] Deleting unwanted file: prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.sprot.tmp.55381.blast
+[11:02:54] There are still 81 unannotated CDS left (started with 579)
+[11:02:54] Will use hmmer3 to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/hmm/HAMAP.hmm with 2 CPUs
+[11:02:54] Running: cat prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1\/Doolittlea_endobia_DEMHIR_GCF_900039485_1\.HAMAP\.hmm\.tmp\.55381\.faa | parallel --gnu --plain -j 2 --block 2790 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/hmm/HAMAP.hmm /dev/stdin > prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1\/Doolittlea_endobia_DEMHIR_GCF_900039485_1\.HAMAP\.hmm\.tmp\.55381\.hmmer3 2> /dev/null
+[11:02:59] Deleting unwanted file: prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.HAMAP.hmm.tmp.55381.faa
+[11:02:59] Deleting unwanted file: prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.HAMAP.hmm.tmp.55381.hmmer3
+[11:02:59] Labelling remaining 68 proteins as 'hypothetical protein'
+[11:02:59] Possible /pseudo 'Methionine--tRNA ligase' at NZ_LN999833.1 position 59068
+[11:02:59] Possible /pseudo 'Inosine-5'-monophosphate dehydrogenase' at NZ_LN999833.1 position 85992
+[11:02:59] Possible /pseudo 'Peptidoglycan D,D-transpeptidase FtsI' at NZ_LN999833.1 position 120873
+[11:02:59] Possible /pseudo 'GTP pyrophosphokinase' at NZ_LN999833.1 position 169952
+[11:02:59] Possible /pseudo 'Phosphoribosylformylglycinamidine synthase' at NZ_LN999833.1 position 268548
+[11:02:59] Possible /pseudo 'Phosphoribosylformylglycinamidine cyclo-ligase' at NZ_LN999833.1 position 339999
+[11:02:59] Possible /pseudo 'Bis(5'-nucleosyl)-tetraphosphatase, symmetrical' at NZ_LN999833.1 position 390514
+[11:02:59] Possible /pseudo 'Bis(5'-nucleosyl)-tetraphosphatase, symmetrical' at NZ_LN999833.1 position 390961
+[11:02:59] Possible /pseudo 'ATP synthase subunit alpha' at NZ_LN999833.1 position 636730
+[11:02:59] Possible /pseudo 'ATP synthase subunit beta' at NZ_LN999833.1 position 638959
+[11:02:59] Possible /pseudo 'ATP-dependent RecD-like DNA helicase' at NZ_LN999834.1 position 3148
+[11:02:59] Possible /pseudo 'Phosphomethylpyrimidine synthase' at NZ_LN999834.1 position 6207
+[11:02:59] Found 490 unique /gene codes.
+[11:02:59] Fixed 2 duplicate /gene - metG_1 metG_2
+[11:02:59] Fixed 2 duplicate /gene - atpA_1 atpA_2
+[11:02:59] Fixed 2 duplicate /gene - ftsI_1 ftsI_2
+[11:02:59] Fixed 2 duplicate /gene - guaB_1 guaB_2
+[11:02:59] Fixed 2 duplicate /gene - thiC_1 thiC_2
+[11:02:59] Fixed 2 duplicate /gene - purL_1 purL_2
+[11:02:59] Fixed 3 duplicate /gene - apaH_1 apaH_2 apaH_3
+[11:02:59] Fixed 2 duplicate /gene - aroQ_1 aroQ_2
+[11:02:59] Fixed 2 duplicate /gene - recD2_1 recD2_2
+[11:02:59] Fixed 2 duplicate /gene - lon_1 lon_2
+[11:02:59] Fixed 2 duplicate /gene - purM_1 purM_2
+[11:02:59] Fixed 2 duplicate /gene - relA_1 relA_2
+[11:02:59] Fixed 12 colliding /gene names.
+[11:02:59] Adding /locus_tag identifiers
+[11:02:59] Assigned 624 locus_tags to CDS and RNA features.
+[11:02:59] Writing outputs to prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/
+[11:02:59] Generating annotation statistics file
+[11:02:59] Generating Genbank and Sequin files
+[11:02:59] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka_ed 1.14.6 from https://github.com/tseemann/prokka' -Z prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1\/Doolittlea_endobia_DEMHIR_GCF_900039485_1\.err -i prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1\/Doolittlea_endobia_DEMHIR_GCF_900039485_1\.fsa 2> /dev/null
+[11:03:01] Deleting unwanted file: prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/errorsummary.val
+[11:03:01] Deleting unwanted file: prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.dr
+[11:03:01] Deleting unwanted file: prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.fixedproducts
+[11:03:01] Deleting unwanted file: prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.ecn
+[11:03:01] Deleting unwanted file: prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.val
+[11:03:01] Repairing broken .GBK output that tbl2asn produces...
+[11:03:01] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1\/Doolittlea_endobia_DEMHIR_GCF_900039485_1\.gbf > prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1\/Doolittlea_endobia_DEMHIR_GCF_900039485_1\.gbk
+[11:03:01] Deleting unwanted file: prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.gbf
+[11:03:01] Output files:
+[11:03:01] prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.log
+[11:03:01] prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.fna
+[11:03:01] prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.gff
+[11:03:01] prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.faa
+[11:03:01] prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.ffn
+[11:03:01] prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.tbl
+[11:03:01] prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.fsa
+[11:03:01] prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.tsv
+[11:03:01] prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.txt
+[11:03:01] prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.gbk
+[11:03:01] prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.sqn
+[11:03:01] prokka_Doolittlea_endobia_DEMHIR_GCF_900039485_1/Doolittlea_endobia_DEMHIR_GCF_900039485_1.err
+[11:03:01] Annotation finished successfully.
+[11:03:01] Walltime used: 1.00 minutes
+[11:03:01] If you use this result please cite the Prokka paper:
+[11:03:01] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[11:03:01] Type 'prokka --citation' for more details.
+[11:03:01] Thank you, come again.

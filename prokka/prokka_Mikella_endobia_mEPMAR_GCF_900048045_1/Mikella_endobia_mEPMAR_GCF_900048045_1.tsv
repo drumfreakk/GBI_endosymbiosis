@@ -1,0 +1,329 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+Mikella_endobia_mEPMAR_GCF_900048045_1_00001	CDS	1806	lepA	3.6.5.-	COG0481	Elongation factor 4
+Mikella_endobia_mEPMAR_GCF_900048045_1_00002	CDS	111				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00003	CDS	681	rnc	3.1.26.3	COG0571	Ribonuclease 3
+Mikella_endobia_mEPMAR_GCF_900048045_1_00004	CDS	885	era		COG1159	GTPase Era
+Mikella_endobia_mEPMAR_GCF_900048045_1_00005	CDS	381	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00006	CDS	2199	priA	3.6.4.-	COG1198	Primosomal protein N'
+Mikella_endobia_mEPMAR_GCF_900048045_1_00007	CDS	216	rpmE		COG0254	50S ribosomal protein L31
+Mikella_endobia_mEPMAR_GCF_900048045_1_00008	tRNA	86				tRNA-Ser(tga)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00009	CDS	327	tusE	2.8.1.-	COG2920	Sulfurtransferase TusE
+Mikella_endobia_mEPMAR_GCF_900048045_1_00010	tRNA	74				tRNA-Pro(ggg)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00011	CDS	273	rplY		COG1825	50S ribosomal protein L25
+Mikella_endobia_mEPMAR_GCF_900048045_1_00012	CDS	414	ibpA		COG0071	Small heat shock protein IbpA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00013	CDS	459	ibpB		COG0071	Small heat shock protein IbpB
+Mikella_endobia_mEPMAR_GCF_900048045_1_00014	CDS	906	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+Mikella_endobia_mEPMAR_GCF_900048045_1_00015	CDS	2076	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+Mikella_endobia_mEPMAR_GCF_900048045_1_00016	CDS	2562	mutS		COG0249	DNA mismatch repair protein MutS
+Mikella_endobia_mEPMAR_GCF_900048045_1_00017	CDS	2337	lon	3.4.21.53	COG0466	Lon protease
+Mikella_endobia_mEPMAR_GCF_900048045_1_00018	CDS	1272	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+Mikella_endobia_mEPMAR_GCF_900048045_1_00019	CDS	585	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+Mikella_endobia_mEPMAR_GCF_900048045_1_00020	tRNA	76				tRNA-Thr(cgt)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00021	CDS	1911	dnaK		COG0443	Chaperone protein DnaK
+Mikella_endobia_mEPMAR_GCF_900048045_1_00022	CDS	1134	dnaJ		COG0484	Chaperone protein DnaJ
+Mikella_endobia_mEPMAR_GCF_900048045_1_00023	CDS	294	rpsT		COG0268	30S ribosomal protein S20
+Mikella_endobia_mEPMAR_GCF_900048045_1_00024	CDS	2826	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00025	CDS	1113	recA		COG0468	Protein RecA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00026	CDS	2634	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00027	CDS	177	csrA			Translational regulator CsrA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00028	tRNA	91				tRNA-Ser(gct)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00029	tRNA	77				tRNA-Arg(acg)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00030	CDS	216	ydgT			Transcription modulator YdgT
+Mikella_endobia_mEPMAR_GCF_900048045_1_00031	CDS	1275	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00032	CDS	657	rnt	3.1.13.-	COG0847	Ribonuclease T
+Mikella_endobia_mEPMAR_GCF_900048045_1_00033	CDS	267	ibaG		COG5007	Acid stress protein IbaG
+Mikella_endobia_mEPMAR_GCF_900048045_1_00034	CDS	630	ribC	2.5.1.9	COG0307	Riboflavin synthase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00035	CDS	333	grxD		COG0278	Glutaredoxin 4
+Mikella_endobia_mEPMAR_GCF_900048045_1_00036	tRNA	77				tRNA-Pro(cgg)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00037	CDS	462	greA		COG0782	Transcription elongation factor GreA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00038	CDS	630	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+Mikella_endobia_mEPMAR_GCF_900048045_1_00039	CDS	1890	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+Mikella_endobia_mEPMAR_GCF_900048045_1_00040	CDS	420				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00041	tRNA	83				tRNA-Leu(gag)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00042	CDS	324				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00043	CDS	1485	nusA		COG0195	Transcription termination/antitermination protein NusA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00044	CDS	2676	infB		COG0532	Translation initiation factor IF-2
+Mikella_endobia_mEPMAR_GCF_900048045_1_00045	CDS	462	rbfA		COG0858	30S ribosome-binding factor
+Mikella_endobia_mEPMAR_GCF_900048045_1_00046	CDS	936	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+Mikella_endobia_mEPMAR_GCF_900048045_1_00047	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+Mikella_endobia_mEPMAR_GCF_900048045_1_00048	CDS	2019	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00049	CDS	1419	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+Mikella_endobia_mEPMAR_GCF_900048045_1_00050	CDS	1386	radA	3.6.4.-	COG1066	DNA repair protein RadA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00051	tRNA	73				tRNA-Lys(ctt)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00052	CDS	1359	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+Mikella_endobia_mEPMAR_GCF_900048045_1_00053	CDS	351	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+Mikella_endobia_mEPMAR_GCF_900048045_1_00054	CDS	144	rpmH		COG0230	50S ribosomal protein L34
+Mikella_endobia_mEPMAR_GCF_900048045_1_00055	CDS	1131	dnaN		COG0592	Beta sliding clamp
+Mikella_endobia_mEPMAR_GCF_900048045_1_00056	CDS	957	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00057	CDS	444	def	3.5.1.88	COG0242	Peptide deformylase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00058	tRNA	75				tRNA-Glu(ttc)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00059	CDS	570	efp		COG0231	Elongation factor P
+Mikella_endobia_mEPMAR_GCF_900048045_1_00060	CDS	1638	groL		COG0459	60 kDa chaperonin
+Mikella_endobia_mEPMAR_GCF_900048045_1_00061	CDS	354	groS		COG0234	10 kDa chaperonin
+Mikella_endobia_mEPMAR_GCF_900048045_1_00062	CDS	1845	mutL		COG0323	DNA mismatch repair protein MutL
+Mikella_endobia_mEPMAR_GCF_900048045_1_00063	CDS	930	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00064	CDS	294	hfq		COG1923	RNA-binding protein Hfq
+Mikella_endobia_mEPMAR_GCF_900048045_1_00065	CDS	741	rlmB	2.1.1.185	COG0566	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+Mikella_endobia_mEPMAR_GCF_900048045_1_00066	CDS	1104	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00067	CDS	2052	mfd	3.6.4.-	COG1197	Transcription-repair-coupling factor
+Mikella_endobia_mEPMAR_GCF_900048045_1_00068	CDS	828	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+Mikella_endobia_mEPMAR_GCF_900048045_1_00069	CDS	1002	holB	2.7.7.7	COG0470	DNA polymerase III subunit delta'
+Mikella_endobia_mEPMAR_GCF_900048045_1_00070	CDS	1905	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+Mikella_endobia_mEPMAR_GCF_900048045_1_00071	CDS	978	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+Mikella_endobia_mEPMAR_GCF_900048045_1_00072	CDS	2100	rne	3.1.26.12		Ribonuclease E
+Mikella_endobia_mEPMAR_GCF_900048045_1_00073	CDS	135				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00074	CDS	900	polA	2.7.7.7	COG0258	DNA polymerase I
+Mikella_endobia_mEPMAR_GCF_900048045_1_00075	CDS	615	engB		COG0218	putative GTP-binding protein EngB
+Mikella_endobia_mEPMAR_GCF_900048045_1_00076	CDS	1809	typA		COG1217	GTP-binding protein TypA/BipA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00077	CDS	366	rplQ		COG0203	50S ribosomal protein L17
+Mikella_endobia_mEPMAR_GCF_900048045_1_00078	CDS	987	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+Mikella_endobia_mEPMAR_GCF_900048045_1_00079	CDS	621	rpsD		COG0522	30S ribosomal protein S4
+Mikella_endobia_mEPMAR_GCF_900048045_1_00080	CDS	384	rpsK		COG0100	30S ribosomal protein S11
+Mikella_endobia_mEPMAR_GCF_900048045_1_00081	CDS	354	rpsM		COG0099	30S ribosomal protein S13
+Mikella_endobia_mEPMAR_GCF_900048045_1_00082	CDS	1308	secY		COG0201	Protein translocase subunit SecY
+Mikella_endobia_mEPMAR_GCF_900048045_1_00083	CDS	453	rplO		COG0200	50S ribosomal protein L15
+Mikella_endobia_mEPMAR_GCF_900048045_1_00084	CDS	180	rpmD		COG1841	50S ribosomal protein L30
+Mikella_endobia_mEPMAR_GCF_900048045_1_00085	CDS	501	rpsE		COG0098	30S ribosomal protein S5
+Mikella_endobia_mEPMAR_GCF_900048045_1_00086	CDS	369	rplR		COG0256	50S ribosomal protein L18
+Mikella_endobia_mEPMAR_GCF_900048045_1_00087	CDS	537	rplF		COG0097	50S ribosomal protein L6
+Mikella_endobia_mEPMAR_GCF_900048045_1_00088	CDS	393	rpsH		COG0096	30S ribosomal protein S8
+Mikella_endobia_mEPMAR_GCF_900048045_1_00089	CDS	306	rpsN		COG0199	30S ribosomal protein S14
+Mikella_endobia_mEPMAR_GCF_900048045_1_00090	CDS	549	rplE		COG0094	50S ribosomal protein L5
+Mikella_endobia_mEPMAR_GCF_900048045_1_00091	CDS	318	rplX		COG0198	50S ribosomal protein L24
+Mikella_endobia_mEPMAR_GCF_900048045_1_00092	CDS	372	rplN		COG0093	50S ribosomal protein L14
+Mikella_endobia_mEPMAR_GCF_900048045_1_00093	CDS	252	rpsQ		COG0186	30S ribosomal protein S17
+Mikella_endobia_mEPMAR_GCF_900048045_1_00094	CDS	195				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00095	CDS	420	rplP		COG0197	50S ribosomal protein L16
+Mikella_endobia_mEPMAR_GCF_900048045_1_00096	CDS	765	rpsC		COG0092	30S ribosomal protein S3
+Mikella_endobia_mEPMAR_GCF_900048045_1_00097	CDS	333	rplV		COG0091	50S ribosomal protein L22
+Mikella_endobia_mEPMAR_GCF_900048045_1_00098	CDS	279	rpsS		COG0185	30S ribosomal protein S19
+Mikella_endobia_mEPMAR_GCF_900048045_1_00099	CDS	819	rplB		COG0090	50S ribosomal protein L2
+Mikella_endobia_mEPMAR_GCF_900048045_1_00100	CDS	309	rplW		COG0089	50S ribosomal protein L23
+Mikella_endobia_mEPMAR_GCF_900048045_1_00101	CDS	609	rplD		COG0088	50S ribosomal protein L4
+Mikella_endobia_mEPMAR_GCF_900048045_1_00102	CDS	630	rplC		COG0087	50S ribosomal protein L3
+Mikella_endobia_mEPMAR_GCF_900048045_1_00103	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+Mikella_endobia_mEPMAR_GCF_900048045_1_00104	CDS	1188	tufB		COG0050	Elongation factor Tu 2
+Mikella_endobia_mEPMAR_GCF_900048045_1_00105	tRNA	73				tRNA-Thr(ggt)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00106	tRNA	75				tRNA-Gly(tcc)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00107	tRNA	85				tRNA-Tyr(gta)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00108	tRNA	75				tRNA-Thr(tgt)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00109	CDS	4218	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+Mikella_endobia_mEPMAR_GCF_900048045_1_00110	CDS	4029	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+Mikella_endobia_mEPMAR_GCF_900048045_1_00111	CDS	375	rplL		COG0222	50S ribosomal protein L7/L12
+Mikella_endobia_mEPMAR_GCF_900048045_1_00112	CDS	498	rplJ		COG0244	50S ribosomal protein L10
+Mikella_endobia_mEPMAR_GCF_900048045_1_00113	CDS	699	rplA		COG0081	50S ribosomal protein L1
+Mikella_endobia_mEPMAR_GCF_900048045_1_00114	CDS	429	rplK		COG0080	50S ribosomal protein L11
+Mikella_endobia_mEPMAR_GCF_900048045_1_00115	CDS	546	nusG		COG0250	Transcription termination/antitermination protein NusG
+Mikella_endobia_mEPMAR_GCF_900048045_1_00116	CDS	198	secE		COG0690	Protein translocase subunit SecE
+Mikella_endobia_mEPMAR_GCF_900048045_1_00117	CDS	297				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00118	CDS	2103	fusA		COG0480	Elongation factor G
+Mikella_endobia_mEPMAR_GCF_900048045_1_00119	CDS	474	rpsG		COG0049	30S ribosomal protein S7
+Mikella_endobia_mEPMAR_GCF_900048045_1_00120	CDS	375	rpsL		COG0048	30S ribosomal protein S12
+Mikella_endobia_mEPMAR_GCF_900048045_1_00121	CDS	288	tusB		COG2168	Protein TusB
+Mikella_endobia_mEPMAR_GCF_900048045_1_00122	CDS	366	tusC		COG2923	Protein TusC
+Mikella_endobia_mEPMAR_GCF_900048045_1_00123	CDS	402	tusD	2.8.1.-	COG1553	Sulfurtransferase TusD
+Mikella_endobia_mEPMAR_GCF_900048045_1_00124	CDS	255	tusA		COG0425	Sulfur carrier protein TusA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00125	CDS	318	rplU		COG0261	50S ribosomal protein L21
+Mikella_endobia_mEPMAR_GCF_900048045_1_00126	CDS	255	rpmA		COG0211	50S ribosomal protein L27
+Mikella_endobia_mEPMAR_GCF_900048045_1_00127	CDS	1020	obgE	3.6.5.-	COG0536	GTPase ObgE/CgtA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00128	CDS	210	cspC			Cold shock-like protein CspC
+Mikella_endobia_mEPMAR_GCF_900048045_1_00129	CDS	786	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+Mikella_endobia_mEPMAR_GCF_900048045_1_00130	CDS	750	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+Mikella_endobia_mEPMAR_GCF_900048045_1_00131	CDS	1671	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+Mikella_endobia_mEPMAR_GCF_900048045_1_00132	CDS	582	trpGD		COG0512	Bifunctional protein TrpGD
+Mikella_endobia_mEPMAR_GCF_900048045_1_00133	CDS	1365	trpC		COG0134	Tryptophan biosynthesis protein TrpCF
+Mikella_endobia_mEPMAR_GCF_900048045_1_00134	CDS	1191	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+Mikella_endobia_mEPMAR_GCF_900048045_1_00135	CDS	807	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+Mikella_endobia_mEPMAR_GCF_900048045_1_00136	CDS	1470	clsA	2.7.8.-	COG1502	Cardiolipin synthase A
+Mikella_endobia_mEPMAR_GCF_900048045_1_00137	CDS	420	hns			DNA-binding protein H-NS
+Mikella_endobia_mEPMAR_GCF_900048045_1_00138	CDS	804	xthA	3.1.11.2	COG0708	Exodeoxyribonuclease III
+Mikella_endobia_mEPMAR_GCF_900048045_1_00139	CDS	531	dsbB		COG1495	Disulfide bond formation protein B
+Mikella_endobia_mEPMAR_GCF_900048045_1_00140	CDS	690	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+Mikella_endobia_mEPMAR_GCF_900048045_1_00141	CDS	1224	pcnB	2.7.7.19	COG0617	Poly(A) polymerase I
+Mikella_endobia_mEPMAR_GCF_900048045_1_00142	CDS	453	dksA		COG1734	RNA polymerase-binding transcription factor DksA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00143	CDS	345	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00144	CDS	1242	cca		COG0617	Multifunctional CCA protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00145	CDS	1017	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00146	CDS	216	rpsU		COG0828	30S ribosomal protein S21
+Mikella_endobia_mEPMAR_GCF_900048045_1_00147	CDS	1758	dnaG	2.7.7.-	COG0358	DNA primase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00148	CDS	1845	rpoD		COG0568	RNA polymerase sigma factor RpoD
+Mikella_endobia_mEPMAR_GCF_900048045_1_00149	tRNA	73				tRNA-Met(cat)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00150	CDS	1212	fabB	2.3.1.41	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 1
+Mikella_endobia_mEPMAR_GCF_900048045_1_00151	CDS	915	prmB	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00152	CDS	597	grpE		COG0576	Protein GrpE
+Mikella_endobia_mEPMAR_GCF_900048045_1_00153	CDS	480	smpB		COG0691	SsrA-binding protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00154	tmRNA	379	ssrA			transfer-messenger RNA, SsrA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00155	CDS	489	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00156	CDS	639	mscK		COG3264	Mechanosensitive channel MscK
+Mikella_endobia_mEPMAR_GCF_900048045_1_00157	CDS	234				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00158	tRNA	75				tRNA-Phe(gaa)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00159	CDS	1005	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00160	CDS	522	aroK	2.7.1.71	COG0703	Shikimate kinase 1
+Mikella_endobia_mEPMAR_GCF_900048045_1_00161	CDS	1170	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+Mikella_endobia_mEPMAR_GCF_900048045_1_00162	CDS	870	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+Mikella_endobia_mEPMAR_GCF_900048045_1_00163	CDS	1551	cydA	7.1.1.7	COG1271	Cytochrome bd-I ubiquinol oxidase subunit 1
+Mikella_endobia_mEPMAR_GCF_900048045_1_00164	CDS	1113	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+Mikella_endobia_mEPMAR_GCF_900048045_1_00165	tRNA	75				tRNA-Asp(gtc)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00166	CDS	738	dnaQ	2.7.7.7	COG0847	DNA polymerase III subunit epsilon
+Mikella_endobia_mEPMAR_GCF_900048045_1_00167	CDS	504	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+Mikella_endobia_mEPMAR_GCF_900048045_1_00168	tRNA	73				tRNA-Lys(ttt)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00169	tRNA	73				tRNA-Val(tac)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00170	CDS	1410	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00171	tRNA	75				tRNA-Ala(ggc)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00172	CDS	975	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+Mikella_endobia_mEPMAR_GCF_900048045_1_00173	CDS	2580	clpB		COG0542	Chaperone protein ClpB
+Mikella_endobia_mEPMAR_GCF_900048045_1_00174	rRNA	1548				16S ribosomal RNA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00175	tRNA	77				tRNA-Ile(gat)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00176	tRNA	75				tRNA-Ala(tgc)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00177	rRNA	2887				23S ribosomal RNA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00178	rRNA	111				5S ribosomal RNA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00179	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00180	tRNA	87				tRNA-Ser(cga)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00181	CDS	978	ygfZ		COG0354	tRNA-modifying protein YgfZ
+Mikella_endobia_mEPMAR_GCF_900048045_1_00182	CDS	2496	secA		COG0653	Protein translocase subunit SecA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00183	CDS	513				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00184	CDS	942	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+Mikella_endobia_mEPMAR_GCF_900048045_1_00185	CDS	1086	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00186	CDS	1401	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+Mikella_endobia_mEPMAR_GCF_900048045_1_00187	CDS	603	leuD	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit
+Mikella_endobia_mEPMAR_GCF_900048045_1_00188	CDS	798	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+Mikella_endobia_mEPMAR_GCF_900048045_1_00189	CDS	3228	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+Mikella_endobia_mEPMAR_GCF_900048045_1_00190	CDS	1203	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+Mikella_endobia_mEPMAR_GCF_900048045_1_00191	CDS	843	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00192	CDS	840	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00193	CDS	1086	prfA		COG0216	Peptide chain release factor RF1
+Mikella_endobia_mEPMAR_GCF_900048045_1_00194	CDS	951	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00195	CDS	567	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00196	CDS	1092	ychF		COG0012	Ribosome-binding ATPase YchF
+Mikella_endobia_mEPMAR_GCF_900048045_1_00197	tRNA	74				tRNA-Asn(gtt)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00198	tRNA	73				tRNA-Arg(cct)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00199	CDS	1731	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00200	CDS	1704	aspS	6.1.1.12	COG0173	Aspartate--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00201	CDS	492	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+Mikella_endobia_mEPMAR_GCF_900048045_1_00202	CDS	618	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00203	CDS	1020	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+Mikella_endobia_mEPMAR_GCF_900048045_1_00204	CDS	183	rpmB		COG0227	50S ribosomal protein L28
+Mikella_endobia_mEPMAR_GCF_900048045_1_00205	CDS	168	rpmG		COG0267	50S ribosomal protein L33
+Mikella_endobia_mEPMAR_GCF_900048045_1_00206	CDS	810	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00207	CDS	717	nucM	3.1.21.-	COG2356	Nuclease NucM
+Mikella_endobia_mEPMAR_GCF_900048045_1_00208	CDS	603	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+Mikella_endobia_mEPMAR_GCF_900048045_1_00209	CDS	1125	tgt	2.4.2.29	COG0343	Queuine tRNA-ribosyltransferase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00210	CDS	474	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00211	CDS	423	nusB		COG0781	Transcription antitermination protein NusB
+Mikella_endobia_mEPMAR_GCF_900048045_1_00212	CDS	1479	thiI	2.8.1.4	COG0301	tRNA sulfurtransferase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00213	CDS	504	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00214	CDS	102				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00215	CDS	297	fis		COG2901	DNA-binding protein Fis
+Mikella_endobia_mEPMAR_GCF_900048045_1_00216	CDS	390	rpsF		COG0360	30S ribosomal protein S6
+Mikella_endobia_mEPMAR_GCF_900048045_1_00217	CDS	243	rpsR		COG0238	30S ribosomal protein S18
+Mikella_endobia_mEPMAR_GCF_900048045_1_00218	CDS	456	rplI		COG0359	50S ribosomal protein L9
+Mikella_endobia_mEPMAR_GCF_900048045_1_00219	tRNA	77				tRNA-Pro(tgg)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00220	tRNA	88				tRNA-Leu(cag)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00221	tRNA	74				tRNA-His(gtg)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00222	tRNA	77				tRNA-Arg(ccg)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00223	CDS	1260	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+Mikella_endobia_mEPMAR_GCF_900048045_1_00224	CDS	339	trxA		COG0526	Thioredoxin 1
+Mikella_endobia_mEPMAR_GCF_900048045_1_00225	CDS	564				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00226	CDS	423	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+Mikella_endobia_mEPMAR_GCF_900048045_1_00227	CDS	510				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00228	CDS	1122	hemW		COG0635	Heme chaperone HemW
+Mikella_endobia_mEPMAR_GCF_900048045_1_00229	CDS	816	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00230	CDS	1197	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+Mikella_endobia_mEPMAR_GCF_900048045_1_00231	CDS	1143	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+Mikella_endobia_mEPMAR_GCF_900048045_1_00232	CDS	1290	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00233	CDS	252				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00234	CDS	1434	der		COG1160	GTPase Der
+Mikella_endobia_mEPMAR_GCF_900048045_1_00235	CDS	1314	dnaB	3.6.4.12	COG0305	Replicative DNA helicase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00236	CDS	540	ssb			Single-stranded DNA-binding protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00237	tRNA	76				tRNA-Trp(cca)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00238	CDS	1731	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00239	CDS	1422	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00240	CDS	3264	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+Mikella_endobia_mEPMAR_GCF_900048045_1_00241	CDS	492	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Mikella_endobia_mEPMAR_GCF_900048045_1_00242	CDS	558	frr		COG0233	Ribosome-recycling factor
+Mikella_endobia_mEPMAR_GCF_900048045_1_00243	CDS	861	tsf		COG0264	Elongation factor Ts
+Mikella_endobia_mEPMAR_GCF_900048045_1_00244	CDS	711	rpsB		COG0052	30S ribosomal protein S2
+Mikella_endobia_mEPMAR_GCF_900048045_1_00245	CDS	795	map	3.4.11.18	COG0024	Methionine aminopeptidase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00246	tRNA	74				tRNA-Met(cat)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00247	CDS	327	uvrD_1	3.6.4.12	COG0210	DNA helicase II
+Mikella_endobia_mEPMAR_GCF_900048045_1_00248	CDS	432	uvrD_2	3.6.4.12	COG0210	DNA helicase II
+Mikella_endobia_mEPMAR_GCF_900048045_1_00249	CDS	456	uvrD_3	3.6.4.12	COG0210	DNA helicase II
+Mikella_endobia_mEPMAR_GCF_900048045_1_00250	CDS	237	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+Mikella_endobia_mEPMAR_GCF_900048045_1_00251	CDS	591	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+Mikella_endobia_mEPMAR_GCF_900048045_1_00252	CDS	864	rpoH		COG0568	RNA polymerase sigma factor RpoH
+Mikella_endobia_mEPMAR_GCF_900048045_1_00253	CDS	1296	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00254	CDS	969	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00255	CDS	1770	cydD		COG4988	ATP-binding/permease protein CydD
+Mikella_endobia_mEPMAR_GCF_900048045_1_00256	CDS	1743	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Mikella_endobia_mEPMAR_GCF_900048045_1_00257	CDS	219	infA		COG0361	Translation initiation factor IF-1
+Mikella_endobia_mEPMAR_GCF_900048045_1_00258	CDS	171				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00259	CDS	1674	rpsA		COG0539	30S ribosomal protein S1
+Mikella_endobia_mEPMAR_GCF_900048045_1_00260	CDS	1659	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00261	CDS	198				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00262	CDS	2421	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+Mikella_endobia_mEPMAR_GCF_900048045_1_00263	tRNA	76				tRNA-Val(gac)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00264	CDS	1413	pykF	2.7.1.40	COG0469	Pyruvate kinase I
+Mikella_endobia_mEPMAR_GCF_900048045_1_00265	CDS	444	sufE		COG2166	Cysteine desulfuration protein SufE
+Mikella_endobia_mEPMAR_GCF_900048045_1_00266	CDS	1224	sufS	2.8.1.7	COG0520	Cysteine desulfurase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00267	CDS	1287	sufD		COG0719	FeS cluster assembly protein SufD
+Mikella_endobia_mEPMAR_GCF_900048045_1_00268	CDS	741	sufC		COG0396	putative ATP-dependent transporter SufC
+Mikella_endobia_mEPMAR_GCF_900048045_1_00269	CDS	1461	sufB		COG0719	FeS cluster assembly protein SufB
+Mikella_endobia_mEPMAR_GCF_900048045_1_00270	CDS	378	sufA		COG0316	Protein SufA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00271	CDS	126				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00272	CDS	2427	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+Mikella_endobia_mEPMAR_GCF_900048045_1_00273	CDS	987	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+Mikella_endobia_mEPMAR_GCF_900048045_1_00274	CDS	351	rplT		COG0292	50S ribosomal protein L20
+Mikella_endobia_mEPMAR_GCF_900048045_1_00275	CDS	192	rpmI		COG0291	50S ribosomal protein L35
+Mikella_endobia_mEPMAR_GCF_900048045_1_00276	CDS	522	infC		COG0290	Translation initiation factor IF-3
+Mikella_endobia_mEPMAR_GCF_900048045_1_00277	CDS	1923	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00278	CDS	1500	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00279	CDS	747	prfB		COG1186	Peptide chain release factor RF2
+Mikella_endobia_mEPMAR_GCF_900048045_1_00280	CDS	429	rplM		COG0102	50S ribosomal protein L13
+Mikella_endobia_mEPMAR_GCF_900048045_1_00281	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+Mikella_endobia_mEPMAR_GCF_900048045_1_00282	CDS	876	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+Mikella_endobia_mEPMAR_GCF_900048045_1_00283	CDS	1434	sbcB	3.1.11.1	COG2925	Exodeoxyribonuclease I
+Mikella_endobia_mEPMAR_GCF_900048045_1_00284	tRNA	76				tRNA-Arg(tct)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00285	CDS	1410	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00286	CDS	1707				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00287	CDS	240	rpsP		COG0228	30S ribosomal protein S16
+Mikella_endobia_mEPMAR_GCF_900048045_1_00288	CDS	570	rimM		COG0806	Ribosome maturation factor RimM
+Mikella_endobia_mEPMAR_GCF_900048045_1_00289	CDS	771	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00290	CDS	348	rplS		COG0335	50S ribosomal protein L19
+Mikella_endobia_mEPMAR_GCF_900048045_1_00291	CDS	318	holC	2.7.7.7	COG2927	DNA polymerase III subunit chi
+Mikella_endobia_mEPMAR_GCF_900048045_1_00292	CDS	2865	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00293	CDS	1014	argI	2.1.3.3	COG0078	Ornithine carbamoyltransferase subunit I
+Mikella_endobia_mEPMAR_GCF_900048045_1_00294	CDS	1107	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00295	tRNA	88				tRNA-Ser(gga)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00296	CDS	747	fpr	1.18.1.2	COG1018	Flavodoxin/ferredoxin--NADP reductase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00297	tRNA	86				tRNA-Leu(taa)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00298	tRNA	74				tRNA-Cys(gca)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00299	tRNA	75				tRNA-Gly(gcc)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00300	CDS	165	rpmF		COG0333	50S ribosomal protein L32
+Mikella_endobia_mEPMAR_GCF_900048045_1_00301	CDS	873	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00302	CDS	735	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Mikella_endobia_mEPMAR_GCF_900048045_1_00303	CDS	234	acpP		COG0236	Acyl carrier protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00304	CDS	1797	ligA	6.5.1.2	COG0272	DNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00305	CDS	651	mutH		COG3066	DNA mismatch repair protein MutH
+Mikella_endobia_mEPMAR_GCF_900048045_1_00306	CDS	471	rppH	3.6.1.-	COG0494	RNA pyrophosphohydrolase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00307	CDS	3402	recC	3.1.11.5	COG1330	RecBCD enzyme subunit RecC
+Mikella_endobia_mEPMAR_GCF_900048045_1_00308	CDS	3546	recB	3.1.11.5	COG1074	RecBCD enzyme subunit RecB
+Mikella_endobia_mEPMAR_GCF_900048045_1_00309	CDS	1866	recD	3.1.11.5	COG0507	RecBCD enzyme subunit RecD
+Mikella_endobia_mEPMAR_GCF_900048045_1_00310	CDS	783	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+Mikella_endobia_mEPMAR_GCF_900048045_1_00311	tRNA	82				tRNA-Leu(caa)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00312	CDS	2523	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+Mikella_endobia_mEPMAR_GCF_900048045_1_00313	tRNA	83				tRNA-Leu(tag)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00314	tRNA	73				tRNA-Gln(ttg)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00315	tRNA	77				tRNA-Met(cat)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00316	tRNA	72				tRNA-Gln(ctg)
+Mikella_endobia_mEPMAR_GCF_900048045_1_00317	CDS	480	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+Mikella_endobia_mEPMAR_GCF_900048045_1_00318	CDS	2583	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00319	CDS	993	holA	2.7.7.7	COG1466	DNA polymerase III subunit delta
+Mikella_endobia_mEPMAR_GCF_900048045_1_00320	CDS	93				hypothetical protein
+Mikella_endobia_mEPMAR_GCF_900048045_1_00321	CDS	618	lipB	2.3.1.181	COG0321	Octanoyltransferase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00322	CDS	966	lipA	2.8.1.8	COG0320	Lipoyl synthase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00323	CDS	552	fldA		COG0716	Flavodoxin
+Mikella_endobia_mEPMAR_GCF_900048045_1_00324	CDS	1677	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00325	CDS	609	nfuA		COG0316	Fe/S biogenesis protein NfuA
+Mikella_endobia_mEPMAR_GCF_900048045_1_00326	CDS	1434	lpdA	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+Mikella_endobia_mEPMAR_GCF_900048045_1_00327	CDS	1815	aceF	2.3.1.12	COG0508	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+Mikella_endobia_mEPMAR_GCF_900048045_1_00328	CDS	2667	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component

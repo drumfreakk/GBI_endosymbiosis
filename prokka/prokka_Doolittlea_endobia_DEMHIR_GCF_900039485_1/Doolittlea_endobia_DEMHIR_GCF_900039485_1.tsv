@@ -1,0 +1,625 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00001	CDS	1800	lepA	3.6.5.-	COG0481	Elongation factor 4
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00002	CDS	990	lepB	3.4.21.89	COG0681	Signal peptidase I
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00003	CDS	681	rnc	3.1.26.3	COG0571	Ribonuclease 3
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00004	CDS	894	era		COG1159	GTPase Era
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00005	CDS	810	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00006	CDS	789	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00007	CDS	768	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00008	CDS	807	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00009	CDS	1467	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00010	CDS	480	ptsN		COG1762	Nitrogen regulatory protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00011	CDS	726	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00012	CDS	537	lptA		COG1934	Lipopolysaccharide export system protein LptA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00013	CDS	579	lptC		COG3117	Lipopolysaccharide export system protein LptC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00014	CDS	129	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00015	CDS	987	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00016	CDS	801	mlaF	3.6.3.-	COG1127	Intermembrane phospholipid transport system ATP-binding protein MlaF
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00017	CDS	783	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00018	CDS	540	mlaD		COG1463	Intermembrane phospholipid transport system binding protein MlaD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00019	CDS	636	mlaC		COG2854	Intermembrane phospholipid transport system binding protein MlaC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00020	CDS	339	mlaB		COG3113	Intermembrane phospholipid transport system binding protein MlaB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00021	CDS	1365	ffh		COG0541	Signal recognition particle protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00022	CDS	249	rpsP		COG0228	30S ribosomal protein S16
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00023	CDS	507	rimM		COG0806	Ribosome maturation factor RimM
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00024	CDS	753	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00025	CDS	348	rplS		COG0335	50S ribosomal protein L19
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00026	tRNA	90				tRNA-Ser(gga)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00027	CDS	1110	ompC		COG3203	Outer membrane porin C
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00028	CDS	324				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00029	CDS	1260	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00030	CDS	1371	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00031	CDS	429	rplM		COG0102	50S ribosomal protein L13
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00032	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00033	CDS	726				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00034	CDS	531	mutS2	3.1.-.-		Endonuclease MutS2
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00035	CDS	153				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00036	CDS	1356	pssA	2.7.8.8	COG1502	CDP-diacylglycerol--serine O-phosphatidyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00037	CDS	750	dnaQ	2.7.7.7	COG0847	DNA polymerase III subunit epsilon
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00038	CDS	492	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00039	CDS	537	ydjM		COG1988	Inner membrane protein YdjM
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00040	CDS	156				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00041	CDS	2391	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00042	CDS	996	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00043	CDS	369	rplT		COG0292	50S ribosomal protein L20
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00044	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00045	CDS	513	infC		COG0290	Translation initiation factor IF-3
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00046	CDS	1935	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00047	CDS	1689	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00048	CDS	444	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00049	tRNA	76				tRNA-Asn(gtt)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00050	CDS	579	nfuA		COG0316	Fe/S biogenesis protein NfuA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00051	CDS	1113	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00052	CDS	1905	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00053	CDS	144				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00054	CDS	1032	holA	2.7.7.7	COG1466	DNA polymerase III subunit delta
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00055	CDS	585	lptE		COG2980	LPS-assembly lipoprotein LptE
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00056	CDS	2574	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00057	CDS	2037	prlC	3.4.24.70	COG0339	Oligopeptidase A
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00058	CDS	477	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00059	CDS	903	ispA	2.5.1.10	COG0142	Farnesyl diphosphate synthase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00060	CDS	249	xseB	3.1.11.6	COG1722	Exodeoxyribonuclease 7 small subunit
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00061	CDS	1452	thiI	2.8.1.4	COG0301	tRNA sulfurtransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00062	CDS	591	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00063	CDS	2568	mutS		COG0249	DNA mismatch repair protein MutS
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00064	CDS	1344	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00065	CDS	258	guaB_1	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00066	CDS	162	guaB_2	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00067	CDS	276	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00068	CDS	234				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00069	CDS	348				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00070	CDS	441	dapD	2.3.1.117		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00071	CDS	966	glk	2.7.1.2	COG0837	Glucokinase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00072	CDS	402	bamC			Outer membrane protein assembly factor BamC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00073	CDS	168	rpmG		COG0267	50S ribosomal protein L33
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00074	CDS	237	rpmB		COG0227	50S ribosomal protein L28
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00075	CDS	1044	mreB		COG1077	Cell shape-determining protein MreB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00076	CDS	1065	mreC		COG1792	Cell shape-determining protein MreC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00077	CDS	489	mreD		COG2891	Rod shape-determining protein MreD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00078	CDS	159				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00079	CDS	1812	typA		COG1217	GTP-binding protein TypA/BipA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00080	CDS	1167	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00081	CDS	630	hflD		COG2915	High frequency lysogenization protein HflD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00082	CDS	381	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00083	CDS	672	phoP			Virulence transcriptional regulatory protein PhoP
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00084	CDS	1467	phoQ	2.7.13.3	COG0642	Virulence sensor histidine kinase PhoQ
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00085	CDS	618	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn]
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00086	CDS	624	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00087	CDS	1275	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00088	CDS	2352	lon_1	3.4.21.53	COG0466	Lon protease
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00089	CDS	273	hupB		COG0776	DNA-binding protein HU-beta
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00090	CDS	483	smpB		COG0691	SsrA-binding protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00091	tmRNA	380	ssrA			transfer-messenger RNA, SsrA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00092	CDS	948	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00093	CDS	189				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00094	CDS	402	ftsI_1	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase FtsI
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00095	CDS	372	ftsI_2	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase FtsI
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00096	CDS	1488	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00097	CDS	1368	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00098	CDS	1086	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00099	CDS	1314	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00100	CDS	204	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00101	CDS	1068	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00102	CDS	1422	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00103	CDS	1257	ftsA		COG0849	Cell division protein FtsA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00104	CDS	1170	ftsZ		COG0206	Cell division protein FtsZ
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00105	CDS	918	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00106	CDS	360				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00107	CDS	339				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00108	CDS	2706	secA		COG0653	Protein translocase subunit SecA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00109	CDS	381	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00110	CDS	879	htpX	3.4.24.-	COG0501	Protease HtpX
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00111	CDS	141				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00112	CDS	678	proQ		COG3109	RNA chaperone ProQ
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00113	CDS	1725	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00114	CDS	486	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00115	CDS	2817	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00116	CDS	777	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00117	CDS	264	rpsT		COG0268	30S ribosomal protein S20
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00118	CDS	471	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00119	CDS	420	nusB		COG0781	Transcription antitermination protein NusB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00120	CDS	543	pgpA	3.1.3.27	COG1267	Phosphatidylglycerophosphatase A
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00121	CDS	999	nlpD			Murein hydrolase activator NlpD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00122	CDS	1215	cca		COG0617	Multifunctional CCA protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00123	CDS	864				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00124	CDS	735	plsC	2.3.1.51	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00125	CDS	2262	parC	5.6.2.2	COG0188	DNA topoisomerase 4 subunit A
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00126	CDS	1275	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00127	CDS	681	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00128	tRNA	75				tRNA-Val(gac)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00129	CDS	228	relA_1	2.7.6.5	COG0317	GTP pyrophosphokinase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00130	CDS	948	relA_2	2.7.6.5	COG0317	GTP pyrophosphokinase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00131	CDS	1638	pyrG	6.3.4.2	COG0504	CTP synthase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00132	CDS	1320	eno	4.2.1.11	COG0148	Enolase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00133	CDS	1341	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00134	CDS	1398	galP			Galactose-proton symporter
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00135	CDS	1125	tgt	2.4.2.29	COG0343	Queuine tRNA-ribosyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00136	CDS	333	yajC		COG1862	Sec translocon accessory complex subunit YajC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00137	CDS	1815	secD		COG0342	Protein translocase subunit SecD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00138	CDS	951	secF		COG0341	Protein translocase subunit SecF
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00139	CDS	216	rpmE		COG0254	50S ribosomal protein L31
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00140	CDS	2196	priA	3.6.4.-	COG1198	Primosomal protein N'
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00141	CDS	819	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00142	CDS	1296	surA	5.2.1.8	COG0760	Chaperone SurA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00143	CDS	2355	lptD		COG1452	LPS-assembly protein LptD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00144	CDS	123	djlA		COG1076	Co-chaperone protein DjlA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00145	CDS	1254	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00146	CDS	90				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00147	CDS	126				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00148	CDS	171				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00149	CDS	1158	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00150	CDS	252	iscR		COG1959	HTH-type transcriptional regulator IscR
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00151	CDS	951	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00152	CDS	516	def	3.5.1.88	COG0242	Peptide deformylase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00153	CDS	477	greA		COG0782	Transcription elongation factor GreA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00154	CDS	120				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00155	CDS	645	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00156	CDS	1926	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00157	CDS	126				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00158	CDS	444				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00159	CDS	453	aroQ_1	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00160	CDS	459	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00161	CDS	624	gmk	2.7.4.8	COG0194	Guanylate kinase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00162	CDS	276	rpoZ	2.7.7.6	COG1758	DNA-directed RNA polymerase subunit omega
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00163	CDS	1227	spoT		COG0317	Bifunctional (p)ppGpp synthase/hydrolase SpoT
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00164	tRNA	77				tRNA-Arg(acg)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00165	tRNA	89				tRNA-Ser(gct)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00166	CDS	99	csrA		COG1551	Carbon storage regulator
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00167	CDS	2637	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00168	CDS	1521	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00169	CDS	1098	prfB		COG1186	Peptide chain release factor RF2
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00170	CDS	1743	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00171	CDS	516	fldA		COG0716	Flavodoxin 1
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00172	CDS	2016	sppA	3.4.21.-	COG0616	Protease 4
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00173	CDS	1995	tktA	2.2.1.1	COG0021	Transketolase 1
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00174	CDS	444			COG0716	putative protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00175	CDS	1533	murJ		COG0728	putative lipid II flippase MurJ
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00176	CDS	339				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00177	CDS	822	hdfR			HTH-type transcriptional regulator HdfR
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00178	CDS	195				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00179	CDS	3219	rne	3.1.26.12		Ribonuclease E
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00180	CDS	969	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00181	CDS	189				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00182	CDS	192	rpmF		COG0333	50S ribosomal protein L32
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00183	CDS	879	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00184	CDS	948	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00185	CDS	744	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00186	CDS	234	acpP			Acyl carrier protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00187	tRNA	77				tRNA-Pro(ggg)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00188	CDS	435	slyA			Transcriptional regulator SlyA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00189	CDS	468	slyB		COG3133	Outer membrane lipoprotein SlyB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00190	CDS	1419	lpdA	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00191	CDS	1743	aceF	2.3.1.12	COG0508	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00192	CDS	2667	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00193	CDS	2289				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00194	CDS	330	ybaB		COG0718	Nucleoid-associated protein YbaB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00195	CDS	114				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00196	CDS	180	purL_1	6.3.5.3		Phosphoribosylformylglycinamidine synthase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00197	CDS	195	purL_2	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00198	CDS	795	rlmB	2.1.1.185	COG0566	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00199	CDS	2346	rnr	3.1.13.1	COG0557	Ribonuclease R
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00200	CDS	1005	hflC		COG0330	Modulator of FtsH protease HflC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00201	CDS	1242	hflK		COG0330	Modulator of FtsH protease HflK
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00202	CDS	306	hfq		COG1923	RNA-binding protein Hfq
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00203	CDS	987	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00204	CDS	294	mutL			DNA mismatch repair protein MutL
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00205	CDS	1554				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00206	CDS	486	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00207	CDS	969	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00208	CDS	1035	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00209	CDS	312	rplU		COG0261	50S ribosomal protein L21
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00210	CDS	480	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00211	CDS	396	rpsF		COG0360	30S ribosomal protein S6
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00212	CDS	321	priB		COG2965	Primosomal replication protein N
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00213	CDS	228	rpsR		COG0238	30S ribosomal protein S18
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00214	CDS	450	rplI		COG0359	50S ribosomal protein L9
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00215	CDS	606	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00216	tRNA	74				tRNA-Pro(cgg)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00217	CDS	348		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00218	CDS	582	lpoB		COG3417	Penicillin-binding protein activator LpoB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00219	CDS	216	infA		COG0361	Translation initiation factor IF-1
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00220	CDS	1731	yheH	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00221	CDS	1764	cydD		COG4988	ATP-binding/permease protein CydD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00222	CDS	174				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00223	CDS	1089	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00224	CDS	1110	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00225	CDS	312				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00226	CDS	1359	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00227	CDS	165				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00228	CDS	1641	yidC			Membrane protein insertase YidC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00229	CDS	345	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00230	CDS	603	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00231	CDS	2574	clpB		COG0542	Chaperone protein ClpB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00232	CDS	105				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00233	CDS	1260	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00234	CDS	327	trxA		COG0526	Thioredoxin 1
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00235	CDS	1731	cvrA		COG3263	K(+)/H(+) antiporter NhaP2
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00236	CDS	192				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00237	CDS	648	yqjA		COG0586	Inner membrane protein YqjA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00238	tRNA	85				tRNA-Leu(caa)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00239	tRNA	74				tRNA-Met(cat)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00240	tRNA	77				tRNA-Lys(ttt)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00241	tRNA	73				tRNA-Val(tac)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00242	CDS	1563	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00243	tRNA	75				tRNA-Ala(ggc)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00244	CDS	1419	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00245	CDS	963	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase isozyme 1
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00246	CDS	201	purM_1	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00247	CDS	261	purM_2	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00248	CDS	1002				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00249	CDS	1446	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00250	tRNA	76				tRNA-Ala(tgc)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00251	CDS	252				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00252	CDS	1152	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00253	CDS	954	rodZ		COG1426	Cytoskeleton protein RodZ
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00254	CDS	1308	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00255	CDS	1095	bamB		COG1520	Outer membrane protein assembly factor BamB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00256	CDS	621	lolB		COG3017	Outer-membrane lipoprotein LolB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00257	CDS	939	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00258	CDS	585	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00259	CDS	1092	ychF		COG0012	Ribosome-binding ATPase YchF
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00260	CDS	261				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00261	tRNA	77				tRNA-Arg(ccg)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00262	tRNA	75				tRNA-His(gtg)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00263	tRNA	77				tRNA-Pro(tgg)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00264	CDS	531	dsbB		COG1495	Disulfide bond formation protein B
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00265	CDS	768	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00266	CDS	372				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00267	CDS	1749	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00268	CDS	1059	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00269	CDS	132				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00270	CDS	1350	accC	6.3.4.14	COG0439	Biotin carboxylase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00271	CDS	456	aroQ_2	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00272	CDS	900	amiD	3.5.1.28	COG3023	N-acetylmuramoyl-L-alanine amidase AmiD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00273	CDS	327	tusE	2.8.1.-	COG2920	Sulfurtransferase TusE
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00274	CDS	828	trpA	4.2.1.20		Tryptophan synthase alpha chain
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00275	CDS	1191	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00276	CDS	1359	trpC		COG0134	Tryptophan biosynthesis protein TrpCF
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00277	CDS	999	trpGD		COG0512	Bifunctional protein TrpGD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00278	CDS	579	trpG	4.1.3.27		Anthranilate synthase component 2
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00279	CDS	1569	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00280	CDS	1167	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00281	CDS	3243	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00282	CDS	489	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00283	CDS	156	apaH_1	3.6.1.41	COG0639	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00284	CDS	399	apaH_2	3.6.1.41	COG0639	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00285	CDS	246	apaH_3	3.6.1.41	COG0639	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00286	CDS	678	engB		COG0218	putative GTP-binding protein EngB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00287	CDS	744	ybgI		COG0327	GTP cyclohydrolase 1 type 2 
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00288	CDS	228				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00289	CDS	267	cpxA	2.7.13.3		Sensor histidine kinase CpxA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00290	CDS	729	cpxR		COG0745	Transcriptional regulatory protein CpxR
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00291	CDS	1440	pykA	2.7.1.40	COG0469	Pyruvate kinase II
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00292	CDS	552	fabA	4.2.1.59	COG0764	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00293	CDS	1626	lon_2	3.4.21.53		Lon protease
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00294	tRNA	87				tRNA-Leu(cag)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00295	CDS	1047	rsmC	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00296	CDS	705	rnt	3.1.13.-	COG0847	Ribonuclease T
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00297	CDS	1407	dnaB	3.6.4.12	COG0305	Replicative DNA helicase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00298	CDS	528	ssb			Single-stranded DNA-binding protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00299	CDS	1164	lapB		COG2956	Lipopolysaccharide assembly protein B
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00300	CDS	750	pgpB	3.1.3.27	COG0671	Phosphatidylglycerophosphatase B
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00301	CDS	834	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00302	CDS	771	panC	6.3.2.1	COG0414	Pantothenate synthetase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00303	CDS	867	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00304	tRNA	74				tRNA-Arg(cct)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00305	CDS	153				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00306	CDS	207	gloB	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00307	CDS	747	yebC		COG0217	putative transcriptional regulatory protein YebC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00308	CDS	516	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00309	CDS	516	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00310	CDS	1047	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00311	CDS	147				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00312	CDS	915				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00313	CDS	747	fpr	1.18.1.2	COG1018	Flavodoxin/ferredoxin--NADP reductase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00314	tRNA	90				tRNA-Ser(cga)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00315	CDS	393	tusD	2.8.1.-	COG1553	Sulfurtransferase TusD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00316	CDS	1731	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00317	CDS	1107	dnaJ		COG0484	Chaperone protein DnaJ
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00318	CDS	1914	dnaK		COG0443	Chaperone protein DnaK
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00319	CDS	987	ygfZ		COG0354	tRNA-modifying protein YgfZ
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00320	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00321	CDS	4260	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00322	CDS	4029	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00323	CDS	363	rplL		COG0222	50S ribosomal protein L7/L12
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00324	CDS	498	rplJ		COG0244	50S ribosomal protein L10
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00325	CDS	705	rplA		COG0081	50S ribosomal protein L1
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00326	CDS	429	rplK		COG0080	50S ribosomal protein L11
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00327	CDS	546	nusG		COG0250	Transcription termination/antitermination protein NusG
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00328	CDS	384	secE		COG0690	Protein translocase subunit SecE
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00329	CDS	192				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00330	CDS	1185	tufB		COG0050	Elongation factor Tu 2
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00331	tRNA	76				tRNA-Thr(ggt)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00332	tRNA	75				tRNA-Gly(tcc)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00333	tRNA	83				tRNA-Tyr(gta)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00334	tRNA	74				tRNA-Thr(tgt)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00335	CDS	105				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00336	CDS	231	argI	2.1.3.3	COG0078	Ornithine carbamoyltransferase subunit I
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00337	CDS	2856	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00338	CDS	1086	lptF		COG0795	Lipopolysaccharide export system permease protein LptF
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00339	CDS	1071	lptG		COG0795	Lipopolysaccharide export system permease protein LptG
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00340	CDS	2073	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00341	tRNA	77				tRNA-Met(cat)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00342	tRNA	72				tRNA-Gln(ttg)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00343	tRNA	83				tRNA-Leu(tag)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00344	CDS	393				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00345	CDS	1296	envC		COG4942	Murein hydrolase activator EnvC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00346	CDS	1563	pitA		COG0306	Low-affinity inorganic phosphate transporter 1
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00347	CDS	99	cydX	7.1.1.7	COG4890	Cytochrome bd-I ubiquinol oxidase subunit X
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00348	CDS	1140	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00349	CDS	1524	cydA	7.1.1.7	COG1271	Cytochrome bd-I ubiquinol oxidase subunit 1
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00350	CDS	999	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00351	rRNA	1538				16S ribosomal RNA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00352	tRNA	77				tRNA-Ile(gat)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00353	tRNA	76				tRNA-Trp(cca)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00354	CDS	294	groS		COG0234	10 kDa chaperonin
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00355	CDS	1650	groL		COG0459	60 kDa chaperonin
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00356	CDS	567	efp		COG0231	Elongation factor P
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00357	CDS	300				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00358	CDS	471	secB		COG1952	Protein-export protein SecB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00359	CDS	432	yibN		COG0607	putative protein YibN
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00360	CDS	2646	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00361	CDS	2280	nrdA	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase 1 subunit alpha
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00362	CDS	1131	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase 1 subunit beta
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00363	CDS	855	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00364	CDS	375	sufA		COG0316	Protein SufA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00365	CDS	1500	sufB		COG0719	FeS cluster assembly protein SufB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00366	CDS	741	sufC		COG0396	putative ATP-dependent transporter SufC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00367	CDS	1287	sufD		COG0719	FeS cluster assembly protein SufD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00368	CDS	1227	sufS	2.8.1.7	COG0520	Cysteine desulfurase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00369	CDS	417	sufE		COG2166	Cysteine desulfuration protein SufE
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00370	CDS	237	lpp1			Major outer membrane lipoprotein Lpp 1
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00371	tRNA	74				tRNA-Cys(gca)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00372	tRNA	83				tRNA-Leu(taa)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00373	CDS	795	thyA	2.1.1.45	COG0207	Thymidylate synthase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00374	CDS	867	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00375	CDS	102				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00376	CDS	342	grxD		COG0278	Glutaredoxin 4
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00377	CDS	1023	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00378	CDS	408	hns			DNA-binding protein H-NS
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00379	CDS	483	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00380	CDS	1539	lnt	2.3.1.269	COG0815	Apolipoprotein N-acyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00381	CDS	2163	uvrD	3.6.4.12	COG0210	DNA helicase II
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00382	CDS	522	zur		COG0735	Zinc uptake regulation protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00383	tRNA	77				tRNA-Asp(gtc)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00384	rRNA	105				5S ribosomal RNA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00385	rRNA	2918				23S ribosomal RNA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00386	tRNA	76				tRNA-Glu(ttc)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00387	CDS	1356	mntH			Divalent metal cation transporter MntH
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00388	CDS	1326	mepM	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00389	CDS	2460	plsB	2.3.1.15	COG2937	Glycerol-3-phosphate acyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00390	CDS	594	lexA	3.4.21.88	COG1974	LexA repressor
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00391	CDS	1077	obgE	3.6.5.-	COG0536	GTPase ObgE/CgtA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00392	CDS	531	rppH	3.6.1.-	COG0494	RNA pyrophosphohydrolase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00393	CDS	798	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00394	CDS	996	holB	2.7.7.7	COG0470	DNA polymerase III subunit delta'
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00395	CDS	642	tmk	2.7.4.9	COG0125	Thymidylate kinase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00396	tRNA	75				tRNA-Gly(gcc)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00397	CDS	888	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00398	CDS	525	cyaA	4.6.1.1	COG3072	Adenylate cyclase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00399	CDS	252				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00400	CDS	3393	recC	3.1.11.5	COG1330	RecBCD enzyme subunit RecC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00401	CDS	3615	recB	3.1.11.5	COG1074	RecBCD enzyme subunit RecB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00402	CDS	1293	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00403	CDS	612	lolA		COG2834	Outer-membrane lipoprotein carrier protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00404	tRNA	77				tRNA-Met(cat)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00405	tRNA	87				tRNA-Leu(gag)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00406	CDS	294	secG		COG1314	Protein-export membrane protein SecG
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00407	CDS	732	bamD		COG4105	Outer membrane protein assembly factor BamD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00408	CDS	975	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00409	CDS	159				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00410	CDS	210	cspC			Cold shock-like protein CspC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00411	CDS	1068	recA		COG0468	Protein RecA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00412	CDS	921	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00413	CDS	222				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00414	CDS	1668	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00415	CDS	192				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00416	CDS	756	kdsB	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00417	CDS	513	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00418	CDS	180				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00419	CDS	1341				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00420	tRNA	74				tRNA-Met(cat)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00421	CDS	303	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00422	CDS	675	nuoB	7.1.1.-	COG0377	NADH-quinone oxidoreductase subunit B
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00423	CDS	1788	nuoC	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit C/D
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00424	CDS	531	nuoE	7.1.1.-	COG1905	NADH-quinone oxidoreductase subunit E
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00425	CDS	1344	nuoF	7.1.1.-	COG1894	NADH-quinone oxidoreductase subunit F
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00426	CDS	2730	nuoG	7.1.1.-	COG1034	NADH-quinone oxidoreductase subunit G
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00427	CDS	978	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00428	CDS	543	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00429	CDS	498	nuoJ	7.1.1.-	COG0839	NADH-quinone oxidoreductase subunit J
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00430	CDS	303	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00431	CDS	1845	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00432	CDS	1518	nuoM	7.1.1.-	COG1008	NADH-quinone oxidoreductase subunit M
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00433	CDS	1455	nuoN	7.1.1.-	COG1007	NADH-quinone oxidoreductase subunit N
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00434	CDS	1800	aspS	6.1.1.12	COG0173	Aspartate--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00435	CDS	918	rpoH		COG0568	RNA polymerase sigma factor RpoH
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00436	CDS	1473	ftsY			Signal recognition particle receptor FtsY
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00437	CDS	618	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00438	CDS	321				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00439	CDS	255	tusA		COG0425	Sulfur carrier protein TusA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00440	CDS	1203	ackA	2.7.2.1	COG0282	Acetate kinase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00441	CDS	2145	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00442	CDS	2595	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00443	CDS	600	dcd	3.5.4.13	COG0717	dCTP deaminase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00444	CDS	264				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00445	CDS	666	lipB	2.3.1.181	COG0321	Octanoyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00446	CDS	990	lipA	2.8.1.8	COG0320	Lipoyl synthase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00447	CDS	627	ribC	2.5.1.9	COG0307	Riboflavin synthase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00448	CDS	1251	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00449	CDS	690	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00450	CDS	1332	lolC		COG4591	Lipoprotein-releasing system transmembrane protein LolC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00451	CDS	3459	mfd	3.6.4.-	COG1197	Transcription-repair-coupling factor
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00452	CDS	657	orn	3.1.-.-	COG1949	Oligoribonuclease
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00453	CDS	324	nagE		COG1263	PTS system N-acetylglucosamine-specific EIICBA component
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00454	CDS	576				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00455	CDS	867	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00456	CDS	132				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00457	CDS	96	atpF		COG0711	ATP synthase subunit b
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00458	CDS	426	atpH		COG0712	ATP synthase subunit delta
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00459	CDS	396	atpA_1	7.1.2.2		ATP synthase subunit alpha
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00460	CDS	432	atpA_2	7.1.2.2		ATP synthase subunit alpha
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00461	CDS	219	atpG		COG0224	ATP synthase gamma chain
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00462	CDS	240	atpB	7.1.2.2		ATP synthase subunit beta
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00463	CDS	264	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00464	CDS	357	atpC			ATP synthase epsilon chain
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00465	CDS	1548				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00466	CDS	1896	parE	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00467	CDS	1473	der		COG1160	GTPase Der
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00468	CDS	531	hemG	1.3.5.3	COG4635	Protoporphyrinogen IX dehydrogenase [menaquinone]
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00469	CDS	1077	fbaA	4.1.2.13	COG0191	Fructose-bisphosphate aldolase class 2
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00470	CDS	1158	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00471	CDS	318	hspQ		COG3785	Heat shock protein HspQ
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00472	CDS	297	fis		COG2901	DNA-binding protein Fis
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00473	CDS	1926	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00474	CDS	1650	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00475	CDS	549	pgsA	2.7.8.5	COG0558	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00476	CDS	492	ibpA		COG0071	Small heat shock protein IbpA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00477	CDS	249				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00478	CDS	879	mntA		COG0803	Manganese-binding lipoprotein MntA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00479	CDS	867	mntB			Manganese transport system membrane protein MntB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00480	CDS	678	scaC	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00481	CDS	753				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00482	CDS	540	yciB		COG2917	Intracellular septation protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00483	CDS	702	gpmA	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00484	CDS	393	rplQ		COG0203	50S ribosomal protein L17
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00485	CDS	987	rpoA	2.7.7.6		DNA-directed RNA polymerase subunit alpha
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00486	CDS	621	rpsD		COG0522	30S ribosomal protein S4
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00487	CDS	390	rpsK		COG0100	30S ribosomal protein S11
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00488	CDS	357	rpsM		COG0099	30S ribosomal protein S13
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00489	CDS	117	rpmJ		COG0257	50S ribosomal protein L36
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00490	CDS	1332	secY		COG0201	Protein translocase subunit SecY
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00491	CDS	435	rplO		COG0200	50S ribosomal protein L15
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00492	CDS	183	rpmD		COG1841	50S ribosomal protein L30
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00493	CDS	501	rpsE		COG0098	30S ribosomal protein S5
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00494	CDS	354	rplR		COG0256	50S ribosomal protein L18
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00495	CDS	534	rplF		COG0097	50S ribosomal protein L6
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00496	CDS	393	rpsH		COG0096	30S ribosomal protein S8
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00497	CDS	306	rpsN		COG0199	30S ribosomal protein S14
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00498	CDS	540	rplE		COG0094	50S ribosomal protein L5
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00499	CDS	315	rplX		COG0198	50S ribosomal protein L24
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00500	CDS	372	rplN		COG0093	50S ribosomal protein L14
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00501	CDS	255	rpsQ		COG0186	30S ribosomal protein S17
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00502	CDS	198	rpmC		COG0255	50S ribosomal protein L29
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00503	CDS	411	rplP		COG0197	50S ribosomal protein L16
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00504	CDS	699	rpsC		COG0092	30S ribosomal protein S3
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00505	CDS	333	rplV		COG0091	50S ribosomal protein L22
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00506	CDS	279	rpsS		COG0185	30S ribosomal protein S19
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00507	CDS	822	rplB		COG0090	50S ribosomal protein L2
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00508	CDS	303	rplW		COG0089	50S ribosomal protein L23
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00509	CDS	606	rplD		COG0088	50S ribosomal protein L4
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00510	CDS	630	rplC		COG0087	50S ribosomal protein L3
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00511	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00512	CDS	1716	tamA		COG0729	Translocation and assembly module subunit TamA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00513	CDS	3807	tamB		COG2911	Translocation and assembly module subunit TamB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00514	CDS	999	polA	2.7.7.7	COG0258	DNA polymerase I
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00515	CDS	528	ppa	3.6.1.1	COG0221	Inorganic pyrophosphatase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00516	tRNA	75				tRNA-Thr(cgt)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00517	CDS	645	adk	2.7.4.3	COG0563	Adenylate kinase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00518	CDS	939	hemH	4.99.1.1	COG0276	Ferrochelatase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00519	CDS	258	rpmA		COG0211	50S ribosomal protein L27
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00520	CDS	1461	clsA	2.7.8.-	COG1502	Cardiolipin synthase A
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00521	CDS	960	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00522	CDS	1269	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00523	CDS	924	lpxL	2.3.1.241	COG1560	Lipid A biosynthesis lauroyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00524	CDS	168				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00525	CDS	285	rplY		COG1825	50S ribosomal protein L25
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00526	CDS	861	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00527	CDS	1083	prfA		COG0216	Peptide chain release factor RF1
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00528	CDS	756	fnr		COG0664	Fumarate and nitrate reduction regulatory protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00529	tRNA	88				tRNA-Ser(tga)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00530	CDS	2415	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00531	CDS	1101	dnaN		COG0592	Beta sliding clamp
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00532	CDS	1395	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00533	CDS	555				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00534	CDS	1131	hemW		COG0635	Heme chaperone HemW
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00535	CDS	423	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00536	tRNA	75				tRNA-Arg(tct)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00537	CDS	873	folD		COG0190	Bifunctional protein FolD protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00538	CDS	1377	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00539	CDS	720	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00540	CDS	186				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00541	CDS	207				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00542	CDS	345				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00543	CDS	216	rpsU		COG0828	30S ribosomal protein S21
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00544	CDS	1761	dnaG	2.7.7.-	COG0358	DNA primase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00545	CDS	1842	rpoD		COG0568	RNA polymerase sigma factor RpoD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00546	CDS	459	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00547	CDS	1212	fabB	2.3.1.41	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 1
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00548	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00549	CDS	522	aroK	2.7.1.71	COG0703	Shikimate kinase 1
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00550	CDS	681	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00551	CDS	1005	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00552	CDS	390	pdxJ	2.6.99.2	COG0854	Pyridoxine 5'-phosphate synthase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00553	CDS	381	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00554	CDS	150				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00555	CDS	759	mlaA		COG2853	Intermembrane phospholipid transport system lipoprotein MlaA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00556	CDS	1467	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00557	CDS	2106	fusA		COG0480	Elongation factor G
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00558	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00559	CDS	375	rpsL		COG0048	30S ribosomal protein S12
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00560	CDS	288	tusB		COG2168	Protein TusB
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00561	CDS	360	tusC		COG2923	Protein TusC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00562	CDS	291	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00563	CDS	1320	pcnB	2.7.7.19	COG0617	Poly(A) polymerase I
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00564	CDS	462	dksA		COG1734	RNA polymerase-binding transcription factor DksA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00565	CDS	186				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00566	CDS	2379	mrcB		COG0744	Penicillin-binding protein 1B
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00567	CDS	186				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00568	CDS	816	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00569	tRNA	76				tRNA-Phe(gaa)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00570	CDS	1080	mutY	3.2.2.31	COG1194	Adenine DNA glycosylase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00571	CDS	726	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00572	CDS	429	mhqR		COG1846	HTH-type transcriptional regulator MhqR
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00573	CDS	924	ybiS	2.-.-.-	COG1376	putative L,D-transpeptidase YbiS
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00574	CDS	2052	ligA	6.5.1.2	COG0272	DNA ligase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00575	CDS	354	bamE		COG2913	Outer membrane protein assembly factor BamE
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00576	CDS	342	nadK	2.7.1.23	COG0061	NAD kinase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00577	CDS	147				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00578	CDS	606	grpE		COG0576	Protein GrpE
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00579	CDS	177				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00580	CDS	1770	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00581	CDS	2118	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00582	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00583	CDS	957	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00584	CDS	417	rbfA		COG0858	30S ribosome-binding factor
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00585	CDS	2706	infB		COG0532	Translation initiation factor IF-2
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00586	CDS	1488	nusA		COG0195	Transcription termination/antitermination protein NusA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00587	CDS	1374	mdtK		COG0534	Multidrug resistance protein MdtK
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00588	CDS	150				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00589	CDS	639	nth	4.2.99.18	COG0177	Endonuclease III
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00590	CDS	612	fabR		COG1309	HTH-type transcriptional repressor FabR
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00591	CDS	168				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00592	CDS	672	minC		COG0850	Septum site-determining protein MinC
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00593	CDS	813	minD		COG2894	Septum site-determining protein MinD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00594	CDS	270	minE		COG0851	Cell division topological specificity factor
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00595	CDS	1680	rpsA		COG0539	30S ribosomal protein S1
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00596	CDS	684	cmk	2.7.4.25		Cytidylate kinase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00597	CDS	756	zapD		COG4582	Cell division protein ZapD
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00598	CDS	183	yacG		COG3024	DNA gyrase inhibitor YacG
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00599	CDS	189				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00600	CDS	795	map	3.4.11.18	COG0024	Methionine aminopeptidase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00601	CDS	141				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00602	CDS	726	rpsB		COG0052	30S ribosomal protein S2
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00603	CDS	834	tsf		COG0264	Elongation factor Ts
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00604	CDS	558	frr		COG0233	Ribosome-recycling factor
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00605	CDS	732	pyrH	2.7.4.22	COG0528	Uridylate kinase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00606	CDS	762	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00607	CDS	858	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00608	CDS	2427	bamA		COG4775	Outer membrane protein assembly factor BamA
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00609	CDS	498	skp		COG2825	Chaperone protein Skp
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00610	CDS	1041	lpxD	2.3.1.191	COG1044	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00611	CDS	456	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00612	CDS	789	lpxA	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00613	CDS	1149	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00614	CDS	3483	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00615	CDS	960	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00616	CDS	762				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00617	CDS	957	recD2_1	3.6.4.12		ATP-dependent RecD-like DNA helicase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00618	CDS	1275	recD2_2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00619	CDS	1194	thiC_1	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00620	CDS	540	thiC_2	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00621	CDS	195				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00622	CDS	153				hypothetical protein
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00623	tRNA	74				tRNA-Lys(ctt)
+Doolittlea_endobia_DEMHIR_GCF_900039485_1_00624	CDS	867	mscS		COG0668	Small-conductance mechanosensitive channel

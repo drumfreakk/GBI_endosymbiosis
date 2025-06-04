@@ -1,0 +1,426 @@
+[11:27:54] This is prokka_ed 1.14.6
+[11:27:54] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[11:27:54] Homepage is https://github.com/tseemann/prokka
+[11:27:54] Local time is Wed Jun  4 11:27:54 2025
+[11:27:54] You are 4980980
+[11:27:54] Operating system is linux
+[11:27:54] You have BioPerl 1.007002
+[11:27:54] System has 64 cores.
+[11:27:54] Will use maximum of 2 cores.
+[11:27:54] Annotating as >>> Bacteria <<<
+[11:27:54] Creating new output folder: prokka_Sodalis_sp_SPI-1_GCF_001602625_1
+[11:27:54] Running: mkdir -p prokka_Sodalis_sp_SPI\-1_GCF_001602625_1
+[11:27:54] Using filename prefix: Sodalis_sp_SPI-1_GCF_001602625_1.XXX
+[11:27:54] Setting HMMER_NCPU=1
+[11:27:54] Writing log to: prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.log
+[11:27:54] Command: /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/prokka_ed -o prokka_Sodalis_sp_SPI-1_GCF_001602625_1 --prefix Sodalis_sp_SPI-1_GCF_001602625_1 --locustag Sodalis_sp_SPI-1_GCF_001602625_1 --kingdom Bacteria --metagenome --cpus 2 Sodalis_sp_SPI-1_GCF_001602625.1.fna
+[11:27:54] Appending to PATH: /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/bin
+[11:27:54] Looking for 'aragorn' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/aragorn
+[11:27:54] Determined aragorn version is 001002 from 'ARAGORN v1.2.41 Dean Laslett'
+[11:27:54] Looking for 'barrnap' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/barrnap
+[11:27:54] Determined barrnap version is 000009 from 'barrnap 0.9'
+[11:27:54] Looking for 'blastp' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/blastp
+[11:27:54] Determined blastp version is 002015 from 'blastp: 2.15.0+'
+[11:27:54] Looking for 'cmpress' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/cmpress
+[11:27:54] Determined cmpress version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[11:27:54] Looking for 'cmscan' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/cmscan
+[11:27:54] Determined cmscan version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[11:27:54] Looking for 'egrep' - found /usr/bin/egrep
+[11:27:54] Looking for 'find' - found /usr/bin/find
+[11:27:54] Looking for 'grep' - found /usr/bin/grep
+[11:27:54] Looking for 'hmmpress' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/hmmpress
+[11:27:54] Determined hmmpress version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[11:27:54] Looking for 'hmmscan' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/hmmscan
+[11:27:54] Determined hmmscan version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[11:27:54] Looking for 'java' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/java
+[11:27:54] Looking for 'makeblastdb' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/makeblastdb
+[11:27:54] Determined makeblastdb version is 002015 from 'makeblastdb: 2.15.0+'
+[11:27:54] Looking for 'minced' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/minced
+[11:27:55] Determined minced version is 004002 from 'minced 0.4.2'
+[11:27:55] Looking for 'parallel' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/parallel
+[11:27:55] Determined parallel version is 20240722 from 'GNU parallel 20240722'
+[11:27:55] Looking for 'prodigal' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/prodigal
+[11:27:55] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[11:27:55] Looking for 'prokka-genbank_to_fasta_db' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/prokka-genbank_to_fasta_db
+[11:27:55] Looking for 'sed' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/sed
+[11:27:55] Looking for 'signalp' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/signalp
+[11:27:55] Determined signalp version is 004001 from '4.1'
+[11:27:55] Looking for 'tbl2asn' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/tbl2asn
+[11:27:55] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[11:27:55] Using genetic code table 11.
+[11:27:55] Loading and checking input file: Sodalis_sp_SPI-1_GCF_001602625.1.fna
+[11:27:55] Wrote 92 contigs totalling 2178899 bp.
+[11:27:55] Predicting tRNAs and tmRNAs
+[11:27:55] Running: aragorn -l -gc11  -w prokka_Sodalis_sp_SPI\-1_GCF_001602625_1\/Sodalis_sp_SPI\-1_GCF_001602625_1\.fna
+[11:27:56] 1 tRNA-Asp [648,724] 35 (gtc)
+[11:27:56] 2 tRNA-Trp [727,802] 34 (cca)
+[11:27:56] 1 tRNA-Asp [648,724] 35 (gtc)
+[11:27:56] 2 tRNA-Asn [7116,7190] 35 (gtt)
+[11:27:56] 1 tRNA-Asn c[61103,61178] 34 (gtt)
+[11:27:56] 2 tRNA-Val c[114159,114235] 35 (gac)
+[11:27:56] 1 tRNA-Glu [889,964] 35 (ttc)
+[11:27:56] 1 tRNA-Ile [735,811] 36 (gat)
+[11:27:56] 2 tRNA-Ala [1008,1083] 34 (tgc)
+[11:27:56] 1 tRNA-Pro c[8608,8684] 36 (tgg)
+[11:27:56] 2 tRNA-Leu c[8762,8850] 35 (cag)
+[11:27:56] 3 tRNA-His c[8862,8937] 34 (gtg)
+[11:27:56] 4 tRNA-Arg c[9005,9078] 35 (ccg)
+[11:27:56] 1 tRNA-Ser [13644,13733] 35 (gga)
+[11:27:56] 2 tRNA-Ser c[33515,33601] 35 (cga)
+[11:27:56] 3 tRNA-Pro [145097,145173] 36 (ggg)
+[11:27:56] 1 tRNA-Lys c[13022,13097] 34 (ttt)
+[11:27:56] 2 tRNA-Leu [50871,50955] 35 (tag)
+[11:27:56] 3 tRNA-Gln [50998,51072] 33 (ttg)
+[11:27:56] 4 tRNA-Met [51109,51185] 35 (cat)
+[11:27:56] 5 tRNA-Gln [51192,51266] 33 (ctg)
+[11:27:56] 1 tRNA-Tyr [37095,37180] 36 (gta)
+[11:27:56] 1 tRNA-Arg [10308,10384] 36 (tct)
+[11:27:56] 1 tRNA-Leu c[32770,32854] 35 (caa)
+[11:27:56] 1 tRNA-Arg [17688,17762] 34 (cct)
+[11:27:56] 2 tRNA-Ala c[31062,31137] 34 (ggc)
+[11:27:56] 3 tRNA-Val [32923,32996] 34 (tac)
+[11:27:56] 4 tRNA-Lys [33017,33092] 34 (ttt)
+[11:27:56] 1 tRNA-Pro c[26177,26253] 35 (cgg)
+[11:27:56] 1 tRNA-Gly [58930,59003] 33 (ccc)
+[11:27:56] 1 tRNA-Leu [10907,10993] 35 (gag)
+[11:27:56] 2 tRNA-Met [11054,11130] 35 (cat)
+[11:27:56] 1 tRNA-Met c[42022,42095] 34 (cat)
+[11:27:56] 1 tRNA-Phe c[12021,12096] 34 (gaa)
+[11:27:56] 1 tmRNA [24196,24578] 91,132 ANDSQYESAALAA*
+[11:27:56] 1 tRNA-Ser [12397,12484] 35 (tga)
+[11:27:56] 2 tRNA-Lys [23441,23516] 34 (ctt)
+[11:27:56] 3 tRNA-Gly [35573,35647] 33 (gcc)
+[11:27:56] 4 tRNA-Cys [36450,36524] 34 (gca)
+[11:27:56] 5 tRNA-Leu [36540,36624] 36 (taa)
+[11:27:56] Found 40 tRNAs
+[11:27:56] Predicting Ribosomal RNAs
+[11:27:56] Running Barrnap with 2 threads
+[11:27:58] 1 NZ_LECR01000006.1 307 5S ribosomal RNA
+[11:27:58] 2 NZ_LECR01000019.1 1 16S ribosomal RNA (partial)
+[11:27:58] 3 NZ_LECR01000021.1 1480 16S ribosomal RNA (partial)
+[11:27:58] 4 NZ_LECR01000025.1 15894 16S ribosomal RNA (partial)
+[11:27:58] 5 NZ_LECR01000029.1 59 16S ribosomal RNA
+[11:27:58] 6 NZ_LECR01000030.1 472 5S ribosomal RNA
+[11:27:58] 7 NZ_LECR01000045.1 1 16S ribosomal RNA (partial)
+[11:27:58] 8 NZ_LECR01000052.1 1 16S ribosomal RNA (partial)
+[11:27:58] 9 NZ_LECR01000052.1 1367 23S ribosomal RNA
+[11:27:58] 10 NZ_LECR01000052.1 4425 5S ribosomal RNA
+[11:27:58] 11 NZ_LECR01000055.1 472 5S ribosomal RNA
+[11:27:58] 12 NZ_LECR01000062.1 1 16S ribosomal RNA (partial)
+[11:27:58] 13 NZ_LECR01000070.1 7011 16S ribosomal RNA (partial)
+[11:27:58] Found 13 rRNAs
+[11:27:58] Skipping ncRNA search, enable with --rfam if desired.
+[11:27:58] Total of 52 tRNA + rRNA features
+[11:27:58] Searching for CRISPR repeats
+[11:27:59] Found 0 CRISPRs
+[11:27:59] Predicting coding sequences
+[11:27:59] Contigs total 2178899 bp, so using meta mode
+[11:27:59] Running: prodigal -i prokka_Sodalis_sp_SPI\-1_GCF_001602625_1\/Sodalis_sp_SPI\-1_GCF_001602625_1\.fna -c -m -g 11 -p meta -f sco -q
+[11:28:01] Excluding CDS which overlaps existing RNA (tRNA) at NZ_LECR01000030.1:480..731 on - strand
+[11:28:03] Excluding CDS which overlaps existing RNA (rRNA) at NZ_LECR01000052.1:71..202 on + strand
+[11:28:03] Excluding CDS which overlaps existing RNA (rRNA) at NZ_LECR01000052.1:361..564 on + strand
+[11:28:03] Excluding CDS which overlaps existing RNA (tRNA) at NZ_LECR01000052.1:952..1182 on - strand
+[11:28:03] Excluding CDS which overlaps existing RNA (rRNA) at NZ_LECR01000052.1:2920..3057 on + strand
+[11:28:03] Excluding CDS which overlaps existing RNA (rRNA) at NZ_LECR01000052.1:3522..3662 on + strand
+[11:28:11] Excluding CDS which overlaps existing RNA (tRNA) at NZ_LECR01000040.1:26163..26267 on - strand
+[11:28:11] Excluding CDS which overlaps existing RNA (rRNA) at NZ_LECR01000029.1:727..879 on - strand
+[11:28:17] Excluding CDS which overlaps existing RNA (tRNA) at NZ_LECR01000039.1:12319..12459 on + strand
+[11:28:18] Found 1913 CDS
+[11:28:18] Connecting features back to sequences
+[11:28:18] Not using genus-specific database. Try --usegenus to enable it.
+[11:28:18] Annotating CDS, please be patient.
+[11:28:18] Will use 2 CPUs for similarity searching.
+[11:28:18] There are still 1913 unannotated CDS left (started with 1913)
+[11:28:18] Will use blast to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/IS with 2 CPUs
+[11:28:18] Running: cat prokka_Sodalis_sp_SPI\-1_GCF_001602625_1\/Sodalis_sp_SPI\-1_GCF_001602625_1\.IS\.tmp\.35066\.faa | parallel --gnu --plain -j 2 --block 81139 --recstart '>' --pipe blastp -query - -db /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_Sodalis_sp_SPI\-1_GCF_001602625_1\/Sodalis_sp_SPI\-1_GCF_001602625_1\.IS\.tmp\.35066\.blast 2> /dev/null
+[11:28:31] Deleting unwanted file: prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.IS.tmp.35066.faa
+[11:28:31] Deleting unwanted file: prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.IS.tmp.35066.blast
+[11:28:32] There are still 1913 unannotated CDS left (started with 1913)
+[11:28:32] Will use blast to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/AMR with 2 CPUs
+[11:28:32] Running: cat prokka_Sodalis_sp_SPI\-1_GCF_001602625_1\/Sodalis_sp_SPI\-1_GCF_001602625_1\.AMR\.tmp\.35066\.faa | parallel --gnu --plain -j 2 --block 81139 --recstart '>' --pipe blastp -query - -db /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_Sodalis_sp_SPI\-1_GCF_001602625_1\/Sodalis_sp_SPI\-1_GCF_001602625_1\.AMR\.tmp\.35066\.blast 2> /dev/null
+[11:28:42] Deleting unwanted file: prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.AMR.tmp.35066.faa
+[11:28:42] Deleting unwanted file: prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.AMR.tmp.35066.blast
+[11:28:42] There are still 1913 unannotated CDS left (started with 1913)
+[11:28:42] Will use blast to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/sprot with 2 CPUs
+[11:28:42] Running: cat prokka_Sodalis_sp_SPI\-1_GCF_001602625_1\/Sodalis_sp_SPI\-1_GCF_001602625_1\.sprot\.tmp\.35066\.faa | parallel --gnu --plain -j 2 --block 81139 --recstart '>' --pipe blastp -query - -db /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_Sodalis_sp_SPI\-1_GCF_001602625_1\/Sodalis_sp_SPI\-1_GCF_001602625_1\.sprot\.tmp\.35066\.blast 2> /dev/null
+[11:29:28] Modify product: Uncharacterized oxidoreductase Rv2900c => putative oxidoreductase
+[11:29:28] Modify product: Uncharacterized ABC transporter ATP-binding protein YheS => putative ABC transporter ATP-binding protein YheS
+[11:29:28] Modify product: Uncharacterized protein YibN => putative protein YibN
+[11:29:28] Modify product: UPF0056 inner membrane protein MarC => hypothetical protein
+[11:29:28] Modify product: UPF0056 inner membrane protein MarC => hypothetical protein
+[11:29:28] Modify product: UPF0438 protein YifE => hypothetical protein
+[11:29:28] Modify product: Uncharacterized metal-dependent hydrolase YcfH => putative metal-dependent hydrolase YcfH
+[11:29:28] Modify product: Probable ATP-dependent transporter SufC => putative ATP-dependent transporter SufC
+[11:29:28] Modify product: Probable L,D-transpeptidase YcfS => putative L,D-transpeptidase YcfS
+[11:29:28] Modify product: Probable ECA polymerase => putative ECA polymerase
+[11:29:28] Modify product: UPF0434 protein YcaR => hypothetical protein
+[11:29:29] Modify product: Uncharacterized protein YcbX => putative protein YcbX
+[11:29:29] Modify product: UPF0056 inner membrane protein YhgN => hypothetical protein
+[11:29:29] Modify product: Probable amino-acid import ATP-binding protein YxeO => putative amino-acid import ATP-binding protein YxeO
+[11:29:29] Modify product: Probable lipid II flippase MurJ => putative lipid II flippase MurJ
+[11:29:29] Modify product: UPF0265 protein YeeX => hypothetical protein
+[11:29:29] Modify product: UPF0352 protein YejL => hypothetical protein
+[11:29:29] Modify product: Putative thiamine biosynthesis protein HI_0357 => Putative thiamine biosynthesis protein
+[11:29:29] Modify product: GTP cyclohydrolase 1 type 2 homolog => GTP cyclohydrolase 1 type 2 
+[11:29:29] Modify product: UPF0259 membrane protein YciC => hypothetical protein
+[11:29:29] Modify product: Probable peptidoglycan glycosyltransferase FtsW => putative peptidoglycan glycosyltransferase FtsW
+[11:29:29] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[11:29:29] Modify product: UPF0250 protein YbeD => hypothetical protein
+[11:29:29] Modify product: UPF0394 inner membrane protein YeeE => hypothetical protein
+[11:29:29] Modify product: Multidrug transporter PA4990 => Multidrug transporter
+[11:29:29] Modify product: Glycogen operon protein GlgX homolog => Glycogen operon protein GlgX 
+[11:29:29] Modify product: Probable galactarate transporter => putative galactarate transporter
+[11:29:29] Modify product: Probable Fe(2+)-trafficking protein => putative Fe(2+)-trafficking protein
+[11:29:29] Modify product: UPF0235 protein YggU => hypothetical protein
+[11:29:29] Modify product: UPF0301 protein YqgE => hypothetical protein
+[11:29:29] Modify product: UPF0301 protein YqgE => hypothetical protein
+[11:29:29] Modify product: UPF0701 protein YicC => hypothetical protein
+[11:29:29] Modify product: UPF0053 inner membrane protein YtfL => hypothetical protein
+[11:29:29] Modify product: Probable protein kinase UbiB => putative protein kinase UbiB
+[11:29:30] Modify product: Probable transcriptional regulatory protein YebC => putative transcriptional regulatory protein YebC
+[11:29:30] Modify product: UPF0053 inner membrane protein YoaE => hypothetical protein
+[11:29:30] Modify product: Probable GTP-binding protein EngB => putative GTP-binding protein EngB
+[11:29:30] Modify product: UPF0761 membrane protein YihY => hypothetical protein
+[11:29:30] Modify product: Probable L,D-transpeptidase YbiS => putative L,D-transpeptidase YbiS
+[11:29:30] Modify product: Uncharacterized protein YedJ => putative protein YedJ
+[11:29:30] Modify product: UPF0176 protein YceA => hypothetical protein
+[11:29:30] Cleaned 41 /product names
+[11:29:30] Deleting unwanted file: prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.sprot.tmp.35066.faa
+[11:29:30] Deleting unwanted file: prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.sprot.tmp.35066.blast
+[11:29:30] There are still 908 unannotated CDS left (started with 1913)
+[11:29:30] Will use hmmer3 to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/hmm/HAMAP.hmm with 2 CPUs
+[11:29:30] Running: cat prokka_Sodalis_sp_SPI\-1_GCF_001602625_1\/Sodalis_sp_SPI\-1_GCF_001602625_1\.HAMAP\.hmm\.tmp\.35066\.faa | parallel --gnu --plain -j 2 --block 21751 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/hmm/HAMAP.hmm /dev/stdin > prokka_Sodalis_sp_SPI\-1_GCF_001602625_1\/Sodalis_sp_SPI\-1_GCF_001602625_1\.HAMAP\.hmm\.tmp\.35066\.hmmer3 2> /dev/null
+[11:30:20] Deleting unwanted file: prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.HAMAP.hmm.tmp.35066.faa
+[11:30:20] Deleting unwanted file: prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.HAMAP.hmm.tmp.35066.hmmer3
+[11:30:20] Labelling remaining 844 proteins as 'hypothetical protein'
+[11:30:20] Possible /pseudo 'DNA helicase II' at NZ_LECR01000031.1 position 3446
+[11:30:20] Possible /pseudo 'Tyrosine recombinase XerC' at NZ_LECR01000031.1 position 5045
+[11:30:20] Possible /pseudo 'Phosphoribosylformylglycinamidine synthase' at NZ_LECR01000035.1 position 2113
+[11:30:20] Possible /pseudo 'Phosphoribosylformylglycinamidine synthase' at NZ_LECR01000035.1 position 2706
+[11:30:20] Possible /pseudo 'Aconitate hydratase B' at NZ_LECR01000047.1 position 11220
+[11:30:20] Possible /pseudo 'Aromatic amino acid transport protein AroP' at NZ_LECR01000047.1 position 24436
+[11:30:20] Possible /pseudo 'Acetylornithine deacetylase' at NZ_LECR01000053.1 position 4014
+[11:30:20] Possible /pseudo 'HTH-type transcriptional repressor FabR' at NZ_LECR01000053.1 position 10887
+[11:30:20] Possible /pseudo 'Glutathione-regulated potassium-efflux system protein KefB' at NZ_LECR01000020.1 position 29622
+[11:30:20] Possible /pseudo 'Enoyl-[acyl-carrier-protein] reductase [NADH] FabI' at NZ_LECR01000089.1 position 1708
+[11:30:20] Possible /pseudo 'Inorganic triphosphatase' at NZ_LECR01000017.1 position 1042
+[11:30:20] Possible /pseudo 'Dipeptide transport system permease protein DppB' at NZ_LECR01000008.1 position 51216
+[11:30:20] Possible /pseudo 'Dipeptide transport system permease protein DppB' at NZ_LECR01000008.1 position 51519
+[11:30:20] Possible /pseudo 'Dihydroxy-acid dehydratase' at NZ_LECR01000055.1 position 10601
+[11:30:20] Possible /pseudo 'Ketol-acid reductoisomerase (NADP(+))' at NZ_LECR01000055.1 position 14562
+[11:30:20] Possible /pseudo 'Elongation factor G' at NZ_LECR01000030.1 position 16208
+[11:30:20] Possible /pseudo 'Protein translocase subunit SecD' at NZ_LECR01000030.1 position 31193
+[11:30:20] Possible /pseudo 'Virulence transcriptional regulatory protein PhoP' at NZ_LECR01000023.1 position 18626
+[11:30:20] Possible /pseudo 'Manganese transport system membrane protein MntB' at NZ_LECR01000023.1 position 30825
+[11:30:20] Possible /pseudo 'Multidrug resistance protein MdtK' at NZ_LECR01000023.1 position 114843
+[11:30:20] Possible /pseudo 'Cell division protein ZapE' at NZ_LECR01000083.1 position 3016
+[11:30:20] Possible /pseudo 'Lipid III flippase' at NZ_LECR01000073.1 position 12661
+[11:30:20] Possible /pseudo 'Chromosome partition protein MukF' at NZ_LECR01000026.1 position 5036
+[11:30:20] Possible /pseudo 'Chromosome partition protein MukF' at NZ_LECR01000026.1 position 5498
+[11:30:20] Possible /pseudo 'Chromosome partition protein MukE' at NZ_LECR01000026.1 position 6320
+[11:30:20] Possible /pseudo 'Chromosome partition protein MukB' at NZ_LECR01000026.1 position 9598
+[11:30:20] Possible /pseudo 'Phosphoserine aminotransferase' at NZ_LECR01000002.1 position 8132
+[11:30:20] Possible /pseudo '50S ribosomal protein L2' at NZ_LECR01000011.1 position 6910
+[11:30:20] Possible /pseudo '1,4-alpha-glucan branching enzyme GlgB' at NZ_LECR01000050.1 position 19268
+[11:30:20] Possible /pseudo 'High-affinity gluconate transporter' at NZ_LECR01000050.1 position 23476
+[11:30:20] Possible /pseudo 'ATP-dependent Clp protease ATP-binding subunit ClpA' at NZ_LECR01000044.1 position 4008
+[11:30:20] Possible /pseudo 'Serine transporter' at NZ_LECR01000044.1 position 10033
+[11:30:20] Possible /pseudo 'Methionine--tRNA ligase' at NZ_LECR01000090.1 position 110664
+[11:30:20] Possible /pseudo 'NAD-dependent malic enzyme' at NZ_LECR01000090.1 position 116087
+[11:30:20] Possible /pseudo 'Galactose/methyl galactoside import ATP-binding protein MglA' at NZ_LECR01000090.1 position 119465
+[11:30:20] Possible /pseudo 'PTS system fructose-specific EIIB'BC component' at NZ_LECR01000090.1 position 133620
+[11:30:20] Possible /pseudo 'Succinate--CoA ligase [ADP-forming] subunit alpha' at NZ_LECR01000015.1 position 22951
+[11:30:20] Possible /pseudo 'Phosphoglucomutase' at NZ_LECR01000015.1 position 38621
+[11:30:20] Possible /pseudo 'Negative modulator of initiation of replication' at NZ_LECR01000015.1 position 39897
+[11:30:20] Possible /pseudo 'Aldehyde-alcohol dehydrogenase' at NZ_LECR01000022.1 position 26461
+[11:30:20] Possible /pseudo 'Thymidine kinase' at NZ_LECR01000022.1 position 28337
+[11:30:20] Possible /pseudo 'UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase' at NZ_LECR01000071.1 position 5568
+[11:30:20] Possible /pseudo 'UDP-N-acetylmuramoylalanine--D-glutamate ligase' at NZ_LECR01000058.1 position 2295
+[11:30:20] Possible /pseudo 'Cysteine--tRNA ligase' at NZ_LECR01000077.1 position 8678
+[11:30:20] Possible /pseudo 'Glutamate/aspartate import permease protein GltJ' at NZ_LECR01000077.1 position 32550
+[11:30:20] Possible /pseudo 'Protease 3' at NZ_LECR01000041.1 position 1832
+[11:30:20] Possible /pseudo 'DNA ligase' at NZ_LECR01000003.1 position 41184
+[11:30:20] Possible /pseudo 'PTS system glucose-specific EIIA component' at NZ_LECR01000003.1 position 48066
+[11:30:20] Possible /pseudo 'Succinyl-diaminopimelate desuccinylase' at NZ_LECR01000003.1 position 62631
+[11:30:20] Possible /pseudo 'Putative multidrug resistance protein MdtD' at NZ_LECR01000003.1 position 78172
+[11:30:20] Possible /pseudo 'Putative multidrug resistance protein MdtD' at NZ_LECR01000003.1 position 78970
+[11:30:20] Possible /pseudo 'Exodeoxyribonuclease 7 large subunit' at NZ_LECR01000003.1 position 92464
+[11:30:20] Possible /pseudo 'Exodeoxyribonuclease 7 large subunit' at NZ_LECR01000003.1 position 93284
+[11:30:20] Possible /pseudo 'Chromosomal replication initiator protein DnaA' at NZ_LECR01000040.1 position 53308
+[11:30:20] Possible /pseudo 'Carbohydrate diacid regulator' at NZ_LECR01000042.1 position 2140
+[11:30:20] Possible /pseudo 'Periplasmic serine endoprotease DegP' at NZ_LECR01000042.1 position 3074
+[11:30:20] Possible /pseudo '5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase' at NZ_LECR01000042.1 position 6004
+[11:30:20] Possible /pseudo 'Galactose-proton symporter' at NZ_LECR01000046.1 position 17696
+[11:30:20] Possible /pseudo 'S-adenosylmethionine synthase' at NZ_LECR01000046.1 position 19777
+[11:30:20] Possible /pseudo 'tRNA-modifying protein YgfZ' at NZ_LECR01000046.1 position 46997
+[11:30:20] Possible /pseudo 'Ribosome-recycling factor' at NZ_LECR01000001.1 position 16330
+[11:30:20] Possible /pseudo 'Constitutive lysine decarboxylase' at NZ_LECR01000001.1 position 35005
+[11:30:20] Possible /pseudo 'Adenylosuccinate synthetase' at NZ_LECR01000007.1 position 9808
+[11:30:20] Possible /pseudo 'Phosphoribosylamine--glycine ligase' at NZ_LECR01000045.1 position 3348
+[11:30:20] Possible /pseudo 'Uroporphyrinogen decarboxylase' at NZ_LECR01000045.1 position 6628
+[11:30:20] Possible /pseudo 'Polyribonucleotide nucleotidyltransferase' at NZ_LECR01000010.1 position 19501
+[11:30:20] Possible /pseudo 'Peptide chain release factor RF3' at NZ_LECR01000010.1 position 29962
+[11:30:20] Possible /pseudo 'Peptide chain release factor RF3' at NZ_LECR01000010.1 position 30557
+[11:30:20] Possible /pseudo 'Bifunctional aspartokinase/homoserine dehydrogenase 1' at NZ_LECR01000010.1 position 50204
+[11:30:20] Possible /pseudo 'Isoleucine--tRNA ligase' at NZ_LECR01000010.1 position 63817
+[11:30:20] Possible /pseudo 'Carbamoyl-phosphate synthase large chain' at NZ_LECR01000010.1 position 71144
+[11:30:20] Possible /pseudo 'Carbamoyl-phosphate synthase large chain' at NZ_LECR01000010.1 position 72487
+[11:30:20] Possible /pseudo 'RNA polymerase sigma factor FliA' at NZ_LECR01000067.1 position 9015
+[11:30:20] Possible /pseudo 'Periplasmic dipeptide transport protein' at NZ_LECR01000067.1 position 10586
+[11:30:20] Possible /pseudo 'Dipeptide transport system permease protein DppB' at NZ_LECR01000067.1 position 11996
+[11:30:20] Possible /pseudo 'Aerobic respiration control sensor protein ArcB' at NZ_LECR01000078.1 position 8249
+[11:30:20] Possible /pseudo 'Ribosomal RNA small subunit methyltransferase I' at NZ_LECR01000078.1 position 14297
+[11:30:20] Possible /pseudo 'Putative membrane-bound redox modulator Alx' at NZ_LECR01000078.1 position 25500
+[11:30:20] Possible /pseudo 'Cell division protein FtsP' at NZ_LECR01000075.1 position 8133
+[11:30:20] Possible /pseudo 'Miniconductance mechanosensitive channel MscM' at NZ_LECR01000075.1 position 24318
+[11:30:20] Possible /pseudo 'Phosphatidylserine decarboxylase proenzyme' at NZ_LECR01000075.1 position 27694
+[11:30:20] Possible /pseudo 'Thiamine-monophosphate kinase' at NZ_LECR01000088.1 position 1529
+[11:30:20] Possible /pseudo 'tRNA sulfurtransferase' at NZ_LECR01000088.1 position 8297
+[11:30:20] Possible /pseudo 'Inner membrane transport protein YajR' at NZ_LECR01000088.1 position 11522
+[11:30:20] Possible /pseudo 'Peptidyl-prolyl cis-trans isomerase D' at NZ_LECR01000088.1 position 28668
+[11:30:20] Possible /pseudo 'Pyridoxine 5'-phosphate synthase' at NZ_LECR01000051.1 position 4123
+[11:30:20] Possible /pseudo 'ATP-dependent RNA helicase SrmB' at NZ_LECR01000051.1 position 16003
+[11:30:20] Possible /pseudo 'ATP-dependent RNA helicase SrmB' at NZ_LECR01000051.1 position 16393
+[11:30:20] Possible /pseudo 'UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase' at NZ_LECR01000051.1 position 29020
+[11:30:20] Possible /pseudo 'Glucose-6-phosphate 1-dehydrogenase' at NZ_LECR01000086.1 position 19378
+[11:30:20] Possible /pseudo 'GTP-binding protein TypA/BipA' at NZ_LECR01000032.1 position 11744
+[11:30:20] Possible /pseudo 'Putative acid--amine ligase YgiC' at NZ_LECR01000024.1 position 6282
+[11:30:20] Possible /pseudo 'Dipeptide transport system permease protein DppB' at NZ_LECR01000074.1 position 9015
+[11:30:20] Possible /pseudo 'Enolase' at NZ_LECR01000043.1 position 6520
+[11:30:20] Found 921 unique /gene codes.
+[11:30:20] Fixed 3 duplicate /gene - tufB_1 tufB_2 tufB_3
+[11:30:20] Fixed 2 duplicate /gene - ldcC_1 ldcC_2
+[11:30:20] Fixed 2 duplicate /gene - pgm_1 pgm_2
+[11:30:20] Fixed 2 duplicate /gene - murD_1 murD_2
+[11:30:20] Fixed 2 duplicate /gene - typA_1 typA_2
+[11:30:20] Fixed 2 duplicate /gene - cysS_1 cysS_2
+[11:30:20] Fixed 2 duplicate /gene - rcsC_1 rcsC_2
+[11:30:20] Fixed 2 duplicate /gene - ygfZ_1 ygfZ_2
+[11:30:20] Fixed 3 duplicate /gene - carB_1 carB_2 carB_3
+[11:30:20] Fixed 2 duplicate /gene - gltJ_1 gltJ_2
+[11:30:20] Fixed 2 duplicate /gene - hemE_1 hemE_2
+[11:30:20] Fixed 3 duplicate /gene - thiI_1 thiI_2 thiI_3
+[11:30:20] Fixed 2 duplicate /gene - ppiD_1 ppiD_2
+[11:30:20] Fixed 3 duplicate /gene - murI_1 murI_2 murI_3
+[11:30:20] Fixed 2 duplicate /gene - wzxE_1 wzxE_2
+[11:30:20] Fixed 2 duplicate /gene - mtnN_1 mtnN_2
+[11:30:20] Fixed 2 duplicate /gene - galP_1 galP_2
+[11:30:20] Fixed 2 duplicate /gene - secD_1 secD_2
+[11:30:20] Fixed 2 duplicate /gene - argE_1 argE_2
+[11:30:20] Fixed 2 duplicate /gene - putA_1 putA_2
+[11:30:20] Fixed 2 duplicate /gene - glgB_1 glgB_2
+[11:30:20] Fixed 2 duplicate /gene - ftsP_1 ftsP_2
+[11:30:20] Fixed 2 duplicate /gene - barA_1 barA_2
+[11:30:20] Fixed 2 duplicate /gene - maeA_1 maeA_2
+[11:30:20] Fixed 2 duplicate /gene - metG_1 metG_2
+[11:30:20] Fixed 2 duplicate /gene - phoP_1 phoP_2
+[11:30:20] Fixed 2 duplicate /gene - ilvD_1 ilvD_2
+[11:30:20] Fixed 2 duplicate /gene - cdaR_1 cdaR_2
+[11:30:20] Fixed 2 duplicate /gene - ligA_1 ligA_2
+[11:30:20] Fixed 2 duplicate /gene - purD_1 purD_2
+[11:30:20] Fixed 2 duplicate /gene - degP_1 degP_2
+[11:30:20] Fixed 2 duplicate /gene - sdaC_1 sdaC_2
+[11:30:20] Fixed 2 duplicate /gene - mglA_1 mglA_2
+[11:30:20] Fixed 2 duplicate /gene - psd_1 psd_2
+[11:30:20] Fixed 2 duplicate /gene - mpl_1 mpl_2
+[11:30:20] Fixed 2 duplicate /gene - aroP_1 aroP_2
+[11:30:20] Fixed 2 duplicate /gene - fliA_1 fliA_2
+[11:30:20] Fixed 3 duplicate /gene - mntB_1 mntB_2 mntB_3
+[11:30:20] Fixed 4 duplicate /gene - pssA_1 pssA_2 pssA_3 pssA_4
+[11:30:20] Fixed 2 duplicate /gene - dppA_1 dppA_2
+[11:30:20] Fixed 2 duplicate /gene - mukE_1 mukE_2
+[11:30:20] Fixed 3 duplicate /gene - prfC_1 prfC_2 prfC_3
+[11:30:20] Fixed 3 duplicate /gene - xseA_1 xseA_2 xseA_3
+[11:30:20] Fixed 3 duplicate /gene - mukB_1 mukB_2 mukB_3
+[11:30:20] Fixed 2 duplicate /gene - adhE_1 adhE_2
+[11:30:20] Fixed 2 duplicate /gene - purA_1 purA_2
+[11:30:20] Fixed 2 duplicate /gene - metK_1 metK_2
+[11:30:20] Fixed 2 duplicate /gene - alx_1 alx_2
+[11:30:20] Fixed 2 duplicate /gene - dacC_1 dacC_2
+[11:30:20] Fixed 2 duplicate /gene - sucD_1 sucD_2
+[11:30:20] Fixed 7 duplicate /gene - dppB_1 dppB_2 dppB_3 dppB_4 dppB_5 dppB_6 dppB_7
+[11:30:20] Fixed 2 duplicate /gene - uvrD_1 uvrD_2
+[11:30:20] Fixed 2 duplicate /gene - zapE_1 zapE_2
+[11:30:20] Fixed 3 duplicate /gene - srmB_1 srmB_2 srmB_3
+[11:30:20] Fixed 2 duplicate /gene - mscM_1 mscM_2
+[11:30:20] Fixed 2 duplicate /gene - slyA_1 slyA_2
+[11:30:20] Fixed 2 duplicate /gene - serC_1 serC_2
+[11:30:20] Fixed 2 duplicate /gene - seqA_1 seqA_2
+[11:30:20] Fixed 3 duplicate /gene - fusA_1 fusA_2 fusA_3
+[11:30:20] Fixed 2 duplicate /gene - arcB_1 arcB_2
+[11:30:20] Fixed 2 duplicate /gene - metH_1 metH_2
+[11:30:20] Fixed 2 duplicate /gene - ygiF_1 ygiF_2
+[11:30:20] Fixed 2 duplicate /gene - wecE_1 wecE_2
+[11:30:20] Fixed 2 duplicate /gene - arnB_1 arnB_2
+[11:30:20] Fixed 2 duplicate /gene - fruA_1 fruA_2
+[11:30:20] Fixed 2 duplicate /gene - usg_1 usg_2
+[11:30:20] Fixed 2 duplicate /gene - clpA_1 clpA_2
+[11:30:20] Fixed 3 duplicate /gene - mukF_1 mukF_2 mukF_3
+[11:30:20] Fixed 2 duplicate /gene - fabR_1 fabR_2
+[11:30:20] Fixed 3 duplicate /gene - purL_1 purL_2 purL_3
+[11:30:20] Fixed 2 duplicate /gene - gppA_1 gppA_2
+[11:30:20] Fixed 3 duplicate /gene - mshA_1 mshA_2 mshA_3
+[11:30:20] Fixed 2 duplicate /gene - rpoN_1 rpoN_2
+[11:30:20] Fixed 2 duplicate /gene - mdtK_1 mdtK_2
+[11:30:20] Fixed 2 duplicate /gene - thiL_1 thiL_2
+[11:30:20] Fixed 2 duplicate /gene - algC_1 algC_2
+[11:30:20] Fixed 2 duplicate /gene - gntT_1 gntT_2
+[11:30:20] Fixed 2 duplicate /gene - yajR_1 yajR_2
+[11:30:20] Fixed 2 duplicate /gene - thrA_1 thrA_2
+[11:30:20] Fixed 2 duplicate /gene - kefB_1 kefB_2
+[11:30:20] Fixed 2 duplicate /gene - crr_1 crr_2
+[11:30:20] Fixed 2 duplicate /gene - eno_1 eno_2
+[11:30:20] Fixed 2 duplicate /gene - dnaA_1 dnaA_2
+[11:30:20] Fixed 2 duplicate /gene - ilvC_1 ilvC_2
+[11:30:20] Fixed 2 duplicate /gene - xerC_1 xerC_2
+[11:30:20] Fixed 2 duplicate /gene - ileS_1 ileS_2
+[11:30:20] Fixed 2 duplicate /gene - narZ_1 narZ_2
+[11:30:20] Fixed 2 duplicate /gene - acnB_1 acnB_2
+[11:30:20] Fixed 2 duplicate /gene - ptrA_1 ptrA_2
+[11:30:20] Fixed 3 duplicate /gene - mdtD_1 mdtD_2 mdtD_3
+[11:30:20] Fixed 2 duplicate /gene - dapE_1 dapE_2
+[11:30:20] Fixed 2 duplicate /gene - pdxB_1 pdxB_2
+[11:30:20] Fixed 2 duplicate /gene - pdxJ_1 pdxJ_2
+[11:30:20] Fixed 2 duplicate /gene - rsmI_1 rsmI_2
+[11:30:20] Fixed 2 duplicate /gene - frr_1 frr_2
+[11:30:20] Fixed 2 duplicate /gene - lon_1 lon_2
+[11:30:20] Fixed 2 duplicate /gene - pnp_1 pnp_2
+[11:30:20] Fixed 4 duplicate /gene - fabI_1 fabI_2 fabI_3 fabI_4
+[11:30:20] Fixed 2 duplicate /gene - rplB_1 rplB_2
+[11:30:20] Fixed 2 duplicate /gene - ygiC_1 ygiC_2
+[11:30:20] Fixed 2 duplicate /gene - tdk_1 tdk_2
+[11:30:20] Fixed 2 duplicate /gene - zwf_1 zwf_2
+[11:30:20] Fixed 102 colliding /gene names.
+[11:30:20] Adding /locus_tag identifiers
+[11:30:20] Assigned 1966 locus_tags to CDS and RNA features.
+[11:30:20] Writing outputs to prokka_Sodalis_sp_SPI-1_GCF_001602625_1/
+[11:30:21] Generating annotation statistics file
+[11:30:21] Generating Genbank and Sequin files
+[11:30:21] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka_ed 1.14.6 from https://github.com/tseemann/prokka' -Z prokka_Sodalis_sp_SPI\-1_GCF_001602625_1\/Sodalis_sp_SPI\-1_GCF_001602625_1\.err -i prokka_Sodalis_sp_SPI\-1_GCF_001602625_1\/Sodalis_sp_SPI\-1_GCF_001602625_1\.fsa 2> /dev/null
+[11:30:26] Deleting unwanted file: prokka_Sodalis_sp_SPI-1_GCF_001602625_1/errorsummary.val
+[11:30:26] Deleting unwanted file: prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.dr
+[11:30:26] Deleting unwanted file: prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.fixedproducts
+[11:30:26] Deleting unwanted file: prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.ecn
+[11:30:26] Deleting unwanted file: prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.val
+[11:30:26] Repairing broken .GBK output that tbl2asn produces...
+[11:30:26] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < prokka_Sodalis_sp_SPI\-1_GCF_001602625_1\/Sodalis_sp_SPI\-1_GCF_001602625_1\.gbf > prokka_Sodalis_sp_SPI\-1_GCF_001602625_1\/Sodalis_sp_SPI\-1_GCF_001602625_1\.gbk
+[11:30:26] Deleting unwanted file: prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.gbf
+[11:30:26] Output files:
+[11:30:26] prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.log
+[11:30:26] prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.fna
+[11:30:26] prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.gff
+[11:30:26] prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.faa
+[11:30:26] prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.ffn
+[11:30:26] prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.tbl
+[11:30:26] prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.fsa
+[11:30:26] prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.tsv
+[11:30:26] prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.txt
+[11:30:26] prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.sqn
+[11:30:26] prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.gbk
+[11:30:26] prokka_Sodalis_sp_SPI-1_GCF_001602625_1/Sodalis_sp_SPI-1_GCF_001602625_1.err
+[11:30:26] Annotation finished successfully.
+[11:30:26] Walltime used: 2.53 minutes
+[11:30:26] If you use this result please cite the Prokka paper:
+[11:30:26] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[11:30:26] Type 'prokka --citation' for more details.
+[11:30:26] Thank you, come again.

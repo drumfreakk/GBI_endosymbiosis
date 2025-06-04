@@ -1,0 +1,607 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00001	CDS	1800	lepA	3.6.5.-	COG0481	Elongation factor 4
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00002	CDS	990	lepB	3.4.21.89	COG0681	Signal peptidase I
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00003	CDS	681	rnc	3.1.26.3	COG0571	Ribonuclease 3
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00004	CDS	906	era		COG1159	GTPase Era
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00005	CDS	702	recO		COG1381	DNA repair protein RecO
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00006	CDS	732	pdxJ	2.6.99.2	COG0854	Pyridoxine 5'-phosphate synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00007	CDS	381	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00008	CDS	501	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00009	CDS	1239	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00010	CDS	801	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00011	CDS	1161	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00012	CDS	198				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00013	CDS	1278	pepB	3.4.11.23	COG0260	Peptidase B
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00014	CDS	597	rodZ			Cytoskeleton protein RodZ
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00015	CDS	1275	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00016	CDS	510				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00017	CDS	945	bamB		COG1520	Outer membrane protein assembly factor BamB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00018	CDS	1380	der		COG1160	GTPase Der
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00019	tRNA	74				tRNA-Arg(ccg)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00020	tRNA	76				tRNA-His(gtg)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00021	tRNA	85				tRNA-Leu(cag)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00022	tRNA	76				tRNA-Pro(tgg)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00023	CDS	132				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00024	CDS	150				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00025	CDS	2169	uvrD	3.6.4.12	COG0210	DNA helicase II
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00026	CDS	1107	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00027	CDS	576	nfuA		COG0316	Fe/S biogenesis protein NfuA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00028	CDS	249				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00029	CDS	219				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00030	CDS	1113	mrcA		COG5009	Penicillin-binding protein 1A
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00031	CDS	147				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00032	CDS	561	aroK	2.7.1.71	COG0703	Shikimate kinase 1
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00033	CDS	138				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00034	CDS	657	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00035	CDS	1035	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00036	CDS	789	fkpA	5.2.1.8	COG0545	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00037	CDS	393	tusD	2.8.1.-	COG1553	Sulfurtransferase TusD
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00038	CDS	360	tusC		COG2923	Protein TusC
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00039	CDS	288	tusB		COG2168	Protein TusB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00040	CDS	375	rpsL		COG0048	30S ribosomal protein S12
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00041	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00042	CDS	2106	fusA		COG0480	Elongation factor G
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00043	CDS	1185	tufB_1		COG0050	Elongation factor Tu 2
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00044	CDS	384	secE		COG0690	Protein translocase subunit SecE
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00045	CDS	546	nusG		COG0250	Transcription termination/antitermination protein NusG
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00046	CDS	429	rplK		COG0080	50S ribosomal protein L11
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00047	CDS	705	rplA		COG0081	50S ribosomal protein L1
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00048	CDS	498	rplJ		COG0244	50S ribosomal protein L10
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00049	CDS	369	rplL		COG0222	50S ribosomal protein L7/L12
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00050	CDS	4023	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00051	CDS	4206	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00052	CDS	204	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00053	CDS	192				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00054	CDS	231	thiG	2.8.1.10		Thiazole synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00055	CDS	657	thiE	2.5.1.3	COG0352	Thiamine-phosphate synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00056	CDS	1932	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00057	CDS	273	hupA			DNA-binding protein HU-alpha
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00058	CDS	855	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00059	CDS	420	recD	3.1.11.5	COG0507	RecBCD enzyme subunit RecD
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00060	tRNA	77				tRNA-Met(cat)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00061	CDS	843	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00062	CDS	132				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00063	CDS	795	map	3.4.11.18	COG0024	Methionine aminopeptidase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00064	CDS	726	rpsB		COG0052	30S ribosomal protein S2
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00065	CDS	825	tsf		COG0264	Elongation factor Ts
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00066	CDS	771	pyrH	2.7.4.22	COG0528	Uridylate kinase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00067	CDS	558	frr		COG0233	Ribosome-recycling factor
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00068	CDS	156				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00069	CDS	762	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00070	CDS	762	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00071	CDS	2430	bamA		COG4775	Outer membrane protein assembly factor BamA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00072	CDS	498	skp		COG2825	Chaperone protein Skp
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00073	CDS	1023	lpxD	2.3.1.191	COG1044	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00074	CDS	456	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00075	CDS	816	lpxA	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00076	CDS	1149	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00077	CDS	3483	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00078	CDS	954	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00079	CDS	114				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00080	CDS	1533	tilS	6.3.4.19		tRNA(Ile)-lysidine synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00081	CDS	144				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00082	CDS	1725	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00083	tRNA	77				tRNA-Asp(gtc)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00084	CDS	774	gloB	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00085	CDS	468	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00086	CDS	750	dnaQ	2.7.7.7	COG0847	DNA polymerase III subunit epsilon
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00087	tRNA	76				tRNA-Thr(cgt)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00088	CDS	1065	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00089	CDS	1140	tgt	2.4.2.29	COG0343	Queuine tRNA-ribosyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00090	CDS	333	yajC		COG1862	Sec translocon accessory complex subunit YajC
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00091	CDS	471	ribE	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00092	CDS	426	nusB		COG0781	Transcription antitermination protein NusB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00093	CDS	492	pgpA	3.1.3.27	COG1267	Phosphatidylglycerophosphatase A
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00094	CDS	93				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00095	CDS	1869	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00096	CDS	90				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00097	CDS	171				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00098	CDS	570	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00099	CDS	1278	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00100	CDS	2361	lon	3.4.21.53	COG0466	Lon protease
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00101	CDS	1872	ppiD	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase D
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00102	CDS	696	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00103	CDS	2103				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00104	CDS	330	ybaB		COG0718	Nucleoid-associated protein YbaB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00105	CDS	606	recR		COG0353	Recombination protein RecR
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00106	CDS	648	adk	2.7.4.3	COG0563	Adenylate kinase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00107	CDS	1086	hemH	4.99.1.1	COG0276	Ferrochelatase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00108	CDS	720	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00109	CDS	1377	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00110	CDS	864	folD		COG0190	Bifunctional protein FolD protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00111	tRNA	77				tRNA-Arg(tct)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00112	CDS	2787	polA	2.7.7.7	COG0258	DNA polymerase I
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00113	CDS	627	engB		COG0218	putative GTP-binding protein EngB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00114	CDS	1806	typA		COG1217	GTP-binding protein TypA/BipA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00115	CDS	1107	ychF		COG0012	Ribosome-binding ATPase YchF
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00116	CDS	582	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00117	CDS	942	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00118	CDS	516	lolB		COG3017	Outer-membrane lipoprotein LolB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00119	CDS	1083	prfA		COG0216	Peptide chain release factor RF1
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00120	CDS	858	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00121	CDS	852	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00122	CDS	129				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00123	CDS	1923	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00124	CDS	462	infC		COG0290	Translation initiation factor IF-3
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00125	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00126	CDS	357	rplT		COG0292	50S ribosomal protein L20
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00127	CDS	93				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00128	CDS	1005	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00129	CDS	2388	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00130	CDS	303	ihfA		COG0776	Integration host factor subunit alpha
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00131	CDS	177				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00132	CDS	387	sufA		COG0316	Protein SufA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00133	CDS	1512	sufB		COG0719	FeS cluster assembly protein SufB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00134	CDS	738	sufC		COG0396	putative ATP-dependent transporter SufC
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00135	CDS	1272	sufD		COG0719	FeS cluster assembly protein SufD
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00136	CDS	1224	sufS	2.8.1.7	COG0520	Cysteine desulfurase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00137	CDS	417	sufE		COG2166	Cysteine desulfuration protein SufE
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00138	CDS	1413	pykF	2.7.1.40	COG0469	Pyruvate kinase I
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00139	tRNA	77				tRNA-Val(gac)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00140	CDS	336	grxD		COG0278	Glutaredoxin 4
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00141	CDS	705	rnt	3.1.13.-	COG0847	Ribonuclease T
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00142	CDS	1278	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00143	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00144	CDS	165				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00145	CDS	849	manZ		COG3716	PTS system mannose-specific EIID component
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00146	CDS	807	manY		COG3715	PTS system mannose-specific EIIC component
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00147	CDS	963	manX	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00148	CDS	120				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00149	CDS	1554				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00150	CDS	108				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00151	CDS	126				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00152	CDS	702	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00153	CDS	267	minE		COG0851	Cell division topological specificity factor
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00154	CDS	813	minD		COG2894	Septum site-determining protein MinD
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00155	CDS	687	minC		COG0850	Septum site-determining protein MinC
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00156	CDS	516	dsbB		COG1495	Disulfide bond formation protein B
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00157	CDS	1737	cvrA		COG3263	K(+)/H(+) antiporter NhaP2
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00158	CDS	1005	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00159	CDS	807	xthA	3.1.11.2	COG0708	Exodeoxyribonuclease III
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00160	CDS	408	hns			DNA-binding protein H-NS
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00161	CDS	1461	clsA	2.7.8.-	COG1502	Cardiolipin synthase A
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00162	CDS	753				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00163	CDS	807	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00164	CDS	1191	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00165	CDS	1365	trpC		COG0134	Tryptophan biosynthesis protein TrpCF
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00166	CDS	1008	trpGD_1		COG0512	Bifunctional protein TrpGD
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00167	CDS	579	trpGD_2		COG0512	Bifunctional protein TrpGD
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00168	CDS	1563	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00169	CDS	870	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00170	CDS	1062	sohB	3.4.21.-	COG0616	putative protease SohB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00171	CDS	2613	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00172	CDS	96				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00173	CDS	801	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00174	CDS	3522	nifJ	1.2.7.-	COG0674	Pyruvate-flavodoxin oxidoreductase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00175	CDS	2070	ptrB	3.4.21.83	COG1770	Protease 2
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00176	CDS	1473	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00177	CDS	963	lpxM	2.3.1.243	COG1560	Lipid A biosynthesis myristoyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00178	CDS	1335	mepM	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00179	CDS	978	znuA		COG4531	High-affinity zinc uptake system protein ZnuA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00180	CDS	762	znuC	7.2.2.-	COG1121	Zinc import ATP-binding protein ZnuC
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00181	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00182	CDS	1017	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00183	CDS	645	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00184	CDS	522	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00185	CDS	747	yebC		COG0217	putative transcriptional regulatory protein YebC
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00186	CDS	1785	aspS	6.1.1.12	COG0173	Aspartate--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00187	CDS	738	cmoA	2.1.3.-	COG0500	Carboxy-S-adenosyl-L-methionine synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00188	CDS	972	cmoB	2.5.1.-	COG0500	tRNA U34 carboxymethyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00189	CDS	117				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00190	CDS	1731	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00191	CDS	1497	murJ		COG0728	putative lipid II flippase MurJ
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00192	tRNA	89				tRNA-Ser(gga)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00193	CDS	969	gutQ	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase GutQ
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00194	CDS	102				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00195	CDS	174				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00196	CDS	111				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00197	CDS	105				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00198	CDS	1407	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00199	CDS	1674	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00200	CDS	177				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00201	CDS	288	rplY		COG1825	50S ribosomal protein L25
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00202	tRNA	76				tRNA-Pro(ggg)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00203	CDS	1119	ompC		COG3203	Outer membrane porin C
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00204	CDS	2592	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00205	CDS	129				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00206	CDS	1203	ackA	2.7.2.1	COG0282	Acetate kinase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00207	CDS	2106	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00208	CDS	1257	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00209	CDS	867	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00210	CDS	786	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00211	CDS	1134	pdxB	1.1.1.290	COG0111	Erythronate-4-phosphate dehydrogenase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00212	CDS	1200	fabB	2.3.1.41	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 1
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00213	CDS	939	prmB	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00214	CDS	477	sixA	3.1.3.-	COG2062	Phosphohistidine phosphatase SixA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00215	tRNA	73				tRNA-Arg(cct)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00216	tRNA	75				tRNA-Ala(ggc)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00217	CDS	1428	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00218	tRNA	75				tRNA-Val(tac)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00219	tRNA	75				tRNA-Lys(ttt)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00220	CDS	1356	pssA	2.7.8.8	COG1502	CDP-diacylglycerol--serine O-phosphatidyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00221	CDS	2577	clpB		COG0542	Chaperone protein ClpB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00222	CDS	981	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00223	CDS	744	bamD		COG4105	Outer membrane protein assembly factor BamD
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00224	CDS	357	rplS		COG0335	50S ribosomal protein L19
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00225	CDS	756	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00226	CDS	549	rimM		COG0806	Ribosome maturation factor RimM
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00227	CDS	249	rpsP		COG0228	30S ribosomal protein S16
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00228	CDS	1368	ffh		COG0541	Signal recognition particle protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00229	tRNA	77				tRNA-Arg(acg)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00230	tRNA	93				tRNA-Ser(gct)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00231	CDS	2634	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00232	CDS	453	recX			Regulatory protein RecX
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00233	CDS	1068	recA		COG0468	Protein RecA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00234	CDS	99				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00235	CDS	2580	mutS		COG0249	DNA mismatch repair protein MutS
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00236	CDS	1056	nlpD		COG0739	Murein hydrolase activator NlpD
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00237	CDS	303	ftsB			Cell division protein FtsB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00238	CDS	159				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00239	CDS	363	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00240	CDS	675	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00241	CDS	1302	eno	4.2.1.11	COG0148	Enolase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00242	CDS	1659	pyrG	6.3.4.2	COG0504	CTP synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00243	CDS	90				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00244	CDS	111				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00245	CDS	345	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00246	CDS	564	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00247	CDS	195				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00248	tRNA	76				tRNA-Asn(gtt)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00249	CDS	96				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00250	CDS	840	djlA		COG1076	Co-chaperone protein DjlA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00251	CDS	2373	lptD		COG1452	LPS-assembly protein LptD
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00252	CDS	1167	surA	5.2.1.8	COG0760	Chaperone SurA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00253	CDS	993	pdxA	1.1.1.262	COG1995	4-hydroxythreonine-4-phosphate dehydrogenase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00254	CDS	819	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00255	CDS	849	apaH	3.6.1.41	COG0639	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00256	CDS	3222	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00257	CDS	1179	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00258	CDS	822	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00259	CDS	513	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00260	CDS	2817	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00261	CDS	264	rpsT		COG0268	30S ribosomal protein S20
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00262	CDS	1914	dnaK		COG0443	Chaperone protein DnaK
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00263	CDS	1143	dnaJ		COG0484	Chaperone protein DnaJ
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00264	CDS	417	holD	2.7.7.7	COG3050	DNA polymerase III subunit psi
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00265	CDS	90				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00266	CDS	1824	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00267	CDS	2091	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00268	CDS	336				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00269	CDS	969	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00270	CDS	357	rbfA		COG0858	30S ribosome-binding factor
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00271	CDS	2661	infB		COG0532	Translation initiation factor IF-2
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00272	CDS	1500	nusA		COG0195	Transcription termination/antitermination protein NusA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00273	tRNA	86				tRNA-Leu(gag)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00274	CDS	333	secG		COG1314	Protein-export membrane protein SecG
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00275	CDS	795	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00276	CDS	1812	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00277	CDS	630	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00278	CDS	561	greA		COG0782	Transcription elongation factor GreA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00279	CDS	1065	obg	3.6.5.-	COG0536	GTPase Obg
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00280	CDS	258	rpmA		COG0211	50S ribosomal protein L27
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00281	CDS	339	rplU		COG0261	50S ribosomal protein L21
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00282	CDS	144				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00283	CDS	1371	mpl	6.3.2.45	COG0773	UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00284	CDS	525	ppa	3.6.1.1	COG0221	Inorganic pyrophosphatase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00285	CDS	453	rplI		COG0359	50S ribosomal protein L9
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00286	CDS	228	rpsR		COG0238	30S ribosomal protein S18
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00287	CDS	318	priB		COG2965	Primosomal replication protein N
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00288	CDS	396	rpsF		COG0360	30S ribosomal protein S6
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00289	CDS	738	rlmB	2.1.1.185	COG0566	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00290	CDS	2247	rnr	3.1.13.1	COG0557	Ribonuclease R
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00291	CDS	102				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00292	CDS	999	hflC		COG0330	Modulator of FtsH protease HflC
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00293	CDS	1212	hflK		COG0330	Modulator of FtsH protease HflK
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00294	CDS	159				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00295	CDS	264				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00296	CDS	306	hfq		COG1923	RNA-binding protein Hfq
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00297	CDS	942	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00298	CDS	1701				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00299	CDS	465	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00300	CDS	156				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00301	tRNA	75				tRNA-Gly(gcc)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00302	CDS	546	orn	3.1.-.-	COG1949	Oligoribonuclease
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00303	CDS	888	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00304	CDS	978	epmA	6.3.1.-	COG2269	Elongation factor P--(R)-beta-lysine ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00305	CDS	567	efp		COG0231	Elongation factor P
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00306	CDS	1026	epmB	5.4.3.-	COG1509	L-lysine 2,3-aminomutase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00307	CDS	1641	groL		COG0459	60 kDa chaperonin
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00308	CDS	294	groS		COG0234	10 kDa chaperonin
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00309	tRNA	75				tRNA-Phe(gaa)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00310	tRNA	74				tRNA-Lys(ctt)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00311	tRNA	88				tRNA-Ser(tga)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00312	CDS	327	tusE	2.8.1.-	COG2920	Sulfurtransferase TusE
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00313	CDS	150				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00314	CDS	489	mreD		COG2891	Rod shape-determining protein MreD
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00315	CDS	1050	mreC		COG1792	Cell shape-determining protein MreC
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00316	CDS	1044	mreB		COG1077	Cell shape-determining protein MreB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00317	CDS	186				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00318	CDS	453	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00319	CDS	447	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00320	CDS	1341	accC	6.3.4.14	COG0439	Biotin carboxylase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00321	CDS	93				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00322	CDS	297	fis		COG2901	DNA-binding protein Fis
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00323	rRNA	111				5S ribosomal RNA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00324	tRNA	73				tRNA-Glu(ttc)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00325	CDS	1890	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00326	CDS	210				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00327	CDS	1368	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00328	CDS	1641	yidC			Membrane protein insertase YidC
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00329	CDS	243	yidD		COG0759	Putative membrane protein insertion efficiency factor
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00330	CDS	372	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00331	CDS	1101	dnaN		COG0592	Beta sliding clamp
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00332	CDS	1095	recF		COG1195	DNA replication and repair protein RecF
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00333	CDS	2415	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00334	CDS	123				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00335	CDS	1575	pitA		COG0306	Low-affinity inorganic phosphate transporter 1
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00336	CDS	609	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn]
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00337	CDS	90				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00338	CDS	2070	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00339	CDS	921	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00340	CDS	1002				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00341	CDS	456	ibpB		COG0071	Small heat shock protein IbpB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00342	CDS	414	ibpA		COG0071	Small heat shock protein IbpA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00343	CDS	273	tusA		COG0425	Sulfur carrier protein TusA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00344	CDS	321				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00345	CDS	102				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00346	CDS	630	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00347	CDS	1008	ftsY		COG0552	Signal recognition particle receptor FtsY
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00348	CDS	846	rpoH		COG0568	RNA polymerase sigma factor RpoH
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00349	CDS	1527				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00350	CDS	189	ygfZ			tRNA-modifying protein YgfZ
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00351	CDS	696	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00352	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00353	CDS	1077	fbaA	4.1.2.13	COG0191	Fructose-bisphosphate aldolase class 2
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00354	CDS	1173	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00355	CDS	1263	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00356	CDS	141				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00357	CDS	405	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00358	CDS	555				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00359	CDS	1131	hemW		COG0635	Heme chaperone HemW
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00360	CDS	96				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00361	CDS	1041	mutY	3.2.2.31	COG1194	Adenine DNA glycosylase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00362	CDS	228	yggX		COG2924	putative Fe(2+)-trafficking protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00363	CDS	1074	mltC	4.2.2.-	COG0741	Membrane-bound lytic murein transglycosylase C
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00364	CDS	1026	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00365	CDS	972	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00366	tRNA	75				tRNA-Thr(tgt)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00367	tRNA	85				tRNA-Tyr(gta)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00368	tRNA	75				tRNA-Gly(tcc)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00369	tRNA	76				tRNA-Thr(ggt)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00370	CDS	1212	tufB_2		COG0050	Elongation factor Tu 2
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00371	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00372	CDS	630	rplC		COG0087	50S ribosomal protein L3
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00373	CDS	606	rplD		COG0088	50S ribosomal protein L4
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00374	CDS	303	rplW		COG0089	50S ribosomal protein L23
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00375	CDS	822	rplB		COG0090	50S ribosomal protein L2
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00376	CDS	279	rpsS		COG0185	30S ribosomal protein S19
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00377	CDS	333	rplV		COG0091	50S ribosomal protein L22
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00378	CDS	699	rpsC		COG0092	30S ribosomal protein S3
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00379	CDS	465	rplP		COG0197	50S ribosomal protein L16
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00380	CDS	204	rpmC		COG0255	50S ribosomal protein L29
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00381	CDS	255	rpsQ		COG0186	30S ribosomal protein S17
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00382	CDS	372	rplN		COG0093	50S ribosomal protein L14
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00383	CDS	312	rplX		COG0198	50S ribosomal protein L24
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00384	CDS	540	rplE		COG0094	50S ribosomal protein L5
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00385	CDS	306	rpsN		COG0199	30S ribosomal protein S14
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00386	CDS	387	rpsH		COG0096	30S ribosomal protein S8
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00387	CDS	534	rplF		COG0097	50S ribosomal protein L6
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00388	CDS	354	rplR		COG0256	50S ribosomal protein L18
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00389	CDS	501	rpsE		COG0098	30S ribosomal protein S5
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00390	CDS	177	rpmD		COG1841	50S ribosomal protein L30
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00391	CDS	438	rplO		COG0200	50S ribosomal protein L15
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00392	CDS	1326	secY		COG0201	Protein translocase subunit SecY
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00393	CDS	117	rpmJ		COG0257	50S ribosomal protein L36
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00394	CDS	357	rpsM		COG0099	30S ribosomal protein S13
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00395	CDS	390	rpsK		COG0100	30S ribosomal protein S11
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00396	CDS	621	rpsD		COG0522	30S ribosomal protein S4
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00397	CDS	990	rpoA	2.7.7.6		DNA-directed RNA polymerase subunit alpha
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00398	CDS	396	rplQ		COG0203	50S ribosomal protein L17
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00399	CDS	105				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00400	CDS	804	thiD	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00401	CDS	93				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00402	CDS	93				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00403	CDS	564	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00404	CDS	198				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00405	CDS	93				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00406	CDS	1008				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00407	CDS	474	smg			Protein Smg
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00408	CDS	495	def	3.5.1.88	COG0242	Peptide deformylase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00409	CDS	951	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00410	CDS	2085	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00411	CDS	219	rpoZ	2.7.7.6	COG1758	DNA-directed RNA polymerase subunit omega
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00412	CDS	333	gmk_1	2.7.4.8	COG0194	Guanylate kinase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00413	CDS	177	gmk_2	2.7.4.8	COG0194	Guanylate kinase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00414	CDS	426	mhqR		COG1846	HTH-type transcriptional regulator MhqR
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00415	CDS	876				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00416	CDS	720	rph	2.7.7.56		Ribonuclease PH
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00417	CDS	258	rpmB		COG0227	50S ribosomal protein L28
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00418	CDS	1266	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00419	CDS	252	hldD	5.1.3.20	COG0451	ADP-L-glycero-D-manno-heptose-6-epimerase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00420	CDS	456	yibN		COG0607	putative protein YibN
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00421	CDS	186				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00422	CDS	177				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00423	CDS	963	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase isozyme 1
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00424	CDS	774	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00425	CDS	1332	hslU		COG1220	ATP-dependent protease ATPase subunit HslU
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00426	CDS	549	hslV	3.4.25.2	COG5405	ATP-dependent protease subunit HslV
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00427	CDS	177				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00428	CDS	2196	priA	3.6.4.-	COG1198	Primosomal protein N'
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00429	CDS	102				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00430	CDS	222	rpmE		COG0254	50S ribosomal protein L31
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00431	CDS	159				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00432	CDS	144				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00433	CDS	120				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00434	CDS	132				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00435	rRNA	1538				16S ribosomal RNA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00436	tRNA	75				tRNA-Ile(gat)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00437	tRNA	76				tRNA-Ala(tgc)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00438	rRNA	2904				23S ribosomal RNA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00439	tRNA	78				tRNA-Trp(cca)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00440	CDS	1995	tktA	2.2.1.1	COG0021	Transketolase 1
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00441	CDS	1713	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00442	CDS	258	ptsH		COG1925	Phosphocarrier protein HPr
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00443	CDS	2061	ligA	6.5.1.2	COG0272	DNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00444	CDS	1020	argI	2.1.3.3	COG0078	Ornithine carbamoyltransferase subunit I
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00445	CDS	2856	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00446	CDS	456	holC	2.7.7.7	COG2927	DNA polymerase III subunit chi
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00447	CDS	1098	lptF		COG0795	Lipopolysaccharide export system permease protein LptF
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00448	CDS	1074	lptG		COG0795	Lipopolysaccharide export system permease protein LptG
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00449	tRNA	84				tRNA-Leu(caa)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00450	CDS	489	ptsN		COG1762	Nitrogen regulatory protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00451	CDS	720	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00452	CDS	558	lptA		COG1934	Lipopolysaccharide export system protein LptA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00453	CDS	567	lptC		COG3117	Lipopolysaccharide export system protein LptC
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00454	CDS	198	mlaC		COG2854	Intermembrane phospholipid transport system binding protein MlaC
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00455	CDS	267	ibaG		COG5007	Acid stress protein IbaG
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00456	CDS	264				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00457	CDS	1377	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00458	CDS	429	rplM		COG0102	50S ribosomal protein L13
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00459	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00460	CDS	573	osmY		COG2823	Osmotically-inducible protein Y
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00461	CDS	228	lpoA_1		COG3107	Penicillin-binding protein activator LpoA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00462	CDS	135				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00463	CDS	171	lpoA_2		COG3107	Penicillin-binding protein activator LpoA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00464	CDS	885	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00465	CDS	231				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00466	CDS	117				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00467	CDS	669	yqjA		COG0586	Inner membrane protein YqjA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00468	CDS	129				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00469	tRNA	75				tRNA-Met(cat)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00470	CDS	1842	rpoD		COG0568	RNA polymerase sigma factor RpoD
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00471	CDS	1749	dnaG	2.7.7.-	COG0358	DNA primase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00472	CDS	216	rpsU		COG0828	30S ribosomal protein S21
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00473	CDS	1041	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00474	CDS	360	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00475	CDS	822	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00476	CDS	1224	cca		COG0617	Multifunctional CCA protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00477	CDS	105				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00478	CDS	150	hldE		COG2870	Bifunctional protein HldE
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00479	CDS	135				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00480	CDS	735	plsC	2.3.1.51	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00481	CDS	993	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00482	CDS	783	gpmA	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00483	CDS	756	ybhL		COG0670	Inner membrane protein YbhL
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00484	CDS	759	kdsB	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00485	CDS	1023	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00486	CDS	1749	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00487	CDS	285	ihfB		COG0776	Integration host factor subunit beta
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00488	CDS	1677	rpsA		COG0539	30S ribosomal protein S1
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00489	CDS	684	cmk	2.7.4.25		Cytidylate kinase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00490	CDS	129				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00491	CDS	1086	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00492	CDS	1293	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00493	CDS	618	lolA		COG2834	Outer-membrane lipoprotein carrier protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00494	CDS	156				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00495	CDS	963	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00496	CDS	1737	cydD		COG4988	ATP-binding/permease protein CydD
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00497	CDS	1743	yheH	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00498	CDS	219	infA		COG0361	Translation initiation factor IF-1
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00499	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00500	CDS	174				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00501	CDS	105				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00502	CDS	519	fabA	4.2.1.59	COG0764	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00503	CDS	1653	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00504	CDS	180				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00505	CDS	2463	plsB	2.3.1.15	COG2937	Glycerol-3-phosphate acyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00506	CDS	126				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00507	CDS	1032	dusA	1.3.1.-	COG0042	tRNA-dihydrouridine(20/20a) synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00508	CDS	1407	dnaB	3.6.4.12	COG0305	Replicative DNA helicase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00509	CDS	531	ssb			Single-stranded DNA-binding protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00510	CDS	93				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00511	CDS	549	hemG	1.3.5.3	COG4635	Protoporphyrinogen IX dehydrogenase [menaquinone]
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00512	CDS	696	fre	1.5.1.41	COG0543	NAD(P)H-flavin reductase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00513	CDS	1767	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00514	CDS	1098	prfB		COG1186	Peptide chain release factor RF2
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00515	CDS	1527	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00516	CDS	1260	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00517	CDS	327	trxA		COG0526	Thioredoxin 1
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00518	CDS	237				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00519	CDS	135				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00520	CDS	924	lpxL	2.3.1.241	COG1560	Lipid A biosynthesis lauroyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00521	CDS	981				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00522	CDS	3135	rne	3.1.26.12		Ribonuclease E
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00523	CDS	957	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00524	CDS	171	rpmF		COG0333	50S ribosomal protein L32
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00525	CDS	954	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00526	CDS	930	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00527	CDS	735	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00528	CDS	234	acpP			Acyl carrier protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00529	CDS	1023	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00530	CDS	96				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00531	CDS	999	holB	2.7.7.7	COG0470	DNA polymerase III subunit delta'
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00532	CDS	777	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00533	CDS	348		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00534	CDS	1113	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00535	CDS	126				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00536	CDS	1236	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00537	CDS	705	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00538	CDS	1203	lolC		COG4591	Lipoprotein-releasing system transmembrane protein LolC
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00539	CDS	3450	mfd	3.6.4.-	COG1197	Transcription-repair-coupling factor
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00540	CDS	129				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00541	CDS	105				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00542	CDS	1329	ndh	1.6.99.3	COG1252	NADH dehydrogenase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00543	CDS	168				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00544	CDS	456	dksA		COG1734	RNA polymerase-binding transcription factor DksA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00545	CDS	1317	pcnB	2.7.7.19	COG0617	Poly(A) polymerase I
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00546	CDS	519	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00547	CDS	789	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00548	CDS	1428	lpdA	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00549	CDS	1449	aceF	2.3.1.12	COG0508	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00550	CDS	2673	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00551	CDS	135				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00552	CDS	102				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00553	CDS	2715	secA		COG0653	Protein translocase subunit SecA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00554	CDS	330				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00555	CDS	945	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00556	CDS	1164	ftsZ		COG0206	Cell division protein FtsZ
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00557	CDS	1272	ftsA		COG0849	Cell division protein FtsA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00558	CDS	777	ftsQ		COG1589	Cell division protein FtsQ
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00559	CDS	1068	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00560	CDS	1194	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00561	CDS	186				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00562	CDS	1020	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00563	CDS	1368	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00564	CDS	1488	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00565	CDS	1758	ftsI	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase FtsI
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00566	CDS	321	ftsL		COG3116	Cell division protein FtsL
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00567	CDS	948	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00568	CDS	210	cspE			Cold shock-like protein CspE
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00569	CDS	948	lipA	2.8.1.8	COG0320	Lipoyl synthase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00570	CDS	666	lipB	2.3.1.181	COG0321	Octanoyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00571	CDS	264				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00572	CDS	1122	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00573	CDS	1893	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00574	CDS	147				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00575	CDS	1035	holA	2.7.7.7	COG1466	DNA polymerase III subunit delta
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00576	CDS	546	lptE		COG2980	LPS-assembly lipoprotein LptE
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00577	CDS	2583	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00578	CDS	1545	lnt	2.3.1.269	COG0815	Apolipoprotein N-acyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00579	CDS	465	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00580	CDS	126				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00581	CDS	129				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00582	tRNA	73				tRNA-Gln(ctg)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00583	tRNA	76				tRNA-Met(cat)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00584	tRNA	72				tRNA-Gln(ttg)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00585	tRNA	83				tRNA-Leu(tag)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00586	CDS	1656	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00587	CDS	516	fldA		COG0716	Flavodoxin 1
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00588	CDS	138				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00589	CDS	135				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00590	CDS	153				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00591	CDS	1167	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00592	CDS	873	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00593	CDS	1566	cydA	7.1.1.7	COG1271	Cytochrome bd-I ubiquinol oxidase subunit 1
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00594	CDS	1140	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00595	CDS	114	cydX	7.1.1.7	COG4890	Cytochrome bd-I ubiquinol oxidase subunit X
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00596	CDS	519	pal		COG2885	Peptidoglycan-associated lipoprotein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00597	CDS	108				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00598	CDS	549	pgsA	2.7.8.5	COG0558	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00599	tRNA	74				tRNA-Cys(gca)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00600	tRNA	85				tRNA-Leu(taa)
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00601	tmRNA	383	ssrA			transfer-messenger RNA, SsrA
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00602	CDS	483	smpB		COG0691	SsrA-binding protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00603	CDS	153				hypothetical protein
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00604	CDS	630	grpE		COG0576	Protein GrpE
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00605	CDS	684	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+Gullanella_endobia_GEFVIR_GCF_900048035_1_00606	CDS	150				hypothetical protein

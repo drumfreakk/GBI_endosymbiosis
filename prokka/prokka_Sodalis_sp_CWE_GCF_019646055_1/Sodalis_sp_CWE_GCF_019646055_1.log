@@ -1,0 +1,194 @@
+[11:23:37] This is prokka_ed 1.14.6
+[11:23:37] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[11:23:37] Homepage is https://github.com/tseemann/prokka
+[11:23:37] Local time is Wed Jun  4 11:23:37 2025
+[11:23:37] You are 4980980
+[11:23:37] Operating system is linux
+[11:23:37] You have BioPerl 1.007002
+[11:23:37] System has 64 cores.
+[11:23:37] Will use maximum of 2 cores.
+[11:23:37] Annotating as >>> Bacteria <<<
+[11:23:37] Creating new output folder: prokka_Sodalis_sp_CWE_GCF_019646055_1
+[11:23:37] Running: mkdir -p prokka_Sodalis_sp_CWE_GCF_019646055_1
+[11:23:37] Using filename prefix: Sodalis_sp_CWE_GCF_019646055_1.XXX
+[11:23:37] Setting HMMER_NCPU=1
+[11:23:37] Writing log to: prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.log
+[11:23:37] Command: /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/prokka_ed -o prokka_Sodalis_sp_CWE_GCF_019646055_1 --prefix Sodalis_sp_CWE_GCF_019646055_1 --locustag Sodalis_sp_CWE_GCF_019646055_1 --kingdom Bacteria --metagenome --cpus 2 Sodalis_sp_CWE_GCF_019646055.1.fna
+[11:23:37] Appending to PATH: /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/bin
+[11:23:37] Looking for 'aragorn' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/aragorn
+[11:23:37] Determined aragorn version is 001002 from 'ARAGORN v1.2.41 Dean Laslett'
+[11:23:37] Looking for 'barrnap' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/barrnap
+[11:23:37] Determined barrnap version is 000009 from 'barrnap 0.9'
+[11:23:37] Looking for 'blastp' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/blastp
+[11:23:37] Determined blastp version is 002015 from 'blastp: 2.15.0+'
+[11:23:37] Looking for 'cmpress' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/cmpress
+[11:23:37] Determined cmpress version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[11:23:37] Looking for 'cmscan' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/cmscan
+[11:23:37] Determined cmscan version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[11:23:37] Looking for 'egrep' - found /usr/bin/egrep
+[11:23:37] Looking for 'find' - found /usr/bin/find
+[11:23:37] Looking for 'grep' - found /usr/bin/grep
+[11:23:37] Looking for 'hmmpress' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/hmmpress
+[11:23:37] Determined hmmpress version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[11:23:37] Looking for 'hmmscan' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/hmmscan
+[11:23:37] Determined hmmscan version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[11:23:37] Looking for 'java' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/java
+[11:23:37] Looking for 'makeblastdb' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/makeblastdb
+[11:23:38] Determined makeblastdb version is 002015 from 'makeblastdb: 2.15.0+'
+[11:23:38] Looking for 'minced' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/minced
+[11:23:38] Determined minced version is 004002 from 'minced 0.4.2'
+[11:23:38] Looking for 'parallel' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/parallel
+[11:23:38] Determined parallel version is 20240722 from 'GNU parallel 20240722'
+[11:23:38] Looking for 'prodigal' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/prodigal
+[11:23:38] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[11:23:38] Looking for 'prokka-genbank_to_fasta_db' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/prokka-genbank_to_fasta_db
+[11:23:38] Looking for 'sed' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/sed
+[11:23:38] Looking for 'signalp' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/signalp
+[11:23:38] Determined signalp version is 004001 from '4.1'
+[11:23:38] Looking for 'tbl2asn' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/tbl2asn
+[11:23:38] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[11:23:38] Using genetic code table 11.
+[11:23:38] Loading and checking input file: Sodalis_sp_CWE_GCF_019646055.1.fna
+[11:23:38] Wrote 2 contigs totalling 797418 bp.
+[11:23:38] Predicting tRNAs and tmRNAs
+[11:23:38] Running: aragorn -l -gc11  -w prokka_Sodalis_sp_CWE_GCF_019646055_1\/Sodalis_sp_CWE_GCF_019646055_1\.fna
+[11:23:39] 1 tRNA-Thr [642,714] 34 (tgt)
+[11:23:39] 2 tRNA-Tyr [724,807] 36 (gta)
+[11:23:39] 3 tRNA-Gly [956,1029] 33 (tcc)
+[11:23:39] 4 tRNA-Thr [1034,1107] 34 (ggt)
+[11:23:39] 5 tRNA-Arg [18135,18211] 36 (ccg)
+[11:23:39] 6 tRNA-His [18297,18370] 34 (gtg)
+[11:23:39] 7 tRNA-Leu [18399,18483] 35 (cag)
+[11:23:39] 8 tRNA-Pro [18515,18590] 36 (tgg)
+[11:23:39] 9 tmRNA c[29772,30161] 94,135 ANNSRLEPAALAA*
+[11:23:39] 10 tRNA-Val [67903,67979] 36 (gac)
+[11:23:39] 11 tRNA-Thr [123964,124037] 34 (cgt)
+[11:23:39] 12 tRNA-Asn c[127323,127398] 34 (gtt)
+[11:23:39] 13 tRNA-Asp [169744,169820] 35 (gtc)
+[11:23:39] 14 tRNA-Ser c[193938,194025] 36 (gga)
+[11:23:39] 1 tRNA-Trp [-1,74] 35 (cca)
+[11:23:39] 2 tRNA-Met c[136009,136082] 35 (cat)
+[11:23:39] 3 tRNA-Leu c[136166,136251] 35 (gag)
+[11:23:39] 4 tRNA-Gly c[163938,164012] 33 (gcc)
+[11:23:39] 5 tRNA-Met [192961,193035] 35 (cat)
+[11:23:39] 6 tRNA-Leu c[212360,212442] 35 (caa)
+[11:23:39] 7 tRNA-Phe [292084,292158] 35 (gaa)
+[11:23:39] 8 tRNA-Arg [322550,322625] 35 (tct)
+[11:23:39] 9 tRNA-Gln c[341070,341143] 35 (ttg)
+[11:23:39] 10 tRNA-Leu c[341170,341255] 38 (tag)
+[11:23:39] 11 tRNA-Met c[341267,341343] 37 (cat)
+[11:23:39] 12 tRNA-Arg c[404286,404360] 35 (acg)
+[11:23:39] 13 tRNA-Ser c[404372,404460] 35 (gct)
+[11:23:39] 14 tRNA-Pro [421270,421346] 36 (ggg)
+[11:23:39] 15 tRNA-Ser [482087,482173] 36 (tga)
+[11:23:39] 16 tRNA-Cys [486467,486541] 34 (gca)
+[11:23:39] 17 tRNA-Leu [486554,486637] 35 (taa)
+[11:23:39] 18 tRNA-Arg [567959,568033] 36 (cct)
+[11:23:39] 19 tRNA-Ala c[569844,569919] 35 (ggc)
+[11:23:39] 20 tRNA-Val [571631,571706] 34 (tac)
+[11:23:39] 21 tRNA-Lys [571718,571792] 35 (ttt)
+[11:23:39] Found 35 tRNAs
+[11:23:39] Predicting Ribosomal RNAs
+[11:23:39] Running Barrnap with 2 threads
+[11:23:40] 1 NZ_JAESFE010000001.1 395531 5S ribosomal RNA
+[11:23:40] 2 NZ_JAESFE010000002.1 201767 16S ribosomal RNA
+[11:23:40] Found 2 rRNAs
+[11:23:40] Skipping ncRNA search, enable with --rfam if desired.
+[11:23:40] Total of 36 tRNA + rRNA features
+[11:23:40] Searching for CRISPR repeats
+[11:23:40] Found 0 CRISPRs
+[11:23:40] Predicting coding sequences
+[11:23:40] Contigs total 797418 bp, so using meta mode
+[11:23:40] Running: prodigal -i prokka_Sodalis_sp_CWE_GCF_019646055_1\/Sodalis_sp_CWE_GCF_019646055_1\.fna -c -m -g 11 -p meta -f sco -q
+[11:23:41] Excluding CDS which overlaps existing RNA (tRNA) at NZ_JAESFE010000002.1:193851..194213 on + strand
+[11:23:43] Found 574 CDS
+[11:23:43] Connecting features back to sequences
+[11:23:43] Not using genus-specific database. Try --usegenus to enable it.
+[11:23:43] Annotating CDS, please be patient.
+[11:23:43] Will use 2 CPUs for similarity searching.
+[11:23:43] There are still 574 unannotated CDS left (started with 574)
+[11:23:43] Will use blast to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/IS with 2 CPUs
+[11:23:43] Running: cat prokka_Sodalis_sp_CWE_GCF_019646055_1\/Sodalis_sp_CWE_GCF_019646055_1\.IS\.tmp\.27012\.faa | parallel --gnu --plain -j 2 --block 46605 --recstart '>' --pipe blastp -query - -db /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_Sodalis_sp_CWE_GCF_019646055_1\/Sodalis_sp_CWE_GCF_019646055_1\.IS\.tmp\.27012\.blast 2> /dev/null
+[11:23:51] Deleting unwanted file: prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.IS.tmp.27012.faa
+[11:23:52] Deleting unwanted file: prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.IS.tmp.27012.blast
+[11:23:52] There are still 574 unannotated CDS left (started with 574)
+[11:23:52] Will use blast to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/AMR with 2 CPUs
+[11:23:52] Running: cat prokka_Sodalis_sp_CWE_GCF_019646055_1\/Sodalis_sp_CWE_GCF_019646055_1\.AMR\.tmp\.27012\.faa | parallel --gnu --plain -j 2 --block 46605 --recstart '>' --pipe blastp -query - -db /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_Sodalis_sp_CWE_GCF_019646055_1\/Sodalis_sp_CWE_GCF_019646055_1\.AMR\.tmp\.27012\.blast 2> /dev/null
+[11:23:58] Deleting unwanted file: prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.AMR.tmp.27012.faa
+[11:23:58] Deleting unwanted file: prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.AMR.tmp.27012.blast
+[11:23:59] There are still 574 unannotated CDS left (started with 574)
+[11:23:59] Will use blast to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/sprot with 2 CPUs
+[11:23:59] Running: cat prokka_Sodalis_sp_CWE_GCF_019646055_1\/Sodalis_sp_CWE_GCF_019646055_1\.sprot\.tmp\.27012\.faa | parallel --gnu --plain -j 2 --block 46605 --recstart '>' --pipe blastp -query - -db /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_Sodalis_sp_CWE_GCF_019646055_1\/Sodalis_sp_CWE_GCF_019646055_1\.sprot\.tmp\.27012\.blast 2> /dev/null
+[11:24:26] Modify product: Probable peptidoglycan glycosyltransferase FtsW => putative peptidoglycan glycosyltransferase FtsW
+[11:24:27] Modify product: Probable glycerol-3-phosphate acyltransferase => putative glycerol-3-phosphate acyltransferase
+[11:24:27] Modify product: UPF0056 inner membrane protein YhgN => hypothetical protein
+[11:24:27] Modify product: UPF0125 protein RatB => hypothetical protein
+[11:24:27] Modify product: UPF0434 protein YcaR => hypothetical protein
+[11:24:27] Modify product: Probable ATP-dependent transporter SufC => putative ATP-dependent transporter SufC
+[11:24:27] Modify product: Uncharacterized oxidoreductase YciK => putative oxidoreductase YciK
+[11:24:27] Modify product: UPF0259 membrane protein YciC => hypothetical protein
+[11:24:27] Modify product: Putative thiamine biosynthesis protein HI_0357 => Putative thiamine biosynthesis protein
+[11:24:27] Modify product: Probable multidrug resistance ABC transporter ATP-binding/permease protein YheI => putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+[11:24:27] Modify product: Probable lipid II flippase MurJ => putative lipid II flippase MurJ
+[11:24:27] Modify product: Probable lipid II flippase MurJ => putative lipid II flippase MurJ
+[11:24:27] Modify product: Probable protein kinase UbiB => putative protein kinase UbiB
+[11:24:27] Modify product: UPF0073 inner membrane protein YqfA => hypothetical protein
+[11:24:27] Modify product: UPF0301 protein YqgE => hypothetical protein
+[11:24:27] Modify product: Probable Fe(2+)-trafficking protein => putative Fe(2+)-trafficking protein
+[11:24:27] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[11:24:27] Modify product: GTP cyclohydrolase 1 type 2 homolog => GTP cyclohydrolase 1 type 2 
+[11:24:27] Modify product: Uncharacterized protein YibN => putative protein YibN
+[11:24:27] Modify product: Probable L,D-transpeptidase YbiS => putative L,D-transpeptidase YbiS
+[11:24:27] Modify product: UPF0176 protein YceA => hypothetical protein
+[11:24:27] Modify product: Uncharacterized metal-dependent hydrolase YcfH => putative metal-dependent hydrolase YcfH
+[11:24:27] Modify product: UPF0056 inner membrane protein MarC => hypothetical protein
+[11:24:27] Cleaned 23 /product names
+[11:24:27] Deleting unwanted file: prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.sprot.tmp.27012.faa
+[11:24:27] Deleting unwanted file: prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.sprot.tmp.27012.blast
+[11:24:27] There are still 39 unannotated CDS left (started with 574)
+[11:24:27] Will use hmmer3 to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/hmm/HAMAP.hmm with 2 CPUs
+[11:24:27] Running: cat prokka_Sodalis_sp_CWE_GCF_019646055_1\/Sodalis_sp_CWE_GCF_019646055_1\.HAMAP\.hmm\.tmp\.27012\.faa | parallel --gnu --plain -j 2 --block 1912 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/hmm/HAMAP.hmm /dev/stdin > prokka_Sodalis_sp_CWE_GCF_019646055_1\/Sodalis_sp_CWE_GCF_019646055_1\.HAMAP\.hmm\.tmp\.27012\.hmmer3 2> /dev/null
+[11:24:30] Deleting unwanted file: prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.HAMAP.hmm.tmp.27012.faa
+[11:24:30] Deleting unwanted file: prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.HAMAP.hmm.tmp.27012.hmmer3
+[11:24:30] Labelling remaining 29 proteins as 'hypothetical protein'
+[11:24:30] Possible /pseudo 'Vitamin B12 import ATP-binding protein BtuD' at NZ_JAESFE010000002.1 position 91139
+[11:24:30] Possible /pseudo 'putative lipid II flippase MurJ' at NZ_JAESFE010000002.1 position 197405
+[11:24:30] Possible /pseudo 'ATP-dependent RNA helicase DeaD' at NZ_JAESFE010000001.1 position 124968
+[11:24:30] Found 531 unique /gene codes.
+[11:24:30] Fixed 2 duplicate /gene - deaD_1 deaD_2
+[11:24:30] Fixed 2 duplicate /gene - btuD_1 btuD_2
+[11:24:30] Fixed 2 duplicate /gene - murJ_1 murJ_2
+[11:24:30] Fixed 3 colliding /gene names.
+[11:24:30] Adding /locus_tag identifiers
+[11:24:30] Assigned 611 locus_tags to CDS and RNA features.
+[11:24:30] Writing outputs to prokka_Sodalis_sp_CWE_GCF_019646055_1/
+[11:24:30] Generating annotation statistics file
+[11:24:30] Generating Genbank and Sequin files
+[11:24:30] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka_ed 1.14.6 from https://github.com/tseemann/prokka' -Z prokka_Sodalis_sp_CWE_GCF_019646055_1\/Sodalis_sp_CWE_GCF_019646055_1\.err -i prokka_Sodalis_sp_CWE_GCF_019646055_1\/Sodalis_sp_CWE_GCF_019646055_1\.fsa 2> /dev/null
+[11:24:33] Deleting unwanted file: prokka_Sodalis_sp_CWE_GCF_019646055_1/errorsummary.val
+[11:24:33] Deleting unwanted file: prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.dr
+[11:24:33] Deleting unwanted file: prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.fixedproducts
+[11:24:33] Deleting unwanted file: prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.ecn
+[11:24:33] Deleting unwanted file: prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.val
+[11:24:33] Repairing broken .GBK output that tbl2asn produces...
+[11:24:33] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < prokka_Sodalis_sp_CWE_GCF_019646055_1\/Sodalis_sp_CWE_GCF_019646055_1\.gbf > prokka_Sodalis_sp_CWE_GCF_019646055_1\/Sodalis_sp_CWE_GCF_019646055_1\.gbk
+[11:24:33] Deleting unwanted file: prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.gbf
+[11:24:33] Output files:
+[11:24:33] prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.log
+[11:24:33] prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.fna
+[11:24:33] prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.gff
+[11:24:33] prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.faa
+[11:24:33] prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.ffn
+[11:24:33] prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.tbl
+[11:24:33] prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.fsa
+[11:24:33] prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.tsv
+[11:24:33] prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.txt
+[11:24:33] prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.sqn
+[11:24:33] prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.gbk
+[11:24:33] prokka_Sodalis_sp_CWE_GCF_019646055_1/Sodalis_sp_CWE_GCF_019646055_1.err
+[11:24:33] Annotation finished successfully.
+[11:24:33] Walltime used: 0.93 minutes
+[11:24:33] If you use this result please cite the Prokka paper:
+[11:24:33] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[11:24:33] Type 'prokka --citation' for more details.
+[11:24:33] Thank you, come again.

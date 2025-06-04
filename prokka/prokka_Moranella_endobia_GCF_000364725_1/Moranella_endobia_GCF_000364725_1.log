@@ -1,0 +1,198 @@
+[11:05:14] This is prokka_ed 1.14.6
+[11:05:14] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[11:05:14] Homepage is https://github.com/tseemann/prokka
+[11:05:14] Local time is Wed Jun  4 11:05:14 2025
+[11:05:14] You are 4980980
+[11:05:14] Operating system is linux
+[11:05:14] You have BioPerl 1.007002
+[11:05:14] System has 64 cores.
+[11:05:14] Will use maximum of 2 cores.
+[11:05:14] Annotating as >>> Bacteria <<<
+[11:05:14] Creating new output folder: prokka_Moranella_endobia_GCF_000364725_1
+[11:05:14] Running: mkdir -p prokka_Moranella_endobia_GCF_000364725_1
+[11:05:14] Using filename prefix: Moranella_endobia_GCF_000364725_1.XXX
+[11:05:14] Setting HMMER_NCPU=1
+[11:05:14] Writing log to: prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.log
+[11:05:14] Command: /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/prokka_ed -o prokka_Moranella_endobia_GCF_000364725_1 --prefix Moranella_endobia_GCF_000364725_1 --locustag Moranella_endobia_GCF_000364725_1 --kingdom Bacteria --metagenome --cpus 2 Moranella_endobia_GCF_000364725.1.fna
+[11:05:14] Appending to PATH: /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/bin
+[11:05:14] Looking for 'aragorn' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/aragorn
+[11:05:14] Determined aragorn version is 001002 from 'ARAGORN v1.2.41 Dean Laslett'
+[11:05:14] Looking for 'barrnap' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/barrnap
+[11:05:14] Determined barrnap version is 000009 from 'barrnap 0.9'
+[11:05:14] Looking for 'blastp' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/blastp
+[11:05:14] Determined blastp version is 002015 from 'blastp: 2.15.0+'
+[11:05:14] Looking for 'cmpress' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/cmpress
+[11:05:14] Determined cmpress version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[11:05:14] Looking for 'cmscan' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/cmscan
+[11:05:14] Determined cmscan version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[11:05:14] Looking for 'egrep' - found /usr/bin/egrep
+[11:05:14] Looking for 'find' - found /usr/bin/find
+[11:05:14] Looking for 'grep' - found /usr/bin/grep
+[11:05:14] Looking for 'hmmpress' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/hmmpress
+[11:05:14] Determined hmmpress version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[11:05:14] Looking for 'hmmscan' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/hmmscan
+[11:05:14] Determined hmmscan version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[11:05:14] Looking for 'java' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/java
+[11:05:14] Looking for 'makeblastdb' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/makeblastdb
+[11:05:15] Determined makeblastdb version is 002015 from 'makeblastdb: 2.15.0+'
+[11:05:15] Looking for 'minced' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/minced
+[11:05:15] Determined minced version is 004002 from 'minced 0.4.2'
+[11:05:15] Looking for 'parallel' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/parallel
+[11:05:15] Determined parallel version is 20240722 from 'GNU parallel 20240722'
+[11:05:15] Looking for 'prodigal' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/prodigal
+[11:05:15] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[11:05:15] Looking for 'prokka-genbank_to_fasta_db' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/prokka-genbank_to_fasta_db
+[11:05:15] Looking for 'sed' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/sed
+[11:05:15] Looking for 'signalp' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/signalp
+[11:05:15] Determined signalp version is 004001 from '4.1'
+[11:05:15] Looking for 'tbl2asn' - found /science/projects/courses/B-B3BCG20/B-B3BCG20/bin/tbl2asn
+[11:05:15] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[11:05:15] Using genetic code table 11.
+[11:05:15] Loading and checking input file: Moranella_endobia_GCF_000364725.1.fna
+[11:05:15] Wrote 1 contigs totalling 538203 bp.
+[11:05:15] Predicting tRNAs and tmRNAs
+[11:05:15] Running: aragorn -l -gc11  -w prokka_Moranella_endobia_GCF_000364725_1\/Moranella_endobia_GCF_000364725_1\.fna
+[11:05:16] 1 tRNA-Gly [15440,15514] 33 (gcc)
+[11:05:16] 2 tRNA-Pro [23595,23671] 35 (ggg)
+[11:05:16] 3 tRNA-Leu c[45170,45255] 36 (taa)
+[11:05:16] 4 tRNA-Cys c[45288,45361] 33 (gca)
+[11:05:16] 5 tRNA-Leu [52447,52531] 35 (caa)
+[11:05:16] 6 tRNA-Met c[77235,77310] 35 (cat)
+[11:05:16] 7 tRNA-Pro [95110,95186] 35 (cgg)
+[11:05:16] 8 tRNA-Glu [109020,109093] 35 (ttc)
+[11:05:16] 9 tRNA-Asp [112494,112570] 35 (gtc)
+[11:05:16] 10 tRNA-Leu [141295,141379] 35 (tag)
+[11:05:16] 11 tRNA-Gln [141402,141476] 33 (ttg)
+[11:05:16] 12 tRNA-Met [141535,141611] 35 (cat)
+[11:05:16] 13 tRNA-Gln [141620,141693] 33 (ctg)
+[11:05:16] 14 tRNA-Leu [163467,163553] 35 (gag)
+[11:05:16] 15 tRNA-Met [163631,163707] 35 (cat)
+[11:05:16] 16 tRNA-Ala c[206139,206214] 34 (ggc)
+[11:05:16] 17 tRNA-Val [207950,208022] 34 (tac)
+[11:05:16] 18 tRNA-Lys [208045,208120] 34 (ttt)
+[11:05:16] 19 tRNA-Arg c[219131,219205] 35 (cct)
+[11:05:16] 20 tRNA-Ser c[230873,230960] 35 (tga)
+[11:05:16] 21 tmRNA [285216,285600] 92,133 ANDSQYESVALAA*
+[11:05:16] 22 tRNA-Phe c[288975,289050] 34 (gaa)
+[11:05:16] 23 tRNA-Ser c[292676,292765] 35 (cga)
+[11:05:16] 24 tRNA-Asn [293042,293117] 34 (gtt)
+[11:05:16] 25 tRNA-Thr c[309030,309105] 34 (ggt)
+[11:05:16] 26 tRNA-Gly c[309110,309184] 34 (tcc)
+[11:05:16] 27 tRNA-Tyr c[309258,309342] 35 (gta)
+[11:05:16] 28 tRNA-Thr c[309351,309426] 34 (tgt)
+[11:05:16] 29 tRNA-Asp c[344236,344312] 35 (gtc)
+[11:05:16] 30 tRNA-Ala c[347728,347801] 34 (tgc)
+[11:05:16] 31 tRNA-Ile c[347835,347910] 36 (gat)
+[11:05:16] 32 tRNA-Thr [361247,361321] 35 (cgt)
+[11:05:16] 33 tRNA-Arg c[373234,373310] 36 (tct)
+[11:05:16] 34 tRNA-Arg [389203,389279] 36 (ccg)
+[11:05:16] 35 tRNA-His [389345,389420] 34 (gtg)
+[11:05:16] 36 tRNA-Leu [389424,389510] 35 (cag)
+[11:05:16] 37 tRNA-Pro [389578,389654] 35 (tgg)
+[11:05:16] 38 tRNA-Val [465198,465274] 35 (gac)
+[11:05:16] 39 tRNA-Ser c[495519,495608] 36 (gga)
+[11:05:16] 40 tRNA-Arg c[505476,505552] 35 (acg)
+[11:05:16] 41 tRNA-Ser c[505572,505663] 35 (gct)
+[11:05:16] 42 tRNA-Trp [533049,533124] 34 (cca)
+[11:05:16] Found 42 tRNAs
+[11:05:16] Predicting Ribosomal RNAs
+[11:05:16] Running Barrnap with 2 threads
+[11:05:17] 1 NC_021057.1 109341 23S ribosomal RNA
+[11:05:17] 2 NC_021057.1 112354 5S ribosomal RNA
+[11:05:17] 3 NC_021057.1 344342 5S ribosomal RNA
+[11:05:17] 4 NC_021057.1 344552 23S ribosomal RNA
+[11:05:17] 5 NC_021057.1 347979 16S ribosomal RNA
+[11:05:17] Found 5 rRNAs
+[11:05:17] Skipping ncRNA search, enable with --rfam if desired.
+[11:05:17] Total of 46 tRNA + rRNA features
+[11:05:17] Searching for CRISPR repeats
+[11:05:17] Found 0 CRISPRs
+[11:05:17] Predicting coding sequences
+[11:05:17] Contigs total 538203 bp, so using meta mode
+[11:05:17] Running: prodigal -i prokka_Moranella_endobia_GCF_000364725_1\/Moranella_endobia_GCF_000364725_1\.fna -c -m -g 11 -p meta -f sco -q
+[11:05:21] Excluding CDS which overlaps existing RNA (tRNA) at NC_021057.1:45084..45341 on - strand
+[11:05:22] Excluding CDS which overlaps existing RNA (tRNA) at NC_021057.1:505475..505708 on + strand
+[11:05:22] Found 432 CDS
+[11:05:22] Connecting features back to sequences
+[11:05:22] Not using genus-specific database. Try --usegenus to enable it.
+[11:05:22] Annotating CDS, please be patient.
+[11:05:22] Will use 2 CPUs for similarity searching.
+[11:05:22] There are still 432 unannotated CDS left (started with 432)
+[11:05:22] Will use blast to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/IS with 2 CPUs
+[11:05:22] Running: cat prokka_Moranella_endobia_GCF_000364725_1\/Moranella_endobia_GCF_000364725_1\.IS\.tmp\.60888\.faa | parallel --gnu --plain -j 2 --block 35618 --recstart '>' --pipe blastp -query - -db /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_Moranella_endobia_GCF_000364725_1\/Moranella_endobia_GCF_000364725_1\.IS\.tmp\.60888\.blast 2> /dev/null
+[11:05:28] Deleting unwanted file: prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.IS.tmp.60888.faa
+[11:05:28] Deleting unwanted file: prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.IS.tmp.60888.blast
+[11:05:28] There are still 432 unannotated CDS left (started with 432)
+[11:05:28] Will use blast to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/AMR with 2 CPUs
+[11:05:28] Running: cat prokka_Moranella_endobia_GCF_000364725_1\/Moranella_endobia_GCF_000364725_1\.AMR\.tmp\.60888\.faa | parallel --gnu --plain -j 2 --block 35618 --recstart '>' --pipe blastp -query - -db /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_Moranella_endobia_GCF_000364725_1\/Moranella_endobia_GCF_000364725_1\.AMR\.tmp\.60888\.blast 2> /dev/null
+[11:05:34] Deleting unwanted file: prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.AMR.tmp.60888.faa
+[11:05:34] Deleting unwanted file: prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.AMR.tmp.60888.blast
+[11:05:34] There are still 432 unannotated CDS left (started with 432)
+[11:05:34] Will use blast to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/sprot with 2 CPUs
+[11:05:34] Running: cat prokka_Moranella_endobia_GCF_000364725_1\/Moranella_endobia_GCF_000364725_1\.sprot\.tmp\.60888\.faa | parallel --gnu --plain -j 2 --block 35618 --recstart '>' --pipe blastp -query - -db /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_Moranella_endobia_GCF_000364725_1\/Moranella_endobia_GCF_000364725_1\.sprot\.tmp\.60888\.blast 2> /dev/null
+[11:05:56] Modify product: Probable lipid II flippase MurJ => putative lipid II flippase MurJ
+[11:05:56] Modify product: Probable ATP-dependent transporter SufC => putative ATP-dependent transporter SufC
+[11:05:56] Modify product: UPF0701 protein YicC => hypothetical protein
+[11:05:56] Modify product: Probable peptidoglycan glycosyltransferase FtsW => putative peptidoglycan glycosyltransferase FtsW
+[11:05:56] Modify product: UPF0438 protein YifE => hypothetical protein
+[11:05:56] Modify product: Probable ABC transporter ATP-binding/permease protein HI_0664 => putative ABC transporter ATP-binding/permease protein
+[11:05:56] Modify product: UPF0176 protein YceA => hypothetical protein
+[11:05:56] Modify product: Probable GTP-binding protein EngB => putative GTP-binding protein EngB
+[11:05:56] Modify product: GTP cyclohydrolase 1 type 2 homolog => GTP cyclohydrolase 1 type 2 
+[11:05:56] Modify product: UPF0259 membrane protein YciC => hypothetical protein
+[11:05:56] Modify product: Probable transcriptional regulatory protein YebC => putative transcriptional regulatory protein YebC
+[11:05:56] Modify product: Uncharacterized metal-dependent hydrolase YcfH => putative metal-dependent hydrolase YcfH
+[11:05:56] Cleaned 12 /product names
+[11:05:56] Deleting unwanted file: prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.sprot.tmp.60888.faa
+[11:05:56] Deleting unwanted file: prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.sprot.tmp.60888.blast
+[11:05:56] There are still 30 unannotated CDS left (started with 432)
+[11:05:56] Will use hmmer3 to search against /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/hmm/HAMAP.hmm with 2 CPUs
+[11:05:56] Running: cat prokka_Moranella_endobia_GCF_000364725_1\/Moranella_endobia_GCF_000364725_1\.HAMAP\.hmm\.tmp\.60888\.faa | parallel --gnu --plain -j 2 --block 1284 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /science-nfs-sys/vsm01/projects/courses/B-B3BCG20/B-B3BCG20/db/hmm/HAMAP.hmm /dev/stdin > prokka_Moranella_endobia_GCF_000364725_1\/Moranella_endobia_GCF_000364725_1\.HAMAP\.hmm\.tmp\.60888\.hmmer3 2> /dev/null
+[11:05:59] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[11:05:59] Cleaned 1 /product names
+[11:05:59] Deleting unwanted file: prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.HAMAP.hmm.tmp.60888.faa
+[11:05:59] Deleting unwanted file: prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.HAMAP.hmm.tmp.60888.hmmer3
+[11:05:59] Labelling remaining 22 proteins as 'hypothetical protein'
+[11:05:59] Possible /pseudo 'Phosphomethylpyrimidine synthase' at NC_021057.1 position 293600
+[11:05:59] Possible /pseudo 'Phosphomethylpyrimidine synthase' at NC_021057.1 position 293847
+[11:05:59] Possible /pseudo 'Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase' at NC_021057.1 position 537769
+[11:05:59] Found 398 unique /gene codes.
+[11:05:59] Fixed 2 duplicate /gene - lon_1 lon_2
+[11:05:59] Fixed 2 duplicate /gene - thiD_1 thiD_2
+[11:05:59] Fixed 3 duplicate /gene - thiC_1 thiC_2 thiC_3
+[11:05:59] Fixed 2 duplicate /gene - ruvB_1 ruvB_2
+[11:05:59] Fixed 2 duplicate /gene - acpS_1 acpS_2
+[11:05:59] Fixed 5 colliding /gene names.
+[11:05:59] Adding /locus_tag identifiers
+[11:05:59] Assigned 479 locus_tags to CDS and RNA features.
+[11:05:59] Writing outputs to prokka_Moranella_endobia_GCF_000364725_1/
+[11:05:59] Generating annotation statistics file
+[11:05:59] Generating Genbank and Sequin files
+[11:05:59] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka_ed 1.14.6 from https://github.com/tseemann/prokka' -Z prokka_Moranella_endobia_GCF_000364725_1\/Moranella_endobia_GCF_000364725_1\.err -i prokka_Moranella_endobia_GCF_000364725_1\/Moranella_endobia_GCF_000364725_1\.fsa 2> /dev/null
+[11:06:01] Deleting unwanted file: prokka_Moranella_endobia_GCF_000364725_1/errorsummary.val
+[11:06:01] Deleting unwanted file: prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.dr
+[11:06:01] Deleting unwanted file: prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.fixedproducts
+[11:06:01] Deleting unwanted file: prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.ecn
+[11:06:01] Deleting unwanted file: prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.val
+[11:06:01] Repairing broken .GBK output that tbl2asn produces...
+[11:06:01] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < prokka_Moranella_endobia_GCF_000364725_1\/Moranella_endobia_GCF_000364725_1\.gbf > prokka_Moranella_endobia_GCF_000364725_1\/Moranella_endobia_GCF_000364725_1\.gbk
+[11:06:01] Deleting unwanted file: prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.gbf
+[11:06:01] Output files:
+[11:06:01] prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.log
+[11:06:01] prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.fna
+[11:06:01] prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.gff
+[11:06:01] prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.faa
+[11:06:01] prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.ffn
+[11:06:01] prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.tbl
+[11:06:01] prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.fsa
+[11:06:01] prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.tsv
+[11:06:01] prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.txt
+[11:06:01] prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.sqn
+[11:06:01] prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.gbk
+[11:06:01] prokka_Moranella_endobia_GCF_000364725_1/Moranella_endobia_GCF_000364725_1.err
+[11:06:01] Annotation finished successfully.
+[11:06:01] Walltime used: 0.78 minutes
+[11:06:01] If you use this result please cite the Prokka paper:
+[11:06:01] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[11:06:01] Type 'prokka --citation' for more details.
+[11:06:01] Share and enjoy!

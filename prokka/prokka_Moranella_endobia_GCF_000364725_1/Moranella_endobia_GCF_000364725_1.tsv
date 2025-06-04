@@ -1,0 +1,480 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+Moranella_endobia_GCF_000364725_1_00001	CDS	1062	recA		COG0468	Protein RecA
+Moranella_endobia_GCF_000364725_1_00002	CDS	2628	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00003	CDS	186	csrA		COG1551	Translational regulator CsrA
+Moranella_endobia_GCF_000364725_1_00004	CDS	1407	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00005	CDS	978	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+Moranella_endobia_GCF_000364725_1_00006	CDS	1671	rpsA		COG0539	30S ribosomal protein S1
+Moranella_endobia_GCF_000364725_1_00007	CDS	603	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+Moranella_endobia_GCF_000364725_1_00008	CDS	1110	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+Moranella_endobia_GCF_000364725_1_00009	CDS	1371	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+Moranella_endobia_GCF_000364725_1_00010	CDS	216	ibaG		COG5007	Acid stress protein IbaG
+Moranella_endobia_GCF_000364725_1_00011	tRNA	75				tRNA-Gly(gcc)
+Moranella_endobia_GCF_000364725_1_00012	CDS	1281	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00013	CDS	1167	bamB		COG1520	Outer membrane protein assembly factor BamB
+Moranella_endobia_GCF_000364725_1_00014	CDS	1470	der		COG1160	GTPase Der
+Moranella_endobia_GCF_000364725_1_00015	CDS	276	rpoZ	2.7.7.6	COG1758	DNA-directed RNA polymerase subunit omega
+Moranella_endobia_GCF_000364725_1_00016	CDS	261				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00017	CDS	2088	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+Moranella_endobia_GCF_000364725_1_00018	tRNA	77				tRNA-Pro(ggg)
+Moranella_endobia_GCF_000364725_1_00019	CDS	726	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+Moranella_endobia_GCF_000364725_1_00020	CDS	561	lptA		COG1934	Lipopolysaccharide export system protein LptA
+Moranella_endobia_GCF_000364725_1_00021	CDS	579	lptC		COG3117	Lipopolysaccharide export system protein LptC
+Moranella_endobia_GCF_000364725_1_00022	CDS	558	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+Moranella_endobia_GCF_000364725_1_00023	CDS	2670	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+Moranella_endobia_GCF_000364725_1_00024	CDS	1275	aceF	2.3.1.12	COG0508	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+Moranella_endobia_GCF_000364725_1_00025	CDS	1437	lpdA	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+Moranella_endobia_GCF_000364725_1_00026	CDS	258	tusA		COG0425	Sulfur carrier protein TusA
+Moranella_endobia_GCF_000364725_1_00027	CDS	1428	cysG		COG0007	Siroheme synthase
+Moranella_endobia_GCF_000364725_1_00028	CDS	735	cysH	1.8.4.8	COG0175	Phosphoadenosine phosphosulfate reductase
+Moranella_endobia_GCF_000364725_1_00029	CDS	1704	cysI	1.8.1.2	COG0155	Sulfite reductase [NADPH] hemoprotein beta-component
+Moranella_endobia_GCF_000364725_1_00030	CDS	1830	cysJ	1.8.1.2	COG0369	Sulfite reductase [NADPH] flavoprotein alpha-component
+Moranella_endobia_GCF_000364725_1_00031	CDS	1296	eno	4.2.1.11	COG0148	Enolase
+Moranella_endobia_GCF_000364725_1_00032	CDS	2820	polA	2.7.7.7	COG0258	DNA polymerase I
+Moranella_endobia_GCF_000364725_1_00033	CDS	1035	dusA	1.3.1.-	COG0042	tRNA-dihydrouridine(20/20a) synthase
+Moranella_endobia_GCF_000364725_1_00034	tRNA	86				tRNA-Leu(taa)
+Moranella_endobia_GCF_000364725_1_00035	tRNA	74				tRNA-Cys(gca)
+Moranella_endobia_GCF_000364725_1_00036	CDS	1005	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+Moranella_endobia_GCF_000364725_1_00037	CDS	2004	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+Moranella_endobia_GCF_000364725_1_00038	CDS	102	cydX	7.1.1.7	COG4890	Cytochrome bd-I ubiquinol oxidase subunit X
+Moranella_endobia_GCF_000364725_1_00039	CDS	1140	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+Moranella_endobia_GCF_000364725_1_00040	CDS	1566	cydA	7.1.1.7	COG1271	Cytochrome bd-I ubiquinol oxidase subunit 1
+Moranella_endobia_GCF_000364725_1_00041	tRNA	85				tRNA-Leu(caa)
+Moranella_endobia_GCF_000364725_1_00042	CDS	867				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00043	CDS	984	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+Moranella_endobia_GCF_000364725_1_00044	CDS	270	ftsL		COG3116	Cell division protein FtsL
+Moranella_endobia_GCF_000364725_1_00045	CDS	1776	ftsI	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase FtsI
+Moranella_endobia_GCF_000364725_1_00046	CDS	1083	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+Moranella_endobia_GCF_000364725_1_00047	CDS	1140	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+Moranella_endobia_GCF_000364725_1_00048	CDS	1065	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+Moranella_endobia_GCF_000364725_1_00049	CDS	1254	ftsA		COG0849	Cell division protein FtsA
+Moranella_endobia_GCF_000364725_1_00050	CDS	1170	ftsZ		COG0206	Cell division protein FtsZ
+Moranella_endobia_GCF_000364725_1_00051	CDS	906	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+Moranella_endobia_GCF_000364725_1_00052	CDS	471				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00053	CDS	2562	secA		COG0653	Protein translocase subunit SecA
+Moranella_endobia_GCF_000364725_1_00054	CDS	3558	nifJ	1.2.7.-	COG0674	Pyruvate-flavodoxin oxidoreductase
+Moranella_endobia_GCF_000364725_1_00055	CDS	1212	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+Moranella_endobia_GCF_000364725_1_00056	CDS	1077	fbaA	4.1.2.13	COG0191	Fructose-bisphosphate aldolase class 2
+Moranella_endobia_GCF_000364725_1_00057	CDS	429	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+Moranella_endobia_GCF_000364725_1_00058	tRNA	76				tRNA-Met(cat)
+Moranella_endobia_GCF_000364725_1_00059	CDS	1836	rpoD		COG0568	RNA polymerase sigma factor RpoD
+Moranella_endobia_GCF_000364725_1_00060	CDS	1749	dnaG	2.7.7.-	COG0358	DNA primase
+Moranella_endobia_GCF_000364725_1_00061	CDS	243	rpsU		COG0828	30S ribosomal protein S21
+Moranella_endobia_GCF_000364725_1_00062	CDS	1023	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+Moranella_endobia_GCF_000364725_1_00063	CDS	567	efp		COG0231	Elongation factor P
+Moranella_endobia_GCF_000364725_1_00064	CDS	453	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+Moranella_endobia_GCF_000364725_1_00065	CDS	429	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+Moranella_endobia_GCF_000364725_1_00066	CDS	1383	accC	6.3.4.14	COG0439	Biotin carboxylase
+Moranella_endobia_GCF_000364725_1_00067	CDS	2394	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+Moranella_endobia_GCF_000364725_1_00068	CDS	984	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+Moranella_endobia_GCF_000364725_1_00069	CDS	360	rplT		COG0292	50S ribosomal protein L20
+Moranella_endobia_GCF_000364725_1_00070	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+Moranella_endobia_GCF_000364725_1_00071	CDS	426	infC		COG0290	Translation initiation factor IF-3
+Moranella_endobia_GCF_000364725_1_00072	CDS	1932	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00073	CDS	810	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+Moranella_endobia_GCF_000364725_1_00074	tRNA	77				tRNA-Pro(cgg)
+Moranella_endobia_GCF_000364725_1_00075	CDS	576	nfuA		COG0316	Fe/S biogenesis protein NfuA
+Moranella_endobia_GCF_000364725_1_00076	CDS	339				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00077	CDS	858	rpoH		COG0568	RNA polymerase sigma factor RpoH
+Moranella_endobia_GCF_000364725_1_00078	CDS	1119	ftsY		COG0552	Signal recognition particle receptor FtsY
+Moranella_endobia_GCF_000364725_1_00079	CDS	1092	ychF		COG0012	Ribosome-binding ATPase YchF
+Moranella_endobia_GCF_000364725_1_00080	CDS	597	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+Moranella_endobia_GCF_000364725_1_00081	CDS	948	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+Moranella_endobia_GCF_000364725_1_00082	CDS	1083	prfA		COG0216	Peptide chain release factor RF1
+Moranella_endobia_GCF_000364725_1_00083	CDS	843	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+Moranella_endobia_GCF_000364725_1_00084	CDS	786	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+Moranella_endobia_GCF_000364725_1_00085	CDS	1200	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+Moranella_endobia_GCF_000364725_1_00086	tRNA	74				tRNA-Glu(ttc)
+Moranella_endobia_GCF_000364725_1_00087	rRNA	2914				23S ribosomal RNA
+Moranella_endobia_GCF_000364725_1_00088	rRNA	111				5S ribosomal RNA
+Moranella_endobia_GCF_000364725_1_00089	tRNA	77				tRNA-Asp(gtc)
+Moranella_endobia_GCF_000364725_1_00090	CDS	381	acpS_1	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+Moranella_endobia_GCF_000364725_1_00091	CDS	732	pdxJ	2.6.99.2	COG0854	Pyridoxine 5'-phosphate synthase
+Moranella_endobia_GCF_000364725_1_00092	CDS	2574	clpB		COG0542	Chaperone protein ClpB
+Moranella_endobia_GCF_000364725_1_00093	CDS	981	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+Moranella_endobia_GCF_000364725_1_00094	CDS	1359	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+Moranella_endobia_GCF_000364725_1_00095	CDS	906	rdgC		COG2974	Recombination-associated protein RdgC
+Moranella_endobia_GCF_000364725_1_00096	CDS	432	holD	2.7.7.7	COG3050	DNA polymerase III subunit psi
+Moranella_endobia_GCF_000364725_1_00097	CDS	996	ygfZ		COG0354	tRNA-modifying protein YgfZ
+Moranella_endobia_GCF_000364725_1_00098	CDS	843	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+Moranella_endobia_GCF_000364725_1_00099	CDS	522	rppH	3.6.1.-	COG0494	RNA pyrophosphohydrolase
+Moranella_endobia_GCF_000364725_1_00100	CDS	276	fis		COG2901	DNA-binding protein Fis
+Moranella_endobia_GCF_000364725_1_00101	CDS	1911	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+Moranella_endobia_GCF_000364725_1_00102	CDS	1113	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+Moranella_endobia_GCF_000364725_1_00103	CDS	933	prmB	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+Moranella_endobia_GCF_000364725_1_00104	CDS	432	sspB		COG2969	Stringent starvation protein B
+Moranella_endobia_GCF_000364725_1_00105	CDS	807	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+Moranella_endobia_GCF_000364725_1_00106	CDS	690	cpxA	2.7.13.3		Sensor histidine kinase CpxA
+Moranella_endobia_GCF_000364725_1_00107	CDS	246				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00108	CDS	708	cpxR		COG0745	Transcriptional regulatory protein CpxR
+Moranella_endobia_GCF_000364725_1_00109	CDS	795	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+Moranella_endobia_GCF_000364725_1_00110	CDS	963	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase isozyme 1
+Moranella_endobia_GCF_000364725_1_00111	CDS	1995	tktA	2.2.1.1	COG0021	Transketolase 1
+Moranella_endobia_GCF_000364725_1_00112	CDS	570				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00113	CDS	465	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+Moranella_endobia_GCF_000364725_1_00114	tRNA	85				tRNA-Leu(tag)
+Moranella_endobia_GCF_000364725_1_00115	tRNA	75				tRNA-Gln(ttg)
+Moranella_endobia_GCF_000364725_1_00116	tRNA	77				tRNA-Met(cat)
+Moranella_endobia_GCF_000364725_1_00117	tRNA	74				tRNA-Gln(ctg)
+Moranella_endobia_GCF_000364725_1_00118	CDS	1725	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00119	CDS	1398	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+Moranella_endobia_GCF_000364725_1_00120	CDS	624	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn]
+Moranella_endobia_GCF_000364725_1_00121	CDS	1542	murJ		COG0728	putative lipid II flippase MurJ
+Moranella_endobia_GCF_000364725_1_00122	CDS	1731	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00123	CDS	2595	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+Moranella_endobia_GCF_000364725_1_00124	CDS	1011				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00125	CDS	531	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+Moranella_endobia_GCF_000364725_1_00126	CDS	312	rplU		COG0261	50S ribosomal protein L21
+Moranella_endobia_GCF_000364725_1_00127	CDS	258	rpmA		COG0211	50S ribosomal protein L27
+Moranella_endobia_GCF_000364725_1_00128	CDS	1026	obgE	3.6.5.-	COG0536	GTPase ObgE/CgtA
+Moranella_endobia_GCF_000364725_1_00129	CDS	210				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00130	CDS	483	greA		COG0782	Transcription elongation factor GreA
+Moranella_endobia_GCF_000364725_1_00131	CDS	630	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+Moranella_endobia_GCF_000364725_1_00132	CDS	1887	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+Moranella_endobia_GCF_000364725_1_00133	CDS	333	secG		COG1314	Protein-export membrane protein SecG
+Moranella_endobia_GCF_000364725_1_00134	tRNA	87				tRNA-Leu(gag)
+Moranella_endobia_GCF_000364725_1_00135	tRNA	77				tRNA-Met(cat)
+Moranella_endobia_GCF_000364725_1_00136	CDS	1491	nusA		COG0195	Transcription termination/antitermination protein NusA
+Moranella_endobia_GCF_000364725_1_00137	CDS	2706	infB		COG0532	Translation initiation factor IF-2
+Moranella_endobia_GCF_000364725_1_00138	CDS	417	rbfA		COG0858	30S ribosome-binding factor
+Moranella_endobia_GCF_000364725_1_00139	CDS	945	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+Moranella_endobia_GCF_000364725_1_00140	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+Moranella_endobia_GCF_000364725_1_00141	CDS	2112	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+Moranella_endobia_GCF_000364725_1_00142	CDS	1788	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+Moranella_endobia_GCF_000364725_1_00143	CDS	258	ptsH		COG1925	Phosphocarrier protein HPr
+Moranella_endobia_GCF_000364725_1_00144	CDS	1746	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+Moranella_endobia_GCF_000364725_1_00145	CDS	429	rplM		COG0102	50S ribosomal protein L13
+Moranella_endobia_GCF_000364725_1_00146	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+Moranella_endobia_GCF_000364725_1_00147	CDS	1461	clsA	2.7.8.-	COG1502	Cardiolipin synthase A
+Moranella_endobia_GCF_000364725_1_00148	CDS	375	rplS		COG0335	50S ribosomal protein L19
+Moranella_endobia_GCF_000364725_1_00149	CDS	765	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+Moranella_endobia_GCF_000364725_1_00150	CDS	549	rimM		COG0806	Ribosome maturation factor RimM
+Moranella_endobia_GCF_000364725_1_00151	CDS	255	rpsP		COG0228	30S ribosomal protein S16
+Moranella_endobia_GCF_000364725_1_00152	CDS	1335	ffh		COG0541	Signal recognition particle protein
+Moranella_endobia_GCF_000364725_1_00153	CDS	1116	mltC	4.2.2.-	COG0741	Membrane-bound lytic murein transglycosylase C
+Moranella_endobia_GCF_000364725_1_00154	CDS	729	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+Moranella_endobia_GCF_000364725_1_00155	CDS	120				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00156	CDS	624	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+Moranella_endobia_GCF_000364725_1_00157	CDS	1212	fabB	2.3.1.41	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 1
+Moranella_endobia_GCF_000364725_1_00158	CDS	846	map	3.4.11.18	COG0024	Methionine aminopeptidase
+Moranella_endobia_GCF_000364725_1_00159	CDS	714	rpsB		COG0052	30S ribosomal protein S2
+Moranella_endobia_GCF_000364725_1_00160	CDS	807	tsf		COG0264	Elongation factor Ts
+Moranella_endobia_GCF_000364725_1_00161	CDS	555	frr		COG0233	Ribosome-recycling factor
+Moranella_endobia_GCF_000364725_1_00162	CDS	753	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+Moranella_endobia_GCF_000364725_1_00163	CDS	2421	bamA		COG4775	Outer membrane protein assembly factor BamA
+Moranella_endobia_GCF_000364725_1_00164	CDS	501	skp		COG2825	Chaperone protein Skp
+Moranella_endobia_GCF_000364725_1_00165	CDS	1056	lpxD	2.3.1.191	COG1044	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+Moranella_endobia_GCF_000364725_1_00166	CDS	789	lpxA	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+Moranella_endobia_GCF_000364725_1_00167	CDS	1149	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+Moranella_endobia_GCF_000364725_1_00168	CDS	3483	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+Moranella_endobia_GCF_000364725_1_00169	CDS	954	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+Moranella_endobia_GCF_000364725_1_00170	tRNA	76				tRNA-Ala(ggc)
+Moranella_endobia_GCF_000364725_1_00171	CDS	1314	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00172	tRNA	73				tRNA-Val(tac)
+Moranella_endobia_GCF_000364725_1_00173	tRNA	76				tRNA-Lys(ttt)
+Moranella_endobia_GCF_000364725_1_00174	CDS	924	htpX	3.4.24.-	COG0501	Protease HtpX
+Moranella_endobia_GCF_000364725_1_00175	CDS	585	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+Moranella_endobia_GCF_000364725_1_00176	CDS	1260	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+Moranella_endobia_GCF_000364725_1_00177	CDS	2355	lon_1	3.4.21.53	COG0466	Lon protease
+Moranella_endobia_GCF_000364725_1_00178	CDS	429	mscL		COG1970	Large-conductance mechanosensitive channel
+Moranella_endobia_GCF_000364725_1_00179	CDS	957	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+Moranella_endobia_GCF_000364725_1_00180	CDS	495	def	3.5.1.88	COG0242	Peptide deformylase
+Moranella_endobia_GCF_000364725_1_00181	CDS	1578	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00182	tRNA	75				tRNA-Arg(cct)
+Moranella_endobia_GCF_000364725_1_00183	CDS	867	panC	6.3.2.1	COG0414	Pantothenate synthetase
+Moranella_endobia_GCF_000364725_1_00184	CDS	807	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+Moranella_endobia_GCF_000364725_1_00185	CDS	1359	pcnB	2.7.7.19	COG0617	Poly(A) polymerase I
+Moranella_endobia_GCF_000364725_1_00186	CDS	450	dksA		COG1734	RNA polymerase-binding transcription factor DksA
+Moranella_endobia_GCF_000364725_1_00187	CDS	120				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00188	CDS	1740	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+Moranella_endobia_GCF_000364725_1_00189	CDS	870	prfB		COG1186	Peptide chain release factor RF2
+Moranella_endobia_GCF_000364725_1_00190	CDS	1581	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00191	CDS	522	aroK	2.7.1.71	COG0703	Shikimate kinase 1
+Moranella_endobia_GCF_000364725_1_00192	tRNA	88				tRNA-Ser(tga)
+Moranella_endobia_GCF_000364725_1_00193	CDS	327	tusE	2.8.1.-	COG2920	Sulfurtransferase TusE
+Moranella_endobia_GCF_000364725_1_00194	CDS	1077	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+Moranella_endobia_GCF_000364725_1_00195	CDS	2178	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+Moranella_endobia_GCF_000364725_1_00196	CDS	1203	ackA	2.7.2.1	COG0282	Acetate kinase
+Moranella_endobia_GCF_000364725_1_00197	CDS	723				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00198	CDS	1821	typA		COG1217	GTP-binding protein TypA/BipA
+Moranella_endobia_GCF_000364725_1_00199	CDS	162				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00200	CDS	456	pdxB	1.1.1.290	COG0111	Erythronate-4-phosphate dehydrogenase
+Moranella_endobia_GCF_000364725_1_00201	CDS	795	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+Moranella_endobia_GCF_000364725_1_00202	CDS	1032	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+Moranella_endobia_GCF_000364725_1_00203	CDS	555				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00204	CDS	1008	hemW		COG0635	Heme chaperone HemW
+Moranella_endobia_GCF_000364725_1_00205	CDS	138				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00206	CDS	1071	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+Moranella_endobia_GCF_000364725_1_00207	CDS	1134	tgt	2.4.2.29	COG0343	Queuine tRNA-ribosyltransferase
+Moranella_endobia_GCF_000364725_1_00208	CDS	408	sufA		COG0316	Protein SufA
+Moranella_endobia_GCF_000364725_1_00209	CDS	1503	sufB		COG0719	FeS cluster assembly protein SufB
+Moranella_endobia_GCF_000364725_1_00210	CDS	741	sufC		COG0396	putative ATP-dependent transporter SufC
+Moranella_endobia_GCF_000364725_1_00211	CDS	1314	sufD		COG0719	FeS cluster assembly protein SufD
+Moranella_endobia_GCF_000364725_1_00212	CDS	1224	sufS	2.8.1.7	COG0520	Cysteine desulfurase
+Moranella_endobia_GCF_000364725_1_00213	CDS	414	sufE		COG2166	Cysteine desulfuration protein SufE
+Moranella_endobia_GCF_000364725_1_00214	CDS	636	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+Moranella_endobia_GCF_000364725_1_00215	CDS	1008	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+Moranella_endobia_GCF_000364725_1_00216	CDS	1752	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+Moranella_endobia_GCF_000364725_1_00217	CDS	516	fabA	4.2.1.59	COG0764	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+Moranella_endobia_GCF_000364725_1_00218	CDS	1764	lon_2	3.4.21.53		Lon protease
+Moranella_endobia_GCF_000364725_1_00219	CDS	516	fldA		COG0716	Flavodoxin 1
+Moranella_endobia_GCF_000364725_1_00220	CDS	3306	recC	3.1.11.5	COG1330	RecBCD enzyme subunit RecC
+Moranella_endobia_GCF_000364725_1_00221	CDS	201	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+Moranella_endobia_GCF_000364725_1_00222	CDS	180				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00223	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+Moranella_endobia_GCF_000364725_1_00224	CDS	630	rplC		COG0087	50S ribosomal protein L3
+Moranella_endobia_GCF_000364725_1_00225	CDS	606	rplD		COG0088	50S ribosomal protein L4
+Moranella_endobia_GCF_000364725_1_00226	CDS	339	rplW		COG0089	50S ribosomal protein L23
+Moranella_endobia_GCF_000364725_1_00227	CDS	822	rplB		COG0090	50S ribosomal protein L2
+Moranella_endobia_GCF_000364725_1_00228	CDS	288	rpsS		COG0185	30S ribosomal protein S19
+Moranella_endobia_GCF_000364725_1_00229	CDS	333	rplV		COG0091	50S ribosomal protein L22
+Moranella_endobia_GCF_000364725_1_00230	CDS	699	rpsC		COG0092	30S ribosomal protein S3
+Moranella_endobia_GCF_000364725_1_00231	CDS	411	rplP		COG0197	50S ribosomal protein L16
+Moranella_endobia_GCF_000364725_1_00232	CDS	192	rpmC		COG0255	50S ribosomal protein L29
+Moranella_endobia_GCF_000364725_1_00233	CDS	258	rpsQ		COG0186	30S ribosomal protein S17
+Moranella_endobia_GCF_000364725_1_00234	CDS	372	rplN		COG0093	50S ribosomal protein L14
+Moranella_endobia_GCF_000364725_1_00235	CDS	318	rplX		COG0198	50S ribosomal protein L24
+Moranella_endobia_GCF_000364725_1_00236	CDS	537	rplE		COG0094	50S ribosomal protein L5
+Moranella_endobia_GCF_000364725_1_00237	CDS	306	rpsN		COG0199	30S ribosomal protein S14
+Moranella_endobia_GCF_000364725_1_00238	CDS	393	rpsH		COG0096	30S ribosomal protein S8
+Moranella_endobia_GCF_000364725_1_00239	CDS	534	rplF		COG0097	50S ribosomal protein L6
+Moranella_endobia_GCF_000364725_1_00240	CDS	351	rplR		COG0256	50S ribosomal protein L18
+Moranella_endobia_GCF_000364725_1_00241	CDS	501	rpsE		COG0098	30S ribosomal protein S5
+Moranella_endobia_GCF_000364725_1_00242	CDS	180	rpmD		COG1841	50S ribosomal protein L30
+Moranella_endobia_GCF_000364725_1_00243	CDS	438	rplO		COG0200	50S ribosomal protein L15
+Moranella_endobia_GCF_000364725_1_00244	CDS	1329	secY		COG0201	Protein translocase subunit SecY
+Moranella_endobia_GCF_000364725_1_00245	CDS	366	rpsM		COG0099	30S ribosomal protein S13
+Moranella_endobia_GCF_000364725_1_00246	CDS	390	rpsK		COG0100	30S ribosomal protein S11
+Moranella_endobia_GCF_000364725_1_00247	CDS	621	rpsD		COG0522	30S ribosomal protein S4
+Moranella_endobia_GCF_000364725_1_00248	CDS	990	rpoA	2.7.7.6		DNA-directed RNA polymerase subunit alpha
+Moranella_endobia_GCF_000364725_1_00249	CDS	384	rplQ		COG0203	50S ribosomal protein L17
+Moranella_endobia_GCF_000364725_1_00250	CDS	1641	groL		COG0459	60 kDa chaperonin
+Moranella_endobia_GCF_000364725_1_00251	CDS	294	groS		COG0234	10 kDa chaperonin
+Moranella_endobia_GCF_000364725_1_00252	CDS	603	grpE		COG0576	Protein GrpE
+Moranella_endobia_GCF_000364725_1_00253	CDS	480	smpB		COG0691	SsrA-binding protein
+Moranella_endobia_GCF_000364725_1_00254	tmRNA	385	ssrA			transfer-messenger RNA, SsrA
+Moranella_endobia_GCF_000364725_1_00255	CDS	1662	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00256	CDS	546	orn	3.1.-.-	COG1949	Oligoribonuclease
+Moranella_endobia_GCF_000364725_1_00257	CDS	339	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+Moranella_endobia_GCF_000364725_1_00258	tRNA	76				tRNA-Phe(gaa)
+Moranella_endobia_GCF_000364725_1_00259	CDS	807	xthA	3.1.11.2	COG0708	Exodeoxyribonuclease III
+Moranella_endobia_GCF_000364725_1_00260	CDS	1269	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00261	tRNA	90				tRNA-Ser(cga)
+Moranella_endobia_GCF_000364725_1_00262	tRNA	76				tRNA-Asn(gtt)
+Moranella_endobia_GCF_000364725_1_00263	CDS	303	thiC_1	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+Moranella_endobia_GCF_000364725_1_00264	CDS	279	thiC_2	4.1.99.17		Phosphomethylpyrimidine synthase
+Moranella_endobia_GCF_000364725_1_00265	CDS	1086	thiC_3	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+Moranella_endobia_GCF_000364725_1_00266	CDS	657	thiE	2.5.1.3	COG0352	Thiamine-phosphate synthase
+Moranella_endobia_GCF_000364725_1_00267	CDS	4209	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+Moranella_endobia_GCF_000364725_1_00268	CDS	4029	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+Moranella_endobia_GCF_000364725_1_00269	CDS	369	rplL		COG0222	50S ribosomal protein L7/L12
+Moranella_endobia_GCF_000364725_1_00270	CDS	498	rplJ		COG0244	50S ribosomal protein L10
+Moranella_endobia_GCF_000364725_1_00271	CDS	705	rplA		COG0081	50S ribosomal protein L1
+Moranella_endobia_GCF_000364725_1_00272	CDS	429	rplK		COG0080	50S ribosomal protein L11
+Moranella_endobia_GCF_000364725_1_00273	CDS	546	nusG		COG0250	Transcription termination/antitermination protein NusG
+Moranella_endobia_GCF_000364725_1_00274	CDS	396	secE		COG0690	Protein translocase subunit SecE
+Moranella_endobia_GCF_000364725_1_00275	CDS	1185	tufB		COG0050	Elongation factor Tu 2
+Moranella_endobia_GCF_000364725_1_00276	tRNA	76				tRNA-Thr(ggt)
+Moranella_endobia_GCF_000364725_1_00277	tRNA	75				tRNA-Gly(tcc)
+Moranella_endobia_GCF_000364725_1_00278	tRNA	85				tRNA-Tyr(gta)
+Moranella_endobia_GCF_000364725_1_00279	tRNA	76				tRNA-Thr(tgt)
+Moranella_endobia_GCF_000364725_1_00280	CDS	1068	lptG		COG0795	Lipopolysaccharide export system permease protein LptG
+Moranella_endobia_GCF_000364725_1_00281	CDS	1161	lptF		COG0795	Lipopolysaccharide export system permease protein LptF
+Moranella_endobia_GCF_000364725_1_00282	CDS	441	holC	2.7.7.7	COG2927	DNA polymerase III subunit chi
+Moranella_endobia_GCF_000364725_1_00283	CDS	2883	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00284	CDS	1020	argI	2.1.3.3	COG0078	Ornithine carbamoyltransferase subunit I
+Moranella_endobia_GCF_000364725_1_00285	CDS	1131	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase 1 subunit beta
+Moranella_endobia_GCF_000364725_1_00286	CDS	2283	nrdA	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase 1 subunit alpha
+Moranella_endobia_GCF_000364725_1_00287	CDS	2655	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+Moranella_endobia_GCF_000364725_1_00288	CDS	954	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+Moranella_endobia_GCF_000364725_1_00289	CDS	1767	cydD		COG4988	ATP-binding/permease protein CydD
+Moranella_endobia_GCF_000364725_1_00290	CDS	1722			COG1132	putative ABC transporter ATP-binding/permease protein
+Moranella_endobia_GCF_000364725_1_00291	CDS	219	infA		COG0361	Translation initiation factor IF-1
+Moranella_endobia_GCF_000364725_1_00292	CDS	2109	fusA		COG0480	Elongation factor G
+Moranella_endobia_GCF_000364725_1_00293	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+Moranella_endobia_GCF_000364725_1_00294	CDS	375	rpsL		COG0048	30S ribosomal protein S12
+Moranella_endobia_GCF_000364725_1_00295	CDS	288	tusB		COG2168	Protein TusB
+Moranella_endobia_GCF_000364725_1_00296	CDS	360	tusC		COG2923	Protein TusC
+Moranella_endobia_GCF_000364725_1_00297	CDS	372	tusD	2.8.1.-	COG1553	Sulfurtransferase TusD
+Moranella_endobia_GCF_000364725_1_00298	CDS	1485	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+Moranella_endobia_GCF_000364725_1_00299	CDS	2370	mrcB		COG0744	Penicillin-binding protein 1B
+Moranella_endobia_GCF_000364725_1_00300	CDS	1800	lepA	3.6.5.-	COG0481	Elongation factor 4
+Moranella_endobia_GCF_000364725_1_00301	CDS	963	lepB	3.4.21.89	COG0681	Signal peptidase I
+Moranella_endobia_GCF_000364725_1_00302	CDS	690	rnc	3.1.26.3	COG0571	Ribonuclease 3
+Moranella_endobia_GCF_000364725_1_00303	CDS	906	era		COG1159	GTPase Era
+Moranella_endobia_GCF_000364725_1_00304	CDS	390	acpS_2	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+Moranella_endobia_GCF_000364725_1_00305	tRNA	77				tRNA-Asp(gtc)
+Moranella_endobia_GCF_000364725_1_00306	rRNA	111				5S ribosomal RNA
+Moranella_endobia_GCF_000364725_1_00307	rRNA	2914				23S ribosomal RNA
+Moranella_endobia_GCF_000364725_1_00308	tRNA	74				tRNA-Ala(tgc)
+Moranella_endobia_GCF_000364725_1_00309	tRNA	76				tRNA-Ile(gat)
+Moranella_endobia_GCF_000364725_1_00310	rRNA	1539				16S ribosomal RNA
+Moranella_endobia_GCF_000364725_1_00311	CDS	1377	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+Moranella_endobia_GCF_000364725_1_00312	CDS	1617	yidC			Membrane protein insertase YidC
+Moranella_endobia_GCF_000364725_1_00313	CDS	339	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+Moranella_endobia_GCF_000364725_1_00314	CDS	150	rpmH		COG0230	50S ribosomal protein L34
+Moranella_endobia_GCF_000364725_1_00315	CDS	2151	priA	3.6.4.-	COG1198	Primosomal protein N'
+Moranella_endobia_GCF_000364725_1_00316	CDS	216	rpmE		COG0254	50S ribosomal protein L31
+Moranella_endobia_GCF_000364725_1_00317	CDS	1104	dnaN		COG0592	Beta sliding clamp
+Moranella_endobia_GCF_000364725_1_00318	CDS	2415	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+Moranella_endobia_GCF_000364725_1_00319	tRNA	75				tRNA-Thr(cgt)
+Moranella_endobia_GCF_000364725_1_00320	CDS	1014				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00321	CDS	210	cspC			Cold shock-like protein CspC
+Moranella_endobia_GCF_000364725_1_00322	CDS	603	engB		COG0218	putative GTP-binding protein EngB
+Moranella_endobia_GCF_000364725_1_00323	CDS	1404	dnaB	3.6.4.12	COG0305	Replicative DNA helicase
+Moranella_endobia_GCF_000364725_1_00324	CDS	561	ssb			Single-stranded DNA-binding protein
+Moranella_endobia_GCF_000364725_1_00325	CDS	741	hemD	4.2.1.75	COG1587	Uroporphyrinogen-III synthase
+Moranella_endobia_GCF_000364725_1_00326	CDS	948	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+Moranella_endobia_GCF_000364725_1_00327	CDS	117				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00328	CDS	2166	uvrD	3.6.4.12	COG0210	DNA helicase II
+Moranella_endobia_GCF_000364725_1_00329	tRNA	77				tRNA-Arg(tct)
+Moranella_endobia_GCF_000364725_1_00330	CDS	261	folD	3.5.4.9		Bifunctional protein FolD protein
+Moranella_endobia_GCF_000364725_1_00331	CDS	1401	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00332	CDS	318	hspQ		COG3785	Heat shock protein HspQ
+Moranella_endobia_GCF_000364725_1_00333	CDS	150				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00334	CDS	816	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+Moranella_endobia_GCF_000364725_1_00335	CDS	1248	cca		COG0617	Multifunctional CCA protein
+Moranella_endobia_GCF_000364725_1_00336	CDS	327	grxD		COG0278	Glutaredoxin 4
+Moranella_endobia_GCF_000364725_1_00337	CDS	654	rnt	3.1.13.-	COG0847	Ribonuclease T
+Moranella_endobia_GCF_000364725_1_00338	CDS	789	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+Moranella_endobia_GCF_000364725_1_00339	CDS	534	ppa	3.6.1.1	COG0221	Inorganic pyrophosphatase
+Moranella_endobia_GCF_000364725_1_00340	CDS	1665	ybaL		COG1226	Putative cation/proton antiporter YbaL
+Moranella_endobia_GCF_000364725_1_00341	CDS	879	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+Moranella_endobia_GCF_000364725_1_00342	CDS	324	trxA		COG0526	Thioredoxin 1
+Moranella_endobia_GCF_000364725_1_00343	CDS	1260	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+Moranella_endobia_GCF_000364725_1_00344	tRNA	77				tRNA-Arg(ccg)
+Moranella_endobia_GCF_000364725_1_00345	tRNA	76				tRNA-His(gtg)
+Moranella_endobia_GCF_000364725_1_00346	tRNA	87				tRNA-Leu(cag)
+Moranella_endobia_GCF_000364725_1_00347	tRNA	77				tRNA-Pro(tgg)
+Moranella_endobia_GCF_000364725_1_00348	CDS	582	lpoB		COG3417	Penicillin-binding protein activator LpoB
+Moranella_endobia_GCF_000364725_1_00349	CDS	354		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+Moranella_endobia_GCF_000364725_1_00350	CDS	1005	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+Moranella_endobia_GCF_000364725_1_00351	CDS	219	cspG		COG1278	Cold shock-like protein CspG
+Moranella_endobia_GCF_000364725_1_00352	CDS	1005	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00353	CDS	813	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+Moranella_endobia_GCF_000364725_1_00354	CDS	1002	pdxA	1.1.1.262	COG1995	4-hydroxythreonine-4-phosphate dehydrogenase
+Moranella_endobia_GCF_000364725_1_00355	CDS	1293	surA	5.2.1.8	COG0760	Chaperone SurA
+Moranella_endobia_GCF_000364725_1_00356	CDS	2334	lptD		COG1452	LPS-assembly protein LptD
+Moranella_endobia_GCF_000364725_1_00357	CDS	279				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00358	CDS	459	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+Moranella_endobia_GCF_000364725_1_00359	CDS	237	rpmB		COG0227	50S ribosomal protein L28
+Moranella_endobia_GCF_000364725_1_00360	CDS	168	rpmG		COG0267	50S ribosomal protein L33
+Moranella_endobia_GCF_000364725_1_00361	CDS	810	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+Moranella_endobia_GCF_000364725_1_00362	CDS	1683	ruvB_1	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+Moranella_endobia_GCF_000364725_1_00363	CDS	540	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit tau
+Moranella_endobia_GCF_000364725_1_00364	CDS	654	adk	2.7.4.3	COG0563	Adenylate kinase
+Moranella_endobia_GCF_000364725_1_00365	CDS	1461	nuoN	7.1.1.-	COG1007	NADH-quinone oxidoreductase subunit N
+Moranella_endobia_GCF_000364725_1_00366	CDS	1533	nuoM	7.1.1.-	COG1008	NADH-quinone oxidoreductase subunit M
+Moranella_endobia_GCF_000364725_1_00367	CDS	1845	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+Moranella_endobia_GCF_000364725_1_00368	CDS	300	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+Moranella_endobia_GCF_000364725_1_00369	CDS	549	nuoJ	7.1.1.-	COG0839	NADH-quinone oxidoreductase subunit J
+Moranella_endobia_GCF_000364725_1_00370	CDS	543	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+Moranella_endobia_GCF_000364725_1_00371	CDS	942	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+Moranella_endobia_GCF_000364725_1_00372	CDS	2733	nuoG	7.1.1.-	COG1034	NADH-quinone oxidoreductase subunit G
+Moranella_endobia_GCF_000364725_1_00373	CDS	1350	nuoF	7.1.1.-	COG1894	NADH-quinone oxidoreductase subunit F
+Moranella_endobia_GCF_000364725_1_00374	CDS	525	nuoE	7.1.1.-	COG1905	NADH-quinone oxidoreductase subunit E
+Moranella_endobia_GCF_000364725_1_00375	CDS	1791	nuoC	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit C/D
+Moranella_endobia_GCF_000364725_1_00376	CDS	675	nuoB	7.1.1.-	COG0377	NADH-quinone oxidoreductase subunit B
+Moranella_endobia_GCF_000364725_1_00377	CDS	369	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+Moranella_endobia_GCF_000364725_1_00378	CDS	1080	mreB		COG1077	Cell shape-determining protein MreB
+Moranella_endobia_GCF_000364725_1_00379	CDS	873	mreC		COG1792	Cell shape-determining protein MreC
+Moranella_endobia_GCF_000364725_1_00380	CDS	1293	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00381	CDS	3225	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+Moranella_endobia_GCF_000364725_1_00382	CDS	1149	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+Moranella_endobia_GCF_000364725_1_00383	CDS	828	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+Moranella_endobia_GCF_000364725_1_00384	CDS	489	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+Moranella_endobia_GCF_000364725_1_00385	CDS	2817	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00386	CDS	282	rpsT		COG0268	30S ribosomal protein S20
+Moranella_endobia_GCF_000364725_1_00387	CDS	1131	dnaJ		COG0484	Chaperone protein DnaJ
+Moranella_endobia_GCF_000364725_1_00388	CDS	1899	dnaK		COG0443	Chaperone protein DnaK
+Moranella_endobia_GCF_000364725_1_00389	CDS	540	ybgI		COG0327	GTP cyclohydrolase 1 type 2 
+Moranella_endobia_GCF_000364725_1_00390	CDS	1167	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+Moranella_endobia_GCF_000364725_1_00391	CDS	876	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+Moranella_endobia_GCF_000364725_1_00392	CDS	480	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+Moranella_endobia_GCF_000364725_1_00393	CDS	1986	mutL		COG0323	DNA mismatch repair protein MutL
+Moranella_endobia_GCF_000364725_1_00394	CDS	945	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+Moranella_endobia_GCF_000364725_1_00395	CDS	267	hfq			RNA-binding protein Hfq
+Moranella_endobia_GCF_000364725_1_00396	CDS	1218	hflK		COG0330	Modulator of FtsH protease HflK
+Moranella_endobia_GCF_000364725_1_00397	CDS	993	hflC		COG0330	Modulator of FtsH protease HflC
+Moranella_endobia_GCF_000364725_1_00398	CDS	2331	rnr	3.1.13.1	COG0557	Ribonuclease R
+Moranella_endobia_GCF_000364725_1_00399	CDS	903	rlmB	2.1.1.185	COG0566	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+Moranella_endobia_GCF_000364725_1_00400	CDS	717	gpmA	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+Moranella_endobia_GCF_000364725_1_00401	CDS	1890	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+Moranella_endobia_GCF_000364725_1_00402	CDS	1107	ompC		COG3203	Outer membrane porin C
+Moranella_endobia_GCF_000364725_1_00403	CDS	411	rpsF		COG0360	30S ribosomal protein S6
+Moranella_endobia_GCF_000364725_1_00404	CDS	327	priB		COG2965	Primosomal replication protein N
+Moranella_endobia_GCF_000364725_1_00405	CDS	228	rpsR		COG0238	30S ribosomal protein S18
+Moranella_endobia_GCF_000364725_1_00406	CDS	453	rplI		COG0359	50S ribosomal protein L9
+Moranella_endobia_GCF_000364725_1_00407	CDS	996	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+Moranella_endobia_GCF_000364725_1_00408	CDS	252	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+Moranella_endobia_GCF_000364725_1_00409	CDS	732	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+Moranella_endobia_GCF_000364725_1_00410	tRNA	77				tRNA-Val(gac)
+Moranella_endobia_GCF_000364725_1_00411	CDS	609	ribC	2.5.1.9	COG0307	Riboflavin synthase
+Moranella_endobia_GCF_000364725_1_00412	CDS	828	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+Moranella_endobia_GCF_000364725_1_00413	CDS	1575	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+Moranella_endobia_GCF_000364725_1_00414	CDS	579	trpG	4.1.3.27		Anthranilate synthase component 2
+Moranella_endobia_GCF_000364725_1_00415	CDS	1356	trpC		COG0134	Tryptophan biosynthesis protein TrpCF
+Moranella_endobia_GCF_000364725_1_00416	CDS	1191	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+Moranella_endobia_GCF_000364725_1_00417	CDS	807	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+Moranella_endobia_GCF_000364725_1_00418	CDS	750				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00419	CDS	1650	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+Moranella_endobia_GCF_000364725_1_00420	CDS	1446	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+Moranella_endobia_GCF_000364725_1_00421	CDS	1233	mepM	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+Moranella_endobia_GCF_000364725_1_00422	CDS	972	znuA		COG4531	High-affinity zinc uptake system protein ZnuA
+Moranella_endobia_GCF_000364725_1_00423	CDS	771	znuC	7.2.2.-	COG1121	Zinc import ATP-binding protein ZnuC
+Moranella_endobia_GCF_000364725_1_00424	CDS	786	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+Moranella_endobia_GCF_000364725_1_00425	CDS	1005	ruvB_2	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+Moranella_endobia_GCF_000364725_1_00426	CDS	621	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+Moranella_endobia_GCF_000364725_1_00427	CDS	495	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+Moranella_endobia_GCF_000364725_1_00428	CDS	744	yebC		COG0217	putative transcriptional regulatory protein YebC
+Moranella_endobia_GCF_000364725_1_00429	CDS	1761	aspS	6.1.1.12	COG0173	Aspartate--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00430	CDS	480	ibpB		COG0071	Small heat shock protein IbpB
+Moranella_endobia_GCF_000364725_1_00431	CDS	417	ibpA		COG0071	Small heat shock protein IbpA
+Moranella_endobia_GCF_000364725_1_00432	CDS	126				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00433	CDS	3543	recB	3.1.11.5	COG1074	RecBCD enzyme subunit RecB
+Moranella_endobia_GCF_000364725_1_00434	CDS	1485	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+Moranella_endobia_GCF_000364725_1_00435	CDS	1443	pykA	2.7.1.40	COG0469	Pyruvate kinase II
+Moranella_endobia_GCF_000364725_1_00436	tRNA	90				tRNA-Ser(gga)
+Moranella_endobia_GCF_000364725_1_00437	CDS	1017	holA	2.7.7.7	COG1466	DNA polymerase III subunit delta
+Moranella_endobia_GCF_000364725_1_00438	CDS	489	lptE		COG2980	LPS-assembly lipoprotein LptE
+Moranella_endobia_GCF_000364725_1_00439	CDS	2598	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+Moranella_endobia_GCF_000364725_1_00440	CDS	492	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+Moranella_endobia_GCF_000364725_1_00441	CDS	741	dnaQ	2.7.7.7	COG0847	DNA polymerase III subunit epsilon
+Moranella_endobia_GCF_000364725_1_00442	CDS	669	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+Moranella_endobia_GCF_000364725_1_00443	CDS	864	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+Moranella_endobia_GCF_000364725_1_00444	CDS	666	lipB	2.3.1.181	COG0321	Octanoyltransferase
+Moranella_endobia_GCF_000364725_1_00445	CDS	948	lipA	2.8.1.8	COG0320	Lipoyl synthase
+Moranella_endobia_GCF_000364725_1_00446	tRNA	77				tRNA-Arg(acg)
+Moranella_endobia_GCF_000364725_1_00447	tRNA	92				tRNA-Ser(gct)
+Moranella_endobia_GCF_000364725_1_00448	CDS	423	nusB		COG0781	Transcription antitermination protein NusB
+Moranella_endobia_GCF_000364725_1_00449	CDS	471	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+Moranella_endobia_GCF_000364725_1_00450	CDS	534	nlpD			Murein hydrolase activator NlpD
+Moranella_endobia_GCF_000364725_1_00451	CDS	168				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00452	CDS	2553	mutS		COG0249	DNA mismatch repair protein MutS
+Moranella_endobia_GCF_000364725_1_00453	CDS	789	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+Moranella_endobia_GCF_000364725_1_00454	CDS	999	holB	2.7.7.7	COG0470	DNA polymerase III subunit delta'
+Moranella_endobia_GCF_000364725_1_00455	CDS	168				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00456	CDS	303	acpP			Acyl carrier protein
+Moranella_endobia_GCF_000364725_1_00457	CDS	735	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Moranella_endobia_GCF_000364725_1_00458	CDS	945	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+Moranella_endobia_GCF_000364725_1_00459	CDS	171	rpmF		COG0333	50S ribosomal protein L32
+Moranella_endobia_GCF_000364725_1_00460	CDS	969	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+Moranella_endobia_GCF_000364725_1_00461	CDS	2556	rne	3.1.26.12		Ribonuclease E
+Moranella_endobia_GCF_000364725_1_00462	CDS	855	manZ		COG3716	PTS system mannose-specific EIID component
+Moranella_endobia_GCF_000364725_1_00463	CDS	801	manY		COG3715	PTS system mannose-specific EIIC component
+Moranella_endobia_GCF_000364725_1_00464	CDS	969	manX	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component
+Moranella_endobia_GCF_000364725_1_00465	CDS	192				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00466	CDS	510	dsbB		COG1495	Disulfide bond formation protein B
+Moranella_endobia_GCF_000364725_1_00467	CDS	735	minC		COG0850	Septum site-determining protein MinC
+Moranella_endobia_GCF_000364725_1_00468	CDS	816	minD		COG2894	Septum site-determining protein MinD
+Moranella_endobia_GCF_000364725_1_00469	CDS	255	minE		COG0851	Cell division topological specificity factor
+Moranella_endobia_GCF_000364725_1_00470	CDS	750	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+Moranella_endobia_GCF_000364725_1_00471	CDS	690	bamD		COG4105	Outer membrane protein assembly factor BamD
+Moranella_endobia_GCF_000364725_1_00472	CDS	1554	pitA		COG0306	Low-affinity inorganic phosphate transporter 1
+Moranella_endobia_GCF_000364725_1_00473	CDS	288	rplY		COG1825	50S ribosomal protein L25
+Moranella_endobia_GCF_000364725_1_00474	tRNA	76				tRNA-Trp(cca)
+Moranella_endobia_GCF_000364725_1_00475	CDS	1515				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00476	CDS	2049	ligA	6.5.1.2	COG0272	DNA ligase
+Moranella_endobia_GCF_000364725_1_00477	CDS	117				hypothetical protein
+Moranella_endobia_GCF_000364725_1_00478	CDS	264	thiD_1	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+Moranella_endobia_GCF_000364725_1_00479	CDS	165	thiD_2	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase

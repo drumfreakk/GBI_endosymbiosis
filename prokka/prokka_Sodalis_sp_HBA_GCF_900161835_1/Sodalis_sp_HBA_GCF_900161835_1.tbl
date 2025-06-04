@@ -1,0 +1,5428 @@
+>Feature NZ_LT897836.1
+656	2041	CDS
+			db_xref	COG:COG0593
+			gene	dnaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03004
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00001
+			product	Chromosomal replication initiator protein DnaA
+2038	3147	CDS
+			db_xref	COG:COG0592
+			gene	dnaN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A988
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00002
+			product	Beta sliding clamp
+3683	6205	CDS
+			EC_number	5.6.2.2
+			db_xref	COG:COG0187
+			gene	gyrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AES6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00003
+			product	DNA gyrase subunit B
+7600	7415	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00004
+			product	hypothetical protein
+13068	12940	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00005
+			product	hypothetical protein
+13665	13946	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00006
+			product	hypothetical protein
+13900	15168	CDS
+			EC_number	4.1.1.20
+			gene	lysA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:E0IWI3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00007
+			product	Diaminopimelate decarboxylase
+18080	18268	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00008
+			product	hypothetical protein
+22903	22220	CDS
+			db_xref	COG:COG3066
+			gene	mutH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06722
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00009
+			product	DNA mismatch repair protein MutH
+23585	24154	CDS
+			EC_number	3.6.1.-
+			db_xref	COG:COG0494
+			gene	rppH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A776
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00010
+			product	RNA pyrophosphohydrolase
+26212	27084	CDS
+			EC_number	2.5.1.145
+			db_xref	COG:COG0682
+			gene	lgt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60955
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00011
+			product	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+27091	27885	CDS
+			EC_number	2.1.1.45
+			db_xref	COG:COG0207
+			gene	thyA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A884
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00012
+			product	Thymidylate synthase
+28410	31814	CDS
+			EC_number	3.1.11.5
+			db_xref	COG:COG1330
+			gene	recC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07648
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00013
+			product	RecBCD enzyme subunit RecC
+34212	37736	CDS
+			EC_number	3.1.11.5
+			db_xref	COG:COG1074
+			gene	recB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08394
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00014
+			product	RecBCD enzyme subunit RecB
+37753	39600	CDS
+			EC_number	3.1.11.5
+			db_xref	COG:COG0507
+			gene	recD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04993
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00015
+			product	RecBCD enzyme subunit RecD
+41432	41356	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00016
+			product	tRNA-Met(cat)
+44620	44462	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00017
+			product	hypothetical protein
+49678	48854	CDS
+			EC_number	2.3.1.117
+			db_xref	COG:COG2171
+			gene	dapD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9D8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00018
+			product	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+51762	50965	CDS
+			EC_number	3.4.11.18
+			db_xref	COG:COG0024
+			gene	map
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1X6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00019
+			product	Methionine aminopeptidase
+52098	52823	CDS
+			db_xref	COG:COG0052
+			gene	rpsB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7V0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00020
+			product	30S ribosomal protein S2
+52943	53824	CDS
+			db_xref	COG:COG0264
+			gene	tsf
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6P1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00021
+			product	Elongation factor Ts
+53968	54693	CDS
+			EC_number	2.7.4.22
+			db_xref	COG:COG0528
+			gene	pyrH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65933
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00022
+			product	Uridylate kinase
+54771	55328	CDS
+			db_xref	COG:COG0233
+			gene	frr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A805
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00023
+			product	Ribosome-recycling factor
+55486	56682	CDS
+			EC_number	1.1.1.267
+			db_xref	COG:COG0743
+			gene	dxr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45568
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00024
+			product	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+56884	57654	CDS
+			EC_number	2.5.1.31
+			db_xref	COG:COG0020
+			gene	ispU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60472
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00025
+			product	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+57664	58521	CDS
+			EC_number	2.7.7.41
+			db_xref	COG:COG0575
+			gene	cdsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABG1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00026
+			product	Phosphatidate cytidylyltransferase
+58541	59896	CDS
+			EC_number	3.4.24.-
+			db_xref	COG:COG0750
+			gene	rseP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEH1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00027
+			product	Regulator of sigma-E protease RseP
+59877	62360	CDS
+			db_xref	COG:COG4775
+			gene	bamA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:D5CHY0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00028
+			product	Outer membrane protein assembly factor BamA
+62469	62963	CDS
+			db_xref	COG:COG2825
+			gene	skp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31519
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00029
+			product	Chaperone protein Skp
+62967	63989	CDS
+			EC_number	2.3.1.191
+			db_xref	COG:COG1044
+			gene	lpxD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1X4
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00030
+			product	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+64069	64596	CDS
+			EC_number	4.2.1.59
+			gene	fabZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q1CAM3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00031
+			product	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+64601	65389	CDS
+			EC_number	2.3.1.129
+			db_xref	COG:COG1043
+			gene	lpxA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A722
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00032
+			product	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+65392	66540	CDS
+			EC_number	2.4.1.182
+			db_xref	COG:COG0763
+			gene	lpxB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10441
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00033
+			product	Lipid-A-disaccharide synthase
+67002	70484	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0587
+			gene	dnaE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10443
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00034
+			product	DNA polymerase III subunit alpha
+70496	71431	CDS
+			EC_number	2.1.3.15
+			db_xref	COG:COG0825
+			gene	accA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABD5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00035
+			product	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+74973	75935	CDS
+			EC_number	2.7.1.11
+			db_xref	COG:COG0205
+			gene	pfkA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A796
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00036
+			product	ATP-dependent 6-phosphofructokinase isozyme 1
+77788	77027	CDS
+			EC_number	5.3.1.1
+			db_xref	COG:COG0149
+			gene	tpiA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A858
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00037
+			product	Triosephosphate isomerase
+79132	78386	CDS
+			EC_number	1.18.1.2
+			db_xref	COG:COG1018
+			gene	fpr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28861
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00038
+			product	Flavodoxin/ferredoxin--NADP reductase
+79515	80690	CDS
+			gene	emrD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31442
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00039
+			product	Multidrug resistance protein D
+83800	83351	CDS
+			db_xref	COG:COG3087
+			gene	ftsN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29131
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00040
+			product	Cell division protein FtsN
+83937	84080	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00041
+			product	hypothetical protein
+86040	86213	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00042
+			product	hypothetical protein
+86612	86487	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00043
+			product	hypothetical protein
+88524	88312	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00044
+			product	hypothetical protein
+90694	92343	CDS
+			EC_number	5.3.1.9
+			db_xref	COG:COG0166
+			gene	pgi
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6T1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00045
+			product	Glucose-6-phosphate isomerase
+92560	92390	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00046
+			product	hypothetical protein
+97583	98596	CDS
+			EC_number	2.5.1.39
+			db_xref	COG:COG0382
+			gene	ubiA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGK1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00047
+			product	4-hydroxybenzoate octaprenyltransferase
+101064	98617	CDS
+			EC_number	2.3.1.15
+			db_xref	COG:COG2937
+			gene	plsB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7A7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00048
+			product	Glycerol-3-phosphate acyltransferase
+106943	106659	CDS
+			db_xref	COG:COG1825
+			gene	rplY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68919
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00049
+			product	50S ribosomal protein L25
+113012	113161	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00050
+			product	hypothetical protein
+115403	115137	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00051
+			product	hypothetical protein
+116038	115643	CDS
+			db_xref	COG:COG0203
+			gene	rplQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG44
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00052
+			product	50S ribosomal protein L17
+117065	116079	CDS
+			EC_number	2.7.7.6
+			gene	rpoA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q664U6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00053
+			product	DNA-directed RNA polymerase subunit alpha
+117712	117092	CDS
+			db_xref	COG:COG0522
+			gene	rpsD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7V8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00054
+			product	30S ribosomal protein S4
+118129	117740	CDS
+			db_xref	COG:COG0100
+			gene	rpsK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7R9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00055
+			product	30S ribosomal protein S11
+118502	118146	CDS
+			db_xref	COG:COG0099
+			gene	rpsM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7S9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00056
+			product	30S ribosomal protein S13
+118759	118643	CDS
+			db_xref	COG:COG0257
+			gene	rpmJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Q6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00057
+			product	50S ribosomal protein L36
+120124	118793	CDS
+			db_xref	COG:COG0201
+			gene	secY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGA2
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00058
+			product	Protein translocase subunit SecY
+120566	120132	CDS
+			db_xref	COG:COG0200
+			gene	rplO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02413
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00059
+			product	50S ribosomal protein L15
+120752	120570	CDS
+			db_xref	COG:COG1841
+			gene	rpmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG51
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00060
+			product	50S ribosomal protein L30
+121259	120759	CDS
+			db_xref	COG:COG0098
+			gene	rpsE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7W4
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00061
+			product	30S ribosomal protein S5
+121627	121274	CDS
+			db_xref	COG:COG0256
+			gene	rplR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C018
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00062
+			product	50S ribosomal protein L18
+122170	121637	CDS
+			db_xref	COG:COG0097
+			gene	rplF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG55
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00063
+			product	50S ribosomal protein L6
+122579	122184	CDS
+			db_xref	COG:COG0096
+			gene	rpsH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7W7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00064
+			product	30S ribosomal protein S8
+122914	122609	CDS
+			db_xref	COG:COG0199
+			gene	rpsN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG59
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00065
+			product	30S ribosomal protein S14
+123468	122929	CDS
+			db_xref	COG:COG0094
+			gene	rplE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62399
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00066
+			product	50S ribosomal protein L5
+123800	123489	CDS
+			db_xref	COG:COG0198
+			gene	rplX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60624
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00067
+			product	50S ribosomal protein L24
+124182	123811	CDS
+			db_xref	COG:COG0093
+			gene	rplN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADY3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00068
+			product	50S ribosomal protein L14
+124605	124351	CDS
+			db_xref	COG:COG0186
+			gene	rpsQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG63
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00069
+			product	30S ribosomal protein S17
+124798	124613	CDS
+			db_xref	COG:COG0255
+			gene	rpmC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9HWE3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00070
+			product	50S ribosomal protein L29
+125211	124795	CDS
+			db_xref	COG:COG0197
+			gene	rplP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADY7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00071
+			product	50S ribosomal protein L16
+125918	125211	CDS
+			db_xref	COG:COG0092
+			gene	rpsC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7V3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00072
+			product	30S ribosomal protein S3
+126268	125936	CDS
+			db_xref	COG:COG0091
+			gene	rplV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P61175
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00073
+			product	50S ribosomal protein L22
+126565	126287	CDS
+			db_xref	COG:COG0185
+			gene	rpsS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7U3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00074
+			product	30S ribosomal protein S19
+127403	126582	CDS
+			db_xref	COG:COG0090
+			gene	rplB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60422
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00075
+			product	50S ribosomal protein L2
+127723	127421	CDS
+			db_xref	COG:COG0089
+			gene	rplW
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C2N0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00076
+			product	50S ribosomal protein L23
+128325	127720	CDS
+			db_xref	COG:COG0088
+			gene	rplD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60726
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00077
+			product	50S ribosomal protein L4
+128971	128342	CDS
+			db_xref	COG:COG0087
+			gene	rplC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60438
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00078
+			product	50S ribosomal protein L3
+129311	129000	CDS
+			db_xref	COG:COG0051
+			gene	rpsJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7R5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00079
+			product	30S ribosomal protein S10
+134194	133010	CDS
+			db_xref	COG:COG0050
+			gene	tufB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0CE48
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00080
+			product	Elongation factor Tu 2
+136383	134278	CDS
+			db_xref	COG:COG0480
+			gene	fusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6M8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00081
+			product	Elongation factor G
+136951	136481	CDS
+			db_xref	COG:COG0049
+			gene	rpsG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02359
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00082
+			product	30S ribosomal protein S7
+137406	137032	CDS
+			db_xref	COG:COG0048
+			gene	rpsL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7S3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00083
+			product	30S ribosomal protein S12
+137837	137550	CDS
+			db_xref	COG:COG2168
+			gene	tusB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45530
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00084
+			product	Protein TusB
+138212	137853	CDS
+			db_xref	COG:COG2923
+			gene	tusC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45531
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00085
+			product	Protein TusC
+138557	138219	CDS
+			EC_number	2.8.1.-
+			db_xref	COG:COG1553
+			gene	tusD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45532
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00086
+			product	Sulfurtransferase TusD
+140645	140767	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00087
+			product	hypothetical protein
+141560	142192	CDS
+			db_xref	COG:COG0664
+			gene	crp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A2T6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00088
+			product	cAMP-activated global transcriptional regulator CRP
+147699	146695	CDS
+			EC_number	6.1.1.2
+			db_xref	COG:COG0180
+			gene	trpS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00954
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00089
+			product	Tryptophan--tRNA ligase
+149089	148412	CDS
+			EC_number	5.1.3.1
+			db_xref	COG:COG0036
+			gene	rpe
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG07
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00090
+			product	Ribulose-phosphate 3-epimerase
+149949	149137	CDS
+			EC_number	2.1.1.72
+			db_xref	COG:COG0338
+			gene	dam
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0DMP4
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00091
+			product	DNA adenine methylase
+151885	150806	CDS
+			EC_number	4.2.3.4
+			db_xref	COG:COG0337
+			gene	aroB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07639
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00092
+			product	3-dehydroquinate synthase
+152445	151924	CDS
+			EC_number	2.7.1.71
+			db_xref	COG:COG0703
+			gene	aroK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6D7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00093
+			product	Shikimate kinase 1
+154069	154332	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00094
+			product	hypothetical protein
+157791	157558	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00095
+			product	hypothetical protein
+158406	158179	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00096
+			product	hypothetical protein
+159593	161227	CDS
+			EC_number	4.1.1.49
+			db_xref	COG:COG1866
+			gene	pckA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P22259
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00097
+			product	Phosphoenolpyruvate carboxykinase (ATP)
+163579	163103	CDS
+			db_xref	COG:COG0782
+			gene	greB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30128
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00098
+			product	Transcription elongation factor GreB
+165599	165811	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00099
+			product	hypothetical protein
+167695	167501	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00100
+			product	hypothetical protein
+169705	170280	CDS
+			db_xref	COG:COG0316
+			gene	nfuA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63020
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00101
+			product	Fe/S biogenesis protein NfuA
+173191	172085	CDS
+			EC_number	1.2.1.11
+			db_xref	COG:COG0136
+			gene	asd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9Q9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00102
+			product	Aspartate-semialdehyde dehydrogenase
+173409	174002	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67143
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00103
+			note	UPF0056 inner membrane protein YhgN
+			product	hypothetical protein
+178893	178756	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00104
+			product	hypothetical protein
+180260	178917	CDS
+			db_xref	COG:COG1301
+			gene	gltP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21345
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00105
+			product	Proton/glutamate-aspartate symporter
+182461	182342	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00106
+			product	hypothetical protein
+183374	185146	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00107
+			product	hypothetical protein
+187336	188013	CDS
+			db_xref	COG:COG0526
+			gene	dsbA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A2H9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00108
+			product	Thiol:disulfide interchange protein DsbA
+188433	191228	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0258
+			gene	polA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00582
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00109
+			product	DNA polymerase I
+192161	191520	CDS
+			db_xref	COG:COG0218
+			gene	engB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6P7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00110
+			product	putative GTP-binding protein EngB
+194820	196631	CDS
+			db_xref	COG:COG1217
+			gene	typA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P32132
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00111
+			product	GTP-binding protein TypA/BipA
+198479	198628	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00112
+			product	hypothetical protein
+201186	201440	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00113
+			product	hypothetical protein
+203193	201337	CDS
+			db_xref	COG:COG0317
+			gene	spoT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG24
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00114
+			product	Bifunctional (p)ppGpp synthase/hydrolase SpoT
+203489	203214	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG1758
+			gene	rpoZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A800
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00115
+			product	DNA-directed RNA polymerase subunit omega
+204249	203545	CDS
+			EC_number	2.7.4.8
+			db_xref	COG:COG0194
+			gene	gmk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60546
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00116
+			product	Guanylate kinase
+211078	210938	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00117
+			product	hypothetical protein
+213617	213291	CDS
+			EC_number	2.8.1.-
+			db_xref	COG:COG2920
+			gene	tusE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AB18
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00118
+			product	Sulfurtransferase TusE
+214383	213724	CDS
+			db_xref	COG:COG0670
+			gene	yccA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AAC6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00119
+			product	Modulator of FtsH protease YccA
+214608	214695	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00120
+			product	tRNA-Ser(tga)
+216343	217527	CDS
+			db_xref	COG:COG1972
+			gene	nupC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFF2
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00121
+			product	Nucleoside permease NupC
+217733	217661	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00122
+			product	tRNA-Ala(ggc)
+219269	217863	CDS
+			EC_number	6.1.1.17
+			db_xref	COG:COG0008
+			gene	gltX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04805
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00123
+			product	Glutamate--tRNA ligase
+219512	219587	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00124
+			product	tRNA-Val(tac)
+225474	223444	CDS
+			EC_number	6.5.1.2
+			db_xref	COG:COG0272
+			gene	ligA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P15042
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00125
+			product	DNA ligase
+227732	227989	CDS
+			db_xref	COG:COG1925
+			gene	ptsH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA07
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00126
+			product	Phosphocarrier protein HPr
+228040	229758	CDS
+			EC_number	2.7.3.9
+			db_xref	COG:COG1080
+			gene	ptsI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A249
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00127
+			product	Phosphoenolpyruvate-protein phosphotransferase
+229974	230114	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00128
+			product	hypothetical protein
+233515	231791	CDS
+			EC_number	6.1.1.15
+			db_xref	COG:COG0442
+			gene	proS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16659
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00129
+			product	Proline--tRNA ligase
+234441	234563	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00130
+			product	hypothetical protein
+237052	237624	CDS
+			EC_number	3.1.3.82
+			db_xref	COG:COG0241
+			gene	gmhB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63228
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00131
+			product	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+240342	240267	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00132
+			product	tRNA-Thr(cgt)
+244675	244208	CDS
+			EC_number	2.4.2.22
+			db_xref	COG:COG0503
+			gene	gpt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZC05
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00133
+			product	Xanthine phosphoribosyltransferase
+248344	247763	CDS
+			EC_number	5.3.1.28
+			db_xref	COG:COG0279
+			gene	gmhA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63224
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00134
+			product	Phosphoheptose isomerase
+249538	249747	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00135
+			product	hypothetical protein
+251631	250867	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0847
+			gene	dnaQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03007
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00136
+			product	DNA polymerase III subunit epsilon
+251681	252172	CDS
+			EC_number	3.1.26.4
+			db_xref	COG:COG0328
+			gene	rnhA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Y4
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00137
+			product	Ribonuclease HI
+252917	252204	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00138
+			product	hypothetical protein
+256695	256525	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00139
+			product	hypothetical protein
+261631	260156	CDS
+			EC_number	1.1.1.49
+			db_xref	COG:COG0364
+			gene	zwf
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC53
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00140
+			product	Glucose-6-phosphate 1-dehydrogenase
+265424	265570	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00141
+			product	hypothetical protein
+267048	266902	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00142
+			product	hypothetical protein
+267801	269156	CDS
+			gene	mntH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99UZ7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00143
+			product	Divalent metal cation transporter MntH
+271331	270006	CDS
+			EC_number	3.4.24.-
+			db_xref	COG:COG0739
+			gene	mepM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFS9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00144
+			product	Murein DD-endopeptidase MepM
+272372	271344	CDS
+			db_xref	COG:COG4531
+			gene	znuA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39172
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00145
+			product	High-affinity zinc uptake system protein ZnuA
+272374	273099	CDS
+			EC_number	7.2.2.-
+			db_xref	COG:COG1121
+			gene	znuC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9X1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00146
+			product	Zinc import ATP-binding protein ZnuC
+273134	273919	CDS
+			db_xref	COG:COG1108
+			gene	znuB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39832
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00147
+			product	High-affinity zinc uptake system membrane protein ZnuB
+276226	275483	CDS
+			db_xref	COG:COG0217
+			gene	yebC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8A0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00148
+			product	putative transcriptional regulatory protein YebC
+278354	276576	CDS
+			EC_number	6.1.1.12
+			db_xref	COG:COG0173
+			gene	aspS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21889
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00149
+			product	Aspartate--tRNA ligase
+280909	282639	CDS
+			EC_number	6.1.1.19
+			db_xref	COG:COG0018
+			gene	argS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P11875
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00150
+			product	Arginine--tRNA ligase
+284280	282739	CDS
+			db_xref	COG:COG0728
+			gene	murJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37169
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00151
+			product	putative lipid II flippase MurJ
+286870	286712	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00152
+			product	hypothetical protein
+288334	288936	CDS
+			EC_number	1.11.1.15
+			db_xref	COG:COG0450
+			gene	ahpC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21762
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00153
+			product	Alkyl hydroperoxide reductase C
+291089	291014	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00154
+			product	tRNA-Glu(ttc)
+294598	293780	CDS
+			EC_number	1.1.1.25
+			db_xref	COG:COG0169
+			gene	aroE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P15770
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00155
+			product	Shikimate dehydrogenase (NADP(+))
+295187	294624	CDS
+			EC_number	2.7.7.87
+			db_xref	COG:COG0009
+			gene	tsaC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45748
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00156
+			product	Threonylcarbamoyl-AMP synthase
+296196	295726	CDS
+			gene	smg
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00598
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00157
+			product	Protein Smg
+297254	297769	CDS
+			EC_number	3.5.1.88
+			db_xref	COG:COG0242
+			gene	def
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6K3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00158
+			product	Peptide deformylase
+297792	298742	CDS
+			EC_number	2.1.2.9
+			db_xref	COG:COG0223
+			gene	fmt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZJ80
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00159
+			product	Methionyl-tRNA formyltransferase
+299487	299350	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00160
+			product	hypothetical protein
+302587	302432	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00161
+			product	hypothetical protein
+305232	305044	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00162
+			product	hypothetical protein
+306337	306543	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00163
+			product	hypothetical protein
+310785	310561	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00164
+			product	hypothetical protein
+311016	311228	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00165
+			product	hypothetical protein
+311453	312739	CDS
+			EC_number	4.6.1.1
+			db_xref	COG:COG3072
+			gene	cyaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00936
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00166
+			product	Adenylate cyclase
+313219	313446	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00167
+			product	hypothetical protein
+314419	315243	CDS
+			EC_number	5.1.1.7
+			db_xref	COG:COG0253
+			gene	dapF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6K1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00168
+			product	Diaminopimelate epimerase
+316791	317507	CDS
+			EC_number	3.1.3.104
+			db_xref	COG:COG1011
+			gene	yigB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADP0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00169
+			product	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB
+317590	319752	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0210
+			gene	uvrD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03018
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00170
+			product	DNA helicase II
+319713	319853	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00171
+			product	hypothetical protein
+320091	321041	CDS
+			db_xref	COG:COG0598
+			gene	corA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A2R8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00172
+			product	Magnesium transport protein CorA
+324736	324206	CDS
+			gene	ssb
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25762
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00173
+			product	Single-stranded DNA-binding protein
+326828	327097	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00174
+			product	hypothetical protein
+329688	328492	CDS
+			EC_number	2.6.1.57
+			db_xref	COG:COG1448
+			gene	tyrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04693
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00175
+			product	Aromatic-amino-acid aminotransferase
+331217	329823	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0305
+			gene	dnaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACB0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00176
+			product	Replicative DNA helicase
+335249	334182	CDS
+			EC_number	1.3.1.-
+			db_xref	COG:COG0042
+			gene	dusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P32695
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00177
+			product	tRNA-dihydrouridine(20/20a) synthase
+338465	336633	CDS
+			EC_number	2.6.1.16
+			db_xref	COG:COG0449
+			gene	glmS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17169
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00178
+			product	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+340004	338646	CDS
+			gene	glmU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A4TSJ5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00179
+			product	Bifunctional protein GlmU
+342318	342193	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00180
+			product	hypothetical protein
+346701	344803	CDS
+			db_xref	COG:COG0445
+			gene	mnmG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6U3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00181
+			product	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+347558	347109	CDS
+			db_xref	COG:COG0716
+			gene	mioC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03817
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00182
+			product	Protein MioC
+348486	348614	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00183
+			product	hypothetical protein
+359068	359220	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00184
+			product	hypothetical protein
+363444	363647	CDS
+			gene	ymoA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A3X0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00185
+			product	Modulating protein YmoA
+364362	364469	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00186
+			product	hypothetical protein
+368405	366627	CDS
+			EC_number	7.6.2.2
+			db_xref	COG:COG1132
+			gene	mdlB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AAG5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00187
+			product	Multidrug resistance-like ATP-binding protein MdlB
+370166	368409	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1132
+			gene	yheI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O07550
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00188
+			product	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+373713	373537	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00189
+			product	hypothetical protein
+373911	373756	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00190
+			product	hypothetical protein
+376427	374067	CDS
+			EC_number	3.4.21.53
+			db_xref	COG:COG0466
+			gene	lon_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P46067
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00191
+			product	Lon protease
+377905	376634	CDS
+			db_xref	COG:COG1219
+			gene	clpX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6H1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00192
+			product	ATP-dependent Clp protease ATP-binding subunit ClpX
+378683	378060	CDS
+			EC_number	3.4.21.92
+			db_xref	COG:COG0740
+			gene	clpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6G7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00193
+			product	ATP-dependent Clp protease proteolytic subunit
+383646	383831	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00194
+			product	hypothetical protein
+384669	385175	CDS
+			EC_number	2.5.1.141
+			db_xref	COG:COG0109
+			gene	cyoE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEA5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00195
+			product	Protoheme IX farnesyltransferase
+385369	386736	CDS
+			db_xref	COG:COG0477
+			gene	yajR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77726
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00196
+			product	Inner membrane transport protein YajR
+390276	391181	CDS
+			EC_number	2.5.1.10
+			db_xref	COG:COG0142
+			gene	ispA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P22939
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00197
+			product	Farnesyl diphosphate synthase
+391220	393085	CDS
+			EC_number	2.2.1.7
+			db_xref	COG:COG1154
+			gene	dxs
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77488
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00198
+			product	1-deoxy-D-xylulose-5-phosphate synthase
+394928	393960	CDS
+			EC_number	2.7.4.16
+			db_xref	COG:COG0611
+			gene	thiL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGG0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00199
+			product	Thiamine-monophosphate kinase
+395432	395013	CDS
+			db_xref	COG:COG0781
+			gene	nusB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A780
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00200
+			product	Transcription antitermination protein NusB
+395922	395446	CDS
+			EC_number	2.5.1.78
+			db_xref	COG:COG0054
+			gene	ribH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66038
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00201
+			product	6,7-dimethyl-8-ribityllumazine synthase
+397145	396009	CDS
+			db_xref	COG:COG0117
+			gene	ribD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25539
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00202
+			product	Riboflavin biosynthesis protein RibD
+401863	401345	CDS
+			EC_number	4.2.1.59
+			db_xref	COG:COG0764
+			gene	fabA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6Q3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00203
+			product	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+403585	401945	CDS
+			EC_number	3.4.21.53
+			gene	lon_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01973
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00204
+			product	Lon protease
+410832	409483	CDS
+			EC_number	6.3.4.14
+			db_xref	COG:COG0439
+			gene	accC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24182
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00205
+			product	Biotin carboxylase
+411309	410845	CDS
+			db_xref	COG:COG0511
+			gene	accB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABD8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00206
+			product	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+411782	411327	CDS
+			EC_number	4.2.1.10
+			db_xref	COG:COG0757
+			gene	aroQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZAX1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00207
+			product	3-dehydroquinate dehydratase
+412142	411891	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00208
+			product	hypothetical protein
+413103	412981	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00209
+			product	hypothetical protein
+413859	414902	CDS
+			db_xref	COG:COG1077
+			gene	mreB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9X4
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00210
+			product	Cell shape-determining protein MreB
+415001	416251	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00211
+			product	hypothetical protein
+416308	416739	CDS
+			db_xref	COG:COG2891
+			gene	mreD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABH4
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00212
+			product	Rod shape-determining protein MreD
+421489	421743	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00213
+			product	hypothetical protein
+423584	423387	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00214
+			product	hypothetical protein
+424360	424223	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00215
+			product	hypothetical protein
+425860	425408	CDS
+			EC_number	3.6.1.23
+			db_xref	COG:COG0756
+			gene	dut
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06968
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00216
+			product	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+427866	428111	CDS
+			db_xref	COG:COG0227
+			gene	rpmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7M2
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00217
+			product	50S ribosomal protein L28
+428128	428295	CDS
+			db_xref	COG:COG0267
+			gene	rpmG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7N9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00218
+			product	50S ribosomal protein L33
+428398	429207	CDS
+			EC_number	3.2.2.23
+			db_xref	COG:COG0266
+			gene	mutM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P05523
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00219
+			product	Formamidopyrimidine-DNA glycosylase
+429721	429233	CDS
+			EC_number	2.7.7.3
+			db_xref	COG:COG0669
+			gene	coaD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6I6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00220
+			product	Phosphopantetheine adenylyltransferase
+430500	429721	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00221
+			product	hypothetical protein
+431770	430505	CDS
+			EC_number	2.4.99.12
+			db_xref	COG:COG1519
+			gene	waaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC75
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00222
+			product	3-deoxy-D-manno-octulosonic acid transferase
+433089	431962	CDS
+			EC_number	2.4.-.-
+			gene	rfaG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25740
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00223
+			product	Lipopolysaccharide core biosynthesis protein RfaG
+435651	435439	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00224
+			product	hypothetical protein
+436289	436194	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00225
+			product	hypothetical protein
+440990	440022	CDS
+			EC_number	2.-.-.-
+			db_xref	COG:COG0859
+			gene	rfaC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24173
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00226
+			product	Lipopolysaccharide heptosyltransferase 1
+445569	446462	CDS
+			EC_number	2.4.2.19
+			db_xref	COG:COG0157
+			gene	nadC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30012
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00227
+			product	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+449445	448402	CDS
+			EC_number	1.7.1.7
+			db_xref	COG:COG0516
+			gene	guaC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60560
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00228
+			product	GMP reductase
+449634	450239	CDS
+			EC_number	2.7.1.24
+			db_xref	COG:COG0237
+			gene	coaE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6I9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00229
+			product	Dephospho-CoA kinase
+453795	453707	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00230
+			product	tRNA-Ser(cga)
+454832	454907	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00231
+			product	tRNA-Asn(gtt)
+457833	457009	CDS
+			db_xref	COG:COG1076
+			gene	djlA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31680
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00232
+			product	Co-chaperone protein DjlA
+458054	460372	CDS
+			db_xref	COG:COG1452
+			gene	lptD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZIK3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00233
+			product	LPS-assembly protein LptD
+460438	461733	CDS
+			EC_number	5.2.1.8
+			db_xref	COG:COG0760
+			gene	surA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABZ6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00234
+			product	Chaperone SurA
+461723	462715	CDS
+			EC_number	1.1.1.262
+			db_xref	COG:COG1995
+			gene	pdxA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P58719
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00235
+			product	4-hydroxythreonine-4-phosphate dehydrogenase
+462708	463526	CDS
+			EC_number	2.1.1.182
+			db_xref	COG:COG0030
+			gene	rsmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06992
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00236
+			product	Ribosomal RNA small subunit methyltransferase A
+463540	463917	CDS
+			db_xref	COG:COG2967
+			gene	apaG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9KUS3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00237
+			product	Protein ApaG
+463920	464768	CDS
+			EC_number	3.6.1.41
+			db_xref	COG:COG0639
+			gene	apaH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q83SQ2
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00238
+			product	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+465297	464758	CDS
+			EC_number	1.5.1.3
+			db_xref	COG:COG0262
+			gene	folA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABQ4
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00239
+			product	Dihydrofolate reductase
+467427	467215	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00240
+			product	hypothetical protein
+468613	468828	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00241
+			product	hypothetical protein
+469927	469580	CDS
+			db_xref	COG:COG0335
+			gene	rplS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7K6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00242
+			product	50S ribosomal protein L19
+470751	469996	CDS
+			EC_number	2.1.1.228
+			db_xref	COG:COG0336
+			gene	trmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A873
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00243
+			product	tRNA (guanine-N(1)-)-methyltransferase
+471347	470790	CDS
+			db_xref	COG:COG0806
+			gene	rimM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7X6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00244
+			product	Ribosome maturation factor RimM
+471613	471371	CDS
+			db_xref	COG:COG0228
+			gene	rpsP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7T3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00245
+			product	30S ribosomal protein S16
+473093	471732	CDS
+			db_xref	COG:COG0541
+			gene	ffh
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGD7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00246
+			product	Signal recognition particle protein
+473162	473323	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00247
+			product	hypothetical protein
+478120	476552	CDS
+			EC_number	6.3.2.2
+			db_xref	COG:COG2918
+			gene	gshA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6W9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00248
+			product	Glutamate--cysteine ligase
+480966	480145	CDS
+			EC_number	1.17.1.8
+			db_xref	COG:COG0289
+			gene	dapB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04036
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00249
+			product	4-hydroxy-tetrahydrodipicolinate reductase
+483019	482069	CDS
+			EC_number	1.17.7.4
+			db_xref	COG:COG0761
+			gene	ispH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62623
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00250
+			product	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+483091	483291	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00251
+			product	hypothetical protein
+483981	483484	CDS
+			EC_number	3.4.23.36
+			db_xref	COG:COG0597
+			gene	lspA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00804
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00252
+			product	Lipoprotein signal peptidase
+486866	483981	CDS
+			EC_number	6.1.1.5
+			db_xref	COG:COG0060
+			gene	ileS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00956
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00253
+			product	Isoleucine--tRNA ligase
+487773	486832	CDS
+			db_xref	COG:COG0196
+			gene	ribF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG40
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00254
+			product	Bifunctional riboflavin kinase/FMN adenylyltransferase
+487976	487716	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00255
+			product	hypothetical protein
+488354	488617	CDS
+			db_xref	COG:COG0268
+			gene	rpsT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7U7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00256
+			product	30S ribosomal protein S20
+489964	488765	CDS
+			db_xref	COG:COG3004
+			gene	nhaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O85187
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00257
+			product	Na(+)/H(+) antiporter NhaA
+491204	490089	CDS
+			db_xref	COG:COG0484
+			gene	dnaJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08622
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00258
+			product	Chaperone protein DnaJ
+493232	491322	CDS
+			db_xref	COG:COG0443
+			gene	dnaK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6Y8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00259
+			product	Chaperone protein DnaK
+496159	495206	CDS
+			EC_number	2.2.1.2
+			db_xref	COG:COG0176
+			gene	talB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A870
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00260
+			product	Transaldolase B
+501407	500016	CDS
+			db_xref	COG:COG0460
+			gene	thrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00561
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00261
+			product	Bifunctional aspartokinase/homoserine dehydrogenase 1
+503149	503340	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00262
+			product	hypothetical protein
+505544	505368	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00263
+			product	hypothetical protein
+506716	506925	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00264
+			product	hypothetical protein
+510419	509196	CDS
+			EC_number	5.4.2.7
+			db_xref	COG:COG1015
+			gene	deoB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6K6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00265
+			product	Phosphopentomutase
+510735	510926	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00266
+			product	hypothetical protein
+511255	511151	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00267
+			product	hypothetical protein
+511956	512102	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00268
+			product	hypothetical protein
+517499	517365	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00269
+			product	hypothetical protein
+518837	518445	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG3050
+			gene	holD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28632
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00270
+			product	DNA polymerase III subunit psi
+518957	519973	CDS
+			EC_number	2.1.1.172
+			db_xref	COG:COG2813
+			gene	rsmC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39406
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00271
+			product	Ribosomal RNA small subunit methyltransferase C
+524684	523962	CDS
+			EC_number	3.6.1.54
+			db_xref	COG:COG2908
+			gene	lpxH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P43341
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00272
+			product	UDP-2,3-diacylglucosamine hydrolase
+525042	524791	CDS
+			EC_number	5.2.1.8
+			db_xref	COG:COG0652
+			gene	ppiB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23869
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00273
+			product	Peptidyl-prolyl cis-trans isomerase B
+526766	528151	CDS
+			EC_number	6.1.1.16
+			db_xref	COG:COG0215
+			gene	cysS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21888
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00274
+			product	Cysteine--tRNA ligase
+529356	528499	CDS
+			db_xref	COG:COG0190
+			gene	folD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24186
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00275
+			product	Bifunctional protein FolD protein
+529535	529611	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00276
+			product	tRNA-Arg(tct)
+533932	534057	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00277
+			product	hypothetical protein
+535636	535463	CDS
+			EC_number	5.6.2.2
+			db_xref	COG:COG0187
+			gene	parE_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A2I5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00278
+			product	DNA topoisomerase 4 subunit B
+537144	536902	CDS
+			EC_number	5.6.2.2
+			gene	parE_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00938
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00279
+			product	DNA topoisomerase 4 subunit B
+539703	539071	CDS
+			EC_number	3.6.1.13
+			gene	nudF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q93K97
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00280
+			product	ADP-ribose pyrophosphatase
+544742	544098	CDS
+			EC_number	4.1.99.12
+			db_xref	COG:COG0108
+			gene	ribB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZI56
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00281
+			product	3,4-dihydroxy-2-butanone 4-phosphate synthase
+545151	545399	CDS
+			db_xref	COG:COG2960
+			gene	ubiK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZLY9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00282
+			product	Ubiquinone biosynthesis accessory factor UbiK
+547272	545707	CDS
+			db_xref	COG:COG2870
+			gene	hldE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P76658
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00283
+			product	Bifunctional protein HldE
+550617	551864	CDS
+			db_xref	COG:COG0617
+			gene	cca
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06961
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00284
+			product	Multifunctional CCA protein
+554070	553711	CDS
+			EC_number	4.1.2.25
+			db_xref	COG:COG1539
+			gene	folB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC16
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00285
+			product	Dihydroneopterin aldolase
+554173	554775	CDS
+			EC_number	2.3.1.15
+			db_xref	COG:COG0344
+			gene	plsY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60782
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00286
+			product	putative glycerol-3-phosphate acyltransferase
+555817	554798	CDS
+			EC_number	2.3.1.234
+			db_xref	COG:COG0533
+			gene	tsaD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P40731
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00287
+			product	tRNA N6-adenosine threonylcarbamoyltransferase
+556265	556480	CDS
+			db_xref	COG:COG0828
+			gene	rpsU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68679
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00288
+			product	30S ribosomal protein S21
+556614	558377	CDS
+			EC_number	2.7.7.-
+			db_xref	COG:COG0358
+			gene	dnaG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABS5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00289
+			product	DNA primase
+558464	560356	CDS
+			db_xref	COG:COG0568
+			gene	rpoD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00579
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00290
+			product	RNA polymerase sigma factor RpoD
+561039	561112	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00291
+			product	tRNA-Met(cat)
+564494	564321	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00292
+			product	hypothetical protein
+568109	567969	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00293
+			product	hypothetical protein
+569841	569768	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00294
+			product	tRNA-Arg(cct)
+572305	572093	CDS
+			db_xref	COG:COG1278
+			gene	cspG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A978
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00295
+			product	Cold shock-like protein CspG
+573921	573811	rRNA
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00296
+			product	5S ribosomal RNA
+			score	4.3e-11
+576951	573976	rRNA
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00297
+			product	23S ribosomal RNA
+			score	0
+577377	577302	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00298
+			product	tRNA-Ala(tgc)
+577624	577548	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00299
+			product	tRNA-Ile(gat)
+579240	577696	rRNA
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00300
+			product	16S ribosomal RNA
+			score	0
+580609	579758	CDS
+			EC_number	5.1.1.3
+			db_xref	COG:COG0796
+			gene	murI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P22634
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00301
+			product	Glutamate racemase
+586936	587058	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00302
+			product	hypothetical protein
+587934	587554	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00303
+			product	hypothetical protein
+588609	588472	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00304
+			product	hypothetical protein
+591019	590804	CDS
+			db_xref	COG:COG0254
+			gene	rpmE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7M9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00305
+			product	50S ribosomal protein L31
+591181	593385	CDS
+			EC_number	3.6.4.-
+			db_xref	COG:COG1198
+			gene	priA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17888
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00306
+			product	Primosomal protein N'
+595485	595733	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00307
+			product	hypothetical protein
+597052	599046	CDS
+			EC_number	2.2.1.1
+			db_xref	COG:COG0021
+			gene	tktA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27302
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00308
+			product	Transketolase 1
+600465	600007	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0816
+			gene	yqgF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8I1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00309
+			product	Putative pre-16S rRNA nuclease
+600763	600593	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00310
+			product	hypothetical protein
+601981	601022	CDS
+			EC_number	6.3.2.3
+			db_xref	COG:COG0189
+			gene	gshB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04425
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00311
+			product	Glutathione synthetase
+604233	602836	CDS
+			gene	galP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEP1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00312
+			product	Galactose-proton symporter
+606104	604950	CDS
+			EC_number	2.5.1.6
+			db_xref	COG:COG0192
+			gene	metK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A817
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00313
+			product	S-adenosylmethionine synthase
+606792	606598	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00314
+			product	hypothetical protein
+609114	610277	CDS
+			EC_number	2.7.2.3
+			db_xref	COG:COG0126
+			gene	pgk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A799
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00315
+			product	Phosphoglycerate kinase
+610402	611478	CDS
+			EC_number	4.1.2.13
+			db_xref	COG:COG0191
+			gene	fbaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AB71
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00316
+			product	Fructose-bisphosphate aldolase class 2
+611828	612679	CDS
+			db_xref	COG:COG0668
+			gene	mscS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C0S1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00317
+			product	Small-conductance mechanosensitive channel
+614045	614701	CDS
+			EC_number	5.3.1.6
+			db_xref	COG:COG0120
+			gene	rpiA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Z0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00318
+			product	Ribose-5-phosphate isomerase A
+618446	618673	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00319
+			product	hypothetical protein
+618933	619106	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00320
+			product	hypothetical protein
+619110	620288	CDS
+			EC_number	1.14.13.-
+			db_xref	COG:COG0654
+			gene	ubiH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25534
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00321
+			product	2-octaprenyl-6-methoxyphenol hydroxylase
+620322	621539	CDS
+			EC_number	1.14.13.240
+			db_xref	COG:COG0654
+			gene	ubiI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25535
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00322
+			product	2-octaprenylphenol hydroxylase
+622056	621838	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00323
+			product	hypothetical protein
+622354	622548	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00324
+			product	hypothetical protein
+624323	623340	CDS
+			db_xref	COG:COG0354
+			gene	ygfZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADE8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00325
+			product	tRNA-modifying protein YgfZ
+627232	628329	CDS
+			db_xref	COG:COG1186
+			gene	prfB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07012
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00326
+			product	Peptide chain release factor RF2
+628339	629877	CDS
+			EC_number	6.1.1.6
+			db_xref	COG:COG1190
+			gene	lysS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8N3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00327
+			product	Lysine--tRNA ligase
+632337	632173	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00328
+			product	hypothetical protein
+637343	637504	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00329
+			product	hypothetical protein
+640635	641741	CDS
+			gene	ompC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q48473
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00330
+			product	Outer membrane porin C
+645863	646057	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00331
+			product	hypothetical protein
+646020	646301	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00332
+			product	hypothetical protein
+648028	649155	CDS
+			EC_number	6.3.2.4
+			db_xref	COG:COG1181
+			gene	ddlA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1F0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00333
+			product	D-alanine--D-alanine ligase A
+650073	650183	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00334
+			product	hypothetical protein
+656307	656561	CDS
+			db_xref	COG:COG0425
+			gene	tusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A890
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00335
+			product	Sulfur carrier protein TusA
+657970	657818	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00336
+			product	hypothetical protein
+658757	658074	CDS
+			EC_number	2.1.1.171
+			db_xref	COG:COG0742
+			gene	rsmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADX9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00337
+			product	Ribosomal RNA small subunit methyltransferase D
+658895	660037	CDS
+			gene	ftsY
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00920
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00338
+			product	Signal recognition particle receptor FtsY
+660376	660633	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00339
+			product	hypothetical protein
+661235	662095	CDS
+			db_xref	COG:COG0568
+			gene	rpoH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGB3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00340
+			product	RNA polymerase sigma factor RpoH
+666422	666610	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00341
+			product	hypothetical protein
+667917	667992	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00342
+			product	tRNA-Pro(ggg)
+670982	671128	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00343
+			product	hypothetical protein
+671903	671745	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00344
+			product	hypothetical protein
+677304	674086	CDS
+			EC_number	3.1.26.12
+			gene	rne
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00970
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00345
+			product	Ribonuclease E
+677864	678832	CDS
+			EC_number	5.4.99.24
+			db_xref	COG:COG0564
+			gene	rluC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA39
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00346
+			product	Ribosomal large subunit pseudouridine synthase C
+679543	679722	CDS
+			db_xref	COG:COG0333
+			gene	rpmF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7N4
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00347
+			product	50S ribosomal protein L32
+679994	679719	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00348
+			product	hypothetical protein
+680701	681654	CDS
+			EC_number	2.3.1.180
+			db_xref	COG:COG0332
+			gene	fabH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZFT7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00349
+			product	3-oxoacyl-[acyl-carrier-protein] synthase 3
+681673	682602	CDS
+			EC_number	2.3.1.39
+			db_xref	COG:COG0331
+			gene	fabD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O85140
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00350
+			product	Malonyl CoA-acyl carrier protein transacylase
+682616	683350	CDS
+			EC_number	1.1.1.100
+			gene	fabG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEK2
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00351
+			product	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+683501	683737	CDS
+			gene	acpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q0T5U2
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00352
+			product	Acyl carrier protein
+683817	685058	CDS
+			EC_number	2.3.1.179
+			db_xref	COG:COG0304
+			gene	fabF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AAI5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00353
+			product	3-oxoacyl-[acyl-carrier-protein] synthase 2
+686685	687326	CDS
+			EC_number	2.7.4.9
+			db_xref	COG:COG0125
+			gene	tmk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O69169
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00354
+			product	Thymidylate kinase
+687323	688318	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0470
+			gene	holB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28631
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00355
+			product	DNA polymerase III subunit delta'
+688341	689138	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0084
+			gene	ycfH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFQ7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00356
+			product	putative metal-dependent hydrolase YcfH
+690944	691291	CDS
+			EC_number	3.9.1.-
+			db_xref	COG:COG0537
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P44956
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00357
+			product	Purine nucleoside phosphoramidase
+691552	692109	CDS
+			db_xref	COG:COG3417
+			gene	lpoB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AB38
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00358
+			product	Penicillin-binding protein activator LpoB
+692264	692959	CDS
+			EC_number	2.7.1.89
+			db_xref	COG:COG0510
+			gene	thiK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75948
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00359
+			product	Thiamine kinase
+697555	697896	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00360
+			product	hypothetical protein
+698490	698353	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00361
+			product	hypothetical protein
+699928	700404	CDS
+			db_xref	COG:COG0745
+			gene	cpxR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AE88
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00362
+			product	Transcriptional regulatory protein CpxR
+700401	700490	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00363
+			product	hypothetical protein
+700938	701054	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00364
+			product	hypothetical protein
+701111	701281	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00365
+			product	hypothetical protein
+704018	703002	CDS
+			EC_number	1.1.1.94
+			db_xref	COG:COG0240
+			gene	gpsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q83BJ0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00366
+			product	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+705089	705304	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00367
+			product	hypothetical protein
+710194	710295	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00368
+			product	hypothetical protein
+710267	710473	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00369
+			product	hypothetical protein
+713004	713336	CDS
+			db_xref	COG:COG1862
+			gene	yajC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADZ7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00370
+			product	Sec translocon accessory complex subunit YajC
+713363	715210	CDS
+			db_xref	COG:COG0342
+			gene	secD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG90
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00371
+			product	Protein translocase subunit SecD
+715223	716170	CDS
+			db_xref	COG:COG0341
+			gene	secF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG93
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00372
+			product	Protein translocase subunit SecF
+720000	720158	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00373
+			product	hypothetical protein
+723390	723599	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00374
+			product	hypothetical protein
+724593	724778	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00375
+			product	hypothetical protein
+724896	726194	CDS
+			EC_number	6.3.4.4
+			db_xref	COG:COG0104
+			gene	purA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7D4
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00376
+			product	Adenylosuccinate synthetase
+726603	728909	CDS
+			EC_number	3.1.13.1
+			db_xref	COG:COG0557
+			gene	rnr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21499
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00377
+			product	Ribonuclease R
+728994	729725	CDS
+			EC_number	2.1.1.185
+			db_xref	COG:COG0566
+			gene	rlmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63177
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00378
+			product	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+730451	730840	CDS
+			db_xref	COG:COG0360
+			gene	rpsF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02358
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00379
+			product	30S ribosomal protein S6
+730856	731173	CDS
+			db_xref	COG:COG2965
+			gene	priB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07013
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00380
+			product	Primosomal replication protein N
+731178	731405	CDS
+			db_xref	COG:COG0238
+			gene	rpsR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7T7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00381
+			product	30S ribosomal protein S18
+731444	731896	CDS
+			db_xref	COG:COG0359
+			gene	rplI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7R1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00382
+			product	50S ribosomal protein L9
+736378	736560	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00383
+			product	hypothetical protein
+737017	738816	CDS
+			db_xref	COG:COG0729
+			gene	tamA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:D2TN56
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00384
+			product	Translocation and assembly module subunit TamA
+738813	742643	CDS
+			db_xref	COG:COG2911
+			gene	tamB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39321
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00385
+			product	Translocation and assembly module subunit TamB
+743567	743037	CDS
+			EC_number	3.6.1.1
+			db_xref	COG:COG0221
+			gene	ppa
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7A9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00386
+			product	Inorganic pyrophosphatase
+747212	746241	CDS
+			EC_number	2.5.1.90
+			db_xref	COG:COG0142
+			gene	ispB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AD57
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00387
+			product	Octaprenyl diphosphate synthase
+747455	747778	CDS
+			db_xref	COG:COG0261
+			gene	rplU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG48
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00388
+			product	50S ribosomal protein L21
+747794	748051	CDS
+			db_xref	COG:COG0211
+			gene	rpmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7L8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00389
+			product	50S ribosomal protein L27
+748272	748090	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00390
+			product	hypothetical protein
+748772	749812	CDS
+			EC_number	3.6.5.-
+			db_xref	COG:COG0536
+			gene	obgE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42641
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00391
+			product	GTPase ObgE/CgtA
+752961	753437	CDS
+			db_xref	COG:COG0782
+			gene	greA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6W5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00392
+			product	Transcription elongation factor GreA
+753969	754598	CDS
+			EC_number	2.1.1.166
+			db_xref	COG:COG0293
+			gene	rlmE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C0R7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00393
+			product	Ribosomal RNA large subunit methyltransferase E
+754654	756558	CDS
+			EC_number	3.4.24.-
+			db_xref	COG:COG0465
+			gene	ftsH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AAI3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00394
+			product	ATP-dependent zinc metalloprotease FtsH
+756706	757551	CDS
+			EC_number	2.5.1.15
+			db_xref	COG:COG0294
+			gene	folP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC13
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00395
+			product	Dihydropteroate synthase
+757548	758888	CDS
+			EC_number	5.4.2.10
+			db_xref	COG:COG1109
+			gene	glmM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31120
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00396
+			product	Phosphoglucosamine mutase
+759134	759469	CDS
+			db_xref	COG:COG1314
+			gene	secG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG99
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00397
+			product	Protein-export membrane protein SecG
+759526	759612	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00398
+			product	tRNA-Leu(gag)
+760380	761867	CDS
+			db_xref	COG:COG0195
+			gene	nusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFF6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00399
+			product	Transcription termination/antitermination protein NusA
+761893	764580	CDS
+			db_xref	COG:COG0532
+			gene	infB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A705
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00400
+			product	Translation initiation factor IF-2
+764644	765060	CDS
+			db_xref	COG:COG0858
+			gene	rbfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7G2
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00401
+			product	30S ribosome-binding factor
+765892	766161	CDS
+			db_xref	COG:COG0184
+			gene	rpsO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADZ4
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00402
+			product	30S ribosomal protein S15
+766436	768553	CDS
+			EC_number	2.7.7.8
+			db_xref	COG:COG1185
+			gene	pnp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P05055
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00403
+			product	Polyribonucleotide nucleotidyltransferase
+769585	771348	CDS
+			EC_number	3.6.4.13
+			db_xref	COG:COG0513
+			gene	deaD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9P6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00404
+			product	ATP-dependent RNA helicase DeaD
+773091	773279	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00405
+			product	hypothetical protein
+774482	774264	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00406
+			product	hypothetical protein
+783947	784156	CDS
+			gene	cspC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:E0J500
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00407
+			product	Cold shock-like protein CspC
+785986	785135	CDS
+			db_xref	COG:COG3716
+			gene	manZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69805
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00408
+			product	PTS system mannose-specific EIID component
+786802	786002	CDS
+			db_xref	COG:COG3715
+			gene	manY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69801
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00409
+			product	PTS system mannose-specific EIIC component
+787860	786859	CDS
+			EC_number	2.7.1.191
+			db_xref	COG:COG2893
+			gene	manX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69797
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00410
+			product	PTS system mannose-specific EIIAB component
+788490	790031	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEC0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00411
+			note	UPF0053 inner membrane protein YoaE
+			product	hypothetical protein
+794105	793881	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00412
+			product	hypothetical protein
+794725	795438	CDS
+			db_xref	COG:COG1214
+			gene	tsaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7CQE0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00413
+			product	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+795500	795625	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00414
+			product	hypothetical protein
+797244	796975	CDS
+			db_xref	COG:COG0851
+			gene	minE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A734
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00415
+			product	Cell division topological specificity factor
+798060	797248	CDS
+			db_xref	COG:COG2894
+			gene	minD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEZ3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00416
+			product	Septum site-determining protein MinD
+798765	798082	CDS
+			db_xref	COG:COG0850
+			gene	minC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P18196
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00417
+			product	Septum site-determining protein MinC
+803752	803162	CDS
+			db_xref	COG:COG1495
+			gene	dsbB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6M2
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00418
+			product	Disulfide bond formation protein B
+807797	808867	CDS
+			EC_number	5.1.1.1
+			db_xref	COG:COG0787
+			gene	dadX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29012
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00419
+			product	Alanine racemase, catabolic
+812279	810612	CDS
+			db_xref	COG:COG3263
+			gene	cvrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P76007
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00420
+			product	K(+)/H(+) antiporter NhaP2
+813435	813617	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00421
+			product	hypothetical protein
+819160	818162	CDS
+			EC_number	1.2.1.12
+			db_xref	COG:COG0057
+			gene	gapA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9B2
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00422
+			product	Glyceraldehyde-3-phosphate dehydrogenase A
+823730	821877	CDS
+			EC_number	3.4.21.-
+			db_xref	COG:COG0616
+			gene	sppA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08395
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00423
+			product	Protease 4
+824288	824407	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00424
+			product	hypothetical protein
+827327	826521	CDS
+			EC_number	3.1.11.2
+			db_xref	COG:COG0708
+			gene	xthA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09030
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00425
+			product	Exodeoxyribonuclease III
+829425	829207	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00426
+			product	hypothetical protein
+830251	831156	CDS
+			EC_number	2.7.7.9
+			db_xref	COG:COG1210
+			gene	galU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEP6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00427
+			product	UTP--glucose-1-phosphate uridylyltransferase
+831210	832553	CDS
+			EC_number	1.1.1.22
+			db_xref	COG:COG1004
+			gene	tuaD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32271
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00428
+			product	UDP-glucose 6-dehydrogenase TuaD
+832563	833570	CDS
+			EC_number	5.1.3.7
+			gene	wbgU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7BJX9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00429
+			product	UDP-N-acetylglucosamine 4-epimerase
+836003	835596	CDS
+			gene	hns
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0DOA5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00430
+			product	DNA-binding protein H-NS
+839033	839194	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00431
+			product	hypothetical protein
+840971	839511	CDS
+			EC_number	2.7.8.-
+			db_xref	COG:COG1502
+			gene	clsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6H8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00432
+			product	Cardiolipin synthase A
+844486	843731	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21365
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00433
+			note	UPF0259 membrane protein YciC
+			product	hypothetical protein
+847004	847138	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00434
+			product	hypothetical protein
+847721	850465	CDS
+			EC_number	5.6.2.1
+			db_xref	COG:COG0550
+			gene	topA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06612
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00435
+			product	DNA topoisomerase 1
+851562	851732	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00436
+			product	hypothetical protein
+856063	855464	CDS
+			EC_number	3.5.4.25
+			db_xref	COG:COG0807
+			gene	ribA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7I7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00437
+			product	GTP cyclohydrolase-2
+862023	860086	CDS
+			EC_number	3.1.13.1
+			db_xref	COG:COG4776
+			gene	rnb
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30850
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00438
+			product	Exoribonuclease 2
+866052	865279	CDS
+			EC_number	1.3.1.9
+			db_xref	COG:COG0623
+			gene	fabI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16657
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00439
+			product	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+868247	868438	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00440
+			product	hypothetical protein
+869468	869334	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00441
+			product	hypothetical protein
+869964	870098	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00442
+			product	hypothetical protein
+878737	878862	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00443
+			product	hypothetical protein
+880864	881901	CDS
+			EC_number	1.3.1.98
+			db_xref	COG:COG0812
+			gene	murB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08373
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00444
+			product	UDP-N-acetylenolpyruvoylglucosamine reductase
+881898	882863	CDS
+			EC_number	6.3.4.15
+			db_xref	COG:COG0340
+			gene	birA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06709
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00445
+			product	Bifunctional ligase/repressor BirA
+884922	883972	CDS
+			EC_number	2.7.1.33
+			db_xref	COG:COG1072
+			gene	coaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6I3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00446
+			product	Pantothenate kinase
+885340	885415	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00447
+			product	tRNA-Thr(tgt)
+885426	885510	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00448
+			product	tRNA-Tyr(gta)
+885687	885760	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00449
+			product	tRNA-Gly(tcc)
+885770	885845	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00450
+			product	tRNA-Thr(ggt)
+887389	887772	CDS
+			db_xref	COG:COG0690
+			gene	secE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG96
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00451
+			product	Protein translocase subunit SecE
+887774	888328	CDS
+			db_xref	COG:COG0250
+			gene	nusG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFG0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00452
+			product	Transcription termination/antitermination protein NusG
+888479	888907	CDS
+			db_xref	COG:COG0080
+			gene	rplK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7J7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00453
+			product	50S ribosomal protein L11
+888915	889619	CDS
+			db_xref	COG:COG0081
+			gene	rplA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7L0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00454
+			product	50S ribosomal protein L1
+889921	890418	CDS
+			db_xref	COG:COG0244
+			gene	rplJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7J3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00455
+			product	50S ribosomal protein L10
+890485	890853	CDS
+			db_xref	COG:COG0222
+			gene	rplL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7K2
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00456
+			product	50S ribosomal protein L7/L12
+891175	895203	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG0085
+			gene	rpoB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8V2
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00457
+			product	DNA-directed RNA polymerase subunit beta
+895297	899517	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG0086
+			gene	rpoC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8T7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00458
+			product	DNA-directed RNA polymerase subunit beta'
+899952	900140	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00459
+			product	hypothetical protein
+902784	903128	CDS
+			db_xref	COG:COG0278
+			gene	grxD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC69
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00460
+			product	Glutaredoxin 4
+903986	903282	CDS
+			EC_number	3.1.13.-
+			db_xref	COG:COG0847
+			gene	rnt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30014
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00461
+			product	Ribonuclease T
+904901	905389	CDS
+			gene	slyA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:B1JJ73
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00462
+			product	Transcriptional regulator SlyA
+907086	906913	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00463
+			product	hypothetical protein
+907104	907754	CDS
+			EC_number	1.4.3.5
+			db_xref	COG:COG0259
+			gene	pdxH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFI7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00464
+			product	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+907867	909189	CDS
+			EC_number	6.1.1.1
+			db_xref	COG:COG0162
+			gene	tyrS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGJ9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00465
+			product	Tyrosine--tRNA ligase
+909416	909661	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00466
+			product	hypothetical protein
+911457	909976	CDS
+			db_xref	COG:COG3104
+			gene	dtpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZPM6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00467
+			product	Dipeptide and tripeptide permease A
+912666	912028	CDS
+			EC_number	4.2.99.18
+			db_xref	COG:COG0177
+			gene	nth
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AB83
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00468
+			product	Endonuclease III
+912948	913328	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00469
+			product	hypothetical protein
+920177	919086	CDS
+			db_xref	COG:COG0012
+			gene	ychF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABU2
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00470
+			product	Ribosome-binding ATPase YchF
+920878	920303	CDS
+			EC_number	3.1.1.29
+			db_xref	COG:COG0193
+			gene	pth
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7D1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00471
+			product	Peptidyl-tRNA hydrolase
+922484	921534	CDS
+			EC_number	2.7.6.1
+			db_xref	COG:COG0462
+			gene	prs
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1V6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00472
+			product	Ribose-phosphate pyrophosphokinase
+923457	922591	CDS
+			EC_number	2.7.1.148
+			db_xref	COG:COG1947
+			gene	ispE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62615
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00473
+			product	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+924080	923457	CDS
+			db_xref	COG:COG3017
+			gene	lolB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P61320
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00474
+			product	Outer-membrane lipoprotein LolB
+925224	926294	CDS
+			db_xref	COG:COG0216
+			gene	prfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7I0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00475
+			product	Peptide chain release factor RF1
+926294	927133	CDS
+			EC_number	2.1.1.297
+			db_xref	COG:COG2890
+			gene	prmC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACC1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00476
+			product	Release factor glutamine methyltransferase
+927876	928730	CDS
+			EC_number	2.5.1.55
+			db_xref	COG:COG2877
+			gene	kdsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A715
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00477
+			product	2-dehydro-3-deoxyphosphooctonate aldolase
+929563	929697	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00478
+			product	hypothetical protein
+931193	931065	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00479
+			product	hypothetical protein
+933133	932315	CDS
+			EC_number	6.3.1.5
+			db_xref	COG:COG0171
+			gene	nadE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZPU5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00480
+			product	NH(3)-dependent NAD(+) synthetase
+938105	937470	CDS
+			EC_number	2.5.1.9
+			db_xref	COG:COG0307
+			gene	ribC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFU8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00481
+			product	Riboflavin synthase
+940856	940932	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00482
+			product	tRNA-Val(gac)
+941455	942867	CDS
+			EC_number	2.7.1.40
+			db_xref	COG:COG0469
+			gene	pykF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AD61
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00483
+			product	Pyruvate kinase I
+945149	944733	CDS
+			db_xref	COG:COG2166
+			gene	sufE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZPQ1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00484
+			product	Cysteine desulfuration protein SufE
+946398	945175	CDS
+			EC_number	2.8.1.7
+			db_xref	COG:COG0520
+			gene	sufS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77444
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00485
+			product	Cysteine desulfurase
+947680	946382	CDS
+			db_xref	COG:COG0719
+			gene	sufD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77689
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00486
+			product	FeS cluster assembly protein SufD
+948401	947655	CDS
+			db_xref	COG:COG0396
+			gene	sufC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77499
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00487
+			product	putative ATP-dependent transporter SufC
+950014	948467	CDS
+			db_xref	COG:COG0719
+			gene	sufB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77522
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00488
+			product	FeS cluster assembly protein SufB
+950360	949986	CDS
+			db_xref	COG:COG0316
+			gene	sufA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77667
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00489
+			product	Protein SufA
+951218	951099	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00490
+			product	hypothetical protein
+952773	952639	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00491
+			product	hypothetical protein
+955410	955631	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00492
+			product	hypothetical protein
+957004	956708	CDS
+			db_xref	COG:COG0776
+			gene	ihfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6X7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00493
+			product	Integration host factor subunit alpha
+959399	957009	CDS
+			EC_number	6.1.1.20
+			db_xref	COG:COG0072
+			gene	pheT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07395
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00494
+			product	Phenylalanine--tRNA ligase beta subunit
+960398	959415	CDS
+			EC_number	6.1.1.20
+			db_xref	COG:COG0016
+			gene	pheS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08312
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00495
+			product	Phenylalanine--tRNA ligase alpha subunit
+961060	960704	CDS
+			db_xref	COG:COG0292
+			gene	rplT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7L3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00496
+			product	50S ribosomal protein L20
+961303	961106	CDS
+			db_xref	COG:COG0291
+			gene	rpmI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Q1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00497
+			product	50S ribosomal protein L35
+961896	961384	CDS
+			db_xref	COG:COG0290
+			gene	infC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A707
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00498
+			product	Translation initiation factor IF-3
+963855	961927	CDS
+			EC_number	6.1.1.3
+			db_xref	COG:COG0441
+			gene	thrS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8M3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00499
+			product	Threonine--tRNA ligase
+966469	967134	CDS
+			EC_number	3.1.3.68
+			db_xref	COG:COG0637
+			gene	hxpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77247
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00500
+			product	Hexitol phosphatase B
+969104	969736	CDS
+			db_xref	COG:COG1988
+			gene	ydjM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64481
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00501
+			product	Inner membrane protein YdjM
+970530	970333	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00502
+			product	hypothetical protein
+973623	971038	CDS
+			db_xref	COG:COG0249
+			gene	mutS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1Y0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00503
+			product	DNA mismatch repair protein MutS
+976680	975127	CDS
+			db_xref	COG:COG0306
+			gene	pitA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFJ7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00504
+			product	Low-affinity inorganic phosphate transporter 1
+979911	978652	CDS
+			EC_number	3.6.4.-
+			db_xref	COG:COG1158
+			gene	rho
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG30
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00505
+			product	Transcription termination factor Rho
+980574	980248	CDS
+			db_xref	COG:COG0526
+			gene	trxA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA28
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00506
+			product	Thioredoxin 1
+982062	982241	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00507
+			product	hypothetical protein
+985077	984733	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADN2
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00508
+			note	UPF0438 protein YifE
+			product	hypothetical protein
+985204	986022	CDS
+			gene	cynR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27111
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00509
+			product	HTH-type transcriptional regulator CynR
+987636	987520	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00510
+			product	hypothetical protein
+989368	989457	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00511
+			product	tRNA-Ser(gga)
+991007	990804	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00512
+			product	hypothetical protein
+994702	994848	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00513
+			product	hypothetical protein
+996392	995271	CDS
+			EC_number	4.2.2.-
+			db_xref	COG:COG0741
+			gene	mltC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C066
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00514
+			product	Membrane-bound lytic murein transglycosylase C
+996673	996422	CDS
+			db_xref	COG:COG2924
+			gene	yggX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8P3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00515
+			product	putative Fe(2+)-trafficking protein
+997865	998110	CDS
+			EC_number	2.1.1.33
+			db_xref	COG:COG0220
+			gene	trmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8I5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00516
+			product	tRNA (guanine-N(7)-)-methyltransferase
+1002230	999669	CDS
+			EC_number	5.6.2.2
+			db_xref	COG:COG0188
+			gene	gyrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37411
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00517
+			product	DNA gyrase subunit A
+1002479	1003222	CDS
+			EC_number	2.1.1.222
+			db_xref	COG:COG2227
+			gene	ubiG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17993
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00518
+			product	Ubiquinone biosynthesis O-methyltransferase
+1003653	1005935	CDS
+			EC_number	1.17.4.1
+			db_xref	COG:COG0209
+			gene	nrdA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00452
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00519
+			product	Ribonucleoside-diphosphate reductase 1 subunit alpha
+1005994	1007124	CDS
+			EC_number	1.17.4.1
+			db_xref	COG:COG0208
+			gene	nrdB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69924
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00520
+			product	Ribonucleoside-diphosphate reductase 1 subunit beta
+1009157	1009285	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00521
+			product	hypothetical protein
+1011042	1012325	CDS
+			EC_number	2.7.2.1
+			db_xref	COG:COG0282
+			gene	ackA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63411
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00522
+			product	Acetate kinase
+1012369	1014555	CDS
+			EC_number	2.3.1.8
+			db_xref	COG:COG0280
+			gene	pta
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZND6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00523
+			product	Phosphate acetyltransferase
+1014552	1014878	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00524
+			product	hypothetical protein
+1017485	1017973	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00525
+			product	hypothetical protein
+1020969	1020400	CDS
+			EC_number	2.5.1.129
+			db_xref	COG:COG0163
+			gene	ubiX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG03
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00526
+			product	Flavin prenyltransferase UbiX
+1023084	1022605	CDS
+			db_xref	COG:COG1286
+			gene	cvpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08550
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00527
+			product	Colicin V production protein
+1023670	1023281	CDS
+			gene	dedD
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02022
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00528
+			product	Cell division protein DedD
+1024937	1023660	CDS
+			EC_number	6.3.2.12
+			db_xref	COG:COG0285
+			gene	folC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08192
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00529
+			product	Dihydrofolate synthase/folylpolyglutamate synthase
+1025952	1025017	CDS
+			EC_number	2.1.3.15
+			db_xref	COG:COG0777
+			gene	accD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9Q5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00530
+			product	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+1026342	1026593	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00531
+			product	hypothetical protein
+1027523	1026705	CDS
+			EC_number	5.4.99.12
+			db_xref	COG:COG0101
+			gene	truA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07649
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00532
+			product	tRNA pseudouridine synthase A
+1029867	1028734	CDS
+			EC_number	1.1.1.290
+			db_xref	COG:COG0111
+			gene	pdxB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60802
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00533
+			product	Erythronate-4-phosphate dehydrogenase
+1032862	1031651	CDS
+			EC_number	2.3.1.41
+			db_xref	COG:COG0304
+			gene	fabB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A953
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00534
+			product	3-oxoacyl-[acyl-carrier-protein] synthase 1
+1035423	1034338	CDS
+			EC_number	4.2.3.5
+			db_xref	COG:COG0082
+			gene	aroC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P12008
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00535
+			product	Chorismate synthase
+1036465	1035506	CDS
+			EC_number	2.1.1.298
+			db_xref	COG:COG2890
+			gene	prmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39199
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00536
+			product	50S ribosomal protein L3 glutamine methyltransferase
+1038009	1038218	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00537
+			product	hypothetical protein
+1038936	1039547	CDS
+			EC_number	3.6.1.27
+			db_xref	COG:COG0671
+			gene	ybjG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75806
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00538
+			product	Putative undecaprenyl-diphosphatase YbjG
+1042213	1040582	CDS
+			db_xref	COG:COG0459
+			gene	groL_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2NW94
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00539
+			product	60 kDa chaperonin
+1042551	1042261	CDS
+			db_xref	COG:COG0234
+			gene	groS_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6F9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00540
+			product	10 kDa chaperonin
+1043413	1043703	CDS
+			db_xref	COG:COG0234
+			gene	groS_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6F9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00541
+			product	10 kDa chaperonin
+1043751	1045379	CDS
+			db_xref	COG:COG0459
+			gene	groL_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2NW94
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00542
+			product	60 kDa chaperonin
+1046678	1045674	CDS
+			EC_number	5.4.3.-
+			db_xref	COG:COG1509
+			gene	epmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39280
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00543
+			product	L-lysine 2,3-aminomutase
+1046730	1047299	CDS
+			db_xref	COG:COG0231
+			gene	efp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64036
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00544
+			product	Elongation factor P
+1052514	1049191	CDS
+			db_xref	COG:COG3264
+			gene	mscM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39285
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00545
+			product	Miniconductance mechanosensitive channel MscM
+1053170	1053036	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00546
+			product	hypothetical protein
+1054609	1055154	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG1949
+			gene	orn_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A784
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00547
+			product	Oligoribonuclease
+1055300	1055374	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00548
+			product	tRNA-Gly(gcc)
+1056611	1056537	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00549
+			product	tRNA-Gly(gcc)
+1057302	1056757	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG1949
+			gene	orn_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A784
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00550
+			product	Oligoribonuclease
+1058521	1059408	CDS
+			EC_number	4.1.1.65
+			db_xref	COG:COG0688
+			gene	psd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8K1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00551
+			product	Phosphatidylserine decarboxylase proenzyme
+1061320	1061499	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00552
+			product	hypothetical protein
+1062494	1061517	CDS
+			EC_number	6.3.1.-
+			db_xref	COG:COG2269
+			gene	epmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8N7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00553
+			product	Elongation factor P--(R)-beta-lysine ligase
+1063300	1063500	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00554
+			product	hypothetical protein
+1064144	1063974	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00555
+			product	hypothetical protein
+1065981	1065802	CDS
+			gene	groL_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00600
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00556
+			product	60 kDa chaperonin
+1066319	1066074	CDS
+			db_xref	COG:COG0459
+			gene	groL_4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2NW94
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00557
+			product	60 kDa chaperonin
+1067248	1067069	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00558
+			product	hypothetical protein
+1068455	1067337	CDS
+			db_xref	COG:COG0287
+			gene	tyrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07023
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00559
+			product	T-protein
+1069531	1068449	CDS
+			EC_number	2.5.1.54
+			db_xref	COG:COG0722
+			gene	aroF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00888
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00560
+			product	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive
+1073324	1072275	CDS
+			db_xref	COG:COG0330
+			gene	hflC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABC3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00561
+			product	Modulator of FtsH protease HflC
+1074585	1073356	CDS
+			db_xref	COG:COG0330
+			gene	hflK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABC7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00562
+			product	Modulator of FtsH protease HflK
+1075049	1074777	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00563
+			product	hypothetical protein
+1077115	1076219	CDS
+			EC_number	2.5.1.75
+			db_xref	COG:COG0324
+			gene	miaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16384
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00564
+			product	tRNA dimethylallyltransferase
+1078883	1077153	CDS
+			db_xref	COG:COG0323
+			gene	mutL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23367
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00565
+			product	DNA mismatch repair protein MutL
+1080411	1079059	CDS
+			EC_number	3.5.1.28
+			db_xref	COG:COG0860
+			gene	amiB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P26365
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00566
+			product	N-acetylmuramoyl-L-alanine amidase AmiB
+1080890	1080408	CDS
+			db_xref	COG:COG0802
+			gene	tsaE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AF67
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00567
+			product	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+1081991	1082065	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00568
+			product	tRNA-Arg(ccg)
+1082132	1082205	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00569
+			product	tRNA-His(gtg)
+1082236	1082320	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00570
+			product	tRNA-Leu(cag)
+1082388	1082463	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00571
+			product	tRNA-Pro(tgg)
+1083391	1083315	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00572
+			product	tRNA-Trp(cca)
+1083475	1083399	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00573
+			product	tRNA-Asp(gtc)
+1088666	1086093	CDS
+			db_xref	COG:COG0542
+			gene	clpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63284
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00574
+			product	Chaperone protein ClpB
+1090451	1089486	CDS
+			EC_number	5.4.99.23
+			db_xref	COG:COG0564
+			gene	rluD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P33643
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00575
+			product	Ribosomal large subunit pseudouridine synthase D
+1090546	1091364	CDS
+			db_xref	COG:COG4105
+			gene	bamD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC02
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00576
+			product	Outer membrane protein assembly factor BamD
+1091355	1091531	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00577
+			product	hypothetical protein
+1092051	1091956	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00578
+			product	hypothetical protein
+1093614	1092547	CDS
+			gene	nlpD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39700
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00579
+			product	Murein hydrolase activator NlpD
+1095231	1094461	CDS
+			EC_number	3.1.3.5
+			db_xref	COG:COG0496
+			gene	surE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A840
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00580
+			product	5'/3'-nucleotidase SurE
+1096894	1096421	CDS
+			EC_number	4.6.1.12
+			db_xref	COG:COG0245
+			gene	ispF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZBP7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00581
+			product	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+1097616	1096897	CDS
+			EC_number	2.7.7.60
+			db_xref	COG:COG1211
+			gene	ispD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q46893
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00582
+			product	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+1097923	1097624	CDS
+			db_xref	COG:COG2919
+			gene	ftsB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6S5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00583
+			product	Cell division protein FtsB
+1098643	1098876	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00584
+			product	hypothetical protein
+1099160	1098987	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00585
+			product	hypothetical protein
+1101619	1100318	CDS
+			EC_number	4.2.1.11
+			db_xref	COG:COG0148
+			gene	eno
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6P9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00586
+			product	Enolase
+1103340	1101700	CDS
+			EC_number	6.3.4.2
+			db_xref	COG:COG0504
+			gene	pyrG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7E5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00587
+			product	CTP synthase
+1103925	1103773	CDS
+			EC_number	2.7.6.5
+			db_xref	COG:COG0317
+			gene	relA_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG20
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00588
+			product	GTP pyrophosphokinase
+1106116	1104875	CDS
+			EC_number	2.7.6.5
+			db_xref	COG:COG0317
+			gene	relA_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG20
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00589
+			product	GTP pyrophosphokinase
+1110275	1112902	CDS
+			EC_number	6.1.1.7
+			db_xref	COG:COG0013
+			gene	alaS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00957
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00590
+			product	Alanine--tRNA ligase
+1113106	1113276	CDS
+			db_xref	COG:COG1551
+			gene	csrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69913
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00591
+			product	Carbon storage regulator
+1113524	1113615	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00592
+			product	tRNA-Ser(gct)
+1113635	1113711	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00593
+			product	tRNA-Arg(acg)
+1114518	1114399	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00594
+			product	hypothetical protein
+1117027	1115549	CDS
+			EC_number	1.8.1.4
+			db_xref	COG:COG1249
+			gene	lpdA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9P0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00595
+			product	Dihydrolipoyl dehydrogenase
+1118446	1117166	CDS
+			EC_number	2.3.1.12
+			db_xref	COG:COG0508
+			gene	aceF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06959
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00596
+			product	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+1121129	1118463	CDS
+			EC_number	1.2.4.1
+			db_xref	COG:COG2609
+			gene	aceE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFG8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00597
+			product	Pyruvate dehydrogenase E1 component
+1127783	1127938	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00598
+			product	hypothetical protein
+1129074	1129715	CDS
+			EC_number	3.1.2.6
+			db_xref	COG:COG0491
+			gene	gloC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75849
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00599
+			product	Hydroxyacylglutathione hydrolase GloC
+1133640	1132240	CDS
+			EC_number	6.1.1.22
+			db_xref	COG:COG0017
+			gene	asnS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8M0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00600
+			product	Asparagine--tRNA ligase
+1133754	1133861	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00601
+			product	hypothetical protein
+1138579	1136252	CDS
+			db_xref	COG:COG0744
+			gene	mrcB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02919
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00602
+			product	Penicillin-binding protein 1B
+1139602	1140309	CDS
+			db_xref	COG:COG1489
+			gene	sfsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A823
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00603
+			product	Sugar fermentation stimulation protein A
+1140538	1140993	CDS
+			db_xref	COG:COG1734
+			gene	dksA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABS1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00604
+			product	RNA polymerase-binding transcription factor DksA
+1141856	1143178	CDS
+			EC_number	2.7.7.19
+			db_xref	COG:COG0617
+			gene	pcnB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABF1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00605
+			product	Poly(A) polymerase I
+1143193	1143684	CDS
+			EC_number	2.7.6.3
+			db_xref	COG:COG0801
+			gene	folK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P26281
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00606
+			product	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1145648	1145457	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00607
+			product	hypothetical protein
+1146772	1146590	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00608
+			product	hypothetical protein
+1150821	1149361	CDS
+			db_xref	COG:COG1160
+			gene	der
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9XCI8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00609
+			product	GTPase Der
+1153105	1151831	CDS
+			EC_number	6.1.1.21
+			db_xref	COG:COG0124
+			gene	hisS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O52765
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00610
+			product	Histidine--tRNA ligase
+1154246	1153125	CDS
+			EC_number	1.17.7.3
+			db_xref	COG:COG0821
+			gene	ispG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62620
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00611
+			product	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+1155192	1154287	CDS
+			db_xref	COG:COG1426
+			gene	rodZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27434
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00612
+			product	Cytoskeleton protein RodZ
+1156885	1155716	CDS
+			EC_number	2.1.1.192
+			db_xref	COG:COG0820
+			gene	rlmN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P36979
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00613
+			product	Dual-specificity RNA methyltransferase RlmN
+1157485	1157051	CDS
+			EC_number	2.7.4.6
+			db_xref	COG:COG0105
+			gene	ndk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A763
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00614
+			product	Nucleoside diphosphate kinase
+1160385	1159216	CDS
+			EC_number	2.8.1.7
+			db_xref	COG:COG1104
+			gene	iscS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6B7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00615
+			product	Cysteine desulfurase IscS
+1161654	1162454	CDS
+			EC_number	3.1.3.25
+			db_xref	COG:COG0483
+			gene	suhB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADG4
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00616
+			product	Inositol-1-monophosphatase
+1165299	1164046	CDS
+			EC_number	2.1.2.1
+			db_xref	COG:COG0112
+			gene	glyA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A2E1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00617
+			product	Serine hydroxymethyltransferase
+1173243	1169359	CDS
+			EC_number	6.3.5.3
+			db_xref	COG:COG0046
+			gene	purL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P15254
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00618
+			product	Phosphoribosylformylglycinamidine synthase
+1174837	1174343	CDS
+			EC_number	3.5.4.33
+			db_xref	COG:COG0590
+			gene	tadA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68398
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00619
+			product	tRNA-specific adenosine deaminase
+1175543	1174905	CDS
+			EC_number	3.1.3.27
+			db_xref	COG:COG0560
+			gene	pgpC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AD42
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00620
+			product	Phosphatidylglycerophosphatase C
+1178762	1178953	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00621
+			product	hypothetical protein
+1179351	1178971	CDS
+			EC_number	2.7.8.7
+			db_xref	COG:COG0736
+			gene	acpS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24224
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00622
+			product	Holo-[acyl-carrier-protein] synthase
+1180082	1179351	CDS
+			EC_number	2.6.99.2
+			db_xref	COG:COG0854
+			gene	pdxJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A794
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00623
+			product	Pyridoxine 5'-phosphate synthase
+1181522	1180617	CDS
+			db_xref	COG:COG1159
+			gene	era
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06616
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00624
+			product	GTPase Era
+1182199	1181519	CDS
+			EC_number	3.1.26.3
+			db_xref	COG:COG0571
+			gene	rnc
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Y0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00625
+			product	Ribonuclease 3
+1183383	1182385	CDS
+			EC_number	3.4.21.89
+			db_xref	COG:COG0681
+			gene	lepB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00803
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00626
+			product	Signal peptidase I
+1185198	1183399	CDS
+			EC_number	3.6.5.-
+			db_xref	COG:COG0481
+			gene	lepA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60785
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00627
+			product	Elongation factor 4
+1187312	1188961	CDS
+			EC_number	1.4.3.16
+			db_xref	COG:COG0029
+			gene	nadB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10902
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00628
+			product	L-aspartate oxidase
+1190902	1191588	CDS
+			EC_number	3.2.2.27
+			db_xref	COG:COG0692
+			gene	ung
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P12295
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00629
+			product	Uracil-DNA glycosylase
+1192529	1191936	CDS
+			db_xref	COG:COG0576
+			gene	grpE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09372
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00630
+			product	Protein GrpE
+1192601	1193527	CDS
+			EC_number	2.7.1.23
+			db_xref	COG:COG0061
+			gene	nadK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZH09
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00631
+			product	NAD kinase
+1194673	1195029	CDS
+			db_xref	COG:COG2913
+			gene	bamE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A937
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00632
+			product	Outer membrane protein assembly factor BamE
+1195826	1195449	CDS
+			db_xref	COG:COG2867
+			gene	ratA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGL5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00633
+			product	Ribosome association toxin RatA
+1195976	1196458	CDS
+			db_xref	COG:COG0691
+			gene	smpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A832
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00634
+			product	SsrA-binding protein
+1196618	1196436	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00635
+			product	hypothetical protein
+1196498	1196876	tmRNA
+			gene	ssrA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00636
+			product	transfer-messenger RNA, SsrA
+1199618	1199514	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00637
+			product	hypothetical protein
+1202095	1202277	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00638
+			product	hypothetical protein
+1202364	1202191	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00639
+			product	hypothetical protein
+1202509	1202700	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00640
+			product	hypothetical protein
+1208388	1209500	CDS
+			EC_number	2.8.1.13
+			db_xref	COG:COG0482
+			gene	mnmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25745
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00641
+			product	tRNA-specific 2-thiouridylase MnmA
+1210390	1211760	CDS
+			EC_number	4.3.2.2
+			db_xref	COG:COG0015
+			gene	purB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AB89
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00642
+			product	Adenylosuccinate lyase
+1214400	1214224	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00643
+			product	hypothetical protein
+1215891	1214650	CDS
+			db_xref	COG:COG4591
+			gene	lolE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75958
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00644
+			product	Lipoprotein-releasing system transmembrane protein LolE
+1216577	1215888	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1136
+			gene	lolD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75957
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00645
+			product	Lipoprotein-releasing system ATP-binding protein LolD
+1217775	1216570	CDS
+			db_xref	COG:COG4591
+			gene	lolC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADC3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00646
+			product	Lipoprotein-releasing system transmembrane protein LolC
+1217984	1221427	CDS
+			EC_number	3.6.4.-
+			db_xref	COG:COG1197
+			gene	mfd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30958
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00647
+			product	Transcription-repair-coupling factor
+1223523	1222219	CDS
+			EC_number	1.6.99.3
+			db_xref	COG:COG1252
+			gene	ndh
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00393
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00648
+			product	NADH dehydrogenase
+1224514	1224365	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00649
+			product	hypothetical protein
+1225930	1226226	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00650
+			product	hypothetical protein
+1229308	1230603	CDS
+			db_xref	COG:COG2252
+			gene	adeQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31440
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00651
+			product	Adenine permease AdeQ
+1232203	1233624	CDS
+			EC_number	3.1.11.1
+			db_xref	COG:COG2925
+			gene	sbcB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04995
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00652
+			product	Exodeoxyribonuclease I
+1234462	1234647	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00653
+			product	hypothetical protein
+1236996	1235590	CDS
+			EC_number	1.1.1.44
+			db_xref	COG:COG0362
+			gene	gnd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00350
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00654
+			product	6-phosphogluconate dehydrogenase, decarboxylating
+1238717	1238598	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00655
+			product	hypothetical protein
+1241890	1241768	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00656
+			product	hypothetical protein
+1243096	1242515	CDS
+			EC_number	3.5.4.13
+			db_xref	COG:COG0717
+			gene	dcd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28248
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00657
+			product	dCTP deaminase
+1245208	1246881	CDS
+			EC_number	6.1.1.10
+			db_xref	COG:COG0073
+			gene	metG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00959
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00658
+			product	Methionine--tRNA ligase
+1248171	1248019	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00659
+			product	hypothetical protein
+1249601	1250263	CDS
+			EC_number	3.5.4.16
+			db_xref	COG:COG0302
+			gene	folE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6T5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00660
+			product	GTP cyclohydrolase 1
+1254533	1255477	CDS
+			EC_number	2.1.1.199
+			db_xref	COG:COG0275
+			gene	rsmH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60390
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00661
+			product	Ribosomal RNA small subunit methyltransferase H
+1255477	1255797	CDS
+			db_xref	COG:COG3116
+			gene	ftsL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEN4
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00662
+			product	Cell division protein FtsL
+1255823	1257592	CDS
+			EC_number	3.4.16.4
+			db_xref	COG:COG0768
+			gene	ftsI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AD68
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00663
+			product	Peptidoglycan D,D-transpeptidase FtsI
+1257579	1259066	CDS
+			EC_number	6.3.2.13
+			db_xref	COG:COG0769
+			gene	murE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P22188
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00664
+			product	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+1259063	1260430	CDS
+			EC_number	6.3.2.10
+			db_xref	COG:COG0770
+			gene	murF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P11880
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00665
+			product	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+1260424	1261506	CDS
+			EC_number	2.7.8.13
+			db_xref	COG:COG0472
+			gene	mraY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6W3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00666
+			product	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+1261509	1262822	CDS
+			EC_number	6.3.2.9
+			db_xref	COG:COG0771
+			gene	murD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P14900
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00667
+			product	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+1262822	1264051	CDS
+			EC_number	2.4.1.129
+			db_xref	COG:COG0772
+			gene	ftsW
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABG4
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00668
+			product	putative peptidoglycan glycosyltransferase FtsW
+1264027	1265109	CDS
+			EC_number	2.4.1.227
+			db_xref	COG:COG0707
+			gene	murG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17443
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00669
+			product	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+1265168	1266646	CDS
+			EC_number	6.3.2.8
+			db_xref	COG:COG0773
+			gene	murC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZIE8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00670
+			product	UDP-N-acetylmuramate--L-alanine ligase
+1266703	1267509	CDS
+			db_xref	COG:COG1589
+			gene	ftsQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06136
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00671
+			product	Cell division protein FtsQ
+1267539	1268795	CDS
+			db_xref	COG:COG0849
+			gene	ftsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABH0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00672
+			product	Cell division protein FtsA
+1268867	1270015	CDS
+			db_xref	COG:COG0206
+			gene	ftsZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9A6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00673
+			product	Cell division protein FtsZ
+1270132	1271052	CDS
+			EC_number	3.5.1.108
+			db_xref	COG:COG0774
+			gene	lpxC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A725
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00674
+			product	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+1271665	1271135	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00675
+			product	hypothetical protein
+1271698	1272120	CDS
+			gene	secM
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01332
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00676
+			product	Secretion monitor
+1272198	1274807	CDS
+			db_xref	COG:COG0653
+			gene	secA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10408
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00677
+			product	Protein translocase subunit SecA
+1274992	1275147	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00678
+			product	hypothetical protein
+1276256	1275519	CDS
+			EC_number	2.3.1.51
+			db_xref	COG:COG0204
+			gene	plsC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P26647
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00679
+			product	1-acyl-sn-glycerol-3-phosphate acyltransferase
+1276765	1276421	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00680
+			product	hypothetical protein
+1278129	1277410	CDS
+			EC_number	5.6.2.2
+			db_xref	COG:COG0188
+			gene	parC_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P26973
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00681
+			product	DNA topoisomerase 4 subunit A
+1278669	1278517	CDS
+			EC_number	5.6.2.2
+			db_xref	COG:COG0188
+			gene	parC_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFI2
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00682
+			product	DNA topoisomerase 4 subunit A
+1285904	1284939	CDS
+			EC_number	2.8.1.8
+			db_xref	COG:COG0320
+			gene	lipA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60716
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00683
+			product	Lipoyl synthase
+1286740	1286081	CDS
+			EC_number	2.3.1.181
+			db_xref	COG:COG0321
+			gene	lipB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60720
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00684
+			product	Octanoyltransferase
+1290079	1288967	CDS
+			EC_number	2.4.1.129
+			db_xref	COG:COG0772
+			gene	mrdB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABG7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00685
+			product	Peptidoglycan glycosyltransferase MrdB
+1291993	1290086	CDS
+			EC_number	3.4.16.4
+			db_xref	COG:COG0768
+			gene	mrdA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AD65
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00686
+			product	Peptidoglycan D,D-transpeptidase MrdA
+1293662	1292997	CDS
+			EC_number	2.7.7.18
+			db_xref	COG:COG1057
+			gene	nadD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A752
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00687
+			product	Nicotinate-nucleotide adenylyltransferase
+1294686	1293655	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG1466
+			gene	holA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28630
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00688
+			product	DNA polymerase III subunit delta
+1295306	1294785	CDS
+			db_xref	COG:COG2980
+			gene	lptE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7CJV2
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00689
+			product	LPS-assembly lipoprotein LptE
+1297903	1295321	CDS
+			EC_number	6.1.1.4
+			db_xref	COG:COG0495
+			gene	leuS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07813
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00690
+			product	Leucine--tRNA ligase
+1301275	1301102	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00691
+			product	hypothetical protein
+1303703	1302171	CDS
+			EC_number	2.3.1.269
+			db_xref	COG:COG0815
+			gene	lnt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23930
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00692
+			product	Apolipoprotein N-acyltransferase
+1303909	1303814	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00693
+			product	hypothetical protein
+1305094	1304624	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0319
+			gene	ybeY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A898
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00694
+			product	Endoribonuclease YbeY
+1305873	1305989	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00695
+			product	hypothetical protein
+1306471	1306728	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00696
+			product	hypothetical protein
+1306673	1306762	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00697
+			product	hypothetical protein
+1307669	1308850	CDS
+			EC_number	1.14.99.60
+			db_xref	COG:COG0654
+			gene	ubiF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75728
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00698
+			product	3-demethoxyubiquinol 3-hydroxylase
+1311276	1311626	CDS
+			db_xref	COG:COG0316
+			gene	erpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACC3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00699
+			product	Iron-sulfur cluster insertion protein ErpA
+1312543	1312301	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00700
+			product	hypothetical protein
+1316864	1316646	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00701
+			product	hypothetical protein
+1319257	1319173	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00702
+			product	tRNA-Leu(taa)
+1319348	1319275	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00703
+			product	tRNA-Cys(gca)
+1321460	1320912	CDS
+			EC_number	2.7.8.5
+			db_xref	COG:COG0558
+			gene	pgsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABF8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00704
+			product	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1322426	1322286	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00705
+			product	hypothetical protein
+1329561	1329486	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00706
+			product	tRNA-Lys(ctt)
+1335046	1336011	CDS
+			EC_number	2.7.1.2
+			db_xref	COG:COG0837
+			gene	glk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6V8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00707
+			product	Glucokinase
+1336264	1336085	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00708
+			product	hypothetical protein
+1340337	1340471	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00709
+			product	hypothetical protein
+1343295	1342294	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00710
+			product	hypothetical protein
+1344710	1345615	CDS
+			EC_number	6.1.1.14
+			db_xref	COG:COG0752
+			gene	glyQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00960
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00711
+			product	Glycine--tRNA ligase alpha subunit
+1345624	1347690	CDS
+			EC_number	6.1.1.14
+			db_xref	COG:COG0751
+			gene	glyS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00961
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00712
+			product	Glycine--tRNA ligase beta subunit
+1351514	1350897	CDS
+			EC_number	1.15.1.1
+			db_xref	COG:COG0605
+			gene	sodA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00448
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00713
+			product	Superoxide dismutase [Mn]
+1353927	1353763	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00714
+			product	hypothetical protein
+1359620	1360303	CDS
+			db_xref	COG:COG0586
+			gene	yqjA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA63
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00715
+			product	Inner membrane protein YqjA
+1363328	1363636	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00716
+			product	hypothetical protein
+1366435	1365569	CDS
+			EC_number	2.1.1.198
+			db_xref	COG:COG0313
+			gene	rsmI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67087
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00717
+			product	Ribosomal RNA small subunit methyltransferase I
+1367401	1368003	CDS
+			db_xref	COG:COG0279
+			gene	diaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66817
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00718
+			product	DnaA initiator-associating protein DiaA
+1368000	1368575	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00719
+			product	hypothetical protein
+1374669	1374163	CDS
+			db_xref	COG:COG2969
+			gene	sspB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFZ3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00720
+			product	Stringent starvation protein B
+1375192	1374887	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00721
+			product	hypothetical protein
+1375977	1375585	CDS
+			db_xref	COG:COG0103
+			gene	rpsI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7X3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00722
+			product	30S ribosomal protein S9
+1376421	1375993	CDS
+			db_xref	COG:COG0102
+			gene	rplM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA10
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00723
+			product	50S ribosomal protein L13
+1377090	1376911	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00724
+			product	hypothetical protein
+1378029	1378436	CDS
+			db_xref	COG:COG3105
+			gene	yhcB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADW3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00725
+			product	Inner membrane protein YhcB
+1378584	1379954	CDS
+			EC_number	3.4.21.107
+			db_xref	COG:COG0265
+			gene	degQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39099
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00726
+			product	Periplasmic pH-dependent serine endoprotease DegQ
+1382396	1381137	CDS
+			EC_number	2.5.1.7
+			db_xref	COG:COG0766
+			gene	murA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P33038
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00727
+			product	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1382710	1382456	CDS
+			db_xref	COG:COG5007
+			gene	ibaG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9W6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00728
+			product	Acid stress protein IbaG
+1386419	1387405	CDS
+			EC_number	5.3.1.13
+			db_xref	COG:COG0517
+			gene	kdsD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45395
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00729
+			product	Arabinose 5-phosphate isomerase KdsD
+1387942	1388373	CDS
+			db_xref	COG:COG3117
+			gene	lptC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADV9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00730
+			product	Lipopolysaccharide export system protein LptC
+1388511	1389029	CDS
+			db_xref	COG:COG1934
+			gene	lptA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADV1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00731
+			product	Lipopolysaccharide export system protein LptA
+1389059	1389784	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1137
+			gene	lptB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9V1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00732
+			product	Lipopolysaccharide export system ATP-binding protein LptB
+1391635	1392114	CDS
+			db_xref	COG:COG1762
+			gene	ptsN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69829
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00733
+			product	Nitrogen regulatory protein
+1392208	1393062	CDS
+			db_xref	COG:COG1660
+			gene	rapZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A894
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00734
+			product	RNase adapter protein RapZ
+1398533	1398742	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00735
+			product	hypothetical protein
+1400468	1399002	CDS
+			EC_number	4.1.1.98
+			db_xref	COG:COG0043
+			gene	ubiD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AAB4
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00736
+			product	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+1402350	1402255	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00737
+			product	hypothetical protein
+1403927	1402293	CDS
+			EC_number	2.7.-.-
+			db_xref	COG:COG0661
+			gene	ubiB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6A0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00738
+			product	putative protein kinase UbiB
+1404329	1404150	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00739
+			product	hypothetical protein
+1405325	1404567	CDS
+			EC_number	2.1.1.163
+			db_xref	COG:COG2226
+			gene	ubiE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A887
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00740
+			product	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+1407027	1405477	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00741
+			product	hypothetical protein
+1407537	1407319	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00742
+			product	hypothetical protein
+1408433	1407618	CDS
+			EC_number	2.4.2.3
+			db_xref	COG:COG2820
+			gene	udp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1F6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00743
+			product	Uridine phosphorylase
+1410765	1410553	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00744
+			product	hypothetical protein
+1414223	1414429	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00745
+			product	hypothetical protein
+1417544	1417338	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00746
+			product	hypothetical protein
+1419680	1419604	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00747
+			product	tRNA-Pro(cgg)
+1421873	1421382	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00748
+			product	hypothetical protein
+1422744	1422866	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00749
+			product	hypothetical protein
+1427126	1427455	CDS
+			db_xref	COG:COG2076
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9HUH5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00750
+			product	Multidrug transporter
+1427498	1428052	CDS
+			EC_number	2.3.1.57
+			db_xref	COG:COG1670
+			gene	speG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A951
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00751
+			product	Spermidine N(1)-acetyltransferase
+1431339	1431205	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00752
+			product	hypothetical protein
+1435339	1435199	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00753
+			product	hypothetical protein
+1438114	1439478	CDS
+			EC_number	2.7.8.8
+			db_xref	COG:COG1502
+			gene	pssA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23830
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00754
+			product	CDP-diacylglycerol--serine O-phosphatidyltransferase
+1444872	1442017	CDS
+			EC_number	6.1.1.9
+			db_xref	COG:COG0525
+			gene	valS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07118
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00755
+			product	Valine--tRNA ligase
+1445335	1444889	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG2927
+			gene	holC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28905
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00756
+			product	DNA polymerase III subunit chi
+1446925	1445414	CDS
+			EC_number	3.4.11.1
+			db_xref	COG:COG0260
+			gene	pepA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68767
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00757
+			product	Cytosol aminopeptidase
+1447232	1448332	CDS
+			db_xref	COG:COG0795
+			gene	lptF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AF98
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00758
+			product	Lipopolysaccharide export system permease protein LptF
+1448332	1449402	CDS
+			db_xref	COG:COG0795
+			gene	lptG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADC6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00759
+			product	Lipopolysaccharide export system permease protein LptG
+1451684	1451893	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00760
+			product	hypothetical protein
+1452681	1452764	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00761
+			product	tRNA-Leu(caa)
+1455232	1455307	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00762
+			product	tRNA-Phe(gaa)
+1457031	1456864	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00763
+			product	hypothetical protein
+1458040	1457708	CDS
+			db_xref	COG:COG3317
+			gene	bamC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A903
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00764
+			product	Outer membrane protein assembly factor BamC
+1458935	1458057	CDS
+			EC_number	4.3.3.7
+			db_xref	COG:COG0329
+			gene	dapA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZN71
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00765
+			product	4-hydroxy-tetrahydrodipicolinate synthase
+1460938	1460312	CDS
+			EC_number	2.4.2.9
+			db_xref	COG:COG0035
+			gene	upp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8F0
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00766
+			product	Uracil phosphoribosyltransferase
+1466277	1466125	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00767
+			product	hypothetical protein
+1467395	1467541	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00768
+			product	hypothetical protein
+1469901	1469566	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00769
+			product	hypothetical protein
+1470392	1470943	CDS
+			EC_number	2.4.2.7
+			db_xref	COG:COG0503
+			gene	apt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69503
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00770
+			product	Adenine phosphoribosyltransferase
+1471021	1472802	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00771
+			product	hypothetical protein
+1472813	1473013	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00772
+			product	hypothetical protein
+1472967	1473164	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00773
+			product	hypothetical protein
+1476286	1476981	CDS
+			EC_number	2.7.4.3
+			db_xref	COG:COG0563
+			gene	adk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69441
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00774
+			product	Adenylate kinase
+1488609	1488436	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00775
+			product	hypothetical protein
+1493643	1493311	CDS
+			db_xref	COG:COG0556
+			gene	uvrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8F8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00776
+			product	UvrABC system protein B
+1498380	1497385	CDS
+			EC_number	3.1.1.31
+			db_xref	COG:COG2706
+			gene	pgl
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A6T6J6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00777
+			product	6-phosphogluconolactonase
+1498746	1498543	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00778
+			product	hypothetical protein
+1499336	1499497	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00779
+			product	hypothetical protein
+1499848	1499648	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00780
+			product	hypothetical protein
+1504734	1505486	CDS
+			EC_number	5.4.2.11
+			db_xref	COG:COG0588
+			gene	gpmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62707
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00781
+			product	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+1510313	1509267	CDS
+			EC_number	2.5.1.72
+			db_xref	COG:COG0379
+			gene	nadA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24519
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00782
+			product	Quinolinate synthase A
+1510670	1510595	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00783
+			product	tRNA-Lys(ttt)
+1511626	1510853	CDS
+			db_xref	COG:COG1729
+			gene	cpoB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45955
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00784
+			product	Cell division coordinator CpoB
+1512160	1511642	CDS
+			db_xref	COG:COG2885
+			gene	pal
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A912
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00785
+			product	Peptidoglycan-associated lipoprotein
+1513492	1512200	CDS
+			db_xref	COG:COG0823
+			gene	tolB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZGZ1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00786
+			product	Tol-Pal system protein TolB
+1514399	1513605	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00787
+			product	hypothetical protein
+1514895	1514449	CDS
+			db_xref	COG:COG0848
+			gene	tolR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABV6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00788
+			product	Tol-Pal system protein TolR
+1515656	1514892	CDS
+			db_xref	COG:COG0811
+			gene	tolQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABU9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00789
+			product	Tol-Pal system protein TolQ
+1516286	1516173	CDS
+			EC_number	7.1.1.7
+			db_xref	COG:COG4890
+			gene	cydX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P56100
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00790
+			product	Cytochrome bd-I ubiquinol oxidase subunit X
+1517442	1516303	CDS
+			EC_number	7.1.1.7
+			db_xref	COG:COG1294
+			gene	cydB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABK2
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00791
+			product	Cytochrome bd-I ubiquinol oxidase subunit 2
+1519028	1517490	CDS
+			EC_number	7.1.1.7
+			db_xref	COG:COG1271
+			gene	cydA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABJ9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00792
+			product	Cytochrome bd-I ubiquinol oxidase subunit 1
+1520670	1519798	CDS
+			EC_number	6.2.1.5
+			db_xref	COG:COG0074
+			gene	sucD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGE9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00793
+			product	Succinate--CoA ligase [ADP-forming] subunit alpha
+1521836	1520670	CDS
+			EC_number	6.2.1.5
+			db_xref	COG:COG0045
+			gene	sucC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A836
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00794
+			product	Succinate--CoA ligase [ADP-forming] subunit beta
+1523131	1521947	CDS
+			EC_number	2.3.1.61
+			db_xref	COG:COG0508
+			gene	sucB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFG6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00795
+			product	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+1525955	1523148	CDS
+			EC_number	1.2.4.2
+			db_xref	COG:COG0567
+			gene	sucA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFG3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00796
+			product	2-oxoglutarate dehydrogenase E1 component
+1527512	1527357	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00797
+			product	hypothetical protein
+1528221	1528012	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00798
+			product	hypothetical protein
+1529009	1528266	CDS
+			db_xref	COG:COG0327
+			gene	ybgI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFP6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00799
+			product	GTP cyclohydrolase 1 type 2 
+1530474	1529032	CDS
+			EC_number	4.1.99.3
+			db_xref	COG:COG0415
+			gene	phrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25078
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00800
+			product	Deoxyribodipyrimidine photo-lyase
+1533257	1531626	CDS
+			EC_number	5.4.2.2
+			db_xref	COG:COG0033
+			gene	pgm
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P36938
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00801
+			product	Phosphoglucomutase
+1533445	1533576	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00802
+			product	hypothetical protein
+1534918	1534751	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00803
+			product	hypothetical protein
+1536294	1536809	CDS
+			db_xref	COG:COG0716
+			gene	fldA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P61949
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00804
+			product	Flavodoxin 1
+1540686	1539013	CDS
+			EC_number	6.1.1.18
+			db_xref	COG:COG0008
+			gene	glnS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00962
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00805
+			product	Glutamine--tRNA ligase
+1542723	1542298	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00806
+			product	hypothetical protein
+1546382	1546458	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00807
+			product	tRNA-Met(cat)
+1546465	1546547	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00808
+			product	tRNA-Leu(tag)
+1546571	1546645	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00809
+			product	tRNA-Gln(ttg)
+1546885	1546959	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00810
+			product	tRNA-Gln(ctg)
+1548738	1549142	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00811
+			product	hypothetical protein
+1553453	1552698	CDS
+			EC_number	2.7.7.38
+			db_xref	COG:COG1212
+			gene	kdsB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZGA4
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00812
+			product	3-deoxy-manno-octulosonate cytidylyltransferase
+1553632	1553453	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AAZ7
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00813
+			note	UPF0434 protein YcaR
+			product	hypothetical protein
+1555167	1554169	CDS
+			EC_number	2.7.1.130
+			db_xref	COG:COG1663
+			gene	lpxK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27300
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00814
+			product	Tetraacyldisaccharide 4'-kinase
+1556912	1555164	CDS
+			EC_number	7.5.2.6
+			db_xref	COG:COG1132
+			gene	msbA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60752
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00815
+			product	Lipid A export ATP-binding/permease protein MsbA
+1558737	1558621	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00816
+			product	hypothetical protein
+1559124	1558978	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00817
+			product	hypothetical protein
+1560007	1559723	CDS
+			db_xref	COG:COG0776
+			gene	ihfB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6Y1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00818
+			product	Integration host factor subunit beta
+1561775	1560099	CDS
+			db_xref	COG:COG0539
+			gene	rpsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG67
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00819
+			product	30S ribosomal protein S1
+1562575	1561889	CDS
+			EC_number	2.7.4.25
+			gene	cmk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:B1JRD8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00820
+			product	Cytidylate kinase
+1563933	1562635	CDS
+			EC_number	2.5.1.19
+			db_xref	COG:COG0128
+			gene	aroA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6D3
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00821
+			product	3-phosphoshikimate 1-carboxyvinyltransferase
+1565263	1564178	CDS
+			EC_number	2.6.1.52
+			db_xref	COG:COG1932
+			gene	serC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P55900
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00822
+			product	Phosphoserine aminotransferase
+1565725	1565940	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00823
+			product	hypothetical protein
+1566234	1566145	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00824
+			product	hypothetical protein
+1568191	1567955	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00825
+			product	hypothetical protein
+1569700	1569512	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00826
+			product	hypothetical protein
+1572166	1570874	CDS
+			EC_number	6.1.1.11
+			db_xref	COG:COG0172
+			gene	serS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8L1
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00827
+			product	Serine--tRNA ligase
+1573254	1573120	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00828
+			product	hypothetical protein
+1574146	1573553	CDS
+			db_xref	COG:COG2834
+			gene	lolA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZGC6
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00829
+			product	Outer-membrane lipoprotein carrier protein
+1575986	1574859	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00830
+			product	hypothetical protein
+1576978	1577955	CDS
+			EC_number	1.8.1.9
+			db_xref	COG:COG0492
+			gene	trxB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9P4
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00831
+			product	Thioredoxin reductase
+1578172	1579932	CDS
+			db_xref	COG:COG4988
+			gene	cydD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29018
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00832
+			product	ATP-binding/permease protein CydD
+1579935	1581659	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1132
+			gene	yheH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O07549
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00833
+			product	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+1582051	1582269	CDS
+			db_xref	COG:COG0361
+			gene	infA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69222
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00834
+			product	Translation initiation factor IF-1
+1582423	1582220	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00835
+			product	hypothetical protein
+1582916	1582749	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00836
+			product	hypothetical protein
+1584828	1584986	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00837
+			product	hypothetical protein
+1586870	1587373	CDS
+			EC_number	1.16.-.-
+			db_xref	COG:COG0783
+			gene	dps
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7CJ65
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00838
+			product	DNA protection during starvation protein
+1592935	1593858	CDS
+			EC_number	5.1.3.20
+			db_xref	COG:COG0451
+			gene	hldD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67910
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00839
+			product	ADP-L-glycero-D-manno-heptose-6-epimerase
+1593935	1594936	CDS
+			EC_number	2.-.-.-
+			db_xref	COG:COG0859
+			gene	rfaF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37692
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00840
+			product	ADP-heptose--LPS heptosyltransferase 2
+1597810	1597971	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00841
+			product	hypothetical protein
+1598084	1599211	CDS
+			EC_number	3.5.1.18
+			db_xref	COG:COG0624
+			gene	dapE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZN75
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00842
+			product	Succinyl-diaminopimelate desuccinylase
+1601233	1603275	CDS
+			EC_number	3.4.24.70
+			db_xref	COG:COG0339
+			gene	prlC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27237
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00843
+			product	Oligopeptidase A
+1605750	1605535	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00844
+			product	hypothetical protein
+1609022	1607427	CDS
+			EC_number	6.3.4.19
+			gene	tilS
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01161
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00845
+			product	tRNA(Ile)-lysidine synthase
+1615556	1615329	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00846
+			product	hypothetical protein
+1616278	1616439	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00847
+			product	hypothetical protein
+1619832	1618474	CDS
+			EC_number	3.6.-.-
+			db_xref	COG:COG0486
+			gene	mnmE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25522
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00848
+			product	tRNA modification GTPase MnmE
+1621565	1619916	CDS
+			gene	yidC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q1R4M9
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00849
+			product	Membrane protein insertase YidC
+1621825	1621568	CDS
+			db_xref	COG:COG0759
+			gene	yidD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8C8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00850
+			product	Putative membrane protein insertion efficiency factor
+1622148	1621789	CDS
+			EC_number	3.1.26.5
+			db_xref	COG:COG0594
+			gene	rnpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Y8
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00851
+			product	Ribonuclease P protein component
+1622309	1622166	CDS
+			db_xref	COG:COG0230
+			gene	rpmH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7P5
+			locus_tag	Sodalis_sp_HBA_GCF_900161835_1_00852
+			product	50S ribosomal protein L34

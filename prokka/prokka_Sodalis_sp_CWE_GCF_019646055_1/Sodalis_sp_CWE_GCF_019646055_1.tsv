@@ -1,0 +1,612 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+Sodalis_sp_CWE_GCF_019646055_1_00001	tRNA	73				tRNA-Thr(tgt)
+Sodalis_sp_CWE_GCF_019646055_1_00002	tRNA	84				tRNA-Tyr(gta)
+Sodalis_sp_CWE_GCF_019646055_1_00003	tRNA	74				tRNA-Gly(tcc)
+Sodalis_sp_CWE_GCF_019646055_1_00004	tRNA	74				tRNA-Thr(ggt)
+Sodalis_sp_CWE_GCF_019646055_1_00005	CDS	1185	tufB		COG0050	Elongation factor Tu 2
+Sodalis_sp_CWE_GCF_019646055_1_00006	CDS	363	secE		COG0690	Protein translocase subunit SecE
+Sodalis_sp_CWE_GCF_019646055_1_00007	CDS	543	nusG		COG0250	Transcription termination/antitermination protein NusG
+Sodalis_sp_CWE_GCF_019646055_1_00008	CDS	429	rplK		COG0080	50S ribosomal protein L11
+Sodalis_sp_CWE_GCF_019646055_1_00009	CDS	705	rplA		COG0081	50S ribosomal protein L1
+Sodalis_sp_CWE_GCF_019646055_1_00010	CDS	504	rplJ		COG0244	50S ribosomal protein L10
+Sodalis_sp_CWE_GCF_019646055_1_00011	CDS	378	rplL		COG0222	50S ribosomal protein L7/L12
+Sodalis_sp_CWE_GCF_019646055_1_00012	CDS	4023	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+Sodalis_sp_CWE_GCF_019646055_1_00013	CDS	4221	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+Sodalis_sp_CWE_GCF_019646055_1_00014	CDS	273	hupA			DNA-binding protein HU-alpha
+Sodalis_sp_CWE_GCF_019646055_1_00015	CDS	330	trxA		COG0526	Thioredoxin 1
+Sodalis_sp_CWE_GCF_019646055_1_00016	CDS	1260	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+Sodalis_sp_CWE_GCF_019646055_1_00017	tRNA	77				tRNA-Arg(ccg)
+Sodalis_sp_CWE_GCF_019646055_1_00018	tRNA	74				tRNA-His(gtg)
+Sodalis_sp_CWE_GCF_019646055_1_00019	tRNA	85				tRNA-Leu(cag)
+Sodalis_sp_CWE_GCF_019646055_1_00020	tRNA	76				tRNA-Pro(tgg)
+Sodalis_sp_CWE_GCF_019646055_1_00021	CDS	825	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+Sodalis_sp_CWE_GCF_019646055_1_00022	CDS	1983	uvrD	3.6.4.12	COG0210	DNA helicase II
+Sodalis_sp_CWE_GCF_019646055_1_00023	CDS	1032	corA		COG0598	Magnesium transport protein CorA
+Sodalis_sp_CWE_GCF_019646055_1_00024	CDS	813	yigL	3.1.3.74	COG0561	Pyridoxal phosphate phosphatase YigL
+Sodalis_sp_CWE_GCF_019646055_1_00025	CDS	612				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00026	CDS	1116	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+Sodalis_sp_CWE_GCF_019646055_1_00027	CDS	582	nfuA		COG0316	Fe/S biogenesis protein NfuA
+Sodalis_sp_CWE_GCF_019646055_1_00028	CDS	792	bioH	3.1.1.85	COG0596	Pimeloyl-[acyl-carrier protein] methyl ester esterase
+Sodalis_sp_CWE_GCF_019646055_1_00029	tmRNA	390	ssrA			transfer-messenger RNA, SsrA
+Sodalis_sp_CWE_GCF_019646055_1_00030	CDS	171				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00031	CDS	630	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+Sodalis_sp_CWE_GCF_019646055_1_00032	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00033	CDS	699	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+Sodalis_sp_CWE_GCF_019646055_1_00034	CDS	645	grpE			Protein GrpE
+Sodalis_sp_CWE_GCF_019646055_1_00035	CDS	885	nadK	2.7.1.23	COG0061	NAD kinase
+Sodalis_sp_CWE_GCF_019646055_1_00036	CDS	288				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00037	CDS	474	smpB		COG0691	SsrA-binding protein
+Sodalis_sp_CWE_GCF_019646055_1_00038	CDS	756	kdsB	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00039	CDS	219				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00040	CDS	1059	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+Sodalis_sp_CWE_GCF_019646055_1_00041	CDS	1767	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+Sodalis_sp_CWE_GCF_019646055_1_00042	CDS	1674	rpsA		COG0539	30S ribosomal protein S1
+Sodalis_sp_CWE_GCF_019646055_1_00043	CDS	699	cmk	2.7.4.25		Cytidylate kinase
+Sodalis_sp_CWE_GCF_019646055_1_00044	CDS	1317	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00045	CDS	1086	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+Sodalis_sp_CWE_GCF_019646055_1_00046	CDS	1317	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00047	CDS	621	lolA		COG2834	Outer-membrane lipoprotein carrier protein
+Sodalis_sp_CWE_GCF_019646055_1_00048	CDS	2664				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00049	CDS	948	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+Sodalis_sp_CWE_GCF_019646055_1_00050	CDS	219	infA		COG0361	Translation initiation factor IF-1
+Sodalis_sp_CWE_GCF_019646055_1_00051	CDS	1047	aroH	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Trp-sensitive
+Sodalis_sp_CWE_GCF_019646055_1_00052	CDS	336	grxD		COG0278	Glutaredoxin 4
+Sodalis_sp_CWE_GCF_019646055_1_00053	CDS	642	rnt	3.1.13.-	COG0847	Ribonuclease T
+Sodalis_sp_CWE_GCF_019646055_1_00054	CDS	648	nth	4.2.99.18	COG0177	Endonuclease III
+Sodalis_sp_CWE_GCF_019646055_1_00055	CDS	1281	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00056	CDS	258	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Sodalis_sp_CWE_GCF_019646055_1_00057	CDS	618	ribC	2.5.1.9	COG0307	Riboflavin synthase
+Sodalis_sp_CWE_GCF_019646055_1_00058	tRNA	77				tRNA-Val(gac)
+Sodalis_sp_CWE_GCF_019646055_1_00059	CDS	240	lpp1			Major outer membrane lipoprotein Lpp 1
+Sodalis_sp_CWE_GCF_019646055_1_00060	CDS	420	sufE		COG2166	Cysteine desulfuration protein SufE
+Sodalis_sp_CWE_GCF_019646055_1_00061	CDS	1233	sufS	2.8.1.7	COG0520	Cysteine desulfurase
+Sodalis_sp_CWE_GCF_019646055_1_00062	CDS	1278	sufD		COG0719	FeS cluster assembly protein SufD
+Sodalis_sp_CWE_GCF_019646055_1_00063	CDS	744	sufC		COG0396	putative ATP-dependent transporter SufC
+Sodalis_sp_CWE_GCF_019646055_1_00064	CDS	1533	sufB		COG0719	FeS cluster assembly protein SufB
+Sodalis_sp_CWE_GCF_019646055_1_00065	CDS	381	sufA		COG0316	Protein SufA
+Sodalis_sp_CWE_GCF_019646055_1_00066	CDS	789	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+Sodalis_sp_CWE_GCF_019646055_1_00067	CDS	603	ribA	3.5.4.25	COG0807	GTP cyclohydrolase-2
+Sodalis_sp_CWE_GCF_019646055_1_00068	CDS	768	yciK	1.-.-.-	COG1028	putative oxidoreductase YciK
+Sodalis_sp_CWE_GCF_019646055_1_00069	CDS	174				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00070	CDS	762				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00071	CDS	540	yciB		COG2917	Intracellular septation protein
+Sodalis_sp_CWE_GCF_019646055_1_00072	CDS	1461	clsA	2.7.8.-	COG1502	Cardiolipin synthase A
+Sodalis_sp_CWE_GCF_019646055_1_00073	CDS	1017	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Sodalis_sp_CWE_GCF_019646055_1_00074	CDS	1908	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Sodalis_sp_CWE_GCF_019646055_1_00075	CDS	921	oppB		COG0601	Oligopeptide transport system permease protein OppB
+Sodalis_sp_CWE_GCF_019646055_1_00076	CDS	1638	oppA		COG4166	Periplasmic oligopeptide-binding protein
+Sodalis_sp_CWE_GCF_019646055_1_00077	CDS	621	tdk	2.7.1.21		Thymidine kinase
+Sodalis_sp_CWE_GCF_019646055_1_00078	CDS	408	hns			DNA-binding protein H-NS
+Sodalis_sp_CWE_GCF_019646055_1_00079	CDS	144				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00080	CDS	1872	sppA	3.4.21.-	COG0616	Protease 4
+Sodalis_sp_CWE_GCF_019646055_1_00081	CDS	999	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+Sodalis_sp_CWE_GCF_019646055_1_00082	CDS	1716	cvrA		COG3263	K(+)/H(+) antiporter NhaP2
+Sodalis_sp_CWE_GCF_019646055_1_00083	CDS	531	dsbB		COG1495	Disulfide bond formation protein B
+Sodalis_sp_CWE_GCF_019646055_1_00084	CDS	699	minC		COG0850	Septum site-determining protein MinC
+Sodalis_sp_CWE_GCF_019646055_1_00085	CDS	813	minD		COG2894	Septum site-determining protein MinD
+Sodalis_sp_CWE_GCF_019646055_1_00086	CDS	264	minE		COG0851	Cell division topological specificity factor
+Sodalis_sp_CWE_GCF_019646055_1_00087	CDS	708	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+Sodalis_sp_CWE_GCF_019646055_1_00088	CDS	1371	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+Sodalis_sp_CWE_GCF_019646055_1_00089	CDS	975	manX	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component
+Sodalis_sp_CWE_GCF_019646055_1_00090	CDS	816	manY		COG3715	PTS system mannose-specific EIIC component
+Sodalis_sp_CWE_GCF_019646055_1_00091	CDS	891	manZ		COG3716	PTS system mannose-specific EIID component
+Sodalis_sp_CWE_GCF_019646055_1_00092	CDS	210	cspC			Cold shock-like protein CspC
+Sodalis_sp_CWE_GCF_019646055_1_00093	CDS	888	htpX	3.4.24.-	COG0501	Protease HtpX
+Sodalis_sp_CWE_GCF_019646055_1_00094	CDS	492	ftnA	1.16.3.2	COG1528	Bacterial non-heme ferritin
+Sodalis_sp_CWE_GCF_019646055_1_00095	tRNA	74				tRNA-Thr(cgt)
+Sodalis_sp_CWE_GCF_019646055_1_00096	CDS	939			COG0715	Putative thiamine biosynthesis protein
+Sodalis_sp_CWE_GCF_019646055_1_00097	CDS	771	ribX			Riboflavin transport system permease protein RibX
+Sodalis_sp_CWE_GCF_019646055_1_00098	CDS	744	ssuB	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+Sodalis_sp_CWE_GCF_019646055_1_00099	tRNA	76				tRNA-Asn(gtt)
+Sodalis_sp_CWE_GCF_019646055_1_00100	CDS	1755	mdlB	7.6.2.2	COG1132	Multidrug resistance-like ATP-binding protein MdlB
+Sodalis_sp_CWE_GCF_019646055_1_00101	CDS	1770	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+Sodalis_sp_CWE_GCF_019646055_1_00102	CDS	168				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00103	CDS	2370	lon	3.4.21.53	COG0466	Lon protease
+Sodalis_sp_CWE_GCF_019646055_1_00104	CDS	1281	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+Sodalis_sp_CWE_GCF_019646055_1_00105	CDS	630	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+Sodalis_sp_CWE_GCF_019646055_1_00106	CDS	153				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00107	CDS	975	cyoA		COG1622	Cytochrome bo(3) ubiquinol oxidase subunit 2
+Sodalis_sp_CWE_GCF_019646055_1_00108	CDS	1998	cyoB	7.1.1.3	COG0843	Cytochrome bo(3) ubiquinol oxidase subunit 1
+Sodalis_sp_CWE_GCF_019646055_1_00109	CDS	615	cyoC		COG1845	Cytochrome bo(3) ubiquinol oxidase subunit 3
+Sodalis_sp_CWE_GCF_019646055_1_00110	CDS	348	cyoD		COG3125	Cytochrome bo(3) ubiquinol oxidase subunit 4
+Sodalis_sp_CWE_GCF_019646055_1_00111	CDS	921	cyoE	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00112	CDS	1356	yajR		COG0477	Inner membrane transport protein YajR
+Sodalis_sp_CWE_GCF_019646055_1_00113	CDS	894	panE	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+Sodalis_sp_CWE_GCF_019646055_1_00114	CDS	618	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+Sodalis_sp_CWE_GCF_019646055_1_00115	CDS	1860	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+Sodalis_sp_CWE_GCF_019646055_1_00116	CDS	981	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+Sodalis_sp_CWE_GCF_019646055_1_00117	CDS	456	nusB		COG0781	Transcription antitermination protein NusB
+Sodalis_sp_CWE_GCF_019646055_1_00118	CDS	471	ribE	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+Sodalis_sp_CWE_GCF_019646055_1_00119	CDS	1125	ribD		COG0117	Riboflavin biosynthesis protein RibD
+Sodalis_sp_CWE_GCF_019646055_1_00120	CDS	990	secF		COG0341	Protein translocase subunit SecF
+Sodalis_sp_CWE_GCF_019646055_1_00121	CDS	1848	secD		COG0342	Protein translocase subunit SecD
+Sodalis_sp_CWE_GCF_019646055_1_00122	CDS	333	yajC		COG1862	Sec translocon accessory complex subunit YajC
+Sodalis_sp_CWE_GCF_019646055_1_00123	CDS	1176	tgt	2.4.2.29	COG0343	Queuine tRNA-ribosyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00124	CDS	114				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00125	CDS	600	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+Sodalis_sp_CWE_GCF_019646055_1_00126	CDS	969	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+Sodalis_sp_CWE_GCF_019646055_1_00127	CDS	1038	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+Sodalis_sp_CWE_GCF_019646055_1_00128	CDS	609	gmhB	3.1.3.82	COG0241	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+Sodalis_sp_CWE_GCF_019646055_1_00129	CDS	903	murI	5.1.1.3	COG0796	Glutamate racemase
+Sodalis_sp_CWE_GCF_019646055_1_00130	CDS	756	gloB	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase
+Sodalis_sp_CWE_GCF_019646055_1_00131	CDS	501	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+Sodalis_sp_CWE_GCF_019646055_1_00132	CDS	774	dnaQ	2.7.7.7	COG0847	DNA polymerase III subunit epsilon
+Sodalis_sp_CWE_GCF_019646055_1_00133	tRNA	77				tRNA-Asp(gtc)
+Sodalis_sp_CWE_GCF_019646055_1_00134	CDS	579	gmhA	5.3.1.28	COG0279	Phosphoheptose isomerase
+Sodalis_sp_CWE_GCF_019646055_1_00135	CDS	459	gpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00136	CDS	1473	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+Sodalis_sp_CWE_GCF_019646055_1_00137	CDS	1446	pykA	2.7.1.40	COG0469	Pyruvate kinase II
+Sodalis_sp_CWE_GCF_019646055_1_00138	CDS	1356	mntH			Divalent metal cation transporter MntH
+Sodalis_sp_CWE_GCF_019646055_1_00139	CDS	1251				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00140	CDS	1038	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+Sodalis_sp_CWE_GCF_019646055_1_00141	CDS	699	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+Sodalis_sp_CWE_GCF_019646055_1_00142	CDS	528	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+Sodalis_sp_CWE_GCF_019646055_1_00143	CDS	1764	aspS	6.1.1.12	COG0173	Aspartate--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00144	CDS	1416	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+Sodalis_sp_CWE_GCF_019646055_1_00145	CDS	1008	gutQ	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase GutQ
+Sodalis_sp_CWE_GCF_019646055_1_00146	tRNA	88				tRNA-Ser(gga)
+Sodalis_sp_CWE_GCF_019646055_1_00147	CDS	1221	mdtH			Multidrug resistance protein MdtH
+Sodalis_sp_CWE_GCF_019646055_1_00148	CDS	141				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00149	CDS	321	murJ_1		COG0728	putative lipid II flippase MurJ
+Sodalis_sp_CWE_GCF_019646055_1_00150	CDS	1212	murJ_2		COG0728	putative lipid II flippase MurJ
+Sodalis_sp_CWE_GCF_019646055_1_00151	CDS	123				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00152	CDS	1755	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00153	rRNA	1548				16S ribosomal RNA
+Sodalis_sp_CWE_GCF_019646055_1_00154	tRNA	74				tRNA-Trp(cca)
+Sodalis_sp_CWE_GCF_019646055_1_00155	CDS	1359	pssA	2.7.8.8	COG1502	CDP-diacylglycerol--serine O-phosphatidyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00156	CDS	2205	priA	3.6.4.-	COG1198	Primosomal protein N'
+Sodalis_sp_CWE_GCF_019646055_1_00157	CDS	219	rpmE		COG0254	50S ribosomal protein L31
+Sodalis_sp_CWE_GCF_019646055_1_00158	CDS	852	nfo	3.1.21.2	COG0648	Endonuclease 4
+Sodalis_sp_CWE_GCF_019646055_1_00159	CDS	849	ftsN			Cell division protein FtsN
+Sodalis_sp_CWE_GCF_019646055_1_00160	CDS	531	hslV	3.4.25.2	COG5405	ATP-dependent protease subunit HslV
+Sodalis_sp_CWE_GCF_019646055_1_00161	CDS	1338	hslU		COG1220	ATP-dependent protease ATPase subunit HslU
+Sodalis_sp_CWE_GCF_019646055_1_00162	CDS	747	fpr	1.18.1.2	COG1018	Flavodoxin/ferredoxin--NADP reductase
+Sodalis_sp_CWE_GCF_019646055_1_00163	CDS	783	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+Sodalis_sp_CWE_GCF_019646055_1_00164	CDS	2397	mrcB		COG0744	Penicillin-binding protein 1B
+Sodalis_sp_CWE_GCF_019646055_1_00165	CDS	1167	pcnB	2.7.7.19	COG0617	Poly(A) polymerase I
+Sodalis_sp_CWE_GCF_019646055_1_00166	CDS	495	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+Sodalis_sp_CWE_GCF_019646055_1_00167	CDS	792	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00168	CDS	864	panC	6.3.2.1	COG0414	Pantothenate synthetase
+Sodalis_sp_CWE_GCF_019646055_1_00169	CDS	876	ubiA	2.5.1.39	COG0382	4-hydroxybenzoate octaprenyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00170	CDS	1653	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+Sodalis_sp_CWE_GCF_019646055_1_00171	CDS	1368	lysC	2.7.2.4	COG0527	Lysine-sensitive aspartokinase 3
+Sodalis_sp_CWE_GCF_019646055_1_00172	CDS	1419	lpdA	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+Sodalis_sp_CWE_GCF_019646055_1_00173	CDS	1500	aceF	2.3.1.12	COG0508	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+Sodalis_sp_CWE_GCF_019646055_1_00174	CDS	2682	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+Sodalis_sp_CWE_GCF_019646055_1_00175	CDS	204				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00176	CDS	891	nadC	2.4.2.19	COG0157	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+Sodalis_sp_CWE_GCF_019646055_1_00177	CDS	1104	guaC	1.7.1.7	COG0516	GMP reductase
+Sodalis_sp_CWE_GCF_019646055_1_00178	CDS	2718	secA		COG0653	Protein translocase subunit SecA
+Sodalis_sp_CWE_GCF_019646055_1_00179	CDS	585				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00180	CDS	945	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+Sodalis_sp_CWE_GCF_019646055_1_00181	CDS	1170	ftsZ		COG0206	Cell division protein FtsZ
+Sodalis_sp_CWE_GCF_019646055_1_00182	CDS	1260	ftsA		COG0849	Cell division protein FtsA
+Sodalis_sp_CWE_GCF_019646055_1_00183	CDS	348				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00184	CDS	1437	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+Sodalis_sp_CWE_GCF_019646055_1_00185	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+Sodalis_sp_CWE_GCF_019646055_1_00186	CDS	1167	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+Sodalis_sp_CWE_GCF_019646055_1_00187	CDS	1320	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+Sodalis_sp_CWE_GCF_019646055_1_00188	CDS	1086	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+Sodalis_sp_CWE_GCF_019646055_1_00189	CDS	1380	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+Sodalis_sp_CWE_GCF_019646055_1_00190	CDS	1497	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+Sodalis_sp_CWE_GCF_019646055_1_00191	CDS	1728	ftsI	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase FtsI
+Sodalis_sp_CWE_GCF_019646055_1_00192	CDS	330	ftsL		COG3116	Cell division protein FtsL
+Sodalis_sp_CWE_GCF_019646055_1_00193	CDS	948	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+Sodalis_sp_CWE_GCF_019646055_1_00194	CDS	1929	dnaK		COG0443	Chaperone protein DnaK
+Sodalis_sp_CWE_GCF_019646055_1_00195	CDS	1143	dnaJ		COG0484	Chaperone protein DnaJ
+Sodalis_sp_CWE_GCF_019646055_1_00196	CDS	264	rpsT		COG0268	30S ribosomal protein S20
+Sodalis_sp_CWE_GCF_019646055_1_00197	CDS	945	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00198	CDS	2823	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00199	CDS	429	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+Sodalis_sp_CWE_GCF_019646055_1_00200	CDS	963	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+Sodalis_sp_CWE_GCF_019646055_1_00201	CDS	825	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+Sodalis_sp_CWE_GCF_019646055_1_00202	CDS	516	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+Sodalis_sp_CWE_GCF_019646055_1_00203	CDS	840	apaH	3.6.1.41	COG0639	Bis(5'-nucleosyl)-tetraphosphatase [symmetrical]
+Sodalis_sp_CWE_GCF_019646055_1_00204	CDS	135				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00205	CDS	834	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+Sodalis_sp_CWE_GCF_019646055_1_00206	CDS	990	pdxA	1.1.1.262	COG1995	4-hydroxythreonine-4-phosphate dehydrogenase
+Sodalis_sp_CWE_GCF_019646055_1_00207	CDS	1317	surA	5.2.1.8	COG0760	Chaperone SurA
+Sodalis_sp_CWE_GCF_019646055_1_00208	CDS	2322	lptD		COG1452	LPS-assembly protein LptD
+Sodalis_sp_CWE_GCF_019646055_1_00209	CDS	582	pabA	2.6.1.85	COG0512	Aminodeoxychorismate synthase component 2
+Sodalis_sp_CWE_GCF_019646055_1_00210	CDS	390	tusD	2.8.1.-	COG1553	Sulfurtransferase TusD
+Sodalis_sp_CWE_GCF_019646055_1_00211	CDS	360	tusC		COG2923	Protein TusC
+Sodalis_sp_CWE_GCF_019646055_1_00212	CDS	288	tusB		COG2168	Protein TusB
+Sodalis_sp_CWE_GCF_019646055_1_00213	CDS	375	rpsL		COG0048	30S ribosomal protein S12
+Sodalis_sp_CWE_GCF_019646055_1_00214	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+Sodalis_sp_CWE_GCF_019646055_1_00215	CDS	2109	fusA		COG0480	Elongation factor G
+Sodalis_sp_CWE_GCF_019646055_1_00216	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+Sodalis_sp_CWE_GCF_019646055_1_00217	CDS	651	rplC		COG0087	50S ribosomal protein L3
+Sodalis_sp_CWE_GCF_019646055_1_00218	CDS	597	rplD		COG0088	50S ribosomal protein L4
+Sodalis_sp_CWE_GCF_019646055_1_00219	CDS	312	rplW		COG0089	50S ribosomal protein L23
+Sodalis_sp_CWE_GCF_019646055_1_00220	CDS	822	rplB		COG0090	50S ribosomal protein L2
+Sodalis_sp_CWE_GCF_019646055_1_00221	CDS	279	rpsS		COG0185	30S ribosomal protein S19
+Sodalis_sp_CWE_GCF_019646055_1_00222	CDS	333	rplV		COG0091	50S ribosomal protein L22
+Sodalis_sp_CWE_GCF_019646055_1_00223	CDS	714	rpsC		COG0092	30S ribosomal protein S3
+Sodalis_sp_CWE_GCF_019646055_1_00224	CDS	414	rplP		COG0197	50S ribosomal protein L16
+Sodalis_sp_CWE_GCF_019646055_1_00225	CDS	195	rpmC		COG0255	50S ribosomal protein L29
+Sodalis_sp_CWE_GCF_019646055_1_00226	CDS	252	rpsQ		COG0186	30S ribosomal protein S17
+Sodalis_sp_CWE_GCF_019646055_1_00227	CDS	372	rplN		COG0093	50S ribosomal protein L14
+Sodalis_sp_CWE_GCF_019646055_1_00228	CDS	315	rplX		COG0198	50S ribosomal protein L24
+Sodalis_sp_CWE_GCF_019646055_1_00229	CDS	543	rplE		COG0094	50S ribosomal protein L5
+Sodalis_sp_CWE_GCF_019646055_1_00230	CDS	306	rpsN		COG0199	30S ribosomal protein S14
+Sodalis_sp_CWE_GCF_019646055_1_00231	CDS	393	rpsH		COG0096	30S ribosomal protein S8
+Sodalis_sp_CWE_GCF_019646055_1_00232	CDS	534	rplF		COG0097	50S ribosomal protein L6
+Sodalis_sp_CWE_GCF_019646055_1_00233	CDS	360	rplR		COG0256	50S ribosomal protein L18
+Sodalis_sp_CWE_GCF_019646055_1_00234	CDS	525	rpsE		COG0098	30S ribosomal protein S5
+Sodalis_sp_CWE_GCF_019646055_1_00235	CDS	210	rpmD		COG1841	50S ribosomal protein L30
+Sodalis_sp_CWE_GCF_019646055_1_00236	CDS	438	rplO		COG0200	50S ribosomal protein L15
+Sodalis_sp_CWE_GCF_019646055_1_00237	CDS	1398	secY		COG0201	Protein translocase subunit SecY
+Sodalis_sp_CWE_GCF_019646055_1_00238	CDS	117	rpmJ		COG0257	50S ribosomal protein L36
+Sodalis_sp_CWE_GCF_019646055_1_00239	CDS	357	rpsM		COG0099	30S ribosomal protein S13
+Sodalis_sp_CWE_GCF_019646055_1_00240	CDS	396	rpsK		COG0100	30S ribosomal protein S11
+Sodalis_sp_CWE_GCF_019646055_1_00241	CDS	621	rpsD		COG0522	30S ribosomal protein S4
+Sodalis_sp_CWE_GCF_019646055_1_00242	CDS	1005	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+Sodalis_sp_CWE_GCF_019646055_1_00243	CDS	387	rplQ		COG0203	50S ribosomal protein L17
+Sodalis_sp_CWE_GCF_019646055_1_00244	CDS	1314	gltP		COG1301	Proton/glutamate-aspartate symporter
+Sodalis_sp_CWE_GCF_019646055_1_00245	CDS	546	ssb			Single-stranded DNA-binding protein
+Sodalis_sp_CWE_GCF_019646055_1_00246	CDS	2835	uvrA		COG0178	UvrABC system protein A
+Sodalis_sp_CWE_GCF_019646055_1_00247	CDS	1398	dnaB	3.6.4.12	COG0305	Replicative DNA helicase
+Sodalis_sp_CWE_GCF_019646055_1_00248	CDS	276	tusA		COG0425	Sulfur carrier protein TusA
+Sodalis_sp_CWE_GCF_019646055_1_00249	CDS	567	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+Sodalis_sp_CWE_GCF_019646055_1_00250	CDS	858	rpoH		COG0568	RNA polymerase sigma factor RpoH
+Sodalis_sp_CWE_GCF_019646055_1_00251	CDS	1071	lptG		COG0795	Lipopolysaccharide export system permease protein LptG
+Sodalis_sp_CWE_GCF_019646055_1_00252	CDS	1101	lptF		COG0795	Lipopolysaccharide export system permease protein LptF
+Sodalis_sp_CWE_GCF_019646055_1_00253	CDS	2871	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00254	CDS	1011	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00255	CDS	678	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+Sodalis_sp_CWE_GCF_019646055_1_00256	CDS	1110	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+Sodalis_sp_CWE_GCF_019646055_1_00257	CDS	519	aroK	2.7.1.71	COG0703	Shikimate kinase 1
+Sodalis_sp_CWE_GCF_019646055_1_00258	CDS	708	deaD_1	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+Sodalis_sp_CWE_GCF_019646055_1_00259	CDS	1824	deaD_2	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+Sodalis_sp_CWE_GCF_019646055_1_00260	CDS	2106	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00261	CDS	267	rpsO		COG0184	30S ribosomal protein S15
+Sodalis_sp_CWE_GCF_019646055_1_00262	CDS	939	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+Sodalis_sp_CWE_GCF_019646055_1_00263	CDS	372	rbfA		COG0858	30S ribosome-binding factor
+Sodalis_sp_CWE_GCF_019646055_1_00264	CDS	2712	infB		COG0532	Translation initiation factor IF-2
+Sodalis_sp_CWE_GCF_019646055_1_00265	CDS	1497	nusA		COG0195	Transcription termination/antitermination protein NusA
+Sodalis_sp_CWE_GCF_019646055_1_00266	tRNA	74				tRNA-Met(cat)
+Sodalis_sp_CWE_GCF_019646055_1_00267	tRNA	86				tRNA-Leu(gag)
+Sodalis_sp_CWE_GCF_019646055_1_00268	CDS	327	secG		COG1314	Protein-export membrane protein SecG
+Sodalis_sp_CWE_GCF_019646055_1_00269	CDS	858	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+Sodalis_sp_CWE_GCF_019646055_1_00270	CDS	1959	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+Sodalis_sp_CWE_GCF_019646055_1_00271	CDS	624	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+Sodalis_sp_CWE_GCF_019646055_1_00272	CDS	477	greA		COG0782	Transcription elongation factor GreA
+Sodalis_sp_CWE_GCF_019646055_1_00273	CDS	288				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00274	CDS	1029	obgE	3.6.5.-	COG0536	GTPase ObgE/CgtA
+Sodalis_sp_CWE_GCF_019646055_1_00275	CDS	255	rpmA		COG0211	50S ribosomal protein L27
+Sodalis_sp_CWE_GCF_019646055_1_00276	CDS	312	rplU		COG0261	50S ribosomal protein L21
+Sodalis_sp_CWE_GCF_019646055_1_00277	CDS	972	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+Sodalis_sp_CWE_GCF_019646055_1_00278	CDS	558	ppa	3.6.1.1	COG0221	Inorganic pyrophosphatase
+Sodalis_sp_CWE_GCF_019646055_1_00279	CDS	453	rplI		COG0359	50S ribosomal protein L9
+Sodalis_sp_CWE_GCF_019646055_1_00280	CDS	228	rpsR		COG0238	30S ribosomal protein S18
+Sodalis_sp_CWE_GCF_019646055_1_00281	CDS	318	priB		COG2965	Primosomal replication protein N
+Sodalis_sp_CWE_GCF_019646055_1_00282	CDS	429				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00283	CDS	831	rlmB	2.1.1.185	COG0566	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+Sodalis_sp_CWE_GCF_019646055_1_00284	CDS	2286	rnr	3.1.13.1	COG0557	Ribonuclease R
+Sodalis_sp_CWE_GCF_019646055_1_00285	CDS	1302	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+Sodalis_sp_CWE_GCF_019646055_1_00286	CDS	1032	hflC		COG0330	Modulator of FtsH protease HflC
+Sodalis_sp_CWE_GCF_019646055_1_00287	CDS	1266	hflK		COG0330	Modulator of FtsH protease HflK
+Sodalis_sp_CWE_GCF_019646055_1_00288	CDS	267	hfq		COG1923	RNA-binding protein Hfq
+Sodalis_sp_CWE_GCF_019646055_1_00289	CDS	963	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00290	CDS	1395	amiB	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase AmiB
+Sodalis_sp_CWE_GCF_019646055_1_00291	tRNA	75				tRNA-Gly(gcc)
+Sodalis_sp_CWE_GCF_019646055_1_00292	CDS	546	orn	3.1.-.-	COG1949	Oligoribonuclease
+Sodalis_sp_CWE_GCF_019646055_1_00293	CDS	888	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+Sodalis_sp_CWE_GCF_019646055_1_00294	CDS	3186	mscM		COG3264	Miniconductance mechanosensitive channel MscM
+Sodalis_sp_CWE_GCF_019646055_1_00295	CDS	987	epmA	6.3.1.-	COG2269	Elongation factor P--(R)-beta-lysine ligase
+Sodalis_sp_CWE_GCF_019646055_1_00296	CDS	582	efp		COG0231	Elongation factor P
+Sodalis_sp_CWE_GCF_019646055_1_00297	CDS	1014	epmB	5.4.3.-	COG1509	L-lysine 2,3-aminomutase
+Sodalis_sp_CWE_GCF_019646055_1_00298	CDS	1653	groL		COG0459	60 kDa chaperonin
+Sodalis_sp_CWE_GCF_019646055_1_00299	CDS	294	groS		COG0234	10 kDa chaperonin
+Sodalis_sp_CWE_GCF_019646055_1_00300	CDS	1431	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+Sodalis_sp_CWE_GCF_019646055_1_00301	CDS	741	plsC	2.3.1.51	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00302	CDS	651	ribB	4.1.99.12	COG0108	3,4-dihydroxy-2-butanone 4-phosphate synthase
+Sodalis_sp_CWE_GCF_019646055_1_00303	CDS	300	ubiK			Ubiquinone biosynthesis accessory factor UbiK
+Sodalis_sp_CWE_GCF_019646055_1_00304	CDS	1440	hldE		COG2870	Bifunctional protein HldE
+Sodalis_sp_CWE_GCF_019646055_1_00305	CDS	1251	cca		COG0617	Multifunctional CCA protein
+Sodalis_sp_CWE_GCF_019646055_1_00306	CDS	831	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+Sodalis_sp_CWE_GCF_019646055_1_00307	CDS	399	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+Sodalis_sp_CWE_GCF_019646055_1_00308	CDS	630	plsY	2.3.1.15	COG0344	putative glycerol-3-phosphate acyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00309	CDS	1035	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00310	CDS	216	rpsU		COG0828	30S ribosomal protein S21
+Sodalis_sp_CWE_GCF_019646055_1_00311	CDS	1743	dnaG	2.7.7.-	COG0358	DNA primase
+Sodalis_sp_CWE_GCF_019646055_1_00312	CDS	1872	rpoD		COG0568	RNA polymerase sigma factor RpoD
+Sodalis_sp_CWE_GCF_019646055_1_00313	tRNA	75				tRNA-Met(cat)
+Sodalis_sp_CWE_GCF_019646055_1_00314	CDS	651	yqjA		COG0586	Inner membrane protein YqjA
+Sodalis_sp_CWE_GCF_019646055_1_00315	CDS	876	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+Sodalis_sp_CWE_GCF_019646055_1_00316	CDS	678				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00317	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+Sodalis_sp_CWE_GCF_019646055_1_00318	CDS	447	rplM		COG0102	50S ribosomal protein L13
+Sodalis_sp_CWE_GCF_019646055_1_00319	CDS	1368	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+Sodalis_sp_CWE_GCF_019646055_1_00320	CDS	1266	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00321	CDS	255	ibaG		COG5007	Acid stress protein IbaG
+Sodalis_sp_CWE_GCF_019646055_1_00322	CDS	345	mlaB		COG3113	Intermembrane phospholipid transport system binding protein MlaB
+Sodalis_sp_CWE_GCF_019646055_1_00323	CDS	639	mlaC		COG2854	Intermembrane phospholipid transport system binding protein MlaC
+Sodalis_sp_CWE_GCF_019646055_1_00324	CDS	447	mlaD		COG1463	Intermembrane phospholipid transport system binding protein MlaD
+Sodalis_sp_CWE_GCF_019646055_1_00325	CDS	783	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+Sodalis_sp_CWE_GCF_019646055_1_00326	CDS	837	mlaF	3.6.3.-	COG1127	Intermembrane phospholipid transport system ATP-binding protein MlaF
+Sodalis_sp_CWE_GCF_019646055_1_00327	CDS	240				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00328	CDS	537	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+Sodalis_sp_CWE_GCF_019646055_1_00329	CDS	576	lptC		COG3117	Lipopolysaccharide export system protein LptC
+Sodalis_sp_CWE_GCF_019646055_1_00330	CDS	522	lptA		COG1934	Lipopolysaccharide export system protein LptA
+Sodalis_sp_CWE_GCF_019646055_1_00331	CDS	726	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+Sodalis_sp_CWE_GCF_019646055_1_00332	CDS	480	ptsN		COG1762	Nitrogen regulatory protein
+Sodalis_sp_CWE_GCF_019646055_1_00333	tRNA	83				tRNA-Leu(caa)
+Sodalis_sp_CWE_GCF_019646055_1_00334	CDS	501	mreD		COG2891	Rod shape-determining protein MreD
+Sodalis_sp_CWE_GCF_019646055_1_00335	CDS	885	mreC		COG1792	Cell shape-determining protein MreC
+Sodalis_sp_CWE_GCF_019646055_1_00336	CDS	1044	mreB		COG1077	Cell shape-determining protein MreB
+Sodalis_sp_CWE_GCF_019646055_1_00337	CDS	453	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+Sodalis_sp_CWE_GCF_019646055_1_00338	CDS	450	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+Sodalis_sp_CWE_GCF_019646055_1_00339	CDS	1341	accC	6.3.4.14	COG0439	Biotin carboxylase
+Sodalis_sp_CWE_GCF_019646055_1_00340	CDS	864	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+Sodalis_sp_CWE_GCF_019646055_1_00341	CDS	570	tsaC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+Sodalis_sp_CWE_GCF_019646055_1_00342	CDS	528	def	3.5.1.88	COG0242	Peptide deformylase
+Sodalis_sp_CWE_GCF_019646055_1_00343	CDS	951	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00344	CDS	1476				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00345	CDS	774	ubiE	2.1.1.163	COG2226	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+Sodalis_sp_CWE_GCF_019646055_1_00346	CDS	1638	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+Sodalis_sp_CWE_GCF_019646055_1_00347	CDS	1488	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+Sodalis_sp_CWE_GCF_019646055_1_00348	CDS	1725	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00349	CDS	1464	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+Sodalis_sp_CWE_GCF_019646055_1_00350	CDS	960	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+Sodalis_sp_CWE_GCF_019646055_1_00351	CDS	3489	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+Sodalis_sp_CWE_GCF_019646055_1_00352	CDS	1161	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+Sodalis_sp_CWE_GCF_019646055_1_00353	CDS	789	lpxA	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00354	CDS	456	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Sodalis_sp_CWE_GCF_019646055_1_00355	CDS	1023	lpxD	2.3.1.191	COG1044	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00356	CDS	501	skp		COG2825	Chaperone protein Skp
+Sodalis_sp_CWE_GCF_019646055_1_00357	CDS	2448	bamA		COG4775	Outer membrane protein assembly factor BamA
+Sodalis_sp_CWE_GCF_019646055_1_00358	CDS	873	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00359	CDS	750	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+Sodalis_sp_CWE_GCF_019646055_1_00360	CDS	1197	dxr	1.1.1.267		1-deoxy-D-xylulose 5-phosphate reductoisomerase
+Sodalis_sp_CWE_GCF_019646055_1_00361	CDS	558	frr		COG0233	Ribosome-recycling factor
+Sodalis_sp_CWE_GCF_019646055_1_00362	CDS	726	pyrH	2.7.4.22	COG0528	Uridylate kinase
+Sodalis_sp_CWE_GCF_019646055_1_00363	CDS	801	tsf		COG0264	Elongation factor Ts
+Sodalis_sp_CWE_GCF_019646055_1_00364	CDS	705	rpsB		COG0052	30S ribosomal protein S2
+Sodalis_sp_CWE_GCF_019646055_1_00365	CDS	771	map	3.4.11.18	COG0024	Methionine aminopeptidase
+Sodalis_sp_CWE_GCF_019646055_1_00366	CDS	825	dapD	2.3.1.117	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00367	CDS	864	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+Sodalis_sp_CWE_GCF_019646055_1_00368	CDS	3441	recC	3.1.11.5	COG1330	RecBCD enzyme subunit RecC
+Sodalis_sp_CWE_GCF_019646055_1_00369	CDS	3651	recB	3.1.11.5	COG1074	RecBCD enzyme subunit RecB
+Sodalis_sp_CWE_GCF_019646055_1_00370	CDS	1938	recD	3.1.11.5	COG0507	RecBCD enzyme subunit RecD
+Sodalis_sp_CWE_GCF_019646055_1_00371	CDS	1500	lysU	6.1.1.6	COG1190	Lysine--tRNA ligase, heat inducible
+Sodalis_sp_CWE_GCF_019646055_1_00372	CDS	1098	prfB		COG1186	Peptide chain release factor RF2
+Sodalis_sp_CWE_GCF_019646055_1_00373	CDS	990	ygfZ		COG0354	tRNA-modifying protein YgfZ
+Sodalis_sp_CWE_GCF_019646055_1_00374	CDS	726				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00375	CDS	1224	ubiI	1.14.13.240	COG0654	2-octaprenylphenol hydroxylase
+Sodalis_sp_CWE_GCF_019646055_1_00376	CDS	1188	ubiH	1.14.13.-	COG0654	2-octaprenyl-6-methoxyphenol hydroxylase
+Sodalis_sp_CWE_GCF_019646055_1_00377	CDS	663	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+Sodalis_sp_CWE_GCF_019646055_1_00378	CDS	1077	fbaA	4.1.2.13	COG0191	Fructose-bisphosphate aldolase class 2
+Sodalis_sp_CWE_GCF_019646055_1_00379	CDS	1167	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+Sodalis_sp_CWE_GCF_019646055_1_00380	CDS	708	nucM	3.1.21.-	COG2356	Nuclease NucM
+Sodalis_sp_CWE_GCF_019646055_1_00381	CDS	564				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00382	CDS	432	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+Sodalis_sp_CWE_GCF_019646055_1_00383	CDS	558				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00384	CDS	1023	mutY	3.2.2.31	COG1194	Adenine DNA glycosylase
+Sodalis_sp_CWE_GCF_019646055_1_00385	CDS	234	yggX		COG2924	putative Fe(2+)-trafficking protein
+Sodalis_sp_CWE_GCF_019646055_1_00386	CDS	1104	mltC	4.2.2.-	COG0741	Membrane-bound lytic murein transglycosylase C
+Sodalis_sp_CWE_GCF_019646055_1_00387	tRNA	75				tRNA-Phe(gaa)
+Sodalis_sp_CWE_GCF_019646055_1_00388	CDS	2088	tktA	2.2.1.1	COG0021	Transketolase 1
+Sodalis_sp_CWE_GCF_019646055_1_00389	CDS	2433	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+Sodalis_sp_CWE_GCF_019646055_1_00390	CDS	996	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+Sodalis_sp_CWE_GCF_019646055_1_00391	CDS	357	rplT		COG0292	50S ribosomal protein L20
+Sodalis_sp_CWE_GCF_019646055_1_00392	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+Sodalis_sp_CWE_GCF_019646055_1_00393	CDS	534	infC		COG0290	Translation initiation factor IF-3
+Sodalis_sp_CWE_GCF_019646055_1_00394	CDS	1932	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00395	CDS	828	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+Sodalis_sp_CWE_GCF_019646055_1_00396	CDS	849	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+Sodalis_sp_CWE_GCF_019646055_1_00397	CDS	756	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00398	CDS	1083	prfA		COG0216	Peptide chain release factor RF1
+Sodalis_sp_CWE_GCF_019646055_1_00399	CDS	639	lolB		COG3017	Outer-membrane lipoprotein LolB
+Sodalis_sp_CWE_GCF_019646055_1_00400	CDS	888	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+Sodalis_sp_CWE_GCF_019646055_1_00401	CDS	948	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+Sodalis_sp_CWE_GCF_019646055_1_00402	CDS	600	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+Sodalis_sp_CWE_GCF_019646055_1_00403	CDS	1089	ychF		COG0012	Ribosome-binding ATPase YchF
+Sodalis_sp_CWE_GCF_019646055_1_00404	CDS	1155	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit tau
+Sodalis_sp_CWE_GCF_019646055_1_00405	CDS	606	recR		COG0353	Recombination protein RecR
+Sodalis_sp_CWE_GCF_019646055_1_00406	CDS	648	adk	2.7.4.3	COG0563	Adenylate kinase
+Sodalis_sp_CWE_GCF_019646055_1_00407	CDS	720	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+Sodalis_sp_CWE_GCF_019646055_1_00408	CDS	1389	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00409	CDS	864	folD		COG0190	Bifunctional protein FolD protein
+Sodalis_sp_CWE_GCF_019646055_1_00410	tRNA	76				tRNA-Arg(tct)
+Sodalis_sp_CWE_GCF_019646055_1_00411	CDS	951	lipA	2.8.1.8	COG0320	Lipoyl synthase
+Sodalis_sp_CWE_GCF_019646055_1_00412	CDS	564	lipB	2.3.1.181	COG0321	Octanoyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00413	CDS	1116	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+Sodalis_sp_CWE_GCF_019646055_1_00414	CDS	1902	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+Sodalis_sp_CWE_GCF_019646055_1_00415	CDS	657	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00416	CDS	1071	holA	2.7.7.7	COG1466	DNA polymerase III subunit delta
+Sodalis_sp_CWE_GCF_019646055_1_00417	CDS	549	lptE		COG2980	LPS-assembly lipoprotein LptE
+Sodalis_sp_CWE_GCF_019646055_1_00418	CDS	2592	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00419	CDS	1533	lnt	2.3.1.269	COG0815	Apolipoprotein N-acyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00420	CDS	450	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+Sodalis_sp_CWE_GCF_019646055_1_00421	CDS	1431	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+Sodalis_sp_CWE_GCF_019646055_1_00422	CDS	1191	ubiF	1.14.99.60	COG0654	3-demethoxyubiquinol 3-hydroxylase
+Sodalis_sp_CWE_GCF_019646055_1_00423	tRNA	74				tRNA-Gln(ttg)
+Sodalis_sp_CWE_GCF_019646055_1_00424	tRNA	86				tRNA-Leu(tag)
+Sodalis_sp_CWE_GCF_019646055_1_00425	tRNA	77				tRNA-Met(cat)
+Sodalis_sp_CWE_GCF_019646055_1_00426	CDS	732	gpmA	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+Sodalis_sp_CWE_GCF_019646055_1_00427	CDS	1140	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+Sodalis_sp_CWE_GCF_019646055_1_00428	CDS	1689	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00429	CDS	1065	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+Sodalis_sp_CWE_GCF_019646055_1_00430	CDS	801	cpoB		COG1729	Cell division coordinator CpoB
+Sodalis_sp_CWE_GCF_019646055_1_00431	CDS	489	pal		COG2885	Peptidoglycan-associated lipoprotein
+Sodalis_sp_CWE_GCF_019646055_1_00432	CDS	1263	tolB		COG0823	Tol-Pal system protein TolB
+Sodalis_sp_CWE_GCF_019646055_1_00433	CDS	849				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00434	CDS	432	tolR		COG0848	Tol-Pal system protein TolR
+Sodalis_sp_CWE_GCF_019646055_1_00435	CDS	684	tolQ		COG0811	Tol-Pal system protein TolQ
+Sodalis_sp_CWE_GCF_019646055_1_00436	CDS	297				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00437	CDS	879	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+Sodalis_sp_CWE_GCF_019646055_1_00438	CDS	1209	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+Sodalis_sp_CWE_GCF_019646055_1_00439	CDS	747	ybgI		COG0327	GTP cyclohydrolase 1 type 2 
+Sodalis_sp_CWE_GCF_019646055_1_00440	CDS	627	fldA		COG0716	Flavodoxin 1
+Sodalis_sp_CWE_GCF_019646055_1_00441	CDS	999	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+Sodalis_sp_CWE_GCF_019646055_1_00442	CDS	156				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00443	CDS	1293	bioA	2.6.1.62	COG0161	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+Sodalis_sp_CWE_GCF_019646055_1_00444	CDS	1032	bioB	2.8.1.6	COG0502	Biotin synthase
+Sodalis_sp_CWE_GCF_019646055_1_00445	CDS	1182	bioF	2.3.1.47	COG0156	8-amino-7-oxononanoate synthase
+Sodalis_sp_CWE_GCF_019646055_1_00446	CDS	765	bioC	2.1.1.197		Malonyl-[acyl-carrier protein] O-methyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00447	CDS	675	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+Sodalis_sp_CWE_GCF_019646055_1_00448	CDS	459	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+Sodalis_sp_CWE_GCF_019646055_1_00449	CDS	255	rpmB		COG0227	50S ribosomal protein L28
+Sodalis_sp_CWE_GCF_019646055_1_00450	CDS	168	rpmG		COG0267	50S ribosomal protein L33
+Sodalis_sp_CWE_GCF_019646055_1_00451	CDS	1257	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+Sodalis_sp_CWE_GCF_019646055_1_00452	CDS	969	rfaC	2.-.-.-	COG0859	Lipopolysaccharide heptosyltransferase 1
+Sodalis_sp_CWE_GCF_019646055_1_00453	CDS	441	yibN		COG0607	putative protein YibN
+Sodalis_sp_CWE_GCF_019646055_1_00454	CDS	1026	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+Sodalis_sp_CWE_GCF_019646055_1_00455	CDS	567		3.2.2.-	COG1611	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+Sodalis_sp_CWE_GCF_019646055_1_00456	CDS	963	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase isozyme 1
+Sodalis_sp_CWE_GCF_019646055_1_00457	CDS	720	ybhL		COG0670	Inner membrane protein YbhL
+Sodalis_sp_CWE_GCF_019646055_1_00458	CDS	912	ybhK		COG0391	Putative gluconeogenesis factor
+Sodalis_sp_CWE_GCF_019646055_1_00459	CDS	2028	uvrB		COG0556	UvrABC system protein B
+Sodalis_sp_CWE_GCF_019646055_1_00460	CDS	627	gmk	2.7.4.8	COG0194	Guanylate kinase
+Sodalis_sp_CWE_GCF_019646055_1_00461	CDS	201	rpoZ	2.7.7.6	COG1758	DNA-directed RNA polymerase subunit omega
+Sodalis_sp_CWE_GCF_019646055_1_00462	CDS	2085	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+Sodalis_sp_CWE_GCF_019646055_1_00463	CDS	1401	xanP		COG2233	Xanthine permease XanP
+Sodalis_sp_CWE_GCF_019646055_1_00464	CDS	186				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00465	CDS	954	polA	2.7.7.7	COG0258	DNA polymerase I
+Sodalis_sp_CWE_GCF_019646055_1_00466	CDS	627	dsbA		COG0526	Thiol:disulfide interchange protein DsbA
+Sodalis_sp_CWE_GCF_019646055_1_00467	rRNA	111				5S ribosomal RNA
+Sodalis_sp_CWE_GCF_019646055_1_00468	CDS	2580	clpB		COG0542	Chaperone protein ClpB
+Sodalis_sp_CWE_GCF_019646055_1_00469	CDS	960	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+Sodalis_sp_CWE_GCF_019646055_1_00470	CDS	735	bamD		COG4105	Outer membrane protein assembly factor BamD
+Sodalis_sp_CWE_GCF_019646055_1_00471	CDS	363	rplS		COG0335	50S ribosomal protein L19
+Sodalis_sp_CWE_GCF_019646055_1_00472	CDS	768	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00473	CDS	588	rimM		COG0806	Ribosome maturation factor RimM
+Sodalis_sp_CWE_GCF_019646055_1_00474	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+Sodalis_sp_CWE_GCF_019646055_1_00475	tRNA	75				tRNA-Arg(acg)
+Sodalis_sp_CWE_GCF_019646055_1_00476	tRNA	89				tRNA-Ser(gct)
+Sodalis_sp_CWE_GCF_019646055_1_00477	CDS	168	csrA		COG1551	Carbon storage regulator
+Sodalis_sp_CWE_GCF_019646055_1_00478	CDS	2679	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00479	CDS	1068	recA		COG0468	Protein RecA
+Sodalis_sp_CWE_GCF_019646055_1_00480	CDS	984	nlpD			Murein hydrolase activator NlpD
+Sodalis_sp_CWE_GCF_019646055_1_00481	CDS	468	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+Sodalis_sp_CWE_GCF_019646055_1_00482	CDS	675	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00483	CDS	288	ftsB		COG2919	Cell division protein FtsB
+Sodalis_sp_CWE_GCF_019646055_1_00484	CDS	1314	eno	4.2.1.11	COG0148	Enolase
+Sodalis_sp_CWE_GCF_019646055_1_00485	CDS	1626	pyrG	6.3.4.2	COG0504	CTP synthase
+Sodalis_sp_CWE_GCF_019646055_1_00486	CDS	714	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+Sodalis_sp_CWE_GCF_019646055_1_00487	CDS	348	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+Sodalis_sp_CWE_GCF_019646055_1_00488	CDS	285	rplY		COG1825	50S ribosomal protein L25
+Sodalis_sp_CWE_GCF_019646055_1_00489	tRNA	77				tRNA-Pro(ggg)
+Sodalis_sp_CWE_GCF_019646055_1_00490	CDS	1098	ompD		COG3203	Outer membrane porin protein OmpD
+Sodalis_sp_CWE_GCF_019646055_1_00491	CDS	414	ibpA		COG0071	Small heat shock protein IbpA
+Sodalis_sp_CWE_GCF_019646055_1_00492	CDS	1011				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00493	CDS	885	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+Sodalis_sp_CWE_GCF_019646055_1_00494	CDS	2079	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+Sodalis_sp_CWE_GCF_019646055_1_00495	CDS	618	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn]
+Sodalis_sp_CWE_GCF_019646055_1_00496	CDS	2421	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+Sodalis_sp_CWE_GCF_019646055_1_00497	CDS	1110	dnaN		COG0592	Beta sliding clamp
+Sodalis_sp_CWE_GCF_019646055_1_00498	CDS	144	rpmH		COG0230	50S ribosomal protein L34
+Sodalis_sp_CWE_GCF_019646055_1_00499	CDS	372	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+Sodalis_sp_CWE_GCF_019646055_1_00500	CDS	246	yidD		COG0759	Putative membrane protein insertion efficiency factor
+Sodalis_sp_CWE_GCF_019646055_1_00501	CDS	1632	yidC			Membrane protein insertase YidC
+Sodalis_sp_CWE_GCF_019646055_1_00502	CDS	1398	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+Sodalis_sp_CWE_GCF_019646055_1_00503	CDS	315	bamC			Outer membrane protein assembly factor BamC
+Sodalis_sp_CWE_GCF_019646055_1_00504	CDS	921	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+Sodalis_sp_CWE_GCF_019646055_1_00505	CDS	627	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00506	CDS	1575	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+Sodalis_sp_CWE_GCF_019646055_1_00507	CDS	1443	der		COG1160	GTPase Der
+Sodalis_sp_CWE_GCF_019646055_1_00508	CDS	156				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00509	CDS	1311	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00510	CDS	1128	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+Sodalis_sp_CWE_GCF_019646055_1_00511	CDS	927	rodZ		COG1426	Cytoskeleton protein RodZ
+Sodalis_sp_CWE_GCF_019646055_1_00512	CDS	1098	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+Sodalis_sp_CWE_GCF_019646055_1_00513	CDS	1290	pepB	3.4.11.23	COG0260	Peptidase B
+Sodalis_sp_CWE_GCF_019646055_1_00514	CDS	1155	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+Sodalis_sp_CWE_GCF_019646055_1_00515	CDS	831	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+Sodalis_sp_CWE_GCF_019646055_1_00516	CDS	1254	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00517	CDS	1800	lepA	3.6.5.-	COG0481	Elongation factor 4
+Sodalis_sp_CWE_GCF_019646055_1_00518	CDS	984	lepB	3.4.21.89	COG0681	Signal peptidase I
+Sodalis_sp_CWE_GCF_019646055_1_00519	CDS	675	rnc	3.1.26.3	COG0571	Ribonuclease 3
+Sodalis_sp_CWE_GCF_019646055_1_00520	CDS	873	era		COG1159	GTPase Era
+Sodalis_sp_CWE_GCF_019646055_1_00521	CDS	693	recO		COG1381	DNA repair protein RecO
+Sodalis_sp_CWE_GCF_019646055_1_00522	CDS	732	pdxJ	2.6.99.2	COG0854	Pyridoxine 5'-phosphate synthase
+Sodalis_sp_CWE_GCF_019646055_1_00523	CDS	381	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+Sodalis_sp_CWE_GCF_019646055_1_00524	CDS	639	pgpC	3.1.3.27	COG0560	Phosphatidylglycerophosphatase C
+Sodalis_sp_CWE_GCF_019646055_1_00525	CDS	471	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+Sodalis_sp_CWE_GCF_019646055_1_00526	CDS	1626	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+Sodalis_sp_CWE_GCF_019646055_1_00527	CDS	519	fabA	4.2.1.59	COG0764	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+Sodalis_sp_CWE_GCF_019646055_1_00528	CDS	318	hspQ		COG3785	Heat shock protein HspQ
+Sodalis_sp_CWE_GCF_019646055_1_00529	CDS	327	tusE	2.8.1.-	COG2920	Sulfurtransferase TusE
+Sodalis_sp_CWE_GCF_019646055_1_00530	tRNA	87				tRNA-Ser(tga)
+Sodalis_sp_CWE_GCF_019646055_1_00531	CDS	1836	uvrC		COG0322	UvrABC system protein C
+Sodalis_sp_CWE_GCF_019646055_1_00532	CDS	504	pgsA	2.7.8.5	COG0558	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00533	tRNA	75				tRNA-Cys(gca)
+Sodalis_sp_CWE_GCF_019646055_1_00534	tRNA	84				tRNA-Leu(taa)
+Sodalis_sp_CWE_GCF_019646055_1_00535	CDS	981	ybiS	2.-.-.-	COG1376	putative L,D-transpeptidase YbiS
+Sodalis_sp_CWE_GCF_019646055_1_00536	CDS	972				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00537	CDS	945	lpxL	2.3.1.241	COG1560	Lipid A biosynthesis lauroyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00538	CDS	186				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00539	CDS	207				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00540	CDS	2445	rne	3.1.26.12		Ribonuclease E
+Sodalis_sp_CWE_GCF_019646055_1_00541	CDS	960	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+Sodalis_sp_CWE_GCF_019646055_1_00542	CDS	174	rpmF		COG0333	50S ribosomal protein L32
+Sodalis_sp_CWE_GCF_019646055_1_00543	CDS	1020	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00544	CDS	972	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+Sodalis_sp_CWE_GCF_019646055_1_00545	CDS	993	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+Sodalis_sp_CWE_GCF_019646055_1_00546	CDS	735	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Sodalis_sp_CWE_GCF_019646055_1_00547	CDS	237	acpP			Acyl carrier protein
+Sodalis_sp_CWE_GCF_019646055_1_00548	CDS	816	pabC	4.1.3.38	COG0115	Aminodeoxychorismate lyase
+Sodalis_sp_CWE_GCF_019646055_1_00549	CDS	984	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+Sodalis_sp_CWE_GCF_019646055_1_00550	CDS	654	tmk	2.7.4.9	COG0125	Thymidylate kinase
+Sodalis_sp_CWE_GCF_019646055_1_00551	CDS	1014	holB	2.7.7.7	COG0470	DNA polymerase III subunit delta'
+Sodalis_sp_CWE_GCF_019646055_1_00552	CDS	798	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+Sodalis_sp_CWE_GCF_019646055_1_00553	CDS	354		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+Sodalis_sp_CWE_GCF_019646055_1_00554	CDS	591	lpoB			Penicillin-binding protein activator LpoB
+Sodalis_sp_CWE_GCF_019646055_1_00555	CDS	816	thiK	2.7.1.89		Thiamine kinase
+Sodalis_sp_CWE_GCF_019646055_1_00556	CDS	1215	lolC		COG4591	Lipoprotein-releasing system transmembrane protein LolC
+Sodalis_sp_CWE_GCF_019646055_1_00557	CDS	708	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+Sodalis_sp_CWE_GCF_019646055_1_00558	CDS	1248	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+Sodalis_sp_CWE_GCF_019646055_1_00559	CDS	1380	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+Sodalis_sp_CWE_GCF_019646055_1_00560	CDS	1110	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+Sodalis_sp_CWE_GCF_019646055_1_00561	CDS	1662	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00562	CDS	1563	pitA		COG0306	Low-affinity inorganic phosphate transporter 1
+Sodalis_sp_CWE_GCF_019646055_1_00563	CDS	2043	prlC	3.4.24.70	COG0339	Oligopeptidase A
+Sodalis_sp_CWE_GCF_019646055_1_00564	CDS	669				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00565	CDS	2520	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+Sodalis_sp_CWE_GCF_019646055_1_00566	CDS	759	ubiG	2.1.1.222	COG2227	Ubiquinone biosynthesis O-methyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00567	CDS	2304	nrdA	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase 1 subunit alpha
+Sodalis_sp_CWE_GCF_019646055_1_00568	CDS	1131	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase 1 subunit beta
+Sodalis_sp_CWE_GCF_019646055_1_00569	CDS	276				hypothetical protein
+Sodalis_sp_CWE_GCF_019646055_1_00570	CDS	1494	nuoN	7.1.1.-	COG1007	NADH-quinone oxidoreductase subunit N
+Sodalis_sp_CWE_GCF_019646055_1_00571	CDS	1563	nuoM	7.1.1.-	COG1008	NADH-quinone oxidoreductase subunit M
+Sodalis_sp_CWE_GCF_019646055_1_00572	CDS	1875	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+Sodalis_sp_CWE_GCF_019646055_1_00573	CDS	324	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+Sodalis_sp_CWE_GCF_019646055_1_00574	CDS	513	nuoJ	7.1.1.-	COG0839	NADH-quinone oxidoreductase subunit J
+Sodalis_sp_CWE_GCF_019646055_1_00575	CDS	543	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+Sodalis_sp_CWE_GCF_019646055_1_00576	CDS	933	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+Sodalis_sp_CWE_GCF_019646055_1_00577	CDS	2745	nuoG	7.1.1.-	COG1034	NADH-quinone oxidoreductase subunit G
+Sodalis_sp_CWE_GCF_019646055_1_00578	CDS	1326	nuoF	7.1.1.-	COG1894	NADH-quinone oxidoreductase subunit F
+Sodalis_sp_CWE_GCF_019646055_1_00579	CDS	489	nuoE	7.1.1.-	COG1905	NADH-quinone oxidoreductase subunit E
+Sodalis_sp_CWE_GCF_019646055_1_00580	CDS	1803	nuoC	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit C/D
+Sodalis_sp_CWE_GCF_019646055_1_00581	CDS	741	nuoB	7.1.1.-	COG0377	NADH-quinone oxidoreductase subunit B
+Sodalis_sp_CWE_GCF_019646055_1_00582	CDS	399	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+Sodalis_sp_CWE_GCF_019646055_1_00583	CDS	1212	ackA	2.7.2.1	COG0282	Acetate kinase
+Sodalis_sp_CWE_GCF_019646055_1_00584	CDS	2148	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+Sodalis_sp_CWE_GCF_019646055_1_00585	CDS	573	ubiX	2.5.1.129	COG0163	Flavin prenyltransferase UbiX
+Sodalis_sp_CWE_GCF_019646055_1_00586	CDS	1248	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+Sodalis_sp_CWE_GCF_019646055_1_00587	CDS	906	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+Sodalis_sp_CWE_GCF_019646055_1_00588	CDS	789	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+Sodalis_sp_CWE_GCF_019646055_1_00589	CDS	1140	pdxB	1.1.1.290	COG0111	Erythronate-4-phosphate dehydrogenase
+Sodalis_sp_CWE_GCF_019646055_1_00590	CDS	1212	fabB	2.3.1.41	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 1
+Sodalis_sp_CWE_GCF_019646055_1_00591	CDS	1074	aroC	4.2.3.5	COG0082	Chorismate synthase
+Sodalis_sp_CWE_GCF_019646055_1_00592	tRNA	75				tRNA-Arg(cct)
+Sodalis_sp_CWE_GCF_019646055_1_00593	tRNA	76				tRNA-Ala(ggc)
+Sodalis_sp_CWE_GCF_019646055_1_00594	CDS	1425	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00595	tRNA	76				tRNA-Val(tac)
+Sodalis_sp_CWE_GCF_019646055_1_00596	tRNA	75				tRNA-Lys(ttt)
+Sodalis_sp_CWE_GCF_019646055_1_00597	CDS	2052	ligA	6.5.1.2	COG0272	DNA ligase
+Sodalis_sp_CWE_GCF_019646055_1_00598	CDS	258	ptsH		COG1925	Phosphocarrier protein HPr
+Sodalis_sp_CWE_GCF_019646055_1_00599	CDS	1728	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+Sodalis_sp_CWE_GCF_019646055_1_00600	CDS	1131	dapE	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+Sodalis_sp_CWE_GCF_019646055_1_00601	CDS	1839	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+Sodalis_sp_CWE_GCF_019646055_1_00602	CDS	1389	glmU			Bifunctional protein GlmU
+Sodalis_sp_CWE_GCF_019646055_1_00603	CDS	429	atpC		COG0355	ATP synthase epsilon chain
+Sodalis_sp_CWE_GCF_019646055_1_00604	CDS	1383	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+Sodalis_sp_CWE_GCF_019646055_1_00605	CDS	945	atpG		COG0224	ATP synthase gamma chain
+Sodalis_sp_CWE_GCF_019646055_1_00606	CDS	1545	atpA	7.1.2.2		ATP synthase subunit alpha
+Sodalis_sp_CWE_GCF_019646055_1_00607	CDS	543	atpH		COG0712	ATP synthase subunit delta
+Sodalis_sp_CWE_GCF_019646055_1_00608	CDS	471	atpF		COG0711	ATP synthase subunit b
+Sodalis_sp_CWE_GCF_019646055_1_00609	CDS	243	atpE		COG0636	ATP synthase subunit c
+Sodalis_sp_CWE_GCF_019646055_1_00610	CDS	822	atpB		COG0356	ATP synthase subunit a
+Sodalis_sp_CWE_GCF_019646055_1_00611	CDS	1914	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG

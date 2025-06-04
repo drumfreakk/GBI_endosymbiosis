@@ -1,0 +1,3361 @@
+>Feature NC_021057.1
+617	1678	CDS
+			db_xref	COG:COG0468
+			gene	recA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65977
+			locus_tag	Moranella_endobia_GCF_000364725_1_00001
+			product	Protein RecA
+1870	4497	CDS
+			EC_number	6.1.1.7
+			db_xref	COG:COG0013
+			gene	alaS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00957
+			locus_tag	Moranella_endobia_GCF_000364725_1_00002
+			product	Alanine--tRNA ligase
+4705	4890	CDS
+			db_xref	COG:COG1551
+			gene	csrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A1JK11
+			locus_tag	Moranella_endobia_GCF_000364725_1_00003
+			product	Translational regulator CsrA
+5196	6602	CDS
+			EC_number	6.1.1.22
+			db_xref	COG:COG0017
+			gene	asnS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8M0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00004
+			product	Asparagine--tRNA ligase
+6962	7939	CDS
+			EC_number	2.6.1.52
+			db_xref	COG:COG1932
+			gene	serC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P55900
+			locus_tag	Moranella_endobia_GCF_000364725_1_00005
+			product	Phosphoserine aminotransferase
+8457	10127	CDS
+			db_xref	COG:COG0539
+			gene	rpsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG67
+			locus_tag	Moranella_endobia_GCF_000364725_1_00006
+			product	30S ribosomal protein S1
+10328	10930	CDS
+			EC_number	1.11.1.15
+			db_xref	COG:COG0450
+			gene	ahpC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21762
+			locus_tag	Moranella_endobia_GCF_000364725_1_00007
+			product	Alkyl hydroperoxide reductase C
+12107	10998	CDS
+			EC_number	1.2.1.11
+			db_xref	COG:COG0136
+			gene	asd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9Q9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00008
+			product	Aspartate-semialdehyde dehydrogenase
+13249	14619	CDS
+			EC_number	3.4.21.107
+			db_xref	COG:COG0265
+			gene	degQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39099
+			locus_tag	Moranella_endobia_GCF_000364725_1_00009
+			product	Periplasmic pH-dependent serine endoprotease DegQ
+15084	14869	CDS
+			db_xref	COG:COG5007
+			gene	ibaG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9W6
+			locus_tag	Moranella_endobia_GCF_000364725_1_00010
+			product	Acid stress protein IbaG
+15440	15514	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00011
+			product	tRNA-Gly(gcc)
+15956	17236	CDS
+			EC_number	6.1.1.21
+			db_xref	COG:COG0124
+			gene	hisS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O52765
+			locus_tag	Moranella_endobia_GCF_000364725_1_00012
+			product	Histidine--tRNA ligase
+17601	18767	CDS
+			db_xref	COG:COG1520
+			gene	bamB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77774
+			locus_tag	Moranella_endobia_GCF_000364725_1_00013
+			product	Outer membrane protein assembly factor BamB
+18805	20274	CDS
+			db_xref	COG:COG1160
+			gene	der
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9XCI8
+			locus_tag	Moranella_endobia_GCF_000364725_1_00014
+			product	GTPase Der
+20619	20894	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG1758
+			gene	rpoZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A800
+			locus_tag	Moranella_endobia_GCF_000364725_1_00015
+			product	DNA-directed RNA polymerase subunit omega
+21000	21260	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00016
+			product	hypothetical protein
+21262	23349	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG1200
+			gene	recG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24230
+			locus_tag	Moranella_endobia_GCF_000364725_1_00017
+			product	ATP-dependent DNA helicase RecG
+23595	23671	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00018
+			product	tRNA-Pro(ggg)
+24586	23861	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1137
+			gene	lptB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45073
+			locus_tag	Moranella_endobia_GCF_000364725_1_00019
+			product	Lipopolysaccharide export system ATP-binding protein LptB
+25183	24623	CDS
+			db_xref	COG:COG1934
+			gene	lptA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADV1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00020
+			product	Lipopolysaccharide export system protein LptA
+25724	25146	CDS
+			db_xref	COG:COG3117
+			gene	lptC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADV9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00021
+			product	Lipopolysaccharide export system protein LptC
+26287	25730	CDS
+			EC_number	3.1.3.45
+			db_xref	COG:COG1778
+			gene	kdsC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67653
+			locus_tag	Moranella_endobia_GCF_000364725_1_00022
+			product	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+27229	29898	CDS
+			EC_number	1.2.4.1
+			db_xref	COG:COG2609
+			gene	aceE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFG8
+			locus_tag	Moranella_endobia_GCF_000364725_1_00023
+			product	Pyruvate dehydrogenase E1 component
+29914	31188	CDS
+			EC_number	2.3.1.12
+			db_xref	COG:COG0508
+			gene	aceF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06959
+			locus_tag	Moranella_endobia_GCF_000364725_1_00024
+			product	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+31281	32717	CDS
+			EC_number	1.8.1.4
+			db_xref	COG:COG1249
+			gene	lpdA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9P0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00025
+			product	Dihydrolipoyl dehydrogenase
+33036	32779	CDS
+			db_xref	COG:COG0425
+			gene	tusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A890
+			locus_tag	Moranella_endobia_GCF_000364725_1_00026
+			product	Sulfur carrier protein TusA
+34508	33081	CDS
+			db_xref	COG:COG0007
+			gene	cysG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEA8
+			locus_tag	Moranella_endobia_GCF_000364725_1_00027
+			product	Siroheme synthase
+35430	34696	CDS
+			EC_number	1.8.4.8
+			db_xref	COG:COG0175
+			gene	cysH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17854
+			locus_tag	Moranella_endobia_GCF_000364725_1_00028
+			product	Phosphoadenosine phosphosulfate reductase
+37148	35445	CDS
+			EC_number	1.8.1.2
+			db_xref	COG:COG0155
+			gene	cysI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17846
+			locus_tag	Moranella_endobia_GCF_000364725_1_00029
+			product	Sulfite reductase [NADPH] hemoprotein beta-component
+38977	37148	CDS
+			EC_number	1.8.1.2
+			db_xref	COG:COG0369
+			gene	cysJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P38038
+			locus_tag	Moranella_endobia_GCF_000364725_1_00030
+			product	Sulfite reductase [NADPH] flavoprotein alpha-component
+40468	39173	CDS
+			EC_number	4.2.1.11
+			db_xref	COG:COG0148
+			gene	eno
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6P9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00031
+			product	Enolase
+41125	43944	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0258
+			gene	polA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00582
+			locus_tag	Moranella_endobia_GCF_000364725_1_00032
+			product	DNA polymerase I
+44070	45104	CDS
+			EC_number	1.3.1.-
+			db_xref	COG:COG0042
+			gene	dusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P32695
+			locus_tag	Moranella_endobia_GCF_000364725_1_00033
+			product	tRNA-dihydrouridine(20/20a) synthase
+45255	45170	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00034
+			product	tRNA-Leu(taa)
+45361	45288	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00035
+			product	tRNA-Cys(gca)
+46050	47054	CDS
+			EC_number	6.1.1.14
+			db_xref	COG:COG0752
+			gene	glyQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00960
+			locus_tag	Moranella_endobia_GCF_000364725_1_00036
+			product	Glycine--tRNA ligase alpha subunit
+47047	49050	CDS
+			EC_number	6.1.1.14
+			db_xref	COG:COG0751
+			gene	glyS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00961
+			locus_tag	Moranella_endobia_GCF_000364725_1_00037
+			product	Glycine--tRNA ligase beta subunit
+49362	49261	CDS
+			EC_number	7.1.1.7
+			db_xref	COG:COG4890
+			gene	cydX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P56100
+			locus_tag	Moranella_endobia_GCF_000364725_1_00038
+			product	Cytochrome bd-I ubiquinol oxidase subunit X
+50518	49379	CDS
+			EC_number	7.1.1.7
+			db_xref	COG:COG1294
+			gene	cydB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABK2
+			locus_tag	Moranella_endobia_GCF_000364725_1_00039
+			product	Cytochrome bd-I ubiquinol oxidase subunit 2
+52101	50536	CDS
+			EC_number	7.1.1.7
+			db_xref	COG:COG1271
+			gene	cydA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABJ9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00040
+			product	Cytochrome bd-I ubiquinol oxidase subunit 1
+52447	52531	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00041
+			product	tRNA-Leu(caa)
+53582	52716	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23839
+			locus_tag	Moranella_endobia_GCF_000364725_1_00042
+			note	UPF0701 protein YicC
+			product	hypothetical protein
+54444	55427	CDS
+			EC_number	2.1.1.199
+			db_xref	COG:COG0275
+			gene	rsmH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60390
+			locus_tag	Moranella_endobia_GCF_000364725_1_00043
+			product	Ribosomal RNA small subunit methyltransferase H
+55424	55693	CDS
+			db_xref	COG:COG3116
+			gene	ftsL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEN4
+			locus_tag	Moranella_endobia_GCF_000364725_1_00044
+			product	Cell division protein FtsL
+55963	57738	CDS
+			EC_number	3.4.16.4
+			db_xref	COG:COG0768
+			gene	ftsI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AD68
+			locus_tag	Moranella_endobia_GCF_000364725_1_00045
+			product	Peptidoglycan D,D-transpeptidase FtsI
+58568	59650	CDS
+			EC_number	2.7.8.13
+			db_xref	COG:COG0472
+			gene	mraY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6W3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00046
+			product	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+60072	61211	CDS
+			EC_number	2.4.1.129
+			db_xref	COG:COG0772
+			gene	ftsW
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABG4
+			locus_tag	Moranella_endobia_GCF_000364725_1_00047
+			product	putative peptidoglycan glycosyltransferase FtsW
+61217	62281	CDS
+			EC_number	2.4.1.227
+			db_xref	COG:COG0707
+			gene	murG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17443
+			locus_tag	Moranella_endobia_GCF_000364725_1_00048
+			product	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+63231	64484	CDS
+			db_xref	COG:COG0849
+			gene	ftsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABH0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00049
+			product	Cell division protein FtsA
+64563	65732	CDS
+			db_xref	COG:COG0206
+			gene	ftsZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9A6
+			locus_tag	Moranella_endobia_GCF_000364725_1_00050
+			product	Cell division protein FtsZ
+65745	66650	CDS
+			EC_number	3.5.1.108
+			db_xref	COG:COG0774
+			gene	lpxC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A725
+			locus_tag	Moranella_endobia_GCF_000364725_1_00051
+			product	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+67197	66727	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00052
+			product	hypothetical protein
+67443	70004	CDS
+			db_xref	COG:COG0653
+			gene	secA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10408
+			locus_tag	Moranella_endobia_GCF_000364725_1_00053
+			product	Protein translocase subunit SecA
+73711	70154	CDS
+			EC_number	1.2.7.-
+			db_xref	COG:COG0674
+			gene	nifJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q06879
+			locus_tag	Moranella_endobia_GCF_000364725_1_00054
+			product	Pyruvate-flavodoxin oxidoreductase
+74197	75408	CDS
+			EC_number	2.7.2.3
+			db_xref	COG:COG0126
+			gene	pgk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A799
+			locus_tag	Moranella_endobia_GCF_000364725_1_00055
+			product	Phosphoglycerate kinase
+75445	76521	CDS
+			EC_number	4.1.2.13
+			db_xref	COG:COG0191
+			gene	fbaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AB71
+			locus_tag	Moranella_endobia_GCF_000364725_1_00056
+			product	Fructose-bisphosphate aldolase class 2
+76710	77138	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0816
+			gene	yqgF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8I1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00057
+			product	Putative pre-16S rRNA nuclease
+77310	77235	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00058
+			product	tRNA-Met(cat)
+79366	77531	CDS
+			db_xref	COG:COG0568
+			gene	rpoD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00579
+			locus_tag	Moranella_endobia_GCF_000364725_1_00059
+			product	RNA polymerase sigma factor RpoD
+81260	79512	CDS
+			EC_number	2.7.7.-
+			db_xref	COG:COG0358
+			gene	dnaG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABS5
+			locus_tag	Moranella_endobia_GCF_000364725_1_00060
+			product	DNA primase
+81610	81368	CDS
+			db_xref	COG:COG0828
+			gene	rpsU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68679
+			locus_tag	Moranella_endobia_GCF_000364725_1_00061
+			product	30S ribosomal protein S21
+81924	82946	CDS
+			EC_number	2.3.1.234
+			db_xref	COG:COG0533
+			gene	tsaD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P40731
+			locus_tag	Moranella_endobia_GCF_000364725_1_00062
+			product	tRNA N6-adenosine threonylcarbamoyltransferase
+83573	83007	CDS
+			db_xref	COG:COG0231
+			gene	efp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64036
+			locus_tag	Moranella_endobia_GCF_000364725_1_00063
+			product	Elongation factor P
+83970	84422	CDS
+			EC_number	4.2.1.10
+			db_xref	COG:COG0757
+			gene	aroQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZAX1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00064
+			product	3-dehydroquinate dehydratase
+84444	84872	CDS
+			db_xref	COG:COG0511
+			gene	accB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABD8
+			locus_tag	Moranella_endobia_GCF_000364725_1_00065
+			product	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+85330	86712	CDS
+			EC_number	6.3.4.14
+			db_xref	COG:COG0439
+			gene	accC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24182
+			locus_tag	Moranella_endobia_GCF_000364725_1_00066
+			product	Biotin carboxylase
+89363	86970	CDS
+			EC_number	6.1.1.20
+			db_xref	COG:COG0072
+			gene	pheT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07395
+			locus_tag	Moranella_endobia_GCF_000364725_1_00067
+			product	Phenylalanine--tRNA ligase beta subunit
+90362	89379	CDS
+			EC_number	6.1.1.20
+			db_xref	COG:COG0016
+			gene	pheS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08312
+			locus_tag	Moranella_endobia_GCF_000364725_1_00068
+			product	Phenylalanine--tRNA ligase alpha subunit
+91014	90655	CDS
+			db_xref	COG:COG0292
+			gene	rplT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7L3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00069
+			product	50S ribosomal protein L20
+91264	91067	CDS
+			db_xref	COG:COG0291
+			gene	rpmI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Q1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00070
+			product	50S ribosomal protein L35
+91716	91291	CDS
+			db_xref	COG:COG0290
+			gene	infC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A707
+			locus_tag	Moranella_endobia_GCF_000364725_1_00071
+			product	Translation initiation factor IF-3
+93765	91834	CDS
+			EC_number	6.1.1.3
+			db_xref	COG:COG0441
+			gene	thrS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8M3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00072
+			product	Threonine--tRNA ligase
+94207	95016	CDS
+			EC_number	1.1.1.25
+			db_xref	COG:COG0169
+			gene	aroE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P15770
+			locus_tag	Moranella_endobia_GCF_000364725_1_00073
+			product	Shikimate dehydrogenase (NADP(+))
+95110	95186	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00074
+			product	tRNA-Pro(cgg)
+95806	95231	CDS
+			db_xref	COG:COG0316
+			gene	nfuA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63020
+			locus_tag	Moranella_endobia_GCF_000364725_1_00075
+			product	Fe/S biogenesis protein NfuA
+97287	96949	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADN2
+			locus_tag	Moranella_endobia_GCF_000364725_1_00076
+			note	UPF0438 protein YifE
+			product	hypothetical protein
+98803	97946	CDS
+			db_xref	COG:COG0568
+			gene	rpoH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGB3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00077
+			product	RNA polymerase sigma factor RpoH
+100514	99396	CDS
+			db_xref	COG:COG0552
+			gene	ftsY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10121
+			locus_tag	Moranella_endobia_GCF_000364725_1_00078
+			product	Signal recognition particle receptor FtsY
+101893	100802	CDS
+			db_xref	COG:COG0012
+			gene	ychF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABU2
+			locus_tag	Moranella_endobia_GCF_000364725_1_00079
+			product	Ribosome-binding ATPase YchF
+102553	101957	CDS
+			EC_number	3.1.1.29
+			db_xref	COG:COG0193
+			gene	pth
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7D1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00080
+			product	Peptidyl-tRNA hydrolase
+103738	102791	CDS
+			EC_number	2.7.6.1
+			db_xref	COG:COG0462
+			gene	prs
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1V6
+			locus_tag	Moranella_endobia_GCF_000364725_1_00081
+			product	Ribose-phosphate pyrophosphokinase
+103945	105027	CDS
+			db_xref	COG:COG0216
+			gene	prfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7I0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00082
+			product	Peptide chain release factor RF1
+105037	105879	CDS
+			EC_number	2.1.1.297
+			db_xref	COG:COG2890
+			gene	prmC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACC1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00083
+			product	Release factor glutamine methyltransferase
+106867	106082	CDS
+			EC_number	3.1.3.25
+			db_xref	COG:COG0483
+			gene	suhB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADG4
+			locus_tag	Moranella_endobia_GCF_000364725_1_00084
+			product	Inositol-1-monophosphatase
+107559	108758	CDS
+			EC_number	2.8.1.7
+			db_xref	COG:COG1104
+			gene	iscS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6B7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00085
+			product	Cysteine desulfurase IscS
+109020	109093	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00086
+			product	tRNA-Glu(ttc)
+109341	112254	rRNA
+			locus_tag	Moranella_endobia_GCF_000364725_1_00087
+			product	23S ribosomal RNA
+			score	0
+112354	112464	rRNA
+			locus_tag	Moranella_endobia_GCF_000364725_1_00088
+			product	5S ribosomal RNA
+			score	1.2e-12
+112494	112570	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00089
+			product	tRNA-Asp(gtc)
+112993	112613	CDS
+			EC_number	2.7.8.7
+			db_xref	COG:COG0736
+			gene	acpS_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24224
+			locus_tag	Moranella_endobia_GCF_000364725_1_00090
+			product	Holo-[acyl-carrier-protein] synthase
+113724	112993	CDS
+			EC_number	2.6.99.2
+			db_xref	COG:COG0854
+			gene	pdxJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A794
+			locus_tag	Moranella_endobia_GCF_000364725_1_00091
+			product	Pyridoxine 5'-phosphate synthase
+116311	113738	CDS
+			db_xref	COG:COG0542
+			gene	clpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63284
+			locus_tag	Moranella_endobia_GCF_000364725_1_00092
+			product	Chaperone protein ClpB
+117444	116464	CDS
+			EC_number	5.4.99.23
+			db_xref	COG:COG0564
+			gene	rluD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P33643
+			locus_tag	Moranella_endobia_GCF_000364725_1_00093
+			product	Ribosomal large subunit pseudouridine synthase D
+118860	117502	CDS
+			EC_number	3.4.-.-
+			db_xref	COG:COG0312
+			gene	pmbA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFK0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00094
+			product	Metalloprotease PmbA
+119351	120256	CDS
+			db_xref	COG:COG2974
+			gene	rdgC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P36767
+			locus_tag	Moranella_endobia_GCF_000364725_1_00095
+			product	Recombination-associated protein RdgC
+120458	120889	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG3050
+			gene	holD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28632
+			locus_tag	Moranella_endobia_GCF_000364725_1_00096
+			product	DNA polymerase III subunit psi
+122135	121140	CDS
+			db_xref	COG:COG0354
+			gene	ygfZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADE8
+			locus_tag	Moranella_endobia_GCF_000364725_1_00097
+			product	tRNA-modifying protein YgfZ
+123138	122296	CDS
+			EC_number	2.5.1.145
+			db_xref	COG:COG0682
+			gene	lgt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60955
+			locus_tag	Moranella_endobia_GCF_000364725_1_00098
+			product	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+123936	123415	CDS
+			EC_number	3.6.1.-
+			db_xref	COG:COG0494
+			gene	rppH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A776
+			locus_tag	Moranella_endobia_GCF_000364725_1_00099
+			product	RNA pyrophosphohydrolase
+124484	124209	CDS
+			db_xref	COG:COG2901
+			gene	fis
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6R3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00100
+			product	DNA-binding protein Fis
+125290	127200	CDS
+			EC_number	3.4.16.4
+			db_xref	COG:COG0768
+			gene	mrdA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AD65
+			locus_tag	Moranella_endobia_GCF_000364725_1_00101
+			product	Peptidoglycan D,D-transpeptidase MrdA
+127207	128319	CDS
+			EC_number	2.4.1.129
+			db_xref	COG:COG0772
+			gene	mrdB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABG7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00102
+			product	Peptidoglycan glycosyltransferase MrdB
+129737	128805	CDS
+			EC_number	2.1.1.298
+			db_xref	COG:COG2890
+			gene	prmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39199
+			locus_tag	Moranella_endobia_GCF_000364725_1_00103
+			product	50S ribosomal protein L3 glutamine methyltransferase
+130177	130608	CDS
+			db_xref	COG:COG2969
+			gene	sspB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFZ3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00104
+			product	Stringent starvation protein B
+131421	132227	CDS
+			EC_number	2.3.1.30
+			db_xref	COG:COG1045
+			gene	cysE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29847
+			locus_tag	Moranella_endobia_GCF_000364725_1_00105
+			product	Serine acetyltransferase
+132959	132270	CDS
+			EC_number	2.7.13.3
+			gene	cpxA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AE82
+			locus_tag	Moranella_endobia_GCF_000364725_1_00106
+			product	Sensor histidine kinase CpxA
+133191	132946	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00107
+			product	hypothetical protein
+133895	133188	CDS
+			db_xref	COG:COG0745
+			gene	cpxR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AE88
+			locus_tag	Moranella_endobia_GCF_000364725_1_00108
+			product	Transcriptional regulatory protein CpxR
+134432	135226	CDS
+			EC_number	5.3.1.1
+			db_xref	COG:COG0149
+			gene	tpiA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A858
+			locus_tag	Moranella_endobia_GCF_000364725_1_00109
+			product	Triosephosphate isomerase
+136305	135343	CDS
+			EC_number	2.7.1.11
+			db_xref	COG:COG0205
+			gene	pfkA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A796
+			locus_tag	Moranella_endobia_GCF_000364725_1_00110
+			product	ATP-dependent 6-phosphofructokinase isozyme 1
+138379	136385	CDS
+			EC_number	2.2.1.1
+			db_xref	COG:COG0021
+			gene	tktA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27302
+			locus_tag	Moranella_endobia_GCF_000364725_1_00111
+			product	Transketolase 1
+139729	139160	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00112
+			product	hypothetical protein
+140444	140908	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0319
+			gene	ybeY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A898
+			locus_tag	Moranella_endobia_GCF_000364725_1_00113
+			product	Endoribonuclease YbeY
+141295	141379	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00114
+			product	tRNA-Leu(tag)
+141402	141476	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00115
+			product	tRNA-Gln(ttg)
+141535	141611	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00116
+			product	tRNA-Met(cat)
+141620	141693	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00117
+			product	tRNA-Gln(ctg)
+142013	143737	CDS
+			EC_number	6.1.1.15
+			db_xref	COG:COG0442
+			gene	proS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16659
+			locus_tag	Moranella_endobia_GCF_000364725_1_00118
+			product	Proline--tRNA ligase
+144523	145920	CDS
+			EC_number	4.3.2.1
+			db_xref	COG:COG0165
+			gene	argH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P11447
+			locus_tag	Moranella_endobia_GCF_000364725_1_00119
+			product	Argininosuccinate lyase
+146028	146651	CDS
+			EC_number	1.15.1.1
+			db_xref	COG:COG0605
+			gene	sodA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00448
+			locus_tag	Moranella_endobia_GCF_000364725_1_00120
+			product	Superoxide dismutase [Mn]
+147013	148554	CDS
+			db_xref	COG:COG0728
+			gene	murJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37169
+			locus_tag	Moranella_endobia_GCF_000364725_1_00121
+			product	putative lipid II flippase MurJ
+150349	148619	CDS
+			EC_number	6.1.1.19
+			db_xref	COG:COG0018
+			gene	argS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P11875
+			locus_tag	Moranella_endobia_GCF_000364725_1_00122
+			product	Arginine--tRNA ligase
+150870	153464	CDS
+			EC_number	5.6.2.1
+			db_xref	COG:COG0550
+			gene	topA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06612
+			locus_tag	Moranella_endobia_GCF_000364725_1_00123
+			product	DNA topoisomerase 1
+154762	153752	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00124
+			product	hypothetical protein
+155228	155758	CDS
+			EC_number	3.5.4.33
+			db_xref	COG:COG0590
+			gene	tadA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68398
+			locus_tag	Moranella_endobia_GCF_000364725_1_00125
+			product	tRNA-specific adenosine deaminase
+156425	156736	CDS
+			db_xref	COG:COG0261
+			gene	rplU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG48
+			locus_tag	Moranella_endobia_GCF_000364725_1_00126
+			product	50S ribosomal protein L21
+156757	157014	CDS
+			db_xref	COG:COG0211
+			gene	rpmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7L8
+			locus_tag	Moranella_endobia_GCF_000364725_1_00127
+			product	50S ribosomal protein L27
+157350	158375	CDS
+			EC_number	3.6.5.-
+			db_xref	COG:COG0536
+			gene	obgE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42641
+			locus_tag	Moranella_endobia_GCF_000364725_1_00128
+			product	GTPase ObgE/CgtA
+158804	158595	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00129
+			product	hypothetical protein
+159204	159686	CDS
+			db_xref	COG:COG0782
+			gene	greA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6W5
+			locus_tag	Moranella_endobia_GCF_000364725_1_00130
+			product	Transcription elongation factor GreA
+160022	160651	CDS
+			EC_number	2.1.1.166
+			db_xref	COG:COG0293
+			gene	rlmE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C0R7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00131
+			product	Ribosomal RNA large subunit methyltransferase E
+160709	162595	CDS
+			EC_number	3.4.24.-
+			db_xref	COG:COG0465
+			gene	ftsH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AAI3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00132
+			product	ATP-dependent zinc metalloprotease FtsH
+163076	163408	CDS
+			db_xref	COG:COG1314
+			gene	secG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG99
+			locus_tag	Moranella_endobia_GCF_000364725_1_00133
+			product	Protein-export membrane protein SecG
+163467	163553	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00134
+			product	tRNA-Leu(gag)
+163631	163707	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00135
+			product	tRNA-Met(cat)
+164380	165870	CDS
+			db_xref	COG:COG0195
+			gene	nusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFF6
+			locus_tag	Moranella_endobia_GCF_000364725_1_00136
+			product	Transcription termination/antitermination protein NusA
+165895	168600	CDS
+			db_xref	COG:COG0532
+			gene	infB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A705
+			locus_tag	Moranella_endobia_GCF_000364725_1_00137
+			product	Translation initiation factor IF-2
+168690	169106	CDS
+			db_xref	COG:COG0858
+			gene	rbfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7G2
+			locus_tag	Moranella_endobia_GCF_000364725_1_00138
+			product	30S ribosome-binding factor
+169113	170057	CDS
+			EC_number	5.4.99.25
+			db_xref	COG:COG0130
+			gene	truB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60340
+			locus_tag	Moranella_endobia_GCF_000364725_1_00139
+			product	tRNA pseudouridine synthase B
+170198	170467	CDS
+			db_xref	COG:COG0184
+			gene	rpsO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADZ4
+			locus_tag	Moranella_endobia_GCF_000364725_1_00140
+			product	30S ribosomal protein S15
+170668	172779	CDS
+			EC_number	2.7.7.8
+			db_xref	COG:COG1185
+			gene	pnp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P05055
+			locus_tag	Moranella_endobia_GCF_000364725_1_00141
+			product	Polyribonucleotide nucleotidyltransferase
+173245	175032	CDS
+			EC_number	3.6.4.13
+			db_xref	COG:COG0513
+			gene	deaD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9P6
+			locus_tag	Moranella_endobia_GCF_000364725_1_00142
+			product	ATP-dependent RNA helicase DeaD
+175218	175475	CDS
+			db_xref	COG:COG1925
+			gene	ptsH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA07
+			locus_tag	Moranella_endobia_GCF_000364725_1_00143
+			product	Phosphocarrier protein HPr
+175524	177269	CDS
+			EC_number	2.7.3.9
+			db_xref	COG:COG1080
+			gene	ptsI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A249
+			locus_tag	Moranella_endobia_GCF_000364725_1_00144
+			product	Phosphoenolpyruvate-protein phosphotransferase
+177661	178089	CDS
+			db_xref	COG:COG0102
+			gene	rplM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA10
+			locus_tag	Moranella_endobia_GCF_000364725_1_00145
+			product	50S ribosomal protein L13
+178105	178497	CDS
+			db_xref	COG:COG0103
+			gene	rpsI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7X3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00146
+			product	30S ribosomal protein S9
+179017	180477	CDS
+			EC_number	2.7.8.-
+			db_xref	COG:COG1502
+			gene	clsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6H8
+			locus_tag	Moranella_endobia_GCF_000364725_1_00147
+			product	Cardiolipin synthase A
+180913	180539	CDS
+			db_xref	COG:COG0335
+			gene	rplS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7K6
+			locus_tag	Moranella_endobia_GCF_000364725_1_00148
+			product	50S ribosomal protein L19
+181677	180913	CDS
+			EC_number	2.1.1.228
+			db_xref	COG:COG0336
+			gene	trmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A873
+			locus_tag	Moranella_endobia_GCF_000364725_1_00149
+			product	tRNA (guanine-N(1)-)-methyltransferase
+182274	181726	CDS
+			db_xref	COG:COG0806
+			gene	rimM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7X6
+			locus_tag	Moranella_endobia_GCF_000364725_1_00150
+			product	Ribosome maturation factor RimM
+182549	182295	CDS
+			db_xref	COG:COG0228
+			gene	rpsP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7T3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00151
+			product	30S ribosomal protein S16
+183977	182643	CDS
+			db_xref	COG:COG0541
+			gene	ffh
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGD7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00152
+			product	Signal recognition particle protein
+185408	184293	CDS
+			EC_number	4.2.2.-
+			db_xref	COG:COG0741
+			gene	mltC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C066
+			locus_tag	Moranella_endobia_GCF_000364725_1_00153
+			product	Membrane-bound lytic murein transglycosylase C
+185742	186470	CDS
+			EC_number	2.1.1.33
+			db_xref	COG:COG0220
+			gene	trmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8I5
+			locus_tag	Moranella_endobia_GCF_000364725_1_00154
+			product	tRNA (guanine-N(7)-)-methyltransferase
+186480	186599	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00155
+			product	hypothetical protein
+186741	187364	CDS
+			EC_number	2.1.1.171
+			db_xref	COG:COG0742
+			gene	rsmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADX9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00156
+			product	Ribosomal RNA small subunit methyltransferase D
+187536	188747	CDS
+			EC_number	2.3.1.41
+			db_xref	COG:COG0304
+			gene	fabB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A953
+			locus_tag	Moranella_endobia_GCF_000364725_1_00157
+			product	3-oxoacyl-[acyl-carrier-protein] synthase 1
+189945	189100	CDS
+			EC_number	3.4.11.18
+			db_xref	COG:COG0024
+			gene	map
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1X6
+			locus_tag	Moranella_endobia_GCF_000364725_1_00158
+			product	Methionine aminopeptidase
+190306	191019	CDS
+			db_xref	COG:COG0052
+			gene	rpsB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7V0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00159
+			product	30S ribosomal protein S2
+191141	191947	CDS
+			db_xref	COG:COG0264
+			gene	tsf
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6P1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00160
+			product	Elongation factor Ts
+192228	192782	CDS
+			db_xref	COG:COG0233
+			gene	frr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A805
+			locus_tag	Moranella_endobia_GCF_000364725_1_00161
+			product	Ribosome-recycling factor
+193499	194251	CDS
+			EC_number	2.5.1.31
+			db_xref	COG:COG0020
+			gene	ispU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60472
+			locus_tag	Moranella_endobia_GCF_000364725_1_00162
+			product	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+194552	196972	CDS
+			db_xref	COG:COG4775
+			gene	bamA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:D5CHY0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00163
+			product	Outer membrane protein assembly factor BamA
+197126	197626	CDS
+			db_xref	COG:COG2825
+			gene	skp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31519
+			locus_tag	Moranella_endobia_GCF_000364725_1_00164
+			product	Chaperone protein Skp
+197626	198681	CDS
+			EC_number	2.3.1.191
+			db_xref	COG:COG1044
+			gene	lpxD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1X4
+			locus_tag	Moranella_endobia_GCF_000364725_1_00165
+			product	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+199239	200027	CDS
+			EC_number	2.3.1.129
+			db_xref	COG:COG1043
+			gene	lpxA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A722
+			locus_tag	Moranella_endobia_GCF_000364725_1_00166
+			product	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+200030	201178	CDS
+			EC_number	2.4.1.182
+			db_xref	COG:COG0763
+			gene	lpxB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10441
+			locus_tag	Moranella_endobia_GCF_000364725_1_00167
+			product	Lipid-A-disaccharide synthase
+201583	205065	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0587
+			gene	dnaE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10443
+			locus_tag	Moranella_endobia_GCF_000364725_1_00168
+			product	DNA polymerase III subunit alpha
+205096	206049	CDS
+			EC_number	2.1.3.15
+			db_xref	COG:COG0825
+			gene	accA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABD5
+			locus_tag	Moranella_endobia_GCF_000364725_1_00169
+			product	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+206214	206139	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00170
+			product	tRNA-Ala(ggc)
+207632	206319	CDS
+			EC_number	6.1.1.17
+			db_xref	COG:COG0008
+			gene	gltX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04805
+			locus_tag	Moranella_endobia_GCF_000364725_1_00171
+			product	Glutamate--tRNA ligase
+207950	208022	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00172
+			product	tRNA-Val(tac)
+208045	208120	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00173
+			product	tRNA-Lys(ttt)
+208659	209582	CDS
+			EC_number	3.4.24.-
+			db_xref	COG:COG0501
+			gene	htpX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23894
+			locus_tag	Moranella_endobia_GCF_000364725_1_00174
+			product	Protease HtpX
+210088	210672	CDS
+			EC_number	3.4.21.92
+			db_xref	COG:COG0740
+			gene	clpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6G7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00175
+			product	ATP-dependent Clp protease proteolytic subunit
+210767	212026	CDS
+			db_xref	COG:COG1219
+			gene	clpX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6H1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00176
+			product	ATP-dependent Clp protease ATP-binding subunit ClpX
+212187	214541	CDS
+			EC_number	3.4.21.53
+			db_xref	COG:COG0466
+			gene	lon_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9M0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00177
+			product	Lon protease
+215046	214618	CDS
+			db_xref	COG:COG1970
+			gene	mscL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A742
+			locus_tag	Moranella_endobia_GCF_000364725_1_00178
+			product	Large-conductance mechanosensitive channel
+216320	215364	CDS
+			EC_number	2.1.2.9
+			db_xref	COG:COG0223
+			gene	fmt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZJ80
+			locus_tag	Moranella_endobia_GCF_000364725_1_00179
+			product	Methionyl-tRNA formyltransferase
+216821	216327	CDS
+			EC_number	3.5.1.88
+			db_xref	COG:COG0242
+			gene	def
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6K3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00180
+			product	Peptide deformylase
+217143	218720	CDS
+			EC_number	6.1.1.10
+			db_xref	COG:COG0073
+			gene	metG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00959
+			locus_tag	Moranella_endobia_GCF_000364725_1_00181
+			product	Methionine--tRNA ligase
+219205	219131	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00182
+			product	tRNA-Arg(cct)
+220211	219345	CDS
+			EC_number	6.3.2.1
+			db_xref	COG:COG0414
+			gene	panC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZBK7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00183
+			product	Pantothenate synthetase
+221029	220223	CDS
+			EC_number	2.1.2.11
+			db_xref	COG:COG0413
+			gene	panB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31057
+			locus_tag	Moranella_endobia_GCF_000364725_1_00184
+			product	3-methyl-2-oxobutanoate hydroxymethyltransferase
+223060	221702	CDS
+			EC_number	2.7.7.19
+			db_xref	COG:COG0617
+			gene	pcnB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABF1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00185
+			product	Poly(A) polymerase I
+223933	223484	CDS
+			db_xref	COG:COG1734
+			gene	dksA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABS1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00186
+			product	RNA polymerase-binding transcription factor DksA
+224408	224289	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00187
+			product	hypothetical protein
+224623	226362	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0608
+			gene	recJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21893
+			locus_tag	Moranella_endobia_GCF_000364725_1_00188
+			product	Single-stranded-DNA-specific exonuclease RecJ
+226725	227594	CDS
+			db_xref	COG:COG1186
+			gene	prfB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07012
+			locus_tag	Moranella_endobia_GCF_000364725_1_00189
+			product	Peptide chain release factor RF2
+227545	229125	CDS
+			EC_number	6.1.1.6
+			db_xref	COG:COG1190
+			gene	lysS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8N3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00190
+			product	Lysine--tRNA ligase
+229918	229397	CDS
+			EC_number	2.7.1.71
+			db_xref	COG:COG0703
+			gene	aroK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6D7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00191
+			product	Shikimate kinase 1
+230960	230873	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00192
+			product	tRNA-Ser(tga)
+231271	231597	CDS
+			EC_number	2.8.1.-
+			db_xref	COG:COG2920
+			gene	tusE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AB18
+			locus_tag	Moranella_endobia_GCF_000364725_1_00193
+			product	Sulfurtransferase TusE
+232842	231766	CDS
+			EC_number	2.8.1.13
+			db_xref	COG:COG0482
+			gene	mnmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25745
+			locus_tag	Moranella_endobia_GCF_000364725_1_00194
+			product	tRNA-specific 2-thiouridylase MnmA
+235206	233029	CDS
+			EC_number	2.3.1.8
+			db_xref	COG:COG0280
+			gene	pta
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZND6
+			locus_tag	Moranella_endobia_GCF_000364725_1_00195
+			product	Phosphate acetyltransferase
+236499	235297	CDS
+			EC_number	2.7.2.1
+			db_xref	COG:COG0282
+			gene	ackA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6A3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00196
+			product	Acetate kinase
+237216	237938	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00197
+			product	hypothetical protein
+238398	240218	CDS
+			db_xref	COG:COG1217
+			gene	typA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P32132
+			locus_tag	Moranella_endobia_GCF_000364725_1_00198
+			product	GTP-binding protein TypA/BipA
+240803	240642	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00199
+			product	hypothetical protein
+241181	241636	CDS
+			EC_number	1.1.1.290
+			db_xref	COG:COG0111
+			gene	pdxB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60802
+			locus_tag	Moranella_endobia_GCF_000364725_1_00200
+			product	Erythronate-4-phosphate dehydrogenase
+241626	242420	CDS
+			EC_number	5.4.99.12
+			db_xref	COG:COG0101
+			gene	truA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07649
+			locus_tag	Moranella_endobia_GCF_000364725_1_00201
+			product	tRNA pseudouridine synthase A
+243699	242668	CDS
+			EC_number	6.3.4.15
+			db_xref	COG:COG0340
+			gene	birA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06709
+			locus_tag	Moranella_endobia_GCF_000364725_1_00202
+			product	Bifunctional ligase/repressor BirA
+244644	245198	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00203
+			product	hypothetical protein
+245380	246387	CDS
+			db_xref	COG:COG0635
+			gene	hemW
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P52062
+			locus_tag	Moranella_endobia_GCF_000364725_1_00204
+			product	Heme chaperone HemW
+246552	246415	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00205
+			product	hypothetical protein
+246706	247776	CDS
+			EC_number	2.4.99.17
+			db_xref	COG:COG0809
+			gene	queA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7F9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00206
+			product	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+247843	248976	CDS
+			EC_number	2.4.2.29
+			db_xref	COG:COG0343
+			gene	tgt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A847
+			locus_tag	Moranella_endobia_GCF_000364725_1_00207
+			product	Queuine tRNA-ribosyltransferase
+249251	249658	CDS
+			db_xref	COG:COG0316
+			gene	sufA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77667
+			locus_tag	Moranella_endobia_GCF_000364725_1_00208
+			product	Protein SufA
+249639	251141	CDS
+			db_xref	COG:COG0719
+			gene	sufB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77522
+			locus_tag	Moranella_endobia_GCF_000364725_1_00209
+			product	FeS cluster assembly protein SufB
+251198	251938	CDS
+			db_xref	COG:COG0396
+			gene	sufC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77499
+			locus_tag	Moranella_endobia_GCF_000364725_1_00210
+			product	putative ATP-dependent transporter SufC
+251919	253232	CDS
+			db_xref	COG:COG0719
+			gene	sufD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77689
+			locus_tag	Moranella_endobia_GCF_000364725_1_00211
+			product	FeS cluster assembly protein SufD
+253229	254452	CDS
+			EC_number	2.8.1.7
+			db_xref	COG:COG0520
+			gene	sufS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77444
+			locus_tag	Moranella_endobia_GCF_000364725_1_00212
+			product	Cysteine desulfurase
+254462	254875	CDS
+			db_xref	COG:COG2166
+			gene	sufE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9EXP1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00213
+			product	Cysteine desulfuration protein SufE
+255625	254990	CDS
+			EC_number	3.1.2.6
+			db_xref	COG:COG0491
+			gene	gloC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75849
+			locus_tag	Moranella_endobia_GCF_000364725_1_00214
+			product	Hydroxyacylglutathione hydrolase GloC
+256970	255963	CDS
+			EC_number	2.7.1.130
+			db_xref	COG:COG1663
+			gene	lpxK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27300
+			locus_tag	Moranella_endobia_GCF_000364725_1_00215
+			product	Tetraacyldisaccharide 4'-kinase
+258718	256967	CDS
+			EC_number	7.5.2.6
+			db_xref	COG:COG1132
+			gene	msbA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63359
+			locus_tag	Moranella_endobia_GCF_000364725_1_00216
+			product	Lipid A export ATP-binding/permease protein MsbA
+259339	258824	CDS
+			EC_number	4.2.1.59
+			db_xref	COG:COG0764
+			gene	fabA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6Q3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00217
+			product	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+261159	259396	CDS
+			EC_number	3.4.21.53
+			gene	lon_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01973
+			locus_tag	Moranella_endobia_GCF_000364725_1_00218
+			product	Lon protease
+261508	262023	CDS
+			db_xref	COG:COG0716
+			gene	fldA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZQX1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00219
+			product	Flavodoxin 1
+266215	262910	CDS
+			EC_number	3.1.11.5
+			db_xref	COG:COG1330
+			gene	recC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07648
+			locus_tag	Moranella_endobia_GCF_000364725_1_00220
+			product	RecBCD enzyme subunit RecC
+266885	266685	CDS
+			EC_number	2.7.6.5
+			db_xref	COG:COG0317
+			gene	relA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG20
+			locus_tag	Moranella_endobia_GCF_000364725_1_00221
+			product	GTP pyrophosphokinase
+267114	266935	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00222
+			product	hypothetical protein
+267617	267928	CDS
+			db_xref	COG:COG0051
+			gene	rpsJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7R5
+			locus_tag	Moranella_endobia_GCF_000364725_1_00223
+			product	30S ribosomal protein S10
+267966	268595	CDS
+			db_xref	COG:COG0087
+			gene	rplC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60438
+			locus_tag	Moranella_endobia_GCF_000364725_1_00224
+			product	50S ribosomal protein L3
+268614	269219	CDS
+			db_xref	COG:COG0088
+			gene	rplD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60726
+			locus_tag	Moranella_endobia_GCF_000364725_1_00225
+			product	50S ribosomal protein L4
+269216	269554	CDS
+			db_xref	COG:COG0089
+			gene	rplW
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C2N0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00226
+			product	50S ribosomal protein L23
+269541	270362	CDS
+			db_xref	COG:COG0090
+			gene	rplB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60422
+			locus_tag	Moranella_endobia_GCF_000364725_1_00227
+			product	50S ribosomal protein L2
+270381	270668	CDS
+			db_xref	COG:COG0185
+			gene	rpsS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7U3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00228
+			product	30S ribosomal protein S19
+270678	271010	CDS
+			db_xref	COG:COG0091
+			gene	rplV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P61175
+			locus_tag	Moranella_endobia_GCF_000364725_1_00229
+			product	50S ribosomal protein L22
+271028	271726	CDS
+			db_xref	COG:COG0092
+			gene	rpsC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7V3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00230
+			product	30S ribosomal protein S3
+271739	272149	CDS
+			db_xref	COG:COG0197
+			gene	rplP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADY7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00231
+			product	50S ribosomal protein L16
+272149	272340	CDS
+			db_xref	COG:COG0255
+			gene	rpmC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9HWE3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00232
+			product	50S ribosomal protein L29
+272340	272597	CDS
+			db_xref	COG:COG0186
+			gene	rpsQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG63
+			locus_tag	Moranella_endobia_GCF_000364725_1_00233
+			product	30S ribosomal protein S17
+272778	273149	CDS
+			db_xref	COG:COG0093
+			gene	rplN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADY3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00234
+			product	50S ribosomal protein L14
+273160	273477	CDS
+			db_xref	COG:COG0198
+			gene	rplX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60624
+			locus_tag	Moranella_endobia_GCF_000364725_1_00235
+			product	50S ribosomal protein L24
+273494	274030	CDS
+			db_xref	COG:COG0094
+			gene	rplE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62399
+			locus_tag	Moranella_endobia_GCF_000364725_1_00236
+			product	50S ribosomal protein L5
+274044	274349	CDS
+			db_xref	COG:COG0199
+			gene	rpsN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG59
+			locus_tag	Moranella_endobia_GCF_000364725_1_00237
+			product	30S ribosomal protein S14
+274388	274780	CDS
+			db_xref	COG:COG0096
+			gene	rpsH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7W7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00238
+			product	30S ribosomal protein S8
+274794	275327	CDS
+			db_xref	COG:COG0097
+			gene	rplF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG55
+			locus_tag	Moranella_endobia_GCF_000364725_1_00239
+			product	50S ribosomal protein L6
+275337	275687	CDS
+			db_xref	COG:COG0256
+			gene	rplR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C018
+			locus_tag	Moranella_endobia_GCF_000364725_1_00240
+			product	50S ribosomal protein L18
+275716	276216	CDS
+			db_xref	COG:COG0098
+			gene	rpsE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7W4
+			locus_tag	Moranella_endobia_GCF_000364725_1_00241
+			product	30S ribosomal protein S5
+276223	276402	CDS
+			db_xref	COG:COG1841
+			gene	rpmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG51
+			locus_tag	Moranella_endobia_GCF_000364725_1_00242
+			product	50S ribosomal protein L30
+276409	276846	CDS
+			db_xref	COG:COG0200
+			gene	rplO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02413
+			locus_tag	Moranella_endobia_GCF_000364725_1_00243
+			product	50S ribosomal protein L15
+276854	278182	CDS
+			db_xref	COG:COG0201
+			gene	secY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGA2
+			locus_tag	Moranella_endobia_GCF_000364725_1_00244
+			product	Protein translocase subunit SecY
+278407	278772	CDS
+			db_xref	COG:COG0099
+			gene	rpsM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7S9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00245
+			product	30S ribosomal protein S13
+278784	279173	CDS
+			db_xref	COG:COG0100
+			gene	rpsK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7R9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00246
+			product	30S ribosomal protein S11
+279205	279825	CDS
+			db_xref	COG:COG0522
+			gene	rpsD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7V8
+			locus_tag	Moranella_endobia_GCF_000364725_1_00247
+			product	30S ribosomal protein S4
+279857	280846	CDS
+			EC_number	2.7.7.6
+			gene	rpoA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q664U6
+			locus_tag	Moranella_endobia_GCF_000364725_1_00248
+			product	DNA-directed RNA polymerase subunit alpha
+280885	281268	CDS
+			db_xref	COG:COG0203
+			gene	rplQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG44
+			locus_tag	Moranella_endobia_GCF_000364725_1_00249
+			product	50S ribosomal protein L17
+282986	281346	CDS
+			db_xref	COG:COG0459
+			gene	groL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2NW94
+			locus_tag	Moranella_endobia_GCF_000364725_1_00250
+			product	60 kDa chaperonin
+283326	283033	CDS
+			db_xref	COG:COG0234
+			gene	groS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6F9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00251
+			product	10 kDa chaperonin
+284328	283726	CDS
+			db_xref	COG:COG0576
+			gene	grpE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09372
+			locus_tag	Moranella_endobia_GCF_000364725_1_00252
+			product	Protein GrpE
+284690	285169	CDS
+			db_xref	COG:COG0691
+			gene	smpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A832
+			locus_tag	Moranella_endobia_GCF_000364725_1_00253
+			product	SsrA-binding protein
+285216	285600	tmRNA
+			gene	ssrA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00254
+			product	transfer-messenger RNA, SsrA
+285799	287460	CDS
+			EC_number	6.1.1.18
+			db_xref	COG:COG0008
+			gene	glnS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00962
+			locus_tag	Moranella_endobia_GCF_000364725_1_00255
+			product	Glutamine--tRNA ligase
+288185	287640	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG1949
+			gene	orn
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A784
+			locus_tag	Moranella_endobia_GCF_000364725_1_00256
+			product	Oligoribonuclease
+288618	288956	CDS
+			db_xref	COG:COG0316
+			gene	erpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACC3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00257
+			product	Iron-sulfur cluster insertion protein ErpA
+289050	288975	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00258
+			product	tRNA-Phe(gaa)
+289514	290320	CDS
+			EC_number	3.1.11.2
+			db_xref	COG:COG0708
+			gene	xthA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09030
+			locus_tag	Moranella_endobia_GCF_000364725_1_00259
+			product	Exodeoxyribonuclease III
+292470	291202	CDS
+			EC_number	6.1.1.1
+			db_xref	COG:COG0162
+			gene	tyrS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGJ9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00260
+			product	Tyrosine--tRNA ligase
+292765	292676	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00261
+			product	tRNA-Ser(cga)
+293042	293117	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00262
+			product	tRNA-Asn(gtt)
+293359	293661	CDS
+			EC_number	4.1.99.17
+			db_xref	COG:COG0422
+			gene	thiC_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30136
+			locus_tag	Moranella_endobia_GCF_000364725_1_00263
+			product	Phosphomethylpyrimidine synthase
+293600	293878	CDS
+			EC_number	4.1.99.17
+			gene	thiC_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00089
+			locus_tag	Moranella_endobia_GCF_000364725_1_00264
+			product	Phosphomethylpyrimidine synthase
+293847	294932	CDS
+			EC_number	4.1.99.17
+			db_xref	COG:COG0422
+			gene	thiC_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30136
+			locus_tag	Moranella_endobia_GCF_000364725_1_00265
+			product	Phosphomethylpyrimidine synthase
+294966	295622	CDS
+			EC_number	2.5.1.3
+			db_xref	COG:COG0352
+			gene	thiE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30137
+			locus_tag	Moranella_endobia_GCF_000364725_1_00266
+			product	Thiamine-phosphate synthase
+299911	295703	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG0086
+			gene	rpoC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8T7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00267
+			product	DNA-directed RNA polymerase subunit beta'
+304037	300009	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG0085
+			gene	rpoB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8V2
+			locus_tag	Moranella_endobia_GCF_000364725_1_00268
+			product	DNA-directed RNA polymerase subunit beta
+304682	304314	CDS
+			db_xref	COG:COG0222
+			gene	rplL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7K2
+			locus_tag	Moranella_endobia_GCF_000364725_1_00269
+			product	50S ribosomal protein L7/L12
+305256	304759	CDS
+			db_xref	COG:COG0244
+			gene	rplJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7J3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00270
+			product	50S ribosomal protein L10
+306107	305403	CDS
+			db_xref	COG:COG0081
+			gene	rplA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7L0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00271
+			product	50S ribosomal protein L1
+306538	306110	CDS
+			db_xref	COG:COG0080
+			gene	rplK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7J7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00272
+			product	50S ribosomal protein L11
+307242	306697	CDS
+			db_xref	COG:COG0250
+			gene	nusG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFG0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00273
+			product	Transcription termination/antitermination protein NusG
+307630	307235	CDS
+			db_xref	COG:COG0690
+			gene	secE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG96
+			locus_tag	Moranella_endobia_GCF_000364725_1_00274
+			product	Protein translocase subunit SecE
+308926	307742	CDS
+			db_xref	COG:COG0050
+			gene	tufB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0CE48
+			locus_tag	Moranella_endobia_GCF_000364725_1_00275
+			product	Elongation factor Tu 2
+309105	309030	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00276
+			product	tRNA-Thr(ggt)
+309184	309110	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00277
+			product	tRNA-Gly(tcc)
+309342	309258	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00278
+			product	tRNA-Tyr(gta)
+309426	309351	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00279
+			product	tRNA-Thr(tgt)
+310657	309590	CDS
+			db_xref	COG:COG0795
+			gene	lptG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADC6
+			locus_tag	Moranella_endobia_GCF_000364725_1_00280
+			product	Lipopolysaccharide export system permease protein LptG
+311811	310651	CDS
+			db_xref	COG:COG0795
+			gene	lptF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AF98
+			locus_tag	Moranella_endobia_GCF_000364725_1_00281
+			product	Lipopolysaccharide export system permease protein LptF
+312090	312530	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG2927
+			gene	holC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28905
+			locus_tag	Moranella_endobia_GCF_000364725_1_00282
+			product	DNA polymerase III subunit chi
+312527	315409	CDS
+			EC_number	6.1.1.9
+			db_xref	COG:COG0525
+			gene	valS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07118
+			locus_tag	Moranella_endobia_GCF_000364725_1_00283
+			product	Valine--tRNA ligase
+315755	316774	CDS
+			EC_number	2.1.3.3
+			db_xref	COG:COG0078
+			gene	argI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04391
+			locus_tag	Moranella_endobia_GCF_000364725_1_00284
+			product	Ornithine carbamoyltransferase subunit I
+318287	317157	CDS
+			EC_number	1.17.4.1
+			db_xref	COG:COG0208
+			gene	nrdB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69924
+			locus_tag	Moranella_endobia_GCF_000364725_1_00285
+			product	Ribonucleoside-diphosphate reductase 1 subunit beta
+320619	318337	CDS
+			EC_number	1.17.4.1
+			db_xref	COG:COG0209
+			gene	nrdA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00452
+			locus_tag	Moranella_endobia_GCF_000364725_1_00286
+			product	Ribonucleoside-diphosphate reductase 1 subunit alpha
+321262	323916	CDS
+			EC_number	5.6.2.2
+			db_xref	COG:COG0188
+			gene	gyrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37411
+			locus_tag	Moranella_endobia_GCF_000364725_1_00287
+			product	DNA gyrase subunit A
+324098	325051	CDS
+			EC_number	1.8.1.9
+			db_xref	COG:COG0492
+			gene	trxB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9P4
+			locus_tag	Moranella_endobia_GCF_000364725_1_00288
+			product	Thioredoxin reductase
+325095	326861	CDS
+			db_xref	COG:COG4988
+			gene	cydD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29018
+			locus_tag	Moranella_endobia_GCF_000364725_1_00289
+			product	ATP-binding/permease protein CydD
+326864	328585	CDS
+			db_xref	COG:COG1132
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q57538
+			locus_tag	Moranella_endobia_GCF_000364725_1_00290
+			product	putative ABC transporter ATP-binding/permease protein
+328789	329007	CDS
+			db_xref	COG:COG0361
+			gene	infA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69222
+			locus_tag	Moranella_endobia_GCF_000364725_1_00291
+			product	Translation initiation factor IF-1
+331349	329241	CDS
+			db_xref	COG:COG0480
+			gene	fusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6M8
+			locus_tag	Moranella_endobia_GCF_000364725_1_00292
+			product	Elongation factor G
+331918	331448	CDS
+			db_xref	COG:COG0049
+			gene	rpsG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02359
+			locus_tag	Moranella_endobia_GCF_000364725_1_00293
+			product	30S ribosomal protein S7
+332382	332008	CDS
+			db_xref	COG:COG0048
+			gene	rpsL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7S3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00294
+			product	30S ribosomal protein S12
+332928	332641	CDS
+			db_xref	COG:COG2168
+			gene	tusB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45530
+			locus_tag	Moranella_endobia_GCF_000364725_1_00295
+			product	Protein TusB
+333312	332953	CDS
+			db_xref	COG:COG2923
+			gene	tusC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45531
+			locus_tag	Moranella_endobia_GCF_000364725_1_00296
+			product	Protein TusC
+333695	333324	CDS
+			EC_number	2.8.1.-
+			db_xref	COG:COG1553
+			gene	tusD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45532
+			locus_tag	Moranella_endobia_GCF_000364725_1_00297
+			product	Sulfurtransferase TusD
+335617	334133	CDS
+			EC_number	6.3.4.19
+			db_xref	COG:COG0037
+			gene	tilS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P52097
+			locus_tag	Moranella_endobia_GCF_000364725_1_00298
+			product	tRNA(Ile)-lysidine synthase
+338163	335794	CDS
+			db_xref	COG:COG0744
+			gene	mrcB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02919
+			locus_tag	Moranella_endobia_GCF_000364725_1_00299
+			product	Penicillin-binding protein 1B
+339243	341042	CDS
+			EC_number	3.6.5.-
+			db_xref	COG:COG0481
+			gene	lepA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60785
+			locus_tag	Moranella_endobia_GCF_000364725_1_00300
+			product	Elongation factor 4
+341058	342020	CDS
+			EC_number	3.4.21.89
+			db_xref	COG:COG0681
+			gene	lepB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00803
+			locus_tag	Moranella_endobia_GCF_000364725_1_00301
+			product	Signal peptidase I
+342108	342797	CDS
+			EC_number	3.1.26.3
+			db_xref	COG:COG0571
+			gene	rnc
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Y0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00302
+			product	Ribonuclease 3
+342794	343699	CDS
+			db_xref	COG:COG1159
+			gene	era
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06616
+			locus_tag	Moranella_endobia_GCF_000364725_1_00303
+			product	GTPase Era
+343804	344193	CDS
+			EC_number	2.7.8.7
+			db_xref	COG:COG0736
+			gene	acpS_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24224
+			locus_tag	Moranella_endobia_GCF_000364725_1_00304
+			product	Holo-[acyl-carrier-protein] synthase
+344312	344236	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00305
+			product	tRNA-Asp(gtc)
+344452	344342	rRNA
+			locus_tag	Moranella_endobia_GCF_000364725_1_00306
+			product	5S ribosomal RNA
+			score	1.2e-12
+347465	344552	rRNA
+			locus_tag	Moranella_endobia_GCF_000364725_1_00307
+			product	23S ribosomal RNA
+			score	0
+347801	347728	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00308
+			product	tRNA-Ala(tgc)
+347910	347835	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00309
+			product	tRNA-Ile(gat)
+349517	347979	rRNA
+			locus_tag	Moranella_endobia_GCF_000364725_1_00310
+			product	16S ribosomal RNA
+			score	0
+351576	350200	CDS
+			EC_number	3.6.-.-
+			db_xref	COG:COG0486
+			gene	mnmE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25522
+			locus_tag	Moranella_endobia_GCF_000364725_1_00311
+			product	tRNA modification GTPase MnmE
+353305	351689	CDS
+			gene	yidC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q1R4M9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00312
+			product	Membrane protein insertase YidC
+353888	353550	CDS
+			EC_number	3.1.26.5
+			db_xref	COG:COG0594
+			gene	rnpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Y8
+			locus_tag	Moranella_endobia_GCF_000364725_1_00313
+			product	Ribonuclease P protein component
+354057	353908	CDS
+			db_xref	COG:COG0230
+			gene	rpmH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7P5
+			locus_tag	Moranella_endobia_GCF_000364725_1_00314
+			product	50S ribosomal protein L34
+356374	354224	CDS
+			EC_number	3.6.4.-
+			db_xref	COG:COG1198
+			gene	priA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P17888
+			locus_tag	Moranella_endobia_GCF_000364725_1_00315
+			product	Primosomal protein N'
+356578	356793	CDS
+			db_xref	COG:COG0254
+			gene	rpmE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7M9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00316
+			product	50S ribosomal protein L31
+357377	358480	CDS
+			db_xref	COG:COG0592
+			gene	dnaN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A988
+			locus_tag	Moranella_endobia_GCF_000364725_1_00317
+			product	Beta sliding clamp
+358776	361190	CDS
+			EC_number	5.6.2.2
+			db_xref	COG:COG0187
+			gene	gyrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AES6
+			locus_tag	Moranella_endobia_GCF_000364725_1_00318
+			product	DNA gyrase subunit B
+361247	361321	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00319
+			product	tRNA-Thr(cgt)
+362076	363089	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24188
+			locus_tag	Moranella_endobia_GCF_000364725_1_00320
+			note	UPF0176 protein YceA
+			product	hypothetical protein
+363605	363814	CDS
+			gene	cspC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:E0J500
+			locus_tag	Moranella_endobia_GCF_000364725_1_00321
+			product	Cold shock-like protein CspC
+364678	364076	CDS
+			db_xref	COG:COG0218
+			gene	engB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6P7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00322
+			product	putative GTP-binding protein EngB
+365910	367313	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0305
+			gene	dnaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACB0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00323
+			product	Replicative DNA helicase
+368011	367451	CDS
+			gene	ssb
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25762
+			locus_tag	Moranella_endobia_GCF_000364725_1_00324
+			product	Single-stranded DNA-binding protein
+369073	368333	CDS
+			EC_number	4.2.1.75
+			db_xref	COG:COG1587
+			gene	hemD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P48246
+			locus_tag	Moranella_endobia_GCF_000364725_1_00325
+			product	Uroporphyrinogen-III synthase
+370017	369070	CDS
+			EC_number	2.5.1.61
+			db_xref	COG:COG0181
+			gene	hemC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06983
+			locus_tag	Moranella_endobia_GCF_000364725_1_00326
+			product	Porphobilinogen deaminase
+370396	370512	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00327
+			product	hypothetical protein
+370764	372929	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0210
+			gene	uvrD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03018
+			locus_tag	Moranella_endobia_GCF_000364725_1_00328
+			product	DNA helicase II
+373310	373234	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00329
+			product	tRNA-Arg(tct)
+373821	374081	CDS
+			EC_number	3.5.4.9
+			gene	folD
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01576
+			locus_tag	Moranella_endobia_GCF_000364725_1_00330
+			product	Bifunctional protein FolD protein
+375682	374282	CDS
+			EC_number	6.1.1.16
+			db_xref	COG:COG0215
+			gene	cysS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21888
+			locus_tag	Moranella_endobia_GCF_000364725_1_00331
+			product	Cysteine--tRNA ligase
+376087	375770	CDS
+			db_xref	COG:COG3785
+			gene	hspQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AB20
+			locus_tag	Moranella_endobia_GCF_000364725_1_00332
+			product	Heat shock protein HspQ
+376534	376385	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00333
+			product	hypothetical protein
+377165	377980	CDS
+			EC_number	3.6.1.27
+			db_xref	COG:COG1968
+			gene	uppP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60932
+			locus_tag	Moranella_endobia_GCF_000364725_1_00334
+			product	Undecaprenyl-diphosphatase
+379352	378105	CDS
+			db_xref	COG:COG0617
+			gene	cca
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06961
+			locus_tag	Moranella_endobia_GCF_000364725_1_00335
+			product	Multifunctional CCA protein
+379558	379884	CDS
+			db_xref	COG:COG0278
+			gene	grxD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC69
+			locus_tag	Moranella_endobia_GCF_000364725_1_00336
+			product	Glutaredoxin 4
+380686	380033	CDS
+			EC_number	3.1.13.-
+			db_xref	COG:COG0847
+			gene	rnt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30014
+			locus_tag	Moranella_endobia_GCF_000364725_1_00337
+			product	Ribonuclease T
+381831	381043	CDS
+			EC_number	1.3.1.9
+			db_xref	COG:COG0623
+			gene	fabI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16657
+			locus_tag	Moranella_endobia_GCF_000364725_1_00338
+			product	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+382162	382695	CDS
+			EC_number	3.6.1.1
+			db_xref	COG:COG0221
+			gene	ppa
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7A9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00339
+			product	Inorganic pyrophosphatase
+383147	384811	CDS
+			db_xref	COG:COG1226
+			gene	ybaL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39830
+			locus_tag	Moranella_endobia_GCF_000364725_1_00340
+			product	Putative cation/proton antiporter YbaL
+386126	385248	CDS
+			EC_number	4.3.3.7
+			db_xref	COG:COG0329
+			gene	dapA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6L2
+			locus_tag	Moranella_endobia_GCF_000364725_1_00341
+			product	4-hydroxy-tetrahydrodipicolinate synthase
+386886	387209	CDS
+			db_xref	COG:COG0526
+			gene	trxA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA28
+			locus_tag	Moranella_endobia_GCF_000364725_1_00342
+			product	Thioredoxin 1
+387612	388871	CDS
+			EC_number	3.6.4.-
+			db_xref	COG:COG1158
+			gene	rho
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG30
+			locus_tag	Moranella_endobia_GCF_000364725_1_00343
+			product	Transcription termination factor Rho
+389203	389279	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00344
+			product	tRNA-Arg(ccg)
+389345	389420	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00345
+			product	tRNA-His(gtg)
+389424	389510	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00346
+			product	tRNA-Leu(cag)
+389578	389654	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00347
+			product	tRNA-Pro(tgg)
+390304	389723	CDS
+			db_xref	COG:COG3417
+			gene	lpoB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AB38
+			locus_tag	Moranella_endobia_GCF_000364725_1_00348
+			product	Penicillin-binding protein activator LpoB
+390749	390396	CDS
+			EC_number	3.9.1.-
+			db_xref	COG:COG0537
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P44956
+			locus_tag	Moranella_endobia_GCF_000364725_1_00349
+			product	Purine nucleoside phosphoramidase
+390914	391918	CDS
+			EC_number	1.2.1.12
+			db_xref	COG:COG0057
+			gene	gapA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9B2
+			locus_tag	Moranella_endobia_GCF_000364725_1_00350
+			product	Glyceraldehyde-3-phosphate dehydrogenase A
+392351	392569	CDS
+			db_xref	COG:COG1278
+			gene	cspG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A978
+			locus_tag	Moranella_endobia_GCF_000364725_1_00351
+			product	Cold shock-like protein CspG
+393714	392710	CDS
+			EC_number	6.1.1.2
+			db_xref	COG:COG0180
+			gene	trpS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00954
+			locus_tag	Moranella_endobia_GCF_000364725_1_00352
+			product	Tryptophan--tRNA ligase
+394614	393802	CDS
+			EC_number	2.1.1.182
+			db_xref	COG:COG0030
+			gene	rsmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06992
+			locus_tag	Moranella_endobia_GCF_000364725_1_00353
+			product	Ribosomal RNA small subunit methyltransferase A
+395615	394614	CDS
+			EC_number	1.1.1.262
+			db_xref	COG:COG1995
+			gene	pdxA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P58719
+			locus_tag	Moranella_endobia_GCF_000364725_1_00354
+			product	4-hydroxythreonine-4-phosphate dehydrogenase
+396879	395587	CDS
+			EC_number	5.2.1.8
+			db_xref	COG:COG0760
+			gene	surA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABZ6
+			locus_tag	Moranella_endobia_GCF_000364725_1_00355
+			product	Chaperone SurA
+399275	396942	CDS
+			db_xref	COG:COG1452
+			gene	lptD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZIK3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00356
+			product	LPS-assembly protein LptD
+399763	399485	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00357
+			product	hypothetical protein
+400669	400211	CDS
+			EC_number	3.6.1.23
+			db_xref	COG:COG0756
+			gene	dut
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06968
+			locus_tag	Moranella_endobia_GCF_000364725_1_00358
+			product	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+401247	401483	CDS
+			db_xref	COG:COG0227
+			gene	rpmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7M2
+			locus_tag	Moranella_endobia_GCF_000364725_1_00359
+			product	50S ribosomal protein L28
+401517	401684	CDS
+			db_xref	COG:COG0267
+			gene	rpmG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7N9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00360
+			product	50S ribosomal protein L33
+401734	402543	CDS
+			EC_number	3.2.2.23
+			db_xref	COG:COG0266
+			gene	mutM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P05523
+			locus_tag	Moranella_endobia_GCF_000364725_1_00361
+			product	Formamidopyrimidine-DNA glycosylase
+403072	404754	CDS
+			EC_number	3.6.4.12
+			gene	ruvB_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00016
+			locus_tag	Moranella_endobia_GCF_000364725_1_00362
+			product	Holliday junction ATP-dependent DNA helicase RuvB
+404820	405359	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG2812
+			gene	dnaX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06710
+			locus_tag	Moranella_endobia_GCF_000364725_1_00363
+			product	DNA polymerase III subunit tau
+405737	406390	CDS
+			EC_number	2.7.4.3
+			db_xref	COG:COG0563
+			gene	adk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69441
+			locus_tag	Moranella_endobia_GCF_000364725_1_00364
+			product	Adenylate kinase
+407878	406418	CDS
+			EC_number	7.1.1.-
+			db_xref	COG:COG1007
+			gene	nuoN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFF0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00365
+			product	NADH-quinone oxidoreductase subunit N
+409422	407890	CDS
+			EC_number	7.1.1.-
+			db_xref	COG:COG1008
+			gene	nuoM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFE8
+			locus_tag	Moranella_endobia_GCF_000364725_1_00366
+			product	NADH-quinone oxidoreductase subunit M
+411373	409529	CDS
+			EC_number	7.1.1.-
+			db_xref	COG:COG1009
+			gene	nuoL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P33607
+			locus_tag	Moranella_endobia_GCF_000364725_1_00367
+			product	NADH-quinone oxidoreductase subunit L
+411669	411370	CDS
+			EC_number	7.1.1.-
+			db_xref	COG:COG0713
+			gene	nuoK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFE4
+			locus_tag	Moranella_endobia_GCF_000364725_1_00368
+			product	NADH-quinone oxidoreductase subunit K
+412214	411666	CDS
+			EC_number	7.1.1.-
+			db_xref	COG:COG0839
+			gene	nuoJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFE0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00369
+			product	NADH-quinone oxidoreductase subunit J
+412771	412229	CDS
+			EC_number	7.1.1.-
+			db_xref	COG:COG1143
+			gene	nuoI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFD6
+			locus_tag	Moranella_endobia_GCF_000364725_1_00370
+			product	NADH-quinone oxidoreductase subunit I
+413731	412790	CDS
+			EC_number	7.1.1.-
+			db_xref	COG:COG1005
+			gene	nuoH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFD4
+			locus_tag	Moranella_endobia_GCF_000364725_1_00371
+			product	NADH-quinone oxidoreductase subunit H
+416460	413728	CDS
+			EC_number	7.1.1.-
+			db_xref	COG:COG1034
+			gene	nuoG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P33602
+			locus_tag	Moranella_endobia_GCF_000364725_1_00372
+			product	NADH-quinone oxidoreductase subunit G
+417916	416567	CDS
+			EC_number	7.1.1.-
+			db_xref	COG:COG1894
+			gene	nuoF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31979
+			locus_tag	Moranella_endobia_GCF_000364725_1_00373
+			product	NADH-quinone oxidoreductase subunit F
+418437	417913	CDS
+			EC_number	7.1.1.-
+			db_xref	COG:COG1905
+			gene	nuoE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFD1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00374
+			product	NADH-quinone oxidoreductase subunit E
+420233	418443	CDS
+			EC_number	7.1.1.-
+			db_xref	COG:COG0649
+			gene	nuoC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P33599
+			locus_tag	Moranella_endobia_GCF_000364725_1_00375
+			product	NADH-quinone oxidoreductase subunit C/D
+420967	420293	CDS
+			EC_number	7.1.1.-
+			db_xref	COG:COG0377
+			gene	nuoB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFC7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00376
+			product	NADH-quinone oxidoreductase subunit B
+421348	420980	CDS
+			EC_number	7.1.1.-
+			gene	ndhC
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01394
+			locus_tag	Moranella_endobia_GCF_000364725_1_00377
+			product	NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+422040	423119	CDS
+			db_xref	COG:COG1077
+			gene	mreB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9X4
+			locus_tag	Moranella_endobia_GCF_000364725_1_00378
+			product	Cell shape-determining protein MreB
+423208	424080	CDS
+			db_xref	COG:COG1792
+			gene	mreC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16926
+			locus_tag	Moranella_endobia_GCF_000364725_1_00379
+			product	Cell shape-determining protein MreC
+425683	424391	CDS
+			EC_number	6.1.1.11
+			db_xref	COG:COG0172
+			gene	serS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8L1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00380
+			product	Serine--tRNA ligase
+429348	426124	CDS
+			EC_number	6.3.5.5
+			db_xref	COG:COG0458
+			gene	carB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00968
+			locus_tag	Moranella_endobia_GCF_000364725_1_00381
+			product	Carbamoyl-phosphate synthase large chain
+430561	429413	CDS
+			EC_number	6.3.5.5
+			db_xref	COG:COG0505
+			gene	carA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6F1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00382
+			product	Carbamoyl-phosphate synthase small chain
+431595	430768	CDS
+			EC_number	1.17.1.8
+			db_xref	COG:COG0289
+			gene	dapB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04036
+			locus_tag	Moranella_endobia_GCF_000364725_1_00383
+			product	4-hydroxy-tetrahydrodipicolinate reductase
+432187	431699	CDS
+			EC_number	3.4.23.36
+			db_xref	COG:COG0597
+			gene	lspA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00804
+			locus_tag	Moranella_endobia_GCF_000364725_1_00384
+			product	Lipoprotein signal peptidase
+435003	432187	CDS
+			EC_number	6.1.1.5
+			db_xref	COG:COG0060
+			gene	ileS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00956
+			locus_tag	Moranella_endobia_GCF_000364725_1_00385
+			product	Isoleucine--tRNA ligase
+435578	435859	CDS
+			db_xref	COG:COG0268
+			gene	rpsT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7U7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00386
+			product	30S ribosomal protein S20
+437028	435898	CDS
+			db_xref	COG:COG0484
+			gene	dnaJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08622
+			locus_tag	Moranella_endobia_GCF_000364725_1_00387
+			product	Chaperone protein DnaJ
+439026	437128	CDS
+			db_xref	COG:COG0443
+			gene	dnaK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6Y8
+			locus_tag	Moranella_endobia_GCF_000364725_1_00388
+			product	Chaperone protein DnaK
+439408	439947	CDS
+			db_xref	COG:COG0327
+			gene	ybgI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFP6
+			locus_tag	Moranella_endobia_GCF_000364725_1_00389
+			product	GTP cyclohydrolase 1 type 2 
+440897	442063	CDS
+			EC_number	6.2.1.5
+			db_xref	COG:COG0045
+			gene	sucC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A836
+			locus_tag	Moranella_endobia_GCF_000364725_1_00390
+			product	Succinate--CoA ligase [ADP-forming] subunit beta
+442063	442938	CDS
+			EC_number	6.2.1.5
+			db_xref	COG:COG0074
+			gene	sucD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGE9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00391
+			product	Succinate--CoA ligase [ADP-forming] subunit alpha
+443220	443699	CDS
+			db_xref	COG:COG0802
+			gene	tsaE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AF67
+			locus_tag	Moranella_endobia_GCF_000364725_1_00392
+			product	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+444399	446384	CDS
+			db_xref	COG:COG0323
+			gene	mutL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23367
+			locus_tag	Moranella_endobia_GCF_000364725_1_00393
+			product	DNA mismatch repair protein MutL
+446377	447321	CDS
+			EC_number	2.5.1.75
+			db_xref	COG:COG0324
+			gene	miaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16384
+			locus_tag	Moranella_endobia_GCF_000364725_1_00394
+			product	tRNA dimethylallyltransferase
+447386	447652	CDS
+			gene	hfq
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00436
+			locus_tag	Moranella_endobia_GCF_000364725_1_00395
+			product	RNA-binding protein Hfq
+447983	449200	CDS
+			db_xref	COG:COG0330
+			gene	hflK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABC7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00396
+			product	Modulator of FtsH protease HflK
+449197	450189	CDS
+			db_xref	COG:COG0330
+			gene	hflC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABC3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00397
+			product	Modulator of FtsH protease HflC
+450877	453207	CDS
+			EC_number	3.1.13.1
+			db_xref	COG:COG0557
+			gene	rnr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21499
+			locus_tag	Moranella_endobia_GCF_000364725_1_00398
+			product	Ribonuclease R
+453251	454153	CDS
+			EC_number	2.1.1.185
+			db_xref	COG:COG0566
+			gene	rlmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63177
+			locus_tag	Moranella_endobia_GCF_000364725_1_00399
+			product	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+454475	455191	CDS
+			EC_number	5.4.2.11
+			db_xref	COG:COG0588
+			gene	gpmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62707
+			locus_tag	Moranella_endobia_GCF_000364725_1_00400
+			product	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+455563	457452	CDS
+			db_xref	COG:COG0445
+			gene	mnmG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6U3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00401
+			product	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+459905	458799	CDS
+			db_xref	COG:COG3203
+			gene	ompC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A264
+			locus_tag	Moranella_endobia_GCF_000364725_1_00402
+			product	Outer membrane porin C
+460197	460607	CDS
+			db_xref	COG:COG0360
+			gene	rpsF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02358
+			locus_tag	Moranella_endobia_GCF_000364725_1_00403
+			product	30S ribosomal protein S6
+460611	460937	CDS
+			db_xref	COG:COG2965
+			gene	priB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07013
+			locus_tag	Moranella_endobia_GCF_000364725_1_00404
+			product	Primosomal replication protein N
+460942	461169	CDS
+			db_xref	COG:COG0238
+			gene	rpsR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7T7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00405
+			product	30S ribosomal protein S18
+461208	461660	CDS
+			db_xref	COG:COG0359
+			gene	rplI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7R1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00406
+			product	50S ribosomal protein L9
+461948	462943	CDS
+			EC_number	3.1.1.31
+			db_xref	COG:COG2706
+			gene	pgl
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A6T6J6
+			locus_tag	Moranella_endobia_GCF_000364725_1_00407
+			product	6-phosphogluconolactonase
+463194	463445	CDS
+			EC_number	2.1.2.1
+			db_xref	COG:COG0112
+			gene	glyA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A2E1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00408
+			product	Serine hydroxymethyltransferase
+464093	464824	CDS
+			EC_number	3.6.1.54
+			db_xref	COG:COG2908
+			gene	lpxH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P43341
+			locus_tag	Moranella_endobia_GCF_000364725_1_00409
+			product	UDP-2,3-diacylglucosamine hydrolase
+465198	465274	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00410
+			product	tRNA-Val(gac)
+465608	466216	CDS
+			EC_number	2.5.1.9
+			db_xref	COG:COG0307
+			gene	ribC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFU8
+			locus_tag	Moranella_endobia_GCF_000364725_1_00411
+			product	Riboflavin synthase
+466356	467183	CDS
+			EC_number	5.4.99.22
+			db_xref	COG:COG1187
+			gene	rluB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37765
+			locus_tag	Moranella_endobia_GCF_000364725_1_00412
+			product	Ribosomal large subunit pseudouridine synthase B
+467486	469060	CDS
+			EC_number	4.1.3.27
+			db_xref	COG:COG0147
+			gene	trpE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00898
+			locus_tag	Moranella_endobia_GCF_000364725_1_00413
+			product	Anthranilate synthase component 1
+469060	469638	CDS
+			EC_number	4.1.3.27
+			gene	trpG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00900
+			locus_tag	Moranella_endobia_GCF_000364725_1_00414
+			product	Anthranilate synthase component 2
+469723	471078	CDS
+			db_xref	COG:COG0134
+			gene	trpC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00909
+			locus_tag	Moranella_endobia_GCF_000364725_1_00415
+			product	Tryptophan biosynthesis protein TrpCF
+471117	472307	CDS
+			EC_number	4.2.1.20
+			db_xref	COG:COG0133
+			gene	trpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A2K1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00416
+			product	Tryptophan synthase beta chain
+472309	473115	CDS
+			EC_number	4.2.1.20
+			db_xref	COG:COG0159
+			gene	trpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A877
+			locus_tag	Moranella_endobia_GCF_000364725_1_00417
+			product	Tryptophan synthase alpha chain
+473348	474097	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21365
+			locus_tag	Moranella_endobia_GCF_000364725_1_00418
+			note	UPF0259 membrane protein YciC
+			product	hypothetical protein
+475803	474154	CDS
+			EC_number	5.3.1.9
+			db_xref	COG:COG0166
+			gene	pgi
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6T1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00419
+			product	Glucose-6-phosphate isomerase
+477406	475961	CDS
+			EC_number	3.4.-.-
+			db_xref	COG:COG0312
+			gene	tldD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGG8
+			locus_tag	Moranella_endobia_GCF_000364725_1_00420
+			product	Metalloprotease TldD
+478723	477491	CDS
+			EC_number	3.4.24.-
+			db_xref	COG:COG0739
+			gene	mepM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFS9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00421
+			product	Murein DD-endopeptidase MepM
+479707	478736	CDS
+			db_xref	COG:COG4531
+			gene	znuA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39172
+			locus_tag	Moranella_endobia_GCF_000364725_1_00422
+			product	High-affinity zinc uptake system protein ZnuA
+479797	480567	CDS
+			EC_number	7.2.2.-
+			db_xref	COG:COG1121
+			gene	znuC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9X1
+			locus_tag	Moranella_endobia_GCF_000364725_1_00423
+			product	Zinc import ATP-binding protein ZnuC
+480560	481345	CDS
+			db_xref	COG:COG1108
+			gene	znuB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39832
+			locus_tag	Moranella_endobia_GCF_000364725_1_00424
+			product	High-affinity zinc uptake system membrane protein ZnuB
+482434	481430	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG2255
+			gene	ruvB_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A812
+			locus_tag	Moranella_endobia_GCF_000364725_1_00425
+			product	Holliday junction ATP-dependent DNA helicase RuvB
+483063	482443	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0632
+			gene	ruvA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A809
+			locus_tag	Moranella_endobia_GCF_000364725_1_00426
+			product	Holliday junction ATP-dependent DNA helicase RuvA
+483646	483152	CDS
+			EC_number	3.1.22.4
+			db_xref	COG:COG0817
+			gene	ruvC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A814
+			locus_tag	Moranella_endobia_GCF_000364725_1_00427
+			product	Crossover junction endodeoxyribonuclease RuvC
+484447	483704	CDS
+			db_xref	COG:COG0217
+			gene	yebC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8A0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00428
+			product	putative transcriptional regulatory protein YebC
+486408	484648	CDS
+			EC_number	6.1.1.12
+			db_xref	COG:COG0173
+			gene	aspS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21889
+			locus_tag	Moranella_endobia_GCF_000364725_1_00429
+			product	Aspartate--tRNA ligase
+487089	486610	CDS
+			db_xref	COG:COG0071
+			gene	ibpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C058
+			locus_tag	Moranella_endobia_GCF_000364725_1_00430
+			product	Small heat shock protein IbpB
+487642	487226	CDS
+			db_xref	COG:COG0071
+			gene	ibpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C054
+			locus_tag	Moranella_endobia_GCF_000364725_1_00431
+			product	Small heat shock protein IbpA
+487947	488072	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00432
+			product	hypothetical protein
+491652	488110	CDS
+			EC_number	3.1.11.5
+			db_xref	COG:COG1074
+			gene	recB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08394
+			locus_tag	Moranella_endobia_GCF_000364725_1_00433
+			product	RecBCD enzyme subunit RecB
+493456	491972	CDS
+			EC_number	1.1.1.49
+			db_xref	COG:COG0364
+			gene	zwf
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC53
+			locus_tag	Moranella_endobia_GCF_000364725_1_00434
+			product	Glucose-6-phosphate 1-dehydrogenase
+493880	495322	CDS
+			EC_number	2.7.1.40
+			db_xref	COG:COG0469
+			gene	pykA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21599
+			locus_tag	Moranella_endobia_GCF_000364725_1_00435
+			product	Pyruvate kinase II
+495608	495519	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00436
+			product	tRNA-Ser(gga)
+496788	495772	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG1466
+			gene	holA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28630
+			locus_tag	Moranella_endobia_GCF_000364725_1_00437
+			product	DNA polymerase III subunit delta
+497338	496850	CDS
+			db_xref	COG:COG2980
+			gene	lptE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7CJV2
+			locus_tag	Moranella_endobia_GCF_000364725_1_00438
+			product	LPS-assembly lipoprotein LptE
+499974	497377	CDS
+			EC_number	6.1.1.4
+			db_xref	COG:COG0495
+			gene	leuS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07813
+			locus_tag	Moranella_endobia_GCF_000364725_1_00439
+			product	Leucine--tRNA ligase
+500859	500368	CDS
+			EC_number	3.1.26.4
+			db_xref	COG:COG0328
+			gene	rnhA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7Y4
+			locus_tag	Moranella_endobia_GCF_000364725_1_00440
+			product	Ribonuclease HI
+500917	501657	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0847
+			gene	dnaQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03007
+			locus_tag	Moranella_endobia_GCF_000364725_1_00441
+			product	DNA polymerase III subunit epsilon
+501685	502353	CDS
+			EC_number	3.2.2.27
+			db_xref	COG:COG0692
+			gene	ung
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P12295
+			locus_tag	Moranella_endobia_GCF_000364725_1_00442
+			product	Uracil-DNA glycosylase
+502499	503362	CDS
+			EC_number	2.1.3.15
+			db_xref	COG:COG0777
+			gene	accD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9Q5
+			locus_tag	Moranella_endobia_GCF_000364725_1_00443
+			product	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+503551	504216	CDS
+			EC_number	2.3.1.181
+			db_xref	COG:COG0321
+			gene	lipB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60720
+			locus_tag	Moranella_endobia_GCF_000364725_1_00444
+			product	Octanoyltransferase
+504382	505329	CDS
+			EC_number	2.8.1.8
+			db_xref	COG:COG0320
+			gene	lipA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60716
+			locus_tag	Moranella_endobia_GCF_000364725_1_00445
+			product	Lipoyl synthase
+505552	505476	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00446
+			product	tRNA-Arg(acg)
+505663	505572	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00447
+			product	tRNA-Ser(gct)
+506334	505912	CDS
+			db_xref	COG:COG0781
+			gene	nusB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A780
+			locus_tag	Moranella_endobia_GCF_000364725_1_00448
+			product	Transcription antitermination protein NusB
+506823	506353	CDS
+			EC_number	2.5.1.78
+			db_xref	COG:COG0054
+			gene	ribH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66038
+			locus_tag	Moranella_endobia_GCF_000364725_1_00449
+			product	6,7-dimethyl-8-ribityllumazine synthase
+507587	508120	CDS
+			gene	nlpD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39700
+			locus_tag	Moranella_endobia_GCF_000364725_1_00450
+			product	Murein hydrolase activator NlpD
+508252	508085	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00451
+			product	hypothetical protein
+510774	508222	CDS
+			db_xref	COG:COG0249
+			gene	mutS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23909
+			locus_tag	Moranella_endobia_GCF_000364725_1_00452
+			product	DNA mismatch repair protein MutS
+511588	510800	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0084
+			gene	ycfH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFQ7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00453
+			product	putative metal-dependent hydrolase YcfH
+512601	511603	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0470
+			gene	holB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28631
+			locus_tag	Moranella_endobia_GCF_000364725_1_00454
+			product	DNA polymerase III subunit delta'
+512850	512683	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00455
+			product	hypothetical protein
+513585	513283	CDS
+			gene	acpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01217
+			locus_tag	Moranella_endobia_GCF_000364725_1_00456
+			product	Acyl carrier protein
+514479	513745	CDS
+			EC_number	1.1.1.100
+			gene	fabG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEK2
+			locus_tag	Moranella_endobia_GCF_000364725_1_00457
+			product	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+515429	514485	CDS
+			EC_number	2.3.1.39
+			db_xref	COG:COG0331
+			gene	fabD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AAI9
+			locus_tag	Moranella_endobia_GCF_000364725_1_00458
+			product	Malonyl CoA-acyl carrier protein transacylase
+516592	516422	CDS
+			db_xref	COG:COG0333
+			gene	rpmF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7N4
+			locus_tag	Moranella_endobia_GCF_000364725_1_00459
+			product	50S ribosomal protein L32
+518028	517060	CDS
+			EC_number	5.4.99.24
+			db_xref	COG:COG0564
+			gene	rluC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA39
+			locus_tag	Moranella_endobia_GCF_000364725_1_00460
+			product	Ribosomal large subunit pseudouridine synthase C
+518515	521070	CDS
+			EC_number	3.1.26.12
+			gene	rne
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00970
+			locus_tag	Moranella_endobia_GCF_000364725_1_00461
+			product	Ribonuclease E
+522130	521276	CDS
+			db_xref	COG:COG3716
+			gene	manZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69805
+			locus_tag	Moranella_endobia_GCF_000364725_1_00462
+			product	PTS system mannose-specific EIID component
+522949	522149	CDS
+			db_xref	COG:COG3715
+			gene	manY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69801
+			locus_tag	Moranella_endobia_GCF_000364725_1_00463
+			product	PTS system mannose-specific EIIC component
+523931	522963	CDS
+			EC_number	2.7.1.191
+			db_xref	COG:COG2893
+			gene	manX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69797
+			locus_tag	Moranella_endobia_GCF_000364725_1_00464
+			product	PTS system mannose-specific EIIAB component
+524936	525127	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00465
+			product	hypothetical protein
+525430	525939	CDS
+			db_xref	COG:COG1495
+			gene	dsbB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6M2
+			locus_tag	Moranella_endobia_GCF_000364725_1_00466
+			product	Disulfide bond formation protein B
+526187	526921	CDS
+			db_xref	COG:COG0850
+			gene	minC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P18196
+			locus_tag	Moranella_endobia_GCF_000364725_1_00467
+			product	Septum site-determining protein MinC
+526943	527758	CDS
+			db_xref	COG:COG2894
+			gene	minD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEZ3
+			locus_tag	Moranella_endobia_GCF_000364725_1_00468
+			product	Septum site-determining protein MinD
+528077	528331	CDS
+			db_xref	COG:COG0851
+			gene	minE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A734
+			locus_tag	Moranella_endobia_GCF_000364725_1_00469
+			product	Cell division topological specificity factor
+529187	528438	CDS
+			db_xref	COG:COG1214
+			gene	tsaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7CQE0
+			locus_tag	Moranella_endobia_GCF_000364725_1_00470
+			product	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+529425	530114	CDS
+			db_xref	COG:COG4105
+			gene	bamD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC02
+			locus_tag	Moranella_endobia_GCF_000364725_1_00471
+			product	Outer membrane protein assembly factor BamD
+530578	532131	CDS
+			db_xref	COG:COG0306
+			gene	pitA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFJ7
+			locus_tag	Moranella_endobia_GCF_000364725_1_00472
+			product	Low-affinity inorganic phosphate transporter 1
+532527	532240	CDS
+			db_xref	COG:COG1825
+			gene	rplY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68919
+			locus_tag	Moranella_endobia_GCF_000364725_1_00473
+			product	50S ribosomal protein L25
+533049	533124	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	Moranella_endobia_GCF_000364725_1_00474
+			product	tRNA-Trp(cca)
+534922	533408	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00475
+			product	hypothetical protein
+535262	537310	CDS
+			EC_number	6.5.1.2
+			db_xref	COG:COG0272
+			gene	ligA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P15042
+			locus_tag	Moranella_endobia_GCF_000364725_1_00476
+			product	DNA ligase
+537465	537349	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	Moranella_endobia_GCF_000364725_1_00477
+			product	hypothetical protein
+537725	537462	CDS
+			EC_number	2.7.1.49
+			db_xref	COG:COG0351
+			gene	thiD_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P76422
+			locus_tag	Moranella_endobia_GCF_000364725_1_00478
+			product	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+537933	537769	CDS
+			EC_number	2.7.1.49
+			db_xref	COG:COG0351
+			gene	thiD_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P76422
+			locus_tag	Moranella_endobia_GCF_000364725_1_00479
+			product	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase

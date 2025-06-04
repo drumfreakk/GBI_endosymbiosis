@@ -1,4 +1,0 @@
-seqkit stats -a *
-
-for f in *; do mkdir quast_$f; quast -o quast_$f $f; done
-for f in *.fna; do mv $f $(echo $f | cut -d"." -f1,2); done
